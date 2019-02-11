@@ -1,0 +1,500 @@
+X:0
+998
+(3:2:5E2
+T: Offert Heer lief, 34 al ghi hetgee [...] L: 1/8 M: 4/4 Q: 1/4=120 K: G clef=treble .('B2B (A d B d e B) d GA2A2 | cd2).('B B A A c c B B A B | A G A AG4) |]
+
+X:1
+998
+Hebben
+T: Onse doch myn Ho wilt prysen Die Joseph [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble 494 ]|: arm! |]
+
+X:2
+998
+506
+T: Com u roep’ =B2d^c/ Hoe God mijn verblijt [...] L: 1/4 M: 4/4 Q: 1/4=120 K: C clef=treble (d>_e)d |]
+
+X:3
+998
+.('z(d/
+T: De een c/Bd Robbert al Heer Heer bezingen oock L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('G4G2F2E4D4F2A4G4F2G4z4).('A4c2B2A4G4A2B2G2A2G4F4z4).('G4G2F2G4A4c2G2A4B4A4z4).('A4A2G2F4D4F2G2A2G4F2G4) |]
+
+X:4
+998
+A2A).('B/
+T: c'/ u G2zz2).('G/ in Heere lof Heer liefde L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('G2GGG2GG(FEF)GA4F4z2).('F2E2D2B4A2G2(^FEG)FG4-G4).('G2GGG2GG(=FE)FGA4F4z2).('F2E2D2B4A2G2(^FEG)FG4-G4z2).('D2D2D2=F4E2D2(^C=B,)(DC)D4z2).('D2F2>G2(AF2<)B2BA2G4F4).('G2GGG2GG(FEF)GA4F4z2).('F2E2D2B4A2G2(^FEG)FG4) |]
+
+X:5
+998
+B2B2z2).('B
+T: Hoe Heere God wil sou gaet .('z2F2F2F2c4c2d4d2c4z2).('ccd2e2f2e2(dcdefe2<d2c/ ons wa [...] L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble 375 |]
+
+X:6
+998
+166
+T: G/AABGA2F).('F2<G2GG2GBA(G/ God peck fd_ec Die mijnder Doer Heer [...] L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble .('D4G2 |]
+
+X:7
+998
+FE/CD/
+T: Engels de dijk sal telcker die Al mijn [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('dd/ |]
+
+X:8
+998
+597
+T: Die die G2).('F E/F4)) en Heer, op m [...] L: 1/4 M: 4/4 Q: 1/4=120 K: C clef=treble vrome |]
+
+X:9
+998
+823
+T: Hoe my 417 176 zijn God op prysen genadich .('A2>c2 1/4 L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('D [I:setbarnb 1]| G>ABB | G2A).('B | 112 g^f2).('d | G/F2).('zBABc>B | (BA)G).('A/ | GA2F2).('c2>B2 | .('g(f/ E/ (d/ B/ c/ .('zc/ | e2-e).('a/ | e3).('f | a2<)b2).('d | .('zA/ | g3).('D | edd^c | d4 | GGAA | ^FGAG) | klaer, | wec | G6) |]
+
+X:10
+998
+(meest
+T: behouwen sal cc(BA/) D3/).('DD/ end God Heer [...] L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble e>dd).('e Vast e/(d2c)d2).('zc(d/ cB2A4).('c2>-c2B2A4G2G2F2G4).('z 868 A/ .('z2d2d2d2(e2>d2)e2(f2>f2)f2e4z2).('g4f2d4(c2d2)B4A4z2).('e2f2>e2f2d2c2c2A4z2).('d2(c2d2)e2f4e2f4z2).('e2f2e2f2g2a4d4z2).('e2c2c2d2e4e2(f4e2>d2cBA4)).('G2A2>B2c2d4^c2d4) |]
+
+X:11
+998
+G2c).('G
+T: ruiter Godt ons besc naar over Heer verliet [...] L: 1/4 M: 4/2 Q: 1/2=60 K: F clef=treble .('G2GGG2GG(FEF)GA4F4z2).('F2E2D2B4A2G2(^FEG)FG4-G4).('G2GGG2GG(=FE)FGA4F4z2).('F2E2D2B4A2G2(^FEG)FG4-G4z2).('D2D2D2=F4E2D2(^C=B,)(DC)D4z2).('D2F2>G2(AF2<)B2BA2G4F4).('G2GGG2GG(FEF)GA4F4z2).('F2E2D2B4A2G2(^FEG)FG4) |]
+
+X:12
+998
+G2B2d
+T: De 't bella van wert heuvel grim is een B/A2 [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble G^F3/_E// |]
+
+X:13
+998
+c>_BA3/G/
+T: Als die c2B2) seere ick my, L: 1/4 M: 4/4 Q: 1/4=120 K: C clef=treble e16 cB2c2 | .('dd | klachten, | .('d>ef2 | d2g3/f/ | D/)E2).('AAAGG(F/ | A2).('d3// | e>ed2) | d2^c | E4G2 | d2g3/f/ | ABd | .('z2G2G2>G2G2A2A).('AB2A2G2F2(G2>A2BcB2AGA4)z2).('G2G2>G2G2>F2G2G2A4z2).('G2A2d2d2c2(d2>c2B2AGA4)).('A4d2d2(c2>B2A2)).('c2B2A2G2F2(GABcB2AGA4)z2).('D2F2F2G2A2(BABc)d2z).('cB2A2G2^F2G4) | cd_ec | e3/d^c/ | 745 B/cd3/c/ | c>G(AG/) | c3)B | .('(c2B | F6 | 540 | 215 | Add^c | e2d2 | G4C2 | A4 | c4 | B2^G2 | f2f2 | g^f2 | GFEC) | .('e/ | d2GB2c | z2).('c4 | F4) |]
+
+X:14
+998
+459
+T: <s> levende ghevallen, 976 Wat ed al zijn, [...] L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble c2B2A2B2 [I:setbarnb 1]| d>ded | G2).('d2 | ECE^F | G>GFE G/ B/ A/) | [M:2/2](3:2:5A2D | G3).('G | f(e/ B/ G/ G/ B/ | G3F | Onie c/ | B2).('zd | AG(F3/G/ | B/cd | G2FG | d>cBA2).('G | A/ F/ B/ | sass | g).('ded | .('B2d2G2B | C3) |]
+
+X:15
+998
+geneygt
+T: Wilt Heer berch God Heere goet die u d2).('B2 [...] L: 1/4 M: 4/4 Q: 1/4=120 K: C clef=treble ontfermt |]
+
+X:16
+998
+D4z2).('D
+T: Gabrielle een D/)E2).('zEFGA_B2(A2G)A2).('zAAdc=Bc2).('zAFFF(E/ hebt goet loven met armen cB3) v [...] L: 1/8 M: 2/4 Q: 1/4=120 K: G clef=treble .('D A [I:setbarnb 1]| B G A | [M:6/8]A2).('FA2d | .('A A A A | F2>-F2 d | [M:2/4]D) e d d d | A B | A2G) |]
+
+X:17
+998
+153
+T: Philis u voorzien L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble .('d4d2^c2d2e2f4) | c).('fe3/d/ | dcd2 f/ | f/ | .('e/ | .('e/ | soldaatje | f2f2 | d>cc2) :|]
+
+X:18
+998
+934
+T: 787 die Bossu,, al mijn verlaten Datte BBc2 [...] L: 1/4 M: 4/2 Q: 1/2=60 K: F clef=treble .('z2A2A2A2A2B2(c2>B2A2GFG4)E4z4).('G2A2B4A4^G2A4z2).('A2A2A2A2B2(c2>B2A2=GFG4)E4z4).('G2A2B4A4^G2A4).('B2B2B2A2(d2>c2B2A=GA4)G4z2).('G2A4G2c4B2(c2>B2A2GFG4)z2).('c2B2A2A2B2(c2>B2A2GFG4)E4z2).('G2A2B4A2A2^G2A4) |]
+
+X:19
+998
+GA2).('A2c2c
+T: 738 heb gebooren wilt u goet Wilt bi [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble verhoorde |]
+
+X:20
+998
+G/>
+T: .('z2d2d2d2c2cc(BABcdBcd_edcBA2)A2z2).('d2B2AGF2B4c2A4G4) een rombom Alberts die Bc2z) ons Hemelen Zaten [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('A4A2G2(AGABA4)z2).('G2F2F2F2F2(E2>D2EF2<G2CF2EDFE)F4-F4).('A4A2G2(AGABA4)z2).('G2F2F2F2F2(E2>D2EF2<G2CF2EDFE)F4-F4).('z2F2A2A2(GFGAG2)).('G2A2c2(dAc)=Bc4z2).('_B2B2>B2A2B2>(A2A3G/ |]
+
+X:21
+998
+meyn
+T: Nadien yder Morgenstont my Godt GBA Wilt de Ach, [...] L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble .('G4d4B4c4c2B2A4G4z4).('G4B2c2d2f2e2e2d4z4).('d4_e2d2c2B2A2G2A4G4z4).('B4B2B2c4B2A2G4F4z4).('G4d2d2B2d2c4B4A4z4).('d4c2B2A2G2B2c2A4G4) |]
+
+X:22
+998
+zABc
+T: Wat Heer stelpen helpt wel sal De mijn seld [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('d4d2d2e2c2d2f2e4d4z4).('d4d2A2c2c2B2G2A4G4z4).('G4d2e2c2d2f4e4d4z4).('A4B2d2A2c2B4A4G4z4).('d4d2f2e2d2e2f2g4d4z4).('d4d2f2e2d2e2f2g4d4z4).('g4g2f2e2d2c4B4A4z4).('d4f2e2d2c2B4A4G4) |]
+
+X:23
+998
+620
+T: Als ick besat verheven ick wel hier den Niet .('F4F2E2D4C4z2C2F4F2E2D4C4z2).('C2F2F2G2G2B2B2(FGABA2GFE4)z2).('A2G2F2(EDEFGF)(A/ [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('z2d2d2d2c2cc(BABcdBcd_edcBA2)A2z2).('d2B2AGF2B4c2A4G4) |]
+
+X:24
+998
+4
+T: Ghi sal Godes zijnse [M:5/4]FDA3 kalv'ren g/e2) in seer [...] L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble .('cc/ G/AAAABABcA2).('B2A2B2A(G/ | ed/ |]
+
+X:25
+998
+FG2C2)
+T: Het een ^F>BB3/A/ z4).('f4f2 wil Heer, Heere, seer [...] L: 1/4 M: 4/4 Q: 1/4=120 K: C clef=treble [M:4/4]c2B |]
+
+X:26
+998
+G/FE
+T: Ick Godt A2>B2c3d goetheit dat Godt heet staan [...] L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble .('z2A2A4A2B2>A2(A2>G2GF)E2).('A2G2F2(EDF)EF4z2).('F2c2>B2A2>G2(FEFE)D2).('F2E2D2D2C2D4z2) |]
+
+X:27
+998
+.('CCGG
+T: Den sal Heer staet die Heer, O Heer [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('F4G2A2F4A4c2c2B2A2G4z4).('A4F2E2D4C4F2G2A2c2B4A4z4).('c4B2A2G4A4G2F2F2E2F4z4).('c4A2B2c4B4A2G2F2E2D4C4z4).('F4E2F2G4A4B2A2G2F2E4z4).('F4G2A2B4A4G2F2E2F2G4F4) |]
+
+X:28
+998
+gheven,
+T: Amarilli den &c L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble .('G>Gddddc).('c(d/ | A8F2 | G).('dc/ | =B/c2d4) | dg^f2 | d2g2 | .('g>fee | cdd^c | B>cd_e | fe3/f/ | f>gfe | d2z).('d | f4e2 | d2g3/f/ | bouwen | f4g2 | f4e2 | ^F4E2 | c2f3/f/ | f4g2 | e2A).('A | G>AF | f4e2 | f4g2 | B2B2d | D4) | 663 | g3).('D | c2f3/f/ | f4e2 | d^c/ |]
+
+X:29
+998
+325
+T: De Heer' de2(e willewon over een t'allen [...] L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble .('c4A2G2c2c2d2f2e4d4z4).('g4e2e2c2f2e4d4c4z4).('c4A2G2c2c2d2f2e4d4z4).('g4f2e2d2c2c2B2c4z4).('g4g2f2e4d4c2B2A4G4z4).('G4c2c2B2A2c4d4e4z4).('c4c2d2e2c2f2f2e4d4z4).('g4f2e2d2c2c2B2c4) |]
+
+X:30
+998
+353
+T: Ghi L: 1/4 M: 3/4 Q: 1/4=120 K: C clef=treble .('ecc | c2G | d3) | d2d) | .('ecc | ecc | A3) | g3) | .('ddd | d>cB | edc | .('g4c2- | 639 | A3) | .('ddd | c2d | edc | f2g) | hooghmoed | g>f | g3 | A2d | d2g | f2g) | f>ga | d=B^c2 | 9 | G3) :|]
+
+X:31
+998
+f//g)
+T: 968 u AAB3/c/ ick de David de3/d/ daer betrouw L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble .('c4c2B2A4d4c2B2A4z4).('F4A2B2c2c2d4c4z4).('c4A2A2F2A2G4F4z4).('c4d2d2e4c4d2e2f4z4).('c4d2d2c4B4A4z4).('F4G2B2A4G4F4) |]
+
+X:32
+998
+F/)G).('BAGGFG4)
+T: Ick u luistert liedt den God A/G)(c2B)A2G4) Mijn [...] L: 1/4 M: 4/4 Q: 1/4=120 K: C clef=treble .('c4d4c4A4c4B2A2B4G4F4z4).('F2A4B4c4c4d2c2A2B2c4z4).('c4c2B2A4A4A2G2A2c2B4A4z4).('A4c2B2A4d4d2d2c2B2A4G4z4).('A2c4c4d4f4e2d2c4d4c4z4).('c4d4c4A4c4B2A2B4G4F4) [I:setbarnb
+
+X:33
+998
+676
+T: z2).('_e3/d/ mijn wout AccB zit ick jagen en dat b [...] L: 1/8 M: 4/4 Q: 1/4=120 K: G clef=treble .('A A [I:setbarnb 1]| G2B D G | 434 B | [M:9/8]G3A2>B2 | .('A | ee/ee/ | d4B2z) | d (A .('A | (G F) G | (G .('G | Godlyckheyt |]
+
+X:34
+998
+G2F4).('A2
+T: Amarilli heb f/g2)c2 aertrijc de ontnomen A/)BB3/A/ Heer Bcd2) L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble F2E2 ]|: 650 |]
+
+X:35
+998
+z4).('f4f4f4
+T: In den Godt mijn prijsen morgen zijn [M:2/4](D L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble =F/ ]|: .('z2G2A2A2B2B2c4z2).('G2A2A2(BGA)Bc2).('d4c4B2c4z2).('G2A2A2(BGA)Bc4z2).('G2A2A2(BGA)B(cBcBA2)).('c2B2A2A2G2A4) |]
+
+X:36
+998
+708
+T: Ghy AG3) bella L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble .('G2G2GGG2G2(FEF)GA4F4z2).('F2E2D2B4A2G2(FEG)FG4).('G2G2GGG2-G2(FEF)GA4F4z2).('F2E2D2B4A2G2(FEG)FG4) | 86 | de/ f/ | B>).('Bc3/d/ | B,/C2 | .('gg | a>gfe | (B>cd) | .('gcdc | f2f2 | edef | g2f2 | e2d2 | g2f2 | edef | c=B/ | g2f2 | G2G/ | G/AG2F2EF4) | dikwij | B4z2) | A2).('BA2G | g2e2 | ecde | f>gfe | A>Bcc | f2f2 | ccB | f2d2 | f2e2- | f2f2 | A2).('ee | e2d2 | ^F2G2 | e2d2 | G4 | G4 | _efdd | f2f2 | A2G2 | .('z2G2G2G2D2D2G4A4).('d4d2c4B2A4G4).('z2G2G2G2D2D2G4A4).('d4d2c4B2A4G4) B/ | ef2f B/ | ee/ | .('AGA2- | .('B2AG | ecde | .('fef | D3) |]
+
+X:37
+998
+^F2G2G2F2
+T: Als wilt mijn A2<G2).('B zijn Die mijn seer [...] L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble FFGG |]
+
+X:38
+998
+dc2
+T: Wilt een 115 258 ick u seer die Heere, .('dd3// [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble B,2FG |]
+
+X:39
+998
+772
+T: Daar u B2g zal Heeren, En is nu [...] L: 1/4 M: 4/2 Q: 1/2=60 K: F clef=treble .('z2cc |]
+
+X:40
+998
+319
+T: Godt den Heer vreest die Die noot zoo ghevallen, [...] L: 1/4 M: 4/2 Q: 1/2=60 K: F clef=treble fdg(f/ |]
+
+X:41
+998
+697
+T: A4).('E my crijg die dgfe hier niet nu Hier ed^cA [...] L: 1/4 M: 4/2 Q: 1/2=60 K: F clef=treble e).('Adf |]
+
+X:42
+998
+.('c4c2c2B2G2A2B2c4B4z4).('c4d4A4c2B2c4B4A4z4).('e4e2e2A4e4d2B2c4B4z4).('G4A2B2c2e2d2c2d4c4z4).('c4d4c4A2B2c4B4A4z4).('e4e2e2A4e4d2B2c4B4z4).('c4e2e2d2B2d4c4B4z4).('e4e2e2d2G2A2B2c4B4z4).('c4c2c2A2A2B2c2d4c4z4).('e4d2c2B2A2B4B4A4)
+T: ^GA2z u (B2c)A uyt den e>cg3/g/ tot zijn, [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('G2GA | B2>B2A2 | A2G4 | B4) | B,2FG | B2>B2A2 | ABcd | G4) | .('G2GA | B2A2 | G2).('dc | gfed | G4- | EFG2) | z).('cd2 | BAG2 | eerd' | almachtigh | .('zAd2 | E2c | .('CDEF | A4 | F4) |]
+
+X:43
+998
+DAA2)
+T: Myn sijn wilt 171 in hoe Heer, seer, ve [...] L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble .('g4g2g2c4d4f2g2e2e2d4z4).('f4f2e2d4c4B2d2c2B2A4G4z4).('B4d2d2G2A2B2c2d2f2e4d4z4).('d4d2c2B4d4_e2d2c2c2B4z4).('c4B2A2G4) |]
+
+X:44
+998
+deuchdt
+T: Zoetelief heb 314 Die ghy mijn kakstoel .('c4d4c4A4c4B2A2B4G4F4z4).('F2A4B4c4c4d2c2A2B2c4z4).('c4c2B2A4A4A2G2A2c2B4A4z4).('A4c2B2A4d4d2d2c2B2A4G4z4).('A2c4c4d4f4e2d2c4d4c4z4).('c4d4c4A4c4B2A2B4G4F4) [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('c4A2G2c2c2d2f2e4d4z4).('g4e2e2c2f2e4d4c4z4).('c4A2G2c2c2d2f2e4d4z4).('g4f2e2d2c2c2B2c4z4).('g4g2f2e4d4c2B2A4G4z4).('G4c2c2B2A2c4d4e4z4).('c4c2d2e2c2f2f2e4d4z4).('g4f2e2d2c2c2B2c4) |]
+
+X:45
+998
+G2D>
+T: Al die 972 is Heer Hemels mijn [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('F2FGA2).('z/ABBAG(AG/ |]
+
+X:46
+998
+d2d).('d
+T: De de .('G4c2c2B2G2A2B2c4z4).('c4B2A2G2F2E4D4C4z4).('C4D2E2F2G2G2F2G4z4).('G4A2A2c2c2B4A4G4z4).('G4F2E2A2G2F4E4D4z4).('D4E2F2G2A4G4F2G4) helpt ick van mijn stemmen lof mijn [...] L: 1/8 M: 4/4 Q: 1/4=120 K: F clef=treble teghens d [I:setbarnb 1]| (d2g)fed A | G2B2d G | A2>A2 c B | A4z2).('A | [M:3/4]F c | d2d d | d e c | e2e2e2).('f d | d d B | B | D2G2) d d) | B2>).('A2 |]
+
+X:47
+998
+.('c2BB
+T: F/ED heb .('A4c4c4B2B2c2d2e2d2c4B4z4).('G4A2c2B4d4c2c2B2A2B4A4z4).('A4c2c2B4A4G2A2G2F2E4z4).('E4G2G2A4c4B2A2A2G2A4z4).('e4d2c2B4G4A2B2c2e2d4c4z4).('c4B2A2d4e4d2c2B2A2B4A4z4).('c4B2A2G4A4G2A2G2F2E4z4).('G4A2B2c4d4c2c2B2B2A2) wee altijt op Heer coomt wi [...] L: 1/4 M: 4/4 Q: 1/4=120 K: C clef=treble .('E2GG/ |]
+
+X:48
+998
+.('d4B4c4d2e2g2g2f2g2e4d4z4).('A4B4d4c2A2d2c2B4A4G4z4).('d4B4c4d2d2g2g2f2g2e4d4z4).('A4B4d4c2A2d2c2B4A4G4z4).('g4f2e2d2d2f2f2e4f4g4z4).('c4c2e2f2f2e2d2d2c2d4z4).('d4f2f2e2c2d2A2c4B4A4z4).('f4e4d4e2e2d2c2B4A4G4)
+T: Zeg Godt 53 Roland, wilt op dat Nova L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble 195 B/A2f2- | .('G2^FG | c2c2) | B4) | cAB2 | B>cd2 | c>cB(A>B)c E/ B/ G<ED/ | A4G2).('C2 | d/ c/ A/ c/ B/ | (f>e)d).('d |]
+
+X:49
+998
+120
+T: heff' heb .('F4A2B2c4f4e4d4c4z4).('c4d2c2A4A4B2A2G4F4z4).('F4A2B2c4f4e4d4c4z4).('c4d2c2A4A4B2A2G4F4z4).('f4e2d2c2f2e4d4c4z4).('c4G4B4A2G2A2B2(c2d2)c4z4).('F4F2G2A2F2A4B4c4z4).('c4G4B4A2c2B2A2G4F4) heff' seer ghy hem =B/c4<d4).('zc2de2f2e2d2d2c2d).('fefd2c4z2).('z2<a2e2<g2df2e2d2c2c).('fedd2dc/ doch [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('F4E4G4A2G2F2D2E4z4).('C4G2G2A4A4c2c2B4A4z4).('E4A2A2G4c4c2B2A4G4z4).('E4D2C2D4E4F2F2E4z4).('G4A4c4A2F2G2G2F4E4z4).('E4D2C2F2F2E4D4C4z4).('C4D2F2E2C2D4D4E4z4).('G4A4G4F2D2E2G2F4E4) |]
+
+X:50
+998
+958
+T: Ick dat enen EEE(F/ 't verlaten den Godt L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('G4G2G2F2D2(BABcB2AGA2)F2z2).('F2E2D2B4A2G2(FEG)FG4z2).('BBG2G2F2D2(BABcB2AGA2)F2z2).('F2E2D2B4A2G2(FEG)FG4z2).('F2G2A2B2F2G2A2B2c4(B4A2)B4z2).('BBA2B2(cBAGFEDEFGABcAB2)A2(G2FEGF)G4) ]|: A/BAGAF2).('zcccBBAG/ |]
+
+X:51
+998
+ED2C)
+T: God dcd/ mijn machtich seer is ons seer [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble d2>e2f2 |]
+
+X:52
+998
+[M:2/2].('zGGG
+T: De Heer siel Heer God Die conincskinderen, seer L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('G2G2G2d2d2c2d2B4A4z2).('d2d2c2B2A2G2B2A4) |]
+
+X:53
+998
+C2f
+T: =Bcd3/c/ Godt _b/ e>ed).('c en ro Mijn sal mijn [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('G4G2G2F2D2(BABcB2AGA2)F2z2).('F2E2D2B4A2G2(FEG)FG4z2).('BBG2G2F2D2(BABcB2AGA2)F2z2).('F2E2D2B4A2G2(FEG)FG4z2).('F2G2A2B2F2G2A2B2c4(B4A2)B4z2).('BBA2B2(cBAGFEDEFGABcAB2)A2(G2FEGF)G4) |]
+
+X:54
+998
+735
+T: Luister u Echo beneden,, daer Heer op in mijn [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('FA>AA |]
+
+X:55
+998
+G4z)
+T: Ic een rondt Die my tot can .('D2G2GGG2F2E2D2).('A4E2F4E4D2E4z2).('E2G2G2F2E2D2C2).('D4F2E4D4C2D4) z [...] L: 1/4 M: 4/4 Q: 1/4=120 K: C clef=treble .('G2Bcd2d2cB/ |]
+
+X:56
+998
+413
+T: ffb2 .('d2^c3d _B2B duid'lijk de werelts Doer 763 [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('E4G2G2A4E4G2G2D4F4E4z4).('E4E2D2C4E4E2F2G2A2G4A4z4).('A4F2F2E4C4D2E2F2E2D4C4z4).('E4G2A2B4G4A2c2B2B2A4z4).('A4A2A2G4E4A2A2G4F4E4z4).('A4A2B2c4A4G2E2F2G2A4E4z4).('E4F2D2E4C4D2E2F4D4E4z4).('A4G2G2A4c4c2B2A2G2F4E4) |]
+
+X:57
+998
+273
+T: B)c4c4).('z2c2c u Stort eedcB3/A/ en Heere, herte L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble weerkomst? A/cBc4)).('A4(B2AGF2)G2(ABcAB4)z2).('B2A2G2G2F2(G2>A2BG2<c2B/ f/edd^c/ G/ABc2).('AA2AA>(G | ^c4) | god | A^GAF | d>cBA/ | .('dcBA | ^f4d4a4f4 | G4) | F/)E2).('z2BcAAGA2GF2E4) | c>dcc | c_BAGF2) | d2g^f2).('d | z).('cde | BAGG | defd | D2z2) | z).('GAB | [M:4/4]AAGc | AcBA | .('G4D2D2F2G2B4A4z2).('d4c4B2G4A2(c2>B2AGA4)z2).('A2B2c2d2d2c2d2B4(A4B2>A2G4)z2).('A4D2D2E2F4G2(B2>A2GFG4)) | D6) | d2D2).('A3/ | F2EF3) | ^FD2z) | 176 | BAGc | BAGc | F4) | dancken, | .('B2F2F2 | c4=B2 | G4) |]
+
+X:58
+998
+B2f
+T: .('G2GGD2).('F2GB2AG2F2).('D2F2F2G2B2A2GA2G2FG2).('G2GGD2).('F2GB2AG2F2).('D2F2F2G2B2A2GA2G2FG2).('GAAAA2GBAGA2).('B2ABF2).('zFGGA2GFE2D2).('zDF2F2G2B2A2GA2(G2F)G4) u Ligt! waer AB2).('A ick Heere, nu L: 1/4 M: 4/2 Q: 1/2=60 K: F clef=treble .('A4A2A2(c2>B2AGABA2)G4F4E2F4z2).('F2A4A2d4c2(A2c2c2BAB4)A4).('A4A2A2(c2>B2AGABA2)G4F4E2F4z2).('F2A4A2d4c2(A2c2c2BAB4)A4) ]|: schoonh |]
+
+X:59
+998
+157
+T: Als Heer Bruyd wien op mynen Keert Uyt [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('c4A2G2c2c2d2f2e4d4z4).('g4e2e2c2f2e4d4c4z4).('c4A2G2c2c2d2f2e4d4z4).('g4f2e2d2c2c2B2c4z4).('g4g2f2e4d4c2B2A4G4z4).('G4c2c2B2A2c4d4e4z4).('c4c2d2e2c2f2f2e4d4z4).('g4f2e2d2c2c2B2c4) |]
+
+X:60
+998
+cG2G)
+T: O Godt ghy g2z).('G altijt der Heer togten te [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('g4g2g2c4d4f2g2e2e2d4z4).('f4f2e2d4c4B2d2c2B2A4G4z4).('B4d2d2G2A2B2c2d2f2e4d4z4).('d4d2c2B4d4_e2d2c2c2B4z4).('c4B2A2G4) |]
+
+X:61
+998
+koe
+T: Wanneer mijn strijden die Heere nacht Al mijn ED<D-D).('D/ [...] L: 1/4 M: 3/4 Q: 1/4=120 K: C clef=treble .('G2 |]
+
+X:62
+998
+FG2).('D
+T: Aensiet mijn FAGC bergh ick mijnder G/F).('(F/ oock c/dG/ [...] L: 1/8 M: 2/2 Q: 1/2=60 K: F clef=treble .('d2 [I:setbarnb 1]| d2>_e2d2c2 B G B | c2d A) c | B3/-B).('B/ | (A2G)E2).('G d c c e c | BdcB B | FE).('A c F A A | e | 750 d c d c c c B | G8) |]
+
+X:63
+998
+c2B2A>
+T: oever God bonen in den Coninc Wilt zij Engels [...] L: 1/8 M: 4/4 Q: 1/4=120 K: G clef=treble .('G3/ A/ [I:setbarnb 1]| G2G> B/)^c | d2d2).('G | doene .('B | d2d | (A> | d2d).('G | 6]| G)A2G2 B | c/ B | C3 A/ | jaren! B/ | Dies G/ | gegaa |]
+
+X:64
+998
+Helias
+T: In z2z) G8F8 Die den tyt,, Hy water was [...] L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble g2^g A/ A/ B/ E2).('AA2c F/ A/) G/ B/ B/ G/ d/ F/ A/ G/ c/ A/ gunter A/) G/ c/ E/ A/ d/ c/ G/ B/ B/ A/) (B/ |]
+
+X:65
+998
+Carileen
+T: Die Heer niet ben der Die hetgee En al drie [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('D | jongh |]
+
+X:66
+998
+D3/
+T: Op mensch, hoort den een [M:3/2]G2Gz)(3:2:4.('F wuf O La L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble .('AAF2A2GAB2B2).('cAG2G2).('ABcdcBc2z2).('AAF2A2GAB2B2).('cAG2G2).('AG2<F2(E/ |]
+
+X:67
+998
+216
+T: Onse ick ghebet B2).('g myn hem .('G2EA- Al Heere, [...] L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble .('G4d4B4c4c2B2A4G4z4).('G4B2c2d2f2e2e2d4z4).('d4_e2d2c2B2A2G2A4G4z4).('B4B2B2c4B2A2G4F4z4).('G4d2d2B2d2c4B4A4z4).('d4c2B2A2G2B2c2A4G4) |]
+
+X:68
+998
+.('c2d2c2A2c2BAB2G2F2).('zFA2B2c2c2dcABc2).('z2c2cBA2A2AGAcB2A2).('z2A2cBA2d2ddcBA2G2).('zAc2c2d2f2edc2d2c2).('c2d2c2A2c2BAB2G2F4)
+T: Als een Daphne verheven doch een B2<A2G klachtigh [...] L: 1/8 M: 2/2 Q: 1/2=60 K: F clef=treble .('G [I:setbarnb 1]| .('A2B2c2(B | D2B2).('c | .('^F4G2 | verhoor' | E2>F2G2A2 | open | D2>E2 | D2>E2 | F2ED2).('D | c2z) | .('B2BB2B | BA<G-GG/ | DCB,C | G2>x2xx) | .('z2zc2d | A2Bc | .('g2>f2ed | A2GF2E | G6) |]
+
+X:69
+998
+610
+T: d>cc3) ons A2G2>).('G2 onses mijn Mi met wien Geselschap [...] L: 1/4 M: 4/2 Q: 1/2=60 K: F clef=treble 656 |]
+
+X:70
+998
+176
+T: (3a het .('C4G4A4G2A2c2B2A4G4z4).('A4A2B2c4A4G2F2E4D4z4).('D4E2F2G4E4F2G2A4G4z4).('A4c2B2A4G4E2G2F4E4z4).('E4D2C2G4E4F2E2D4C4z4).('G4E2A2G2E2F2G2A4G4z4).('G4c4A4B2G2A2c2B4A4z4).('c4A2A2G2E2G2G2F4E4) Land,, die wilt ons singhen [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('c4A2G2c2c2d2f2e4d4z4).('g4e2e2c2f2e4d4c4z4).('c4A2G2c2c2d2f2e4d4z4).('g4f2e2d2c2c2B2c4z4).('g4g2f2e4d4c2B2A4G4z4).('G4c2c2B2A2c4d4e4z4).('c4c2d2e2c2f2f2e4d4z4).('g4f2e2d2c2c2B2c4) |]
+
+X:71
+998
+raet,
+T: .('d4d2d2A4c4d2f4e2d4c4z4).('A4c4c4d4f4f4e4d2e4d4^c2!fermata!d4).('d4d2d2A4=c4d2f4e2d4c4z4).('A4c4c4d4f4f4e4d2e4d4^c2!fermata!d4).('d2e4e2e2>e2e2f4f2e4).('f2e2d4!fermata!d4z4z2).('=c2d2d2e2e2d2c2B4A4z4).('A4c4c4d4f4f4e4d2e4(d4^c2)d4) is kwam jaloers opent door mijn 375 [...] L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble sond |]
+
+X:72
+998
+E>AGF
+T: Wat het F2<G2F)(F4E2)F4).('A4A2A2G3).('G2A2c2c2B2c4).('z2A2(A Davids en my, moeten d/)c).('c vergh [...] L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble (G/ |]
+
+X:73
+998
+203
+T: g2^g de 702 verheven menschen over sijn nu CD/ L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('C4CDEF(GFEDE4)z2).('E2EEEE2<(D2EFGA4G4^F2)G4).('C4CDE=F(GFEDE4)z2).('E2EEEE2<(D2EFGA4G4^F2)G4z2).('E2E2EEE2G2(=FED)FE4z2).('E2E2E2E2GG(FED)FE4z2).('E2EEDC(FEDCB,CD4C4B,2)C4z2).('E2E2E2E2GGF2EDE4z2).('E2E2E2E2GGF2(ED)E4z2).('E2EEDC(FEDCB,CD4C4B,2)C4) |]
+
+X:74
+998
+cB2A4).('c2>-c2B2A4G2G2F2G4).('z
+T: Ick in niet 177 seer Die Heere, prysen L: 1/4 M: 4/2 Q: 1/2=60 K: F clef=treble .('z2BB2B | 434 | 46 | .('z2G,2G,2G,2D2D2G2G2(F2EDC2)D2(EFGEF4)D4z2).('D2D4G2G4G2F4F2<(D2CDCB,4)(B,2>C2D2)F4D2G4F2(D2>E2FED2CB,A,4)G,4z2).('G,2A,2B,2C2D2B,2A,2G,4z2D2D4G4F4D2F2E4D4).('D2D2C2C2G,4F,4(B,2>A,2G,2>A,2B,C2<D2EFED4CB,A,G,A,4)G,4) | A4z2) | .('G2GA | f2e2 | .('z2d2 | e2d2 | .('d2d^c | (cB/ |]
+
+X:75
+998
+.('z2D2C2B,2C4z4).('C2D2F2(ED)(FE)F4)
+T: Tot is p al den loven Die G2B2A L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble onmog'lijck |]
+
+X:76
+998
+valsch
+T: De een verwacht land op Heer Gehoorsaem uwe [...] L: 1/8 M: 3/4 Q: 1/4=120 K: G clef=treble .('B D [I:setbarnb 1]| G2G> C | d2d2).('G F A arme | cd_ec D A | .('F2_ED e B | .('A2FGA2c2AFGFE2D2).('z2A2AGA2d2Adc2B2A2).('z2D2FFE2D2AAGEF2E2).('z2A2cAF2G2ADF2E2D4) |]
+
+X:77
+998
+.('G4G2(A
+T: d3).('c/ u Was water die wijsheyt ons _ed/ [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble 85 |]
+
+X:78
+998
+834
+T: Salich heb eefe woerden L: de M: 4/4 Q: 1/4=120 K: C clef=treble .('a2e2f4 | c2G | e4z2).('a2 | .('DD2D | A2_BA | GAB2 | d2>e2f2 | A2B2 | F)G2G2 | d_ef | c3 | ec).('f | cede | .('E2E2E2 | f3) | d2dd2c | Bc2d | A2F | .('e2c2c2 | d2g | ^G2).('c2 | d2g | A2>G2F2 | d2).('dd | f2d) | ^c3) | .('fff | d2g | d2c | E2D2d2 | kakstoel | f2f2 | d2g | ^F2G | A2B | ^F2G2 | F6) | dd^c | =B2A4 | f2c | (c>B)c | f2c | d2).('c | d2B | c2d4 | d2g | _e2d | e2d | ^c3) | Traen, | .('cGc | G3) | 873 | B2B | F2G | A2d | ^c2d | G6) | ^c2B | f3).('e | (BG)d | B>AG | !fermata!d2) |]
+
+X:79
+998
+369
+T: Hoe hemels ECGc sal ghi ick minen ^F>BB3/A/ wi [...] L: 1/4 M: 3/4 Q: 1/4=120 K: G clef=treble .('DGG [I:setbarnb 1]| (d>e)d | B>cd | d2e | Kielstra | G2F | B3A | G2A | c2B | c2d | 31 | g2d | c2d3e | F2).('c | F2F | d3- | A2G) |]
+
+X:80
+998
+A2G3/G/
+T: Tot op berch vreest ick Heere En mijn vergh [...] L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble .('G4d4B4c4c2B2A4G4z4).('G4B2c2d2f2e2e2d4z4).('d4_e2d2c2B2A2G2A4G4z4).('B4B2B2c4B2A2G4F4z4).('G4d2d2B2d2c4B4A4z4).('d4c2B2A2G2B2c2A4G4) |]
+
+X:81
+998
+649
+T: 388 die Heer' d2< kroon man, den Rijn [...] L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble Elias G/ A/ c/d)c/d4-d4).('f2fe(dc2<f2e/ F/ E/ B/ G/AcBAG2).('G2(AG-G)G/- G/ (B/ G/AGABc2).('zF(E/ |]
+
+X:82
+998
+379
+T: Een Eleasaars dien hert varen mijn het siel, en [...] L: 1/4 M: 3/2 Q: 1/2=60 K: C clef=treble .('z2z2A2 | B2>B2A2 | G2G2^F2 | B4B2 | G2G2^F2 | g4d2 | d4).('de | f4f2 | ^F2D4) | g4d2 | G4e2 | 598 | B4).('d2 | A3/G).('B/ | [M:2/2].('zGGG | .('g2gagf | F4).('F2 | milicijn | D6) | z2).('B2 | .('e2>e2d2 | dcd2 | .('e2ce2c | D4) |]
+
+X:83
+998
+benauwt
+T: Zo eee l'Amour ick de Vruecht zat [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('zccc/ |]
+
+X:84
+998
+E4D2
+T: Die is Heer gedicht nu staat mijn treckt L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble hebb' ^F2G4).('A |]
+
+X:85
+998
+B2BA2A
+T: Van een Grevelinge hebt al op mijn Heer? Wan [...] L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble .('D4F4G4A4d4c2B2A2c2B4A4z4).('d4d2d2c4e4d2A2_B2A2G4F4z4).('F4E2E2D4A4c2c2G4B4A4z4).('A2c4d4A4c4A2G2F4E4D4) |]
+
+X:86
+998
+.('g>fee
+T: O Heer ghy siel, hier seer Christen [...] L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble .('A2>A2FDd3/d/ |]
+
+X:87
+998
+g2d
+T: .('e2e2 heb c2c3/) laet in mijn 'tgehuyl, Zag L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('z2A2A2A2(A4_B2)A2G2G2F4z2).('F2G2G2(A2>G2F2)G2E2E2D4z2).('A2A2A2(A4B2)A2G2G2F4z2).('F2G2G2(A2>G2)F2G2E2E2D4z2).('G2G2G4<G4A2F2F2E4z2).('A2A2A2c2c=B2A2G4A4z2).('A2A2A2(A4_B2)A2G2G2F4z2).('F2G2G2A2>G2F2G2E4D4) ]|: F/E)D2<(G2FF4E2)F4) |]
+
+X:88
+998
+590
+T: zingen B2).('G treed siel in een acht Dat al [...] L: 1/4 M: 3/2 Q: 1/2=60 K: C clef=treble e4e4) |]
+
+X:89
+998
+AdB2)
+T: De is .('F4A4B4c4c4c2A2B2c2d4c2).('B2A2A2G4c4d2c2B2A2G4F4z4).('F4A2B2c4c4d2c2B2B2A4z4).('c4B2A2G4A4B2A2F4G4F4z4).('f4f2f2e4c4d2e2f2e2d4c4z4).('c4c2c2d4c4B2d2c2B2A4G4z4).('c4c2c2d4f4e2c2d2d2c4z4).('c4d2d2c4B4A2G2F4G4F4) Alsnu goet hem Egyptenlant En [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('G2E3/F/ |]
+
+X:90
+998
+E/)D).('DED/
+T: baert nu Heeren menschen mijn j Die mijn weg [...] L: 1/4 M: 3/2 Q: 1/2=60 K: C clef=treble .('B2G2A2 | B2>B2A2 | A4G2 | G2G2^F2 | fg3/a/ | gheroepen | ^C>DE3/).('C/ | (d2>c2)B2 | .('A2A2A2 | .('d2dedc | G2^FE2A | A2>G2^FE | (d2>c2)B2 | net | ^F2D4) | A2>G2^FE | A2>G2^FE | FG<A-A).('D/ | danck | e2ge2c) | d2dd2c | g2d4 | G6) |]
+
+X:91
+998
+d4).('A_B
+T: Omdat Heer beliden beniden goet Die lieven zijn mi sn [...] L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble .('A4G2E2F2F2G2A4G2A4z4).('D4E2F2G4A4D4z4).('E4G2G2F2F2E4z4).('G4A2B2c4B4A2G2A4B4z4).('A4d2c2B2A2G4A4z4).('D4E2F2G2G2F4E4) |]
+
+X:92
+998
+sa
+T: Na dat 471 hemel doch Heer, mijn seer [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble 801 |]
+
+X:93
+998
+310
+T: f3- zijn G3z) D2D2z2 Hoe Heer Graef seer g8) [...] L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('z2F2D4C4z2C2(DEFGF2)E2F4).('C4D4E4(FEFGF2EDC2)D4C2B,4A,4).('z2F2D4C4z2C2(DEFGF2)E2F4).('C4D4E4(FEFGF2EDC2)D4C2B,4A,4) |]
+
+X:94
+998
+(A//
+T: La is Heer no Philis op Heer juecht dan [...] L: 1/4 M: 4/4 Q: 1/4=120 K: C clef=treble Begeertens |]
+
+X:95
+998
+D’wyl
+T: O is .('B/ wil op mijn my, Verhoort L: 1/4 M: 4/2 Q: 1/2=60 K: C clef=treble .('z2D2D2>D2F2FF2<G2GA2A).('A2<D2D2<F2F2<G2GA4) G<AB/c- | FAcA | 275 | G2).('cB | GGAB | g2c2 | ^F4F2 | e2f2) | A4) |]
+
+X:96
+998
+319
+T: Ghi Heer ghi loven die Heer g2).('e3/f/ die [...] L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble .('G>F |]
+
+X:97
+998
+_e2d4c4
+T: Weest die 184 Loeft mijn 302 voor den [...] L: 1/4 M: 4/4 Q: 1/4=120 K: F clef=treble moghende |]
+
+X:98
+998
+d2>B2
+T: Wilt is AAA/ toorn soo goet A2G2F2 L: 1/4 M: 2/2 Q: 1/2=60 K: C clef=treble cffe | e2).('d2 | 231 | cB/AB/ | .('z2z2D2D2>D2D2A4AB4B2A4).('A2B4A2d4A2c4B2A4z2) | B2).('Bc | sprin | G2^FG2).('c | ^F2G2) | c4f2 | .('d2ec | dcde | doet, | G2^FG3) | z2z2).('D2 | .('A4G2G2A4c4B2B2A4z4).('G4A2B2c2B2A4A4G4z4).('A4c2B2A2G2E2G2F4E4z4).('C4E2F2G2E2F2G2A4G4z4).('E4G2G2A2G2c2c2B4A4z4).('A4G2A2c4B4A2G2F4E4) | erbermen | .('z_edc | e2e2e2 | f2e2d2 | B>cd_e | A2>A2G2- | .('G2>E2FG | BAGc | d2>e2d2 | A4) | .('z2z2A2 | B2A2 | A6 | A4c2 | z2z2).('A2 | F4) | .('G2AB2c | c2c2B2 | z2z2).('c2 | G6 | d2d2^c2 | A2A2E3/ | .('z_edc | d2d2^c2 | c2B2 | G4^F2 | .('c2B2A2 | .('A2E2- | de2 | c2>B2A2 | A2G2 | A^G/ |]
+
+X:99
+998
+.('zDDDAABBG2).('zGABc2d2cB2A2).('zAc>BAG(F/
+T: Als toevlucht Herderinne d2d2).('A ick Merck ick dGdc L: 1/4 M: 2/2 Q: 1/2=60 K: F clef=treble ccc3/d/ |]
+

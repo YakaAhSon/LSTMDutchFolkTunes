@@ -1,0 +1,20 @@
+set(['<P>e', '1/2=60\n', '1/2=72\n', "<P>c'", '[I:setbarnb 16]', '1/2=100\n', ":2/2].('zGGG|\n", ":3/2].('z2DG2B|\n", ':3/4]GAB|\n', '<P>z', '<P>x', '<P>b', '<P>c', '<P>a', '<P>f', '<P>g', '<P>d', '1/4=152\n', '16/2\n', ":2/2].('z4z2g2|\n", ':2/2]ecd2|\n', '<P>B', '1/4=132\n', '<P>A', '<P>F', '<P>B,', '<P>D', '<P>E', '|\n', '[I:setbarnb 15]', '<D>3/', '1/2=92\n', '[I:setbarnb 4]', '4/2\n', '<D>4<', 'M:', ":3/4].('fed|\n", '<D>3//', '<P>C', '[I:setbarnb 18]', '<D><', '[I:setbarnb 10]', '<P>G', ":3/2].('B2B2B2|\n", '2/2\n', '[I:setbarnb 5]', '<D>4', ":3/2].('F2CD2F|\n", '1/2=120\n', '[I:setbarnb 17]', '<D>2', '1/8\n', 'Cclef=treble\n', '3/2\n', ':2/2](F2>G2A3G/F/)|\n', '4/4\n', ":2/2].('x8a8|\n", '<P>A,', '12/2\n', '1/2=152\n', 'K:', ":2/2].('zfe3/d/|\n", 'L:', '1/2=104\n', ":4/2].('A2a3e/f/g2-|\n", '[I:setbarnb 12]', '[I:setbarnb 6]', ':2/2]_BABA|\n', '<D>//', '3/4\n', "<P>d'", '1/2=56\n', '<P>^d', '<P>^g', '<P>^f', '<P>^c', '<D>/', '[I:setbarnb 19]', '<D>>', '[I:setbarnb 7]', '1/4=120\n', '<D>8', '<D>6', '<P>^G', '<P>^F', ":3/2].('d2dc2A|\n", '<D>3', '<P>^C', '<D>1', 'Q:', ":2/2].('e2d3/e/|\n", 'Fclef=treble\n', 'Bbclef=treble\n', '1/2=66\n', '!fermata!', '10/2\n', '6/4\n', '[I:setbarnb 8]', '<P>G,', '[I:setbarnb 14]', '<D>4>', '[I:setbarnb 1]', ":3/2].('z2AB2d|\n", '1/4\n', '1/2=69\n', ']', '1/2=44\n', '[I:setbarnb 13]', '1/16\n', '<D>2<', '[I:setbarnb 23]', '<D>2>', '<D>/>', '[I:setbarnb 9]'])
+vocabulary size: 116
+n tunes: 500
+n train tunes: 468
+n validation tunes: 32
+min, max length 65 1594
+Building the model
+  number of parameters: 5562628
+  layer output shapes:               #params:   output shape:
+    InputLayer                       0          (16, None)
+    EmbeddingLayer                   13456      (16, None, 116)
+    InputLayer                       0          (16, None)
+    LSTMLayer                        1289216    (16, None, 512)
+    DropoutLayer                     0          (16, None, 512)
+    LSTMLayer                        2100224    (16, None, 512)
+    DropoutLayer                     0          (16, None, 512)
+    LSTMLayer                        2100224    (16, None, 512)
+    DropoutLayer                     0          (16, None, 512)
+    ReshapeLayer                     0          (None, 512)
+    DenseLayer                       59508      (None, 116)

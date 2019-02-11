@@ -1,0 +1,3836 @@
+
+X: 18000
+T: 34 [!]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 368598837
+%%humdrum-veritas-data 1845803152
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('d3c [I:setbarnb 1]|
+B2>A2B2A G |
+F2E D2<G2A |
+B2>d2c2B2 |
+(3B A BA2A3B |
+(3A G A {c} (3B A GF2!trill!!trill!E3/ D/ |
+D4) |
+.('d3c [I:setbarnb 7]|
+B2{A}^G2A3B |
+c2B A2<c2B |
+A2{G}F2G2G A |
+B2A Gc2B2 |
+A2!trill!!trill!G2F2(3G A B |
+(B2A2)).('D3G |
+{F}E2(3A B G!trill!!trill!F3G |
+(G2>^G2)A2(B c) |
+(3B A B {d} (3c B A!trill!!trill!A3G |
+!fermata!G4) :|]
+
+X: 18001
+T: 34 [!]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 3062412630
+%%humdrum-veritas-data 2847696788
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('DFA |
+d2(d// e// f// g//) |
+abc' |
+d'2D// E// F// G//) |
+.('AB!trill!!trill!c |
+d>A d/ f/ |
+fe/ A/ e/ g/ |
+gf/ A/ d/ f/ |
+agf |
+(fe2)) |
+.('Ace |
+A2e/ g/ |
+fed |
+e>a e/ c/) |
+.('Ace |
+A2e/ g/ |
+fed |
+e2A// G// F// E//) |
+.('DFA |
+dfa |
+d'/ a/d'd' |
+d'>a d'/ a/ |
+b/ a// g//f!trill!!trill!e |
+!fermata!d3) :|]
+
+X: 18002
+T: Trio
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 3653781973
+%%humdrum-veritas-data 3385594573
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('d3 |
+(ec)A |
+f3 |
+gec) |
+.('af!trill!!trill!g |
+af!trill!!trill!g |
+agf |
+e3) |
+.('f>d' b/ ^g/ |
+aae |
+f>d' b/ ^g/ |
+{^g}a3) |
+.('a2(e/ d/) |
+c!trill!!trill!BA |
+g2(e/ d/) |
+c!trill!!trill!BA) |
+.('=f2(e/ d/) |
+_b2(a/ g/) |
+=fed |
+A3) |
+.('d3 |
+(ec)A |
+f3 |
+(ge)c) |
+.('af!trill!!trill!g |
+a>g f3// a// |
+g!trill!!trill!fe |
+d3) :|]
+
+X: 18003
+T: 35
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 409626774
+%%humdrum-veritas-data 2801294823
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('a2g |
+g/< f/ed |
+(d/< c/)BA |
+!trill!!trill!d3) |
+.('!trill!!trill!e3 |
+fd'b/ ^g/ |
+a/> c'/c!trill!!trill!B |
+A3) |
+.('d2=c |
+=c/ B/gf |
+f/ e/ b/ g/ e/ d/ |
+d2c) |
+.('a2g |
+(g/< f/)ed |
+b2d |
+(d/ c/)eG |
+(G/ F/)d!trill!!trill!c |
+{c}!fermata!d3) :|]
+
+X: 18004
+T: Ach! Ihr gnade onverholen Ey Mens gestenger Her
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 1890312519
+%%humdrum-veritas-data 2138090293
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(G> B)B2A2 |
+A> cc2B2 |
+G FE2c B/ A/ |
+G FG2z2) |]
+
+X: 18005
+T: 37
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 4027336109
+%%humdrum-veritas-data 2461911600
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('d4A2 |
+!trill!!trill!B4A2 |
+B2g2f2 |
+e2d2!trill!!trill!c2) |
+.('d4!trill!!trill!f2 |
+d4f3/ d/ |
+e4!trill!!trill!f2 |
+g2>a2g2) |
+.('f4!trill!!trill!g2 |
+a2>b2a2 |
+a2!trill!!trill!g2f3/ g/ |
+f4e2) |
+.('c z d z e z |
+f z g z a z |
+A4F D) |
+.('c z d z e z |
+f z g z a z |
+A4F D |
+A6) |
+{.('A2 B2 c2}d4A2 |
+!trill!!trill!B4A2 |
+B2g2f2 |
+e2d2!trill!!trill!c2) |
+.('d4f3/ e/ |
+d4f3/ e/ |
+d2d2d3/ e/ |
+!fermata!d6) :|]
+
+X: 18006
+T: 38
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 1799274710
+%%humdrum-veritas-data 2126732162
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G4B G |
+d B g d B G |
+D4F D |
+A F c A G F) |
+.('G4B G |
+d B g d B G |
+c> dc2B2 |
+B4A2) :|]
+.('d4g d |
+b d (!trill!!trill!d c) (!trill!!trill!c B) |
+c4f c |
+a c !trill!!trill!c B !trill!!trill!B A |
+B2>d2 (!trill!!trill!e d) |
+g2>d2 (!trill!!trill!e d) |
+c2B2!trill!!trill!A2 |
+{A}!fermata!G6) :|]
+
+X: 18007
+T: 39
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 308100391
+%%humdrum-veritas-data 2438931633
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d c d [I:setbarnb 1]|
+A2AB2B |
+A2>d2 c d |
+e d cg2f |
+!trill!!trill!f2e e e e |
+e2e a e e |
+e2>c2 d e |
+A2d {e} d c B |
+!trill!!trill!B2A F F G |
+A2A A B =c |
+{=c}B2>B2 c d |
+e2fc2d |
+e3) |
+.('g f e [I:setbarnb 13]|
+g f e e f d |
+{d}c2>B2 c d |
+A2gf2e |
+!fermata!d6) :|]
+
+X: 18008
+T: 40
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 662719962
+%%humdrum-veritas-data 2492799854
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('f2f gf2f e |
+d2d ed2d e |
+f2f g a b a g |
+g4f2z2) |
+.('f2a2a2(g f) |
+b a g fe4 |
+g2f2e2d f |
+e d c BA2(3A B c) |
+.('d4e3g |
+!trill!!trill!f2>g2a2g f |
+!trill!!trill!e2>d2!fermata!d4) :|]
+
+X: 18009
+T: [40]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 364797448
+%%humdrum-veritas-data 1174391331
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d2d ed2d A |
+F E F GF2F A |
+d2d e f g f e |
+e4d2z2) |
+.('d2f2f2(e d) |
+g f e dc4 |
+e2d2c2B d |
+c B A ^GA2A G |
+F4{^G}A3z |
+d2>e2f2B A |
+{A}!trill!!trill!G2>F2!trill!!trill!F4) :|]
+
+X: 18010
+T: 41
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 4014749232
+%%humdrum-veritas-data 1259999154
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d c B AG4G4 |
+G2 e2!trill!!trill!e4d4 |
+d c B AG4G4 |
+G2 e2!trill!!trill!e4d4 |
+d c B AG4G4 |
+F G A FD8) |
+.('D2> d2d4c4 |
+c2> B2!trill!!trill!B4A4 |
+D2> d2d4c4 |
+c2> B2B4A4 |
+d2 e fg4c4 |
+B A G F!fermata!G8) :|]
+
+X: 18011
+T: 42
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 1469050779
+%%humdrum-veritas-data 2083927327
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('d4(c d) |
+{f}e2d cd2 |
+{e}f4e f |
+g2f ef2) |
+.('d4(c d) |
+{f}e2d cd2 |
+e fg2f2 |
+(f4e2)) |
+.('A> BA2a2 |
+a2g fg2 |
+A> BA2g2 |
+g2f ef2) |
+.('d4c d |
+e2d c d3/ a/ |
+b a/ g/f2!trill!!trill!e2 |
+{e}!fermata!d6) :|]
+
+X: 18012
+T: [42]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 3689319745
+%%humdrum-veritas-data 721764835
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('F4E F |
+{A}G2F EF2 |
+{c}d4c d |
+e2d cd2) |
+.('f4e f |
+g2f ef2 |
+e dc2d3/ e/ |
+(d4c2)) |
+.('F> GF2f2 |
+{g}f2e de2 |
+c> d c A c e |
+e2d cd2) |
+.('f4e f |
+g2f e f d |
+g f/ e/ d B A G |
+(G4!fermata!F2)) :|]
+
+X: 18013
+T: 43
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 3668202982
+%%humdrum-veritas-data 834702350
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A2 [I:setbarnb 1]|
+d2d ed2c d |
+e2e fe2d e |
+f2f ga2g f |
+e d c BA2(3A B c) |
+.('d2d ed2c d |
+e d e fe2a g |
+f g a ef2!trill!!trill!e3/ d/ |
+d4) |
+.('z2c d [I:setbarnb 9]|
+e2e fe2a2 |
+e d c BA2{d} c d |
+e2e f e a ^g a |
+c2!trill!!trill!B> AA2(3A B c) |
+.('d c d ed2c d |
+e d e fe2a g |
+f g a ef2!trill!!trill!e3/ d/ |
+!fermata!d4) :|]
+
+X: 18014
+T: 44
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 2111111544
+%%humdrum-veritas-data 3851934006
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('d2d dd2(3a b c' |
+d'2d> dd2e2 |
+f g a gf2e2 |
+d2d> dd2e2 |
+f2a> fe2g3/ e/ |
+f ^g a ba2!trill!!trill!g2 |
+a2a aa2z2) |
+.('d'2d'> d' d' a f d |
+b2b> bb2a2 |
+g a b ag2f2 |
+e2e> fe4 |
+d2a> ba2g2 |
+(3f g a (3c' d' e'f2!trill!!trill!e2 |
+d2d> dd2z2) :|]
+
+X: 18015
+T: 45
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 71811238
+%%humdrum-veritas-data 583152602
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: D clef=treble
+.('dd [I:setbarnb 1]|
+AG/ F/B!trill!!trill!c |
+dAFG/ A/ |
+BAA/ G/ G/ F/ |
+E2).('A^G/ A/ |
+BAdc |
+B2ed/ c/ |
+BAc/ B/ A/ ^G/ |
+A2).('AA |
+AG/ F/GA |
+B2Bc/ d/ |
+cdeG |
+!trill!!trill!GFdA) |
+.('dAde |
+f2Bc/ d/ |
+Adf/ e/ d/ c/ |
+!fermata!d2) :|]
+
+X: 18016
+T: Deugt is’t beste opder aarde zij staat pal i [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 866707628
+%%humdrum-veritas-data 2577519709
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('B4(A G) |
+(e2d4) |
+(d c' b a) (g f) |
+(f2g2)z2) |
+.('(d g a g) (f e) |
+(d2c2)B2 |
+(A B c B) (A G) |
+{B}A6) |
+(3.('(a g f)!trill!!trill!f4 |
+(3(f e d)!trill!!trill!d4 |
+(3(c' b a)a4 |
+(3(a g) ff3c) |
+.('(B d g d) (b g) |
+(f3g/) a/g2 |
+{f} e d/ (c/B2)A2 |
+{A}G6) :|]
+
+X: 18017
+T: Lieve oogen! schoone lichten! gij die mij to [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 4276167662
+%%humdrum-veritas-data 484383294
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('(B3/c// d//)F |
+G2D |
+c2B/ A/ |
+B2A) |
+.('e2c/ A/ |
+(B3/c// d//)G |
+DcB |
+(BA)z) |
+.('A2D |
+B2A/ G/ |
+{e f}g>f e/ d/ |
+(^c>B)A) |
+.('G2{F}E |
+F/ A/ B/ ^c/d |
+{e f}(gf)e |
+{e}d3) |
+.('B3/c// d//F |
+G2D |
+c2(B/ A/) |
+(B2A)) |
+.('e2d |
+B3/c// d//G |
+{A B}(cB)A |
+{A}G3) |
+.('e2(d/ ^c/) |
+(dF)G |
+(D/ c/ B/ A/) (G/ F/) |
+{F}!fermata!G3) :|]
+
+X: 18018
+T: Waar heen mijn ziel waar heen? daar is op aa [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 3416790385
+%%humdrum-veritas-data 1890067341
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d2 [I:setbarnb 1]|
+g2 d c B2 d2 |
+g4z2) .('d2 |
+e c g2 (g2 f) e |
+(e4d2) c B |
+c A e2 (e2 d) c |
+(3B A GG4).('d2 |
+(^c d e f) (e f) (g a) |
+(g2 f2) z2) .('a2 |
+B2> g2 f2 e2 |
+(3f e d d2b4 |
+a g (3g f e {d} !trill!!trill!e3 d |
+d6x2) |
+.('d2 d2 =f2 (3f e d |
+(d4c2) c B |
+c B e2 e2 d c |
+(c4B2)) .('d c |
+B2 d2 g2 b2 |
+b2a4g f |
+g b a g f e d c |
+{c}B6).('d c |
+B2 d2 g2 c'2 |
+b2a4g d |
+e c B A2< {G2 A2} A2 G |
+G6) :|]
+
+X: 18019
+T: 49
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 2192119774
+%%humdrum-veritas-data 2200718553
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d2>c2 B d |
+c2B2A2 |
+c2>B2 A c |
+B2!trill!!trill!A2G2) |
+.('d2c B A G |
+G2!trill!!trill!F2G2 |
+A Bc2B2 |
+B2A2z2) |
+.('d2c Bd2 |
+c2B2{c}A2 |
+c2>B2 A c |
+B2A BG2) |
+.('d2c B A G |
+G2!trill!!trill!F2G3/ B/ |
+(3A B cB2!trill!!trill!A2 |
+{A}!fermata!G4z2) |
+.('d2B d e d |
+d2A2d3/ e/ |
+d c B d c B |
+{B}A4z2) |
+.('a2f a b a |
+a2e2a3/ b/ |
+a2g f e d |
+(d4^c) z) |
+.('a2>g2 f g |
+g2!trill!!trill!f> ge2 |
+g2>f2 e g |
+f2e fd2) |
+.('a2g f e d |
+d2(3^c B cd2 |
+e g f e d ^c |
+{^c}d4z2) |]
+
+X: 18020
+T: 50
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 2521927769
+%%humdrum-veritas-data 758833718
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d>fe3/g/ |
+f>ga3/A/ |
+Bg/> e/ {d}ca3// g// |
+f>ed).('A |
+d>efg |
+B>cdd |
+c{e} d/ c// B//A!trill!!trill!^G |
+cBAB |
+cBc).('d |
+e>fed |
+c/ e/ f/ d/c!trill!!trill!B |
+A3) |
+.('z [I:setbarnb 13]|
+A(A// B// c// d//)ef |
+g/ a/ b/ g/e2 |
+G(G// A// B// c//)de |
+f/ g/ a/ f/d).('a |
+ge/ g/fd/ f/ |
+f2ee/ f/ |
+g>abb |
+e>f).('gg |
+fg/ f// e//d!trill!!trill!c |
+fede |
+fefg |
+a>bag |
+f/ a/ b/ g/f!trill!!trill!e |
+dd/ d/!fermata!d) :|]
+
+X: 18021
+T: Aangename en stille lommer deelgenoot van mi [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 2058715966
+%%humdrum-veritas-data 1453385828
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('(A> d) A |
+{A} B> d B |
+c> g f/ e/ |
+{d}c2d) |
+.('e> c A |
+f> d A |
+{A}G2F |
+F E z) |
+.('(A ^G) d |
+d c z |
+A ^G f |
+f e z |
+(3d/ c/ B/ A ^G |
+{^G}A3) |
+.('A> c e |
+A> d f |
+f/ e/ g/ f/ b/ d/ |
+d c z) |
+.('A> c e |
+A> G G |
+G> F F |
+F E z) |
+.('d> e d |
+(B c) z |
+d> e d |
+b a z/ A/ |
+(3B/ g/ e/ d c |
+d3) :|]
+
+X: 18022
+T: 52
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 1084877999
+%%humdrum-veritas-data 1880864862
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('D4 [I:setbarnb 1]|
+G2> F2 G2> A2G4A4 |
+B2> A2 B2> c2B4!trill!!trill!c4 |
+d8e2> d2 c3 B |
+!trill!!trill!B4A4z4).('D4 |
+G2> F2 G2> A2G4A4 |
+B2> A2 B2> c2B4!trill!!trill!c4 |
+d8(3g2 f2 e2 (3d2 c2 B2 |
+!trill!!trill!B4A4z4z2) .('B2 |
+(B c) d2 {e} d2 c Bc4z2 A2 |
+(A B) c2 {d} c2 (B A)B4z2 B2 |
+(B c) d2 (e d) c B(B4).('A4) |
+D2 D D D2 E =F(F4E4) |
+E2 E E E2 F G(G4F4) |
+G2> F2 G2> A2B4{d} c2 B A |
+G4!trill!!trill!F4{F}G8 |
+d2> B2 c2> A2 {A}B4z4) |
+{.('e} d2 c B {d} c2 B A(A4B4) |
+d2> g2 {f} e2 d cB4!trill!!trill!A4 |
+!fermata!G12) |]
+
+X: 18023
+T: 53
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 2456920213
+%%humdrum-veritas-data 3866801446
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B3 d [I:setbarnb 1]|
+{e} d c {d} c B2< (A2 B/ c/) |
+{d} c B {c} B A2< G2 B |
+(B A) (c B) B A B G |
+!trill!!trill!G2 F2 B3 d |
+{e} d c (B A2<) (A2 B/ c/) |
+(c B) (A G2<) (G2 A/ B/) |
+(B E) (c A) G2 !trill!!trill!F2 |
+G4).('(d B) (c A) |
+(B G) (G B) {e} d (c/ B/) {d} c (B/ A/) |
+(3(B A G) (G2 B2) (d g) |
+g2 A> e (d c) (B A) |
+(A2 B2) (G B) (d g) |
+g2 (A> e) {e} d (c/ B/) {d} c (B/ A/) |
+{A}!fermata!G4).('B3 A |
+G2> d2 (d c) (c B) |
+!trill!!trill!B2 A2 (B3 A) |
+G2> d2 {e} d c {d} c B |
+{g2 B2} (!trill!!trill!B2 A2) A2 d2 |
+!trill!!trill!d3 (^c/ d/) e3 G |
+!trill!!trill!G2 F2 A2 A2 |
+(3B ^c d (3E F G F2 !trill!!trill!E2 |
+D4).('A3 d |
+(E3 F/ G/) !trill!!trill!G2 F2 |
+{^c} d2 {c} d2 d B A G |
+!trill!!trill!F2 E2D4) ||
+.('x4G3 G [I:setbarnb 27]|
+(G2 F2) {d} d3 =F |
+!trill!!trill!=F2 E2 A2 A2 |
+(A2 ^G2) {e} e3 G |
+!trill!!trill!G2 F2 {^c} d2 d2 |
+c2 _B2 A2 G2 |
+(3(F G A) A2 {_B} d2 d2 |
+c2 _B2 A2 G2 |
+D4{^c}!trill!!trill!d4 |
+D4{D/ E/ F/ G/ A/ B/ c/)} |]
+
+X: 18024
+T: 54
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 2923477663
+%%humdrum-veritas-data 2619874643
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('B/ c/ [I:setbarnb 1]|
+d B/ c/ d B/ c/ |
+d/ c/ B/ A/ G B/ c/ |
+d B/ c/ d B/ c/ |
+d/ c/ B/ A/ G) .('B |
+A A/ G/ A B |
+c B A B |
+A G A B |
+c B A {c} B/ A/ |
+G G G B/ A/ |
+G G G B/ c/ |
+d3).('B/ c/ |
+d3d |
+e2!trill!!trill!f2 |
+g f/ e/ d c |
+B AG2) :|]
+
+X: 18025
+T: 55
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:18
+%%humdrum-veritas 2812520049
+%%humdrum-veritas-data 1009194097
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('d2>f2 e d |
+c eg2f2 |
+D2>F2 E D |
+E F G EF2) |
+.('d2>f2 e d |
+c e f ^ga2 |
+{e} (3f e dc2!trill!!trill!B2 |
+A6) |
+.('d2>A2 B =c |
+(3B A G (3F G AG2 |
+e2>B2 c d |
+(3c B A (3^G A BA2) |
+.('a2>e2 f g |
+(3f e d (3c d ed2) |
+.('A2>E2 F G |
+F A B cd2 |
+B g (3f g e (3d e c |
+{c}d6) :|]
+
+X: 18026
+T: 55 [!]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2540648436
+%%humdrum-veritas-data 1856186541
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+{.('c} d d/ d/d2A2 |
+d> e f> ed2 |
+f f/ f/f2d2 |
+f> g a> gf2) |
+.('a a/ a/a2b3/ a/ |
+g> gg2a3/ g/ |
+f> ff2g3/ f/ |
+e> ee2z2) |
+.('f> ff2z2 |
+f> ff2z2 |
+e> ee2z2 |
+e> ee4) |
+.('e> ee2!trill!!trill!f2 |
+g> gg2z2 |
+f> ff2!trill!!trill!g2 |
+a> aa2z2) |
+.('a> aa2b3/ a/ |
+g> gg2a3/ g/ |
+f> f f a g f |
+e> ee2z2) |
+.('f> ff2z2 |
+f> ff2z2 |
+e> ee2z2 |
+e> ee2z2) :|]
+
+X: 18027
+T: 55 [!]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1357704639
+%%humdrum-veritas-data 3111226633
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+Z2 |
+d> dd2A2 |
+d> e f> ed2 |
+f> ff2g3/ f/) |
+.('e> ee2f3/ e/ |
+d> dd2e3/ d/ |
+c> cc2z2) |
+.('d> dd2z2 |
+d> dd2z2 |
+c> cc2z2 |
+A> AA2z2) |
+.('c> cc2d2 |
+e> ee2z2 |
+d> dd2e2 |
+f> ff2z2) |
+.('f> ff2g3/ f/ |
+e> ee2f3/ e/ |
+d> dd2e3/ d/ |
+c> cc2z2) |
+.('d> dd2z2 |
+d> dd2z2 |
+c> cc2z2 |
+A> AA2z2) :|]
+
+X: 18028
+T: que voulez vous que je vous donne pour bouqu [...]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 11673078
+%%humdrum-veritas-data 2693024745
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('(c B) B A [I:setbarnb 1]|
+{A} G2> g2 (g f) {g} f e |
+!trill!!trill!e2 d2 {c} B A (c B) |
+e2> d2 {d} c3 B |
+{B}A4).('c B B A |
+{A} G2> g2 g f f e |
+e2 d2 B d ^c e |
+d A {c} B A/ G/ F2 !trill!!trill!E2 |
+D4) |
+.('A2 {c} B {A} G [I:setbarnb 9]|
+{G}F4(3G A B (3A B c |
+{d} (3c B c B2 (d3 ^d) |
+(e c) (d B) (A/ B/ A/ B/) (c/ d/ c/ d/) |
+(e/ c/ A/ G/)) .('!trill!!trill!G F2< d2 d |
+^c2 B A =c2) .('c3/ c/ |
+{c} B2 A G (3g b d (d ^d) |
+(e/ f/ g/ f/) (g e d c) (B3/ c/) |
+!trill!!trill!A2 {A}!fermata!G4) :|]
+
+X: 18029
+T: 58 [!]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1469087180
+%%humdrum-veritas-data 94736150
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('d'2g2f2 |
+g4d2 |
+c'2b2a2 |
+b g d B G D) |
+.('c'2b2a2 |
+b g d B G D |
+e' d' c' b a g |
+f2g ad2) |
+.('B2!trill!!trill!c4 |
+d2e fg2 |
+a2g2f2 |
+b g d B G D) |
+.('a2g2f2 |
+G B d g b d' |
+c A B G A F |
+G6) |
+.('a2d2c2 |
+{c}d4A2 |
+g2f2e2 |
+D F A d f a) |
+.('ed2^c2d |
+D F A d f a |
+g e f d e ^c |
+d2>c2 B A) |
+.('G B d g b d' |
+G c e g c' e' |
+A ^c e a ^c' e' |
+A d f a d' f') |
+.('b2c'4 |
+d'2c' b a g |
+c'2b2a2 |
+a g d B G D |
+c'2b2a2) |
+.('d'2c' b a g |
+a bd2!trill!!trill!f2 |
+g6) :|]
+
+X: 18030
+T: 59
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 886486735
+%%humdrum-veritas-data 906754192
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('G d g ba2 |
+F d a c'b2 |
+G b F a E g |
+f2e fd2) |
+.('G d g ba2 |
+F d a c'b2 |
+a b2<d2!trill!!trill!f |
+g6) |
+.('b d G d b d |
+a d G d a d |
+g ^c E c g e |
+f d A FD2) |
+.('G b F a E g |
+D f E g F a |
+G b F a E g |
+D f E g F a |
+G b2< {f}!trill!!trill!e2d) |
+.('d2>c2 B A |
+G d g ba2 |
+F d a bg2 |
+G b F a E g |
+f2e fd2) |
+.('G d g ba2 |
+F d a c'b2 |
+a bd2!trill!!trill!f2 |
+g6) :|]
+
+X: 18031
+T: Marche ab Solniz
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2539684951
+%%humdrum-veritas-data 2360983318
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('c2 [I:setbarnb 1]|
+f2 c> a f2 c3/ a/ |
+f3 e/ d/ c2 d2 |
+c3 B/ A/!trill!!trill!B4 |
+A F A c e2) .('a2 |
+g2 c> e g2 e3/ g/ |
+{g}b6a g |
+a2 g a b a g f |
+{f} e2> d2 c2) .('a2 |
+(3g f e (3e d c g3 a |
+(3f e d (3d c =B f3 g |
+(3e f g (3a g f e2 d2 |
+c2 a> f g2 a3/ f/ |
+(3e d e (3f e d e2 !trill!!trill!d2 |
+c4z2) |
+.('c2 [I:setbarnb 15]|
+g2 c> e g2 e3/ g/ |
+{g}b6a g |
+f2 e f (3g a f (3e f d |
+(d2 ^c2) z2) .('e2 |
+f> d a2 (3e f g (3g f e |
+f> d a2 (3e f g (3g f e |
+(3f a g (3f e d!trill!!trill!e4 |
+{e}d4z2) .('c2 |
+f2 c> a f2 c3/ a/ |
+d2 c2 z2 c2 |
+(c f) (d c) c B B A |
+A2 G2 z2) .('c2 |
+e2 c> e g2 e3/ g/ |
+{g}a6(3b a g |
+(3a g a (3b a g f2 g2 |
+f2 d> B c2 d3/ B/ |
+(3A G A (3B A G F2 !trill!!trill!G2 |
+{G}F4z2) :|]
+
+X: 18032
+T: Marche ab Solniz
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 369224769
+%%humdrum-veritas-data 3643795519
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('d2 [I:setbarnb 1]|
+A2 A> c A2 A3/ c/ |
+A3 c/ B/ A2 F2 |
+F6E2 |
+F F A c f2 f2 |
+e2 e> c e2 c3/ e/ |
+{e}g6f e |
+f2 e f g f e d |
+e2> d2 c2 c2 |
+c4z2 c2 |
+(3c d e (3f e d c2 =B2 |
+c2 f> d e2 f3/ d/ |
+c6=B2 |
+{B}c4z2) |
+.('c2 [I:setbarnb 14]|
+c2 e> c e2 c3/ e/ |
+e2 f2 g2 e2 |
+A2 d2B4 |
+e4z2 ^c2 |
+d> f f2 (3^c d e (3e d c |
+d> f f2 (3^c d e (3e d c |
+d6^c2 |
+{^c}d4z2 =c2 |
+A2 A> c A2 A3/ c/ |
+B2 A2 z2 A2 |
+(A c) (B A) (A G) G F |
+F2 E2 z2 c2 |
+c2 c> e e2 c3/ e/ |
+{e}g6(3g f e |
+f6e2 |
+f2 B> G A2 B3/ G/ |
+F6E2 |
+{E}F4z2) :|]
+
+X: 18033
+T: [NLB198506_01]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1641935231
+%%humdrum-veritas-data 813753327
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: A clef=treble
+.('ecf |
+e/ d/ c/ B/A |
+A,CE |
+A/ G/ A/ B/A) |
+.('ecf |
+e/ d/ c/ B/A |
+A,CE |
+A3) |
+.('aga |
+ga/ g/ f/ e/ |
+EGB |
+e/ d/ e/ f/e) |
+.('aga |
+g/ a/ g/ f/e |
+EGB |
+e3) |
+.('ed/ c/ B/ A/ |
+GAA, |
+CEG |
+A/ G/ A/ B/A) |
+.('ed/ c/ B/ A/ |
+GAA, |
+CEG |
+A3) :|]
+
+X: 18034
+T: No 1
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3280807067
+%%humdrum-veritas-data 1831546143
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('ccee |
+ddf2) |
+.('egfe |
+dd/ e/dG) |
+.('ccee |
+ddf2) |
+.('egfe |
+e2d2) |
+.('ggee |
+ffd2) |
+.('egfe |
+dd/ e/dG) |
+.('ggee |
+ffd2) |
+.('egfe |
+d2c2) :|]
+
+X: 18035
+T: No 2
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2762206105
+%%humdrum-veritas-data 4011074496
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c'2b a |
+g2g2 |
+a g f e |
+d2d2) |
+.('c'2b a |
+g2g2 |
+a f e d |
+c4) |
+.('d2d f |
+e2d2 |
+c d e f |
+g2e2) |
+.('d2d f |
+e2d2 |
+c d e ^f |
+g4) |
+.('c'2b a |
+g2g2 |
+a g f e |
+d2d2) |
+.('c'2b a |
+g2g2 |
+a f d B |
+c4) :|]
+
+X: 18036
+T: No 3
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3432700493
+%%humdrum-veritas-data 2567745955
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('ceg |
+gf/ e/f) |
+.('Bdf |
+fe/ d/e) |
+.('ceg |
+c'b/ a/g) |
+.('aa/ g/ f/ e/ |
+e2d) |
+.('GBd |
+gf/ e/f) |
+.('GBd |
+fe/ d/e) |
+.('ceg |
+c'b/ a/g) |
+.('f/ a/ g/ f/ e/ d/ |
+d2c) :|]
+
+X: 18037
+T: No 4
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2372395516
+%%humdrum-veritas-data 3680075158
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('c d e |
+e d c |
+e f g |
+g f e) |
+.('c' b a |
+g f e |
+d f e |
+e2d) |
+.('g f e |
+f2d |
+e d c |
+d2G) |
+.('g f e |
+f e d |
+e d c |
+d3) |
+.('c d e |
+e d c |
+e f g |
+g f e) |
+.('c' b a |
+g f e |
+f2d |
+c2z) :|]
+
+X: 18038
+T: No 5
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2075430726
+%%humdrum-veritas-data 2639810113
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('dd/ c/BB/ A/ |
+GGG).('d |
+edcB |
+AA/ B/A2) |
+.('dd/ c/BB/ A/ |
+GGG).('B |
+AA/ G/FF/ E/ |
+D2z2) |
+.('AA/ B/cA |
+B2A2) |
+.('AA/ c/Bg |
+e^cd2) |
+.('dd/ c/BB/ A/ |
+GGG).('d |
+edcB |
+AA/ B/A2) |
+.('dd/ c/BB/ A/ |
+GGG).('g/ f/ |
+ed/ c/BA |
+G2z2) :|]
+
+X: 18039
+T: No 6
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3933928185
+%%humdrum-veritas-data 1532332325
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('GGG/ A/ |
+BBB/ c/ |
+def |
+g2z) |
+.('eee |
+d>cB |
+A/ B/cB |
+B2A) |
+.('ddd/ e/ |
+fff/ g/ |
+acc |
+B2z) |
+.('eee |
+d>cB |
+A/ c/BA |
+A2G) :|]
+
+X: 18040
+T: No 7
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 4208009475
+%%humdrum-veritas-data 406058566
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('d g [I:setbarnb 1]|
+d2B d |
+B2A/ B/ c/ d/ |
+e d c B |
+B A) .('d g |
+d2B d |
+B2A/ B/ c/ d/ |
+e c A F |
+G2) |
+.('A A [I:setbarnb 9]|
+A2B B |
+B2c c |
+a2g2 |
+f2).('A A |
+A2B B |
+B2c c |
+c2B2 |
+A2).('d g |
+d2B d |
+B2A/ B/ c/ d/ |
+e d c B |
+B A) .('d g |
+d2B d |
+B2A/ B/ c/ d/ |
+e c A f |
+g2) :|]
+
+X: 18041
+T: No 8
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 4247037229
+%%humdrum-veritas-data 3205548929
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: D clef=treble
+.('a2g2 |
+ff/ g/fA) |
+.('Bcde |
+f/ a/ g/ f/fe) |
+.('a2g2 |
+ff/ g/fA) |
+.('B/ g/ f/ e/dc |
+c2dz) |
+.('A2dF |
+GGG2) |
+.('F2AF |
+EEE2) |
+.('A2dF |
+GGG2) |
+.('F/ d/ B/ G/FE |
+E2Dz) :|]
+
+X: 18042
+T: No 9
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2853270513
+%%humdrum-veritas-data 3616497207
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('ddd |
+d2e |
+fff |
+f2).('g |
+afb/ a/ |
+gea/ f/ |
+fdg/ f/ |
+e2z) |
+.('aAA |
+A3 |
+gAA |
+A3) |
+.('fff |
+f>ga |
+g/ a/ f/ g/ e/ f/ |
+d2z) :|]
+
+X: 18043
+T: No 10
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1683931524
+%%humdrum-veritas-data 666660088
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('f a d e |
+f a d e |
+f a g f |
+f2e2) |
+.('f a d e |
+f a d e |
+f g f e |
+d4) |
+.('z A a A |
+z G g G |
+F G ^G A |
+F2E2) |
+.('z A a A |
+z G g G |
+F A C E |
+D4) |
+.('f a d e |
+f a d e |
+f a g f |
+f2e2) |
+.('f a d e |
+f a d e |
+f g e c |
+d4) :|]
+
+X: 18044
+T: No 11
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 4200942516
+%%humdrum-veritas-data 1199558059
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: F clef=treble
+.('f2ed/ e/ |
+fe/ d/cc) |
+.('dcBA |
+GG/ A/G2) |
+.('f2ed/ e/ |
+fe/ d/cc) |
+.('dc/ B/AG |
+G2F2) |
+.('G2AG/ A/ |
+BB/ A/G2) |
+.('ggga |
+bag2) |
+.('A2BA/ B/ |
+cc/ B/A2) |
+.('aaab |
+c'ba2) |
+.('f2ed/ e/ |
+fe/ d/cc) |
+.('dc/ B/AG |
+G2F2) :|]
+
+X: 18045
+T: No 12
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 849117220
+%%humdrum-veritas-data 3037082396
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('F [I:setbarnb 1]|
+F2AA2c |
+c2ff2).('c |
+c c' c c B A |
+A2GG2).('F |
+F2=BB2d |
+d2ff2).('d |
+e g c d f =B |
+c3-c2) |
+.('c [I:setbarnb 9]|
+c c' c B b B |
+A a AG2).('C |
+C c C B, B B, |
+A, A A,G,2).('F |
+F2AA2c |
+c2ff2).('c |
+d b a g f e |
+f3-f2) :|]
+
+X: 18046
+T: No 13
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2938545952
+%%humdrum-veritas-data 3173240547
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('(e a) !wedge!c !wedge!c |
+(d f) !wedge!B !wedge!B |
+(c e) !wedge!A !wedge!A |
+(G/ A/ B/) !wedge!G/E2) |
+.('(d f) !wedge!B !wedge!B |
+(c e) !wedge!A !wedge!A |
+(B d) !wedge!G !wedge!G |
+A4) |
+.('(G B) !wedge!E !wedge!E |
+(A c) !wedge!E !wedge!E |
+(B d) !wedge!G !wedge!G |
+(A/ B/ c/ d/)e2) |
+.('(G B) !wedge!E !wedge!E |
+(A c) !wedge!E !wedge!E |
+F A ^d f |
+e4) |
+.('(e a) !wedge!c !wedge!c |
+(d f) !wedge!B !wedge!B |
+(c e) !wedge!A !wedge!A |
+(G/ A/ B/) !wedge!G/E2) |
+.('(d f) !wedge!B !wedge!B |
+(c e) !wedge!A !wedge!A |
+B d g b |
+a4) :|]
+
+X: 18047
+T: No 14
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1282817163
+%%humdrum-veritas-data 2243057639
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('d2A d F A |
+D2z) .('a g f |
+e2f2g2 |
+g4f2) |
+.('d2(3A d A (3F A F |
+D2z) .('f e d |
+c2d2B2 |
+(B4A2)) |
+.('a2e a c e |
+A2z) .('e f g |
+g2f2e2 |
+(e2d)) .('d e f |
+f2e2d2 |
+(d2c)) .('A, B, C |
+D2_B,2^G,2 |
+!fermata!!trill!!trill!f4z2) |
+.('d2(3A d A (3F A F |
+D2z) .('f g a |
+b2g2e2 |
+(e4!fermata!d2)) :|]
+
+X: 18048
+T: No 15
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3323744943
+%%humdrum-veritas-data 3890737612
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('z D z A, z D |
+z F z D z F |
+z B z A z G |
+!turn!F2>E2D2) |
+.('c2d2c2 |
+c2>B2A2 |
+a2b2a2 |
+a2>g2f2) |
+{_e/} (3.('d c BA2G2 |
+{G2}F6) |
+.('z f z c z f |
+z a z f z a |
+z g z e z d |
+!turn!d2>e2^c2) |
+.('A2B2A2 |
+A2>G2F2 |
+f2g2f2 |
+f2>e2d2) |
+{c/} (3.('B A GF2E2 |
+{E2}D4z2) :|]
+
+X: 18049
+T: No 16
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3944498912
+%%humdrum-veritas-data 2651673771
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('!wedge!B!wedge!B [I:setbarnb 1]|
+{c}BA/ B/cc |
+!turn!cB).('dg/ f/ |
+edcB |
+{c}(BA)).('!wedge!B!wedge!B |
+{c}BA/ B/cc |
+!turn!cB).('dg/ f/ |
+{e}ed/ c/BA |
+!fermata!G2) ||
+.('B^c [I:setbarnb 9]|
+de/ f/gf |
+!turn!fe).('a/ A/ B/ c/ |
+Bg/ e/ {f/} e/ d/ {e/} d/ ^c/ |
+d2).('a/ A/ B/ c/ |
+{d}cBa/ ^c/ d/ e/ |
+{f}ed).('a/ e/ f/ g/ |
+{g}fg/ e/d^c |
+{c2}d2).('a/ A/ B/ c/ |
+{c}BA/ G/FE |
+!fermata!!trill!!trill!D2){.('E4 F4 G4 ^G4 A4 ^A4}!wedge!B!wedge!B |
+{c}BA/ B/cc |
+!turn!cB).('dg/ f/ |
+edcB |
+{c}BA).('!wedge!B!wedge!B |
+{c}BA/ B/cc |
+!turn!cB).('dg/ f/ |
+{f}ed/ c/BA |
+G2).('Be |
+{f}e^dz/ c'/ b/ a/ |
+{b}ag).('BB |
+cc/ B/AA |
+B2).('GG |
+AA/ G/FF |
+G2).('Be |
+{f}e^dz/ c'/ b/ a/ |
+{b}agz/) .('B/ c/ d/ |
+{d}cB/ A/GF |
+E2).('c'a |
+f^d!fermata!!trill!!trill!e3/f/ |
+e2) |]
+
+X: 18050
+T: No 17
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3858987015
+%%humdrum-veritas-data 3437632581
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: C clef=treble
+.('G [I:setbarnb 1]|
+c2c c d e |
+e2dc2).('d |
+e2e e f g |
+g2fe2).('g |
+a b c' g b c' |
+g2fe2).('g |
+a g f e d e |
+{f}e3d2) |
+.('d [I:setbarnb 9]|
+g2g g a b |
+b2ag2).('a |
+b2b b c' d' |
+d'2c'b2).('d |
+d e f f e d |
+c2ea2).('B |
+B c d d c B |
+c2eA2).('e |
+f e dc2e |
+A3-A2).('G |
+c2c c d e |
+e2dc2).('d |
+e2e e f g |
+g2fe2).('g |
+a b c' a b c' |
+g2fe2).('g |
+a g f e f e |
+c3-c2) :|]
+
+X: 18051
+T: No 18
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2756878815
+%%humdrum-veritas-data 3340788010
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('c2 e g [I:setbarnb 1]|
+c'2 c2 a2 c2 |
+g2 c2) .('f a f d |
+e g e c d f d B |
+c4) |
+.('G2 c e [I:setbarnb 5]|
+g2 G2 e2 G2 |
+f2 d2 G2) .('B d |
+f2 G2 d2 G2 |
+e2 c2) .('c2 e g |
+c'2 c2 a2 c2 |
+g2 c2) .('f a f d |
+e g e c d f d B |
+c4) :|]
+
+X: 18052
+T: No 19
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1306775843
+%%humdrum-veritas-data 696284079
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('f2-(3f a g (3f e d |
+c2B2A2) |
+(3.('G B d (3c A F (3B G E |
+E4F2) |
+.('g2-(3g e f (3g a =b |
+c'2f2e2) |
+(3.('f g a (3g e c (3f d =B |
+=B4B2) |
+.('g2-(3g c d (3e f g |
+a2-(3a f e (3f g a |
+b2-(3b e f (3g a =b |
+c'4z2) |
+.('f2-(3f a g (3f e d |
+c2B2A2) |
+(3.('G B d (3c A F (3B G E |
+E4!fermata!F2) |]
+
+X: 18053
+T: No 20
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 83890642
+%%humdrum-veritas-data 1000470218
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F2G |
+G2F) |
+.('CDE |
+E2D) |
+.('A>Bc |
+B>cd) |
+.('ced |
+d2c) |
+.('B,2_A, |
+_A,/ G,/ ^F,/ G,/ F,/ G,/) |
+.('C2B, |
+B,A,z) |
+.('D2C |
+C/ B,/ A,/ B,/ A,/ B,/) |
+.('E/ D/ C/ B,/ A,/ G,/ |
+D2z) |
+.('F2G |
+G2F) |
+.('ecA |
+A2B) :|]
+
+X: 18054
+T: No 21
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 4078681142
+%%humdrum-veritas-data 3541197466
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: Bb clef=treble
+.('f2 f e [I:setbarnb 1]|
+d2> f2 e2 e d |
+c4).('d2 d c |
+B2 A B c d e d |
+{e} d2 c2) .('f2 f e |
+d2> f2 e2 e d |
+c4).('d2 d e |
+(f ^f g e) d2 c2 |
+!fermata!B4) ||
+.('F2 G F [I:setbarnb 9]|
+B2> d2 (d c) c e |
+{f/} e2 d2) .('f2 d e |
+(f2 g) f (f e) (e d) |
+{e/} d2 c2) .('F2 G F |
+B2> d2 (c =e g) B |
+{c/} B2 A2) .('c2 d e |
+e d c B A c =E G |
+!fermata!!trill!!trill!F4).('f2 f e |
+d2> f2 e2 e d |
+c4).('d2 d c |
+B2 A B c d e d |
+{e/} d2 c2) .('f2 f e |
+d2> f2 e2 e d |
+c4).('d2 d e |
+(f ^f g) e d2 c2 |
+B4).('G2 B d |
+g2> e2 {e/} d c {c/} B A |
+G4).('d2 d f |
+e2> d2 c d e f |
+{e}d4).('B2 B d |
+c2> B2 A G ^F G |
+d4).('b2 b a |
+a2> b2 g2 g2 |
+^f4).('d2 d e |
+c2> d2 B2 B2 |
+A4).('(g2 e ^c) |
+(^c2 d2) (g2 e) c |
+!fermata!!trill!!trill!d4) |]
+
+X: 18055
+T: No 22
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3101130481
+%%humdrum-veritas-data 3128824157
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('g4f d e f |
+g a b c' d'2 D2) |
+.('!wedge!E2 !wedge!F2 !wedge!G2 !wedge!A2 |
+B A B cA4) |
+.('g4f d e f |
+g a b c' d'2 d2) |
+.('e2 d c B2 A2 |
+{B/}A4G4) |
+.('A4z c B A |
+B4z d c B |
+c4z e d c |
+B4z2) .('B,2 |
+!wedge!C2 !wedge!D2 !wedge!E2 !wedge!F2 |
+G F G A F2 D2) |
+.('E G F A G B A c |
+B A B cA4) |
+.('e2> g2 f e d ^c |
+^c4d4) |
+.('g4f d e f |
+g a b c' d' d e =f) |
+{f/} .('e2 d c B2 A2 |
+{B}A4G4) :|]
+
+X: 18056
+T: No 23
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3589703465
+%%humdrum-veritas-data 4194559453
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d [I:setbarnb 1]|
+{e/} d c dA2f |
+{g/} f e fd2).('a |
+a g fe2g |
+{a}g3f2).('d |
+{e/} d c dA2f |
+{g/} f e fd2).('a |
+e f d c d B |
+A3A2) |
+.('e [I:setbarnb 9]|
+{f/} e d eA2f |
+{g} f e fd2).('a |
+a f ^d B f a |
+g2fe2).('g |
+g e c A e g |
+f2ed2).('E |
+=F2CD2^G, |
+!fermata!!trill!!trill!A,3-A,2).('d |
+{e/} d c dA2f |
+{g/} f e fd2).('a |
+a b g f g e |
+d3-d2) :|]
+
+X: 18057
+T: No 24
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3193026006
+%%humdrum-veritas-data 771509710
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: A clef=treble
+.('a g [I:setbarnb 1]|
+a2 e2 e2 f e |
+(d c d) e d2) .('e d |
+(d c) B A (c B) A G |
+(A2 B) c d e) .('f g |
+a2 e2 e2 f e |
+(d c d e) d2) .('e d |
+(d c) B A (c B) A G |
+{G}A4z2) |
+.('e ^d [I:setbarnb 9]|
+e2 E2 E2 F G |
+(A G A B) A2) .('B c |
+(e d) c B (d c) B A |
+(c B) ^A B (=c ^c) .('d ^d) |
+e2 E2 E2 F G |
+(A G A B) A2) .('B c |
+(d e d) c (B c B) A |
+!fermata!e4z2) .('a g |
+a2 e2 e2 f e |
+d c d e e2) .('e d |
+(d c) B A (c B) A G |
+{G}A4z2) :|]
+
+X: 18058
+T: No 25
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1045524095
+%%humdrum-veritas-data 403101468
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('ecd |
+cBc |
+A>d f/ d/ |
+c2B) |
+.('ecd |
+cBc |
+A>d (3d/ c/ B/ |
+c2z) |
+.('G2d/ B/ |
+c2e/ c/ |
+G2d/ B/ |
+dcz) |
+.('e2f// e// d// e// |
+f2d/ e/ |
+cc(3d/ c/ B/ |
+c2z) :|]
+
+X: 18059
+T: No 26
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 4293489165
+%%humdrum-veritas-data 374983814
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G [I:setbarnb 1]|
+B4G4 |
+G F G A2< G2 d |
+d4c4 |
+B A B c2< B2) .('d |
+g4b3 d |
+e4e2 d2 |
+d2 c2 c2 B2 |
+B4A3) |
+.('A [I:setbarnb 9]|
+d4e4 |
+d ^c B A2< A2 B |
+c4d4 |
+c B A G2< G2) .('d |
+g4g4 |
+g4c2 e2 |
+d2 B2 A2 B2 |
+G6z) |]
+
+X: 18060
+T: No 27
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1331159640
+%%humdrum-veritas-data 943749030
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('GGdd |
+eed2) |
+.('ccBB |
+AAG2) |
+.('ddcc |
+BBAA) |
+.('ddcc |
+BBAA) |
+.('GGdd |
+eed2) |
+.('ccBB |
+AA!fermata!G2) :|]
+
+X: 18061
+T: No 28
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2726719087
+%%humdrum-veritas-data 171320953
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('GB/ d/ |
+cc |
+Bd/ B/ |
+A2) |
+.('GB/ d/ |
+ce/ c/ |
+BA |
+G2) |
+.('Bz |
+cz |
+Bd/ B/ |
+A2) |
+.('GB/ d/ |
+ce/ c/ |
+BA |
+!fermata!G2) :|]
+
+X: 18062
+T: No 29
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 4088703801
+%%humdrum-veritas-data 1759852986
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('dBc |
+d>ed) |
+.('cBA |
+B/ A/ B/ c/d) |
+.('dBc |
+d>ed) |
+.('cBA |
+G3) |
+.('cAA |
+BGG) |
+.('cAA |
+B/ A/ B/ c/d) |
+.('dBc |
+d>ed) |
+.('cBA |
+!fermata!G3) :|]
+
+X: 18063
+T: No 30
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3821904975
+%%humdrum-veritas-data 2719961600
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c2e dc2G2 |
+e2g f {f}e4) |
+.('d2d2d e f d |
+e2d2c4) |
+.('d c B c d c B c |
+d2e2f4) |
+.('e2g2a g f e |
+!trill!!trill!e4d4) |
+.('c2e dc2G2 |
+e2g f {f2}e4) |
+.('d2d2d e f d |
+e2d2!fermata!c4) :|]
+
+X: 18064
+T: No 31
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 885485663
+%%humdrum-veritas-data 3501808493
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: G clef=treble
+.('G B d2 d2 |
+d c c B B2) |
+.('G B d2 d2 |
+d c c B B2) |
+.('e f g2 d2 |
+e f g2 d2) |
+.('c d c2 B2 |
+A6) |
+.('D F A2 A2 |
+A G G F F2) |
+.('G B d2 d2 |
+d c c B B2) |
+.('d2 e2 d2 |
+d2 c2 B2) |
+.('d2 e f g e |
+d2 c2 B2) |
+.('A c B A G F |
+!fermata!G6) :|]
+
+X: 18065
+T: No 32
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 828876067
+%%humdrum-veritas-data 2918420202
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G B d B |
+c AA2) |
+.('B G G B |
+B2A2) |
+.('G B d B |
+c AA2) |
+.('B B/ c/ A A/ B/ |
+G4) |
+.('d g f g |
+f ed2) |
+.('c e d c |
+c2B2) |
+.('d g f g |
+f ed2) |
+.('d/ c/ B/ A/ c/ B/ A/ G/ |
+d4) |
+.('G B d B |
+c AA2) |
+.('B G G B |
+B2A2) |
+.('G B d B |
+c AA2) |
+.('B B/ c/ A A/ B/ |
+!fermata!G4) :|]
+
+X: 18066
+T: No 33
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 610960384
+%%humdrum-veritas-data 1121432063
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('c4e d c Bc4 |
+e4d e f de4) |
+.('g2 g f e2 e2 e2 e2 |
+f2 f e d2 d2 d2 d2) |
+.('e2 e d c2 c2 c2 c2 |
+d2 d c B2 B2 B2 B2) |
+.('c4e d c Bc4 |
+e4d e f de4) |
+.('g2 e g f2 d f e2 d c |
+B c d Bc4C4) |
+.('g2 g f e2 e2 e2 e2 |
+f2 f e d2 d2 d2 d2) |
+.('e2 e d c2 c2 c2 c2 |
+d2 d c B2 B2 B2 B2) |
+.('c4e d c Bc4 |
+e4d e f de4) |
+.('g2 e g f2 d f e2 d c |
+B c d Bc4!fermata!C4) :|]
+
+X: 18067
+T: No 34
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3456816198
+%%humdrum-veritas-data 815306726
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('A [I:setbarnb 1]|
+d d e e |
+{d/} c B/ A/ A) .('B/ c/ |
+d d e e |
+{g/}(f2e)) .('A |
+d d e e |
+{d/} c B/ A/ A) .('B/ c/ |
+d d e/ d/ e/ f/ |
+d2z) |
+.('f/ g/ [I:setbarnb 9]|
+a a f f |
+g ge2) |
+.('f d B e |
+{d/} c e/ c/ A) .('f/ g/ |
+a a f f |
+{a/} g ge2) |
+.('f/ d/ B/ e/ d c |
+d2!fermata!z2) :|]
+
+X: 18068
+T: No 35
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2171985564
+%%humdrum-veritas-data 4053851854
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: D clef=treble
+.('d2d f |
+a2a2 |
+e2{f2 e2 d2} e3/ f/ |
+g3e) |
+.('!wedge!d2(d f) |
+!wedge!e2(e f) |
+{d/} c z/ B/ c z/ e/ |
+d4) |
+.('e2e2 |
+e3c |
+B> c d z/ e/ |
+(d2c) z) |
+.('e2e2 |
+(f ^g) a z/ b/ |
+c'2!trill!!trill!b3/ c'/ |
+!fermata!a ^g =g e) |
+.('d2(d f) |
+a2a2 |
+e2{f e ^d} e3/ f/ |
+g3e) |
+.('!wedge!d2(d f) |
+!wedge!e2e g |
+{d} c z/ B/ c z/ e/ |
+!fermata!d4) :|]
+
+X: 18069
+T: No 36
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2343554961
+%%humdrum-veritas-data 1468777773
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d2>d2 e f |
+d2>d2 e f) |
+.('d e f e f g |
+f e d c B A) |
+.('d2>d2 e f |
+d2>d2 e f) |
+.('d e f g e c |
+d d dd3) |
+.('a2fa2e |
+f e d c B A) |
+.('a2fa2e |
+f e d c B A) |
+.('d2>d2 e f |
+d2>d2 e f) |
+.('d e f g e c |
+d d d!fermata!d3) :|]
+
+X: 18070
+T: No 37
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3137669521
+%%humdrum-veritas-data 2644243532
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A2>B2 A B |
+c3f2z) |
+.('F2>G2 F G |
+A c AG3) |
+.('A2>B2 A B |
+c3f2z) |
+.('F2>G2 F G |
+F3z2) ||
+.('c [I:setbarnb 9]|
+c2BG2B |
+c2AF2).('c |
+c2BG2B |
+c2AF2).('c |
+d2Bf2f |
+c2Af2).('f |
+c d c c B A |
+!trill!!trill!A3G2z) |]
+
+X: 18071
+T: No 38
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1617721524
+%%humdrum-veritas-data 2833823329
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: F clef=treble
+.('A2>B2 A B |
+c2ff2z) |
+.('F2>G2 F G |
+A B AG2z) |
+.('A2>B2 A B |
+c2ff2z) |
+.('A2>G2 F G |
+F3!fermata!z2) ||
+.('c [I:setbarnb 9]|
+c2B G A B |
+c2AF2).('c |
+c2B G A B |
+c2AF2).('c |
+d2Bf2f |
+c2Af2).('f |
+c d c c B A |
+A3G2z) :|]
+
+X: 18072
+T: No 39
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1363456049
+%%humdrum-veritas-data 2878823364
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: G clef=treble
+.('G A B c [I:setbarnb 1]|
+d2d2e2e2 |
+d2d2).('c2c2 |
+B c d e d c B A |
+G4) |
+.('A2B2 [I:setbarnb 5]|
+A2B cd2c B |
+A4).('A2B2 |
+A2B cd2c B |
+A4).('G A B c |
+d2d2e2e2 |
+d2d2).('c2c2 |
+B c d e d c B A |
+!fermata!G4) :|]
+
+X: 18073
+T: No 40
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3274310133
+%%humdrum-veritas-data 3921968595
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('d2e [I:setbarnb 1]|
+fg2e d e |
+d2A).('d2e |
+f2g e d e |
+d3) |
+.('d c d [I:setbarnb 5]|
+B3e2d |
+c B A) .('d c d |
+B3e2c |
+d3) |
+.('a2f [I:setbarnb 9]|
+a2f e f g |
+f2d).('a2f |
+a2f e d e |
+!fermata!d3) :|]
+
+X: 18074
+T: No 41
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2605390170
+%%humdrum-veritas-data 2872273571
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: 3/8=80
+K: D clef=treble
+.('f2>f2 g f |
+e2>e2 f e) |
+.('d2df2a |
+e2e e d e) |
+.('f2>f2 g f |
+e2>e2 f e) |
+.('d f d c B c |
+d d dd2z) ||
+.('A2>A2 B c [I:setbarnb 10]|
+d2>d2 e f) |
+.('e2>e2 f g |
+f a f d f d) |
+.('A2>A2 B c |
+d2>d2 e f) |
+.('e f g f e d |
+a2>a2 ^g =g) |]
+
+X: 18075
+T: No 42
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 804932808
+%%humdrum-veritas-data 2422946048
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('f2d |
+d> c d |
+f2d |
+d> c d) |
+.('e2e |
+a2a |
+(f3 |
+d2)z) |
+.('f2d |
+d> c d |
+f2d |
+d> c d) |
+.('e2e |
+a2a |
+d2z) :|]
+.('e2e |
+a2a |
+f> e f |
+d2d) |
+.('e2e |
+a2a |
+(f3 |
+d2)z) |
+.('b2g |
+g> f g |
+a2f |
+f> e f) |
+.('g2e |
+e> d c |
+d3 |
+d2z) :|]
+
+X: 18076
+T: No 43
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3859404319
+%%humdrum-veritas-data 388415968
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('d4f a |
+g f e d c B |
+A B c d e c |
+d2 f2 A2) |
+.('d4f a |
+g f e d c B |
+A B c d e c |
+d6) |
+.('a2 g2 f2 |
+f4e2 |
+b2 a2 g2 |
+g4f2) |
+.('a2 g2 f2 |
+b2 a2 g2 |
+f2 a g f e |
+!fermata!d6) :|]
+
+X: 18077
+T: No 44
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1625664092
+%%humdrum-veritas-data 1319902606
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('F2 A F A F |
+C4B2 |
+A2 c2 f2 |
+e f g e f2) |
+.('F2 A F A F |
+C4B2 |
+A2 f2 e2 |
+f6) |
+.('B2 g B g B |
+A2 f A f A |
+G2 e G e G |
+A2 f A f A) |
+.('B2 g B g B |
+A2 f A f A |
+G2 e G e G |
+!fermata!f6) :|]
+
+X: 18078
+T: No 45
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3953438883
+%%humdrum-veritas-data 3139540150
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('c f a f a f |
+c f a f a f |
+b2 b2 a2 |
+g6) |
+.('c f a f a f |
+c f a f a f |
+c'2 c'2 e2 |
+f4z2) |
+.('c2 e2 c2 |
+c4A2 |
+B2 d2 B2 |
+B4G2) |
+.('A2 c2 A2 |
+A2 c2 A2 |
+c B A G F E |
+F4!fermata!z2) :|]
+
+X: 18079
+T: No 46
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2890792486
+%%humdrum-veritas-data 276113265
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G F G A B2 B2 |
+G F G A B2 B2) |
+.('d c B c A2 A2 |
+d c B c A2 A2) |
+.('G F G A B2 B2 |
+G F G A B2 B2) |
+.('d c B c d c B A |
+G2 B2B4) |
+.('d2 d2 B2 B2 |
+g2 g2d4) |
+.('d c B c A2 A2 |
+d c B c A2 A2) |
+.('d2 d2 B2 B2 |
+g2 g2d4) |
+.('d c B c d c B A |
+G2 B2!fermata!B4) :|]
+
+X: 18080
+T: No 47
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 4009286494
+%%humdrum-veritas-data 833273346
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('g [I:setbarnb 1]|
+g/ a/ g/ f/ e/ d/ |
+c c c |
+d d G |
+e2).('g |
+g/ a/ g/ f/ e/ d/ |
+c c c |
+d g B |
+c3) |
+.('B d d |
+g2d |
+a2d |
+b/ c'/ b/ a/ g) |
+.('B d d |
+g2B/ d/ |
+c A ^F |
+G3) |
+.('c f g |
+a2c' |
+c f g |
+a/ g/ a/ b/ c') |
+.('c f f |
+c a a |
+b g e |
+f3) :|]
+
+X: 18081
+T: No 48
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 483002210
+%%humdrum-veritas-data 3986967076
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('c2c2c2 |
+^c> dd4) |
+.('B2B2B2 |
+=B> cc4) |
+.('f e e d d c |
+d c c B B A) |
+.('G4A2 |
+B4A2) |
+.('G2G2G2 |
+G4z2) |
+.('g2g2g2 |
+g> af4) |
+.('f2f2f2 |
+f> ge4) |
+.('c' =b b a a g |
+a g g f f e) |
+.('f2e2d2 |
+d2c2z2) |
+.('c2c2c2 |
+^c> dd4) |
+.('G d c B A G |
+F4!fermata!z2) :|]
+
+X: 18082
+T: No 49
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1906005420
+%%humdrum-veritas-data 3033308856
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('F [I:setbarnb 1]|
+BBB |
+B2).('d/ e/ |
+fga |
+b2){.('g} f/ =e/ |
+fAA |
+G2){g} .('f/ =e/ |
+fAA |
+B2) |
+.('F [I:setbarnb 9]|
+fff |
+e2).('F/ B/ |
+ddd |
+c2).('d/ e/ |
+z/ (f/ =e/ f/ g/ f/) |
+z/ (e/ d/ e/ f/ e/) |
+z/) .('(d/ c/ d/ e/ d/) |
+c2).('F |
+BBB |
+B2).('d/ e/ |
+fga |
+b2z) |
+.('zaa |
+zbb |
+zaa |
+!fermata!b2) :|]
+
+X: 18083
+T: No 50
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2353351048
+%%humdrum-veritas-data 587155952
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: C clef=treble
+.('g> a g f |
+e e e g |
+g f f e |
+e2d2) |
+.('g> a g f |
+e e e g |
+f2d2 |
+c4) ||
+.('!trill!!trill!g4 [I:setbarnb 10]|
+g4 |
+g4 |
+g4 |
+g4 |
+g4 |
+g4 |
+!fermata!g4) ||
+.('A> B c d [I:setbarnb 18]|
+e ee2 |
+d B d A |
+(A2^G2)) |
+.('A> B c d |
+e ee2 |
+d c B A |
+!fermata!e4) ||
+.('g> a g f [I:setbarnb 26]|
+e e e g |
+g f f e |
+e2d2) |
+.('g> a g f |
+e e e g |
+f2b2 |
+c'4) |]
+
+X: 18084
+T: No 51
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2505733854
+%%humdrum-veritas-data 3746058208
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('g g [I:setbarnb 1]|
+g> a b a |
+g2d d |
+e e e/ f/ g/ e/ |
+d2).('g g |
+g> a b a |
+g2d d |
+e/ f/ g/ a/ (g/ f/) e/ f/ |
+f2) |
+.('d d [I:setbarnb 9]|
+^c c =c c |
+B2d d |
+^c c =c c |
+B2).('g g |
+g> a b a |
+g2d d |
+e/ f/ g/ a/ g/ (f/ e/) f/ |
+!fermata!g2) :|]
+
+X: 18085
+T: No 52
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2033853189
+%%humdrum-veritas-data 3314685082
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: F clef=treble
+.('c'/ a/ c'/ a/ c'/ a/ |
+fcA) |
+.('c'/ a/ c'/ a/ c'/ a/ |
+fcA) |
+.('ggg |
+a/ b/ a/ g/f) |
+.('bba |
+g2z) |
+.('ccc |
+e/ f/ e/ d/c) |
+.('ggg |
+e/ f/ e/ d/c) |
+.('fff |
+ggg) |
+.('aa=b |
+a2z) |
+.('c'/ a/ c'/ a/ c'/ a/ |
+fcA) |
+.('c'/ a/ c'/ a/ c'/ a/ |
+fcA) |
+.('ggg |
+a/ b/ a/ g/f) |
+.('gge |
+!fermata!f2) :|]
+
+X: 18086
+T: No 53
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 799909350
+%%humdrum-veritas-data 4066613059
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('!wedge!c!wedge!c(ce) |
+!wedge!e!wedge!e(eg)) |
+.('(ge)(ge) |
+(d/ c/) !wedge!d/ !wedge!e/dz) |
+.('!wedge!c!wedge!c(ce) |
+!wedge!e!wedge!e(eg)) |
+.('(ge)!wedge!g/ !wedge!f/ !wedge!e/ !wedge!d/ |
+cccz) |
+.('(df)fd |
+(eg)!wedge!g!wedge!e) |
+.('(eg)f/ e/ d/ c/ |
+d/ c/ d/ e/dz) |
+.('dffd |
+egge) |
+.('dfe/ f/ e/ d/ |
+cccz) :|]
+
+X: 18087
+T: No 54
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 765756147
+%%humdrum-veritas-data 728069162
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: C clef=treble
+.('(GcB) |
+(Afe) |
+(dcB) |
+g3) |
+.('(GcB) |
+(Afe) |
+(dcB) |
+c2z) |
+.('(dGG) |
+(eGG) |
+(gfe) |
+e2-e) |
+.('(dGG) |
+ecg |
+(fdB) |
+czz) :|]
+
+X: 18088
+T: No 55
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1602862537
+%%humdrum-veritas-data 1940197694
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: F clef=treble
+.('!wedge!F !wedge!A !wedge!F !wedge!A |
+c BB2) |
+.('!wedge!E !wedge!G !wedge!E !wedge!G |
+B AA2) |
+.('(f e) !wedge!f !wedge!d |
+(d c) !wedge!B !wedge!A) |
+.('(c B) (B A) |
+(A2G) z) |
+.('e2g e |
+f cc2 |
+z) .('c B A |
+A2G z) |
+.('e2g e |
+f cc2 |
+z) .('B A G |
+F2z2) :|]
+
+X: 18089
+T: No 56
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1452154264
+%%humdrum-veritas-data 614597113
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: F clef=treble
+.('f f f |
+f2a |
+c c c |
+c2f) |
+.('c2A |
+c B A |
+G G G |
+G3) |
+.('f f f |
+f2a |
+c c c |
+c2f) |
+.('c2A |
+c2A |
+B G E |
+!fermata!F3) |
+.('G G G |
+B2G |
+A A A |
+c2A) |
+.('f2e |
+f d =B |
+d c c |
+c3) |
+.('G G G |
+B2G |
+A A A |
+c2A) |
+.('f2e |
+f d =B |
+c c c |
+c3) |]
+
+X: 18090
+T: No 57
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1177053998
+%%humdrum-veritas-data 3958318697
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('(G c c) |
+e2c |
+d c B |
+c2G) |
+.('(G c c) |
+e2c |
+(A d) ^F |
+G2z) |
+.('z g g |
+z f f |
+z e e |
+z d d |
+z) .('g/ e/ g/ e/ |
+z f/ d/ f/ d/ |
+z e/ c/ e/ c/ |
+d2z) |
+.('G c c |
+e2c |
+d c B |
+c2G) |
+.('G c c |
+e2c |
+A A B |
+c2z) :|]
+
+X: 18091
+T: Slyffer
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3872269225
+%%humdrum-veritas-data 2149787792
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: Bb clef=treble
+.('f g [I:setbarnb 1]|
+f2 (e d) (e c) |
+B2 (d F) (d F) |
+A2 (c F) (c F) |
+B2 (d F) (d F)) |
+.('f2 (e d) (e c) |
+B2 (d F) (d F) |
+A2 (c F) (c F) |
+B6) |
+.('x2 d2 c B |
+F2 (e F) (e F) |
+F2 (d F) (d F) |
+A c =e g b g |
+(g f =e f) d B) |
+.('F2 (e F) (e F) |
+F2 (d F) (d F) |
+(D F A c) e A |
+B6) :|]
+
+X: 18092
+T: Contredans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1077937891
+%%humdrum-veritas-data 1612075553
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('c2 [I:setbarnb 1]|
+c2 A2 c2 |
+c2 A2 c2 |
+(c2 A2) c2 |
+g4).('e2 |
+(f g a f d f) |
+(e f g e c e) |
+d2 c2 B2 |
+c4) |
+.('c d [I:setbarnb 9]|
+e2 e2 e2 |
+(e f e d c B) |
+(A2 B2) B2 |
+B4).('e f |
+g2 g2 g2 |
+g a g f e d |
+c2 (c e d B) |
+c4) |
+.('G2 [I:setbarnb 17]|
+c2 c2 c2 |
+f4d2 |
+c B A G A B |
+(c B c d)) .('c2 |
+c2 c2 c2 |
+f4d2 |
+(c B A G A B) |
+c4) :|]
+
+X: 18093
+T: No. 80
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3057154645
+%%humdrum-veritas-data 1378102685
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: D clef=treble
+.('a a a |
+f f f |
+g e c |
+d/ c/ d/ e/ f/ g/) |
+.('a a a |
+f f f |
+g e c |
+d3) |
+.('A c e |
+g g g |
+A d f |
+a a a) |
+.('b g e |
+a f d |
+g e c |
+d3) :|]
+
+X: 18094
+T: Englese Contredans
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3789846930
+%%humdrum-veritas-data 546537867
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=120
+K: G clef=treble
+.('G B d c |
+c A F D |
+G B d B |
+c A F D) |
+.('G B d g |
+e c g e |
+d c B A |
+G2G2) |
+.('D F A c |
+D G B d |
+c B A G |
+G F E D) |
+.('D F A c |
+D G B d |
+c A G F |
+G2G2) :|]
+
+X: 18095
+T: No341
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1699381400
+%%humdrum-veritas-data 2844427475
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: Bb clef=treble
+.('d [I:setbarnb 1]|
+g>gf3/e/ |
+dd2c/ B/ |
+cd!trill!!trill!B3/A/ |
+BG2).('B/ c/ |
+dBf3/g/ |
+f3F |
+B>c!trill!!trill!c3/B/ |
+B3) |
+.('B/ c/ [I:setbarnb 9]|
+de=B3/B/ |
+cc2d |
+G>AB3/c/ |
+A3).('d/ =e/ |
+fdg3/a/ |
+^fdgB |
+c3/d// A//!trill!!trill!A3/G/ |
+G3) :|]
+
+X: 18096
+T: 296
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 4120981892
+%%humdrum-veritas-data 3516129213
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 4/4
+Q: 1/4=120
+K: Bb clef=treble
+.('d [I:setbarnb 1]|
+g>gf3/e/ |
+dd2c/ B/ |
+cdB3/A/ |
+BG2).('B/ c/ |
+dBf3/g/ |
+f3F |
+B>cc3/B/ |
+B3) |
+.('B/ c/ [I:setbarnb 9]|
+de=B3/B/ |
+cc2d |
+G>AB3/c/ |
+A3).('d/ =e/ |
+fdg3/a/ |
+^fdgB |
+c3/d// A//A3/G/ |
+G3) :|]
+
+X: 18097
+T: [217.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2337989513
+%%humdrum-veritas-data 319544593
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: F clef=treble
+.('d c [I:setbarnb 1]|
+B A G AB2c2 |
+d2G2d2).('b2 |
+a2g2^f g a f |
+g ^f g ag2).('d c |
+B A G AB2c2 |
+d2G2d2).('b2 |
+a2g2^f g a f |
+g6) |
+.('d _e [I:setbarnb 9]|
+f2_e de2d c |
+d2B2B2).('d2 |
+c2A B c B A G |
+A2F2F2).('d _e |
+f2_e de2d c |
+d2B2d2).('g2 |
+B2A2A3G |
+!fermata!G6) :|]
+
+X: 18098
+T: [398]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1272624887
+%%humdrum-veritas-data 3854752925
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: D clef=treble
+.('dab |
+g>fe |
+f>ga |
+dBe |
+cAe |
+d>cB |
+cd/ c/ B/ A/ |
+B^GA- |
+A/ B<BA/ |
+A).('ef |
+gg3/a/ |
+fga |
+b/ a<gf/ |
+eAa |
+(ad)g |
+(gc)d- |
+d/ e<ed/ |
+d).('ef |
+gg3/a/ |
+fga |
+b/ a<gf/ |
+eAa |
+(ad)g |
+(gc)d- |
+d/ e<ed/) ||
+
+X: 18099
+T: [398]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1977659130
+%%humdrum-veritas-data 1213031530
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/8
+Q: 3/8=80
+K: C clef=treble
+.('d2d |
+f g/ f/ e/ d/ |
+a2A |
+B/ A/ B/ ^c/ d/ e/ |
+^c A d |
+e2d |
+e2f |
+ga2 |
+e2) |
+.('d [I:setbarnb 10]|
+a _b/ a/ g/ f/ |
+c'2c |
+d/ c/ d/ e/ (f/ g/) |
+e c f |
+g2f |
+g2f |
+_bg2 |
+f2).('a |
+_b c'/ b/ a/ g/ |
+a d e |
+f g/ f/ e/ d/ |
+e A d |
+e2d |
+e2d |
+ge2 |
+d2) |]
+
+X: 18100
+T: [293]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3131463600
+%%humdrum-veritas-data 3733787957
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('A B [I:setbarnb 1]|
+c2c2B2A2 |
+e d e fe2^f ^g |
+a2c2B2e2 |
+{d}c2B cA2).('A B |
+c2c2d c B A |
+e4e2^f ^g |
+a2c2d c B c |
+A6) |
+.('a2 [I:setbarnb 9]|
+a2a2A2a2 |
+g2g2G2g2 |
+^f2>e2 ^d e f d |
+e4E4) |
+.('e d e fe2a2 |
+d4d2e d |
+c B c d c e d c |
+B4B4) |
+.('c2(B c) A B c d |
+e d e fe2a2 |
+^g2a be2g2 |
+a6) :|]
+
+X: 18101
+T: [17]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2988446336
+%%humdrum-veritas-data 3851180401
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('~A B [I:setbarnb 1]|
+c2c2!trill!!trill!B2A2 |
+e2d e f e ~f g |
+~a2c2B2~e2 |
+!trill!!trill!c2B cA2).('~A B |
+c2c2!trill!!trill!B2A2 |
+e d e fe2~f g |
+~a2c2!trill!!trill!B3A |
+~A4x) |
+.('e f g [I:setbarnb 9]|
+~a2A2A2a2 |
+~g2G2G2g2 |
+!trill!!trill!^f2e2^d e f d |
+~e4e4) |
+.('~e2e ee2~a2 |
+d4d4 |
+~c2c cc2~e2 |
+!trill!!trill!B4B4) |
+.('~c2B c A B c d |
+e d e fe2).('a2 |
+^g2~a2~b2a g |
+~a4) :|]
+
+X: 18102
+T: [60.]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 384690916
+%%humdrum-veritas-data 3568349793
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 4/4
+Q: 1/4=120
+K: C clef=treble
+.('c2c2!trill!!trill!c2{B}A2 |
+e d e fe2).('(^f ^g) |
+a2c2B2e2 |
+c d c B A) .('^G A B |
+c2c2!trill!!trill!c2{B}A2 |
+e d e fe2).('(^f ^g) |
+a2c2d c B c |
+A4A4) |
+.('a2a2A2a2 |
+g2g2G2g2) |
+.('^f2e2f2{e}^d2 |
+e4e4) |
+.('e2c d e f g a |
+!trill!!trill!d4d4) |
+.('c B c dc2d2 |
+!trill!!trill!B4B4) |
+.('c d c B A B c d |
+e d e fe2a2) |
+.('^g2a2b2{a}g2 |
+a4!fermata!a4) :|]
+
+X: 18103
+T: [No 7]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 3504932264
+%%humdrum-veritas-data 2510368923
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: 1/2=60
+K: C clef=treble
+.('ccBA |
+e/ d/ e/ f/e^f/ ^g/ |
+adBe |
+c>BAE |
+ccBA |
+e/ d/ e/ f/e^f/ ^g/ |
+acB3/A/ |
+A3x) |
+.('aaAa |
+ggGg |
+^fee^d |
+ee3 |
+e>fea |
+d2d2 |
+c/ B/ c/ d/ce |
+B2B2 |
+c>B A/ B/ c/ d/ |
+e/ d/ e/ f/ea |
+^gabg |
+a2a2) :|]
+
+X: 18104
+T: 396
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 1229112636
+%%humdrum-veritas-data 2639334615
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 3/8
+Q: 3/8=80
+K: A clef=treble
+.('A4E2 |
+A2 c B A c |
+B2 E2 B2 |
+e2 a g f e) |
+.('^d2 B2 e2 |
+{d} c2 B A G A |
+B2 A G F G |
+A2 G2 F2) |
+.('G2 E2 e2 |
+f2 e d c d |
+e2 d c B A |
+G2 F3 E |
+E6) |]
+
+X: 18105
+T: [No505]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2536404966
+%%humdrum-veritas-data 1577734587
+%%continueall 1
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: 1/4=120
+K: G clef=treble
+.('cdg |
+A2B |
+DGA |
+B/ A/ B/ c/B) |
+.('B/ c/dg |
+A2B |
+DGA |
+B3) |
+.('B/ c/dd |
+d3 |
+c/ d/ee |
+e3) |
+.('def |
+gf/ e/ d/ c/ |
+BA/ G/ A/ F/ |
+G3) :|]
+
+X: 18106
+T: [12]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 60130681
+%%humdrum-veritas-data 3998528915
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: 1/4=120
+K: Bb clef=treble
+.('d ef2g2 |
+c4d2 |
+(B c) x (c3/ B// c//) x |
+d c d ee2) |
+.('d ef2g2 |
+c4d2 |
+(B c) x (c3/ B// c//) x |
+d6) |
+.('d ef2f2 |
+{g}f4f2 |
+d ef2d2 |
+g4g2) |
+.('f2g2a2 |
+b2a g f e |
+(3(d e f)c3B |
+B6) :|]
+
+X: 18107
+T: [No. 12]
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2018/11/01 14:38:19
+%%humdrum-veritas 2097028720
+%%humdrum-veritas-data 3849043914
+%%continueall 1
+%%barnumbers 0
+L: 1/16
+M: 2/2
+Q: 1/2=60
+K: G clef=treble
+.('B4B4B6d B |
+A2 G2 A2 B4<G4d2 |
+e2> c2 (e c) (e c2<) d2 B G2 G2 |
+e2> c2 (e c) (e c2<) d2 B G2 G2 |
+e2 e d c2 c BB4A4) |
+.('f4f4f6a f |
+e2 d2 e2 f4<d4a f |
+e2 d2 e2 f2 d2 f2 a2 f2) |
+.('(g f e d) (^c d e c)d6d2 |
+e2> c2 (e c) (e c2<) d2 B G2 G2 |
+e2> c2 (e c) (e c2<) d2 B G2 G2 |
+e2 e d c2 c BB4A4) |
+.('(G B A B) (c B A B) (G B A B) (c B A B) |
+(G A B c) (d e f g)B4A4 |
+(G B A B) (c B A B) (G B A B) (c B A B) |
+(G A B c) (d e f g)B4A4 |
+G8) :|]

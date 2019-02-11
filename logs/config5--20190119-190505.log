@@ -1,0 +1,70 @@
+vocabulary size: 13035
+<type 'int'>
+<type 'numpy.float64'>
+n tunes: 999
+n train tunes: 935
+n validation tunes: 64
+min, max length 39 835
+Building the model
+  number of parameters: 208545956
+  layer output shapes:               #params:   output shape:
+    InputLayer                       0          (32, None)
+    EmbeddingLayer                   169911225  (32, None, 13035)
+    InputLayer                       0          (32, None)
+    LSTMLayer                        27747328   (32, None, 512)
+    DropoutLayer                     0          (32, None, 512)
+    LSTMLayer                        2100224    (32, None, 512)
+    DropoutLayer                     0          (32, None, 512)
+    LSTMLayer                        2100224    (32, None, 512)
+    DropoutLayer                     0          (32, None, 512)
+    ReshapeLayer                     0          (None, 512)
+    DenseLayer                       6686955    (None, 13035)
+Train model
+1/2900 (epoch 0.034) train_loss=1106.96655273 time/batch=1.22s
+2/2900 (epoch 0.069) train_loss=831.59350586 time/batch=0.46s
+3/2900 (epoch 0.103) train_loss=904.71997070 time/batch=0.66s
+4/2900 (epoch 0.138) train_loss=491.53332520 time/batch=0.45s
+5/2900 (epoch 0.172) train_loss=881.34350586 time/batch=0.78s
+6/2900 (epoch 0.207) train_loss=392.91333008 time/batch=0.42s
+7/2900 (epoch 0.241) train_loss=357.11523438 time/batch=0.28s
+8/2900 (epoch 0.276) train_loss=598.40625000 time/batch=0.44s
+9/2900 (epoch 0.310) train_loss=721.03662109 time/batch=0.89s
+Traceback (most recent call last):
+  File "train_rnn.py", line 207, in <module>
+    train_loss = train(x_batch, mask_batch)
+  File "D:\Anaconda\lib\site-packages\theano\compile\function_module.py", line 917, in __call__
+    storage_map=getattr(self.fn, 'storage_map', None))
+  File "D:\Anaconda\lib\site-packages\theano\gof\link.py", line 325, in raise_with_op
+    reraise(exc_type, exc_value, exc_trace)
+  File "D:\Anaconda\lib\site-packages\theano\compile\function_module.py", line 903, in __call__
+    self.fn() if output_subset is None else\
+  File "pygpu\gpuarray.pyx", line 700, in pygpu.gpuarray.pygpu_empty
+  File "pygpu\gpuarray.pyx", line 301, in pygpu.gpuarray.array_empty
+pygpu.gpuarray.GpuArrayException: cuMemAlloc: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+Apply node that caused the error: GpuAdvancedSubtensor1(W, GpuContiguous.0)
+Toposort index: 209
+Inputs types: [GpuArrayType<None>(float32, matrix), GpuArrayType<None>(int64, vector)]
+Inputs shapes: [(26720, 13035), (26720,)]
+Inputs strides: [(52140, 4), (8,)]
+Inputs values: ['not shown', 'not shown']
+Outputs clients: [[GpuReshape{3}(GpuAdvancedSubtensor1.0, MakeVector{dtype='int64'}.0)]]
+
+Backtrace when the node is created(use Theano flag traceback.limit=N to make it longer):
+  File "train_rnn.py", line 132, in <module>
+    predictions = nn.layers.get_output(l_out)
+  File "D:\Anaconda\lib\site-packages\lasagne\layers\helper.py", line 197, in get_output
+    all_outputs[layer] = layer.get_output_for(layer_inputs, **kwargs)
+  File "D:\Anaconda\lib\site-packages\lasagne\layers\embedding.py", line 69, in get_output_for
+    return self.W[input]
+  File "D:\Anaconda\lib\site-packages\theano\gpuarray\type.py", line 675, in __getitem__
+    return _operators.__getitem__(self, *args)
+  File "train_rnn.py", line 132, in <module>
+    predictions = nn.layers.get_output(l_out)
+  File "D:\Anaconda\lib\site-packages\lasagne\layers\helper.py", line 197, in get_output
+    all_outputs[layer] = layer.get_output_for(layer_inputs, **kwargs)
+  File "D:\Anaconda\lib\site-packages\lasagne\layers\embedding.py", line 69, in get_output_for
+    return self.W[input]
+  File "D:\Anaconda\lib\site-packages\theano\gpuarray\type.py", line 675, in __getitem__
+    return _operators.__getitem__(self, *args)
+
+HINT: Use the Theano flag 'exception_verbosity=high' for a debugprint and storage map footprint of this apply node.

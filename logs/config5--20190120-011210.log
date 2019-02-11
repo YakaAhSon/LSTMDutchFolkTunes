@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "train_rnn.py", line 51, in <module>
+    tokens_set = set(data.split())
+AttributeError: 'list' object has no attribute 'split'

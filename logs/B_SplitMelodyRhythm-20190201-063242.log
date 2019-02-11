@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "train_rnn.py", line 42, in <module>
+    tunes = tune_parser.loadTrainingSet()
+  File "E:\Documents\projects\ducth-folk-songs\tune_parser.py", line 168, in loadTrainingSet
+    return [Tune(i) for i in DutchFolkTunes.tune_strings]
+  File "E:\Documents\projects\ducth-folk-songs\tune_parser.py", line 143, in __init__
+    self.parseLine(line)
+  File "E:\Documents\projects\ducth-folk-songs\tune_parser.py", line 129, in parseLine
+    self.parseBodyLine(line)
+  File "E:\Documents\projects\ducth-folk-songs\tune_parser.py", line 111, in parseBodyLine
+    self.addToken(token)
+  File "E:\Documents\projects\ducth-folk-songs\tune_parser.py", line 82, in addToken
+    note = Note(token)
+  File "E:\Documents\projects\ducth-folk-songs\tune_parser.py", line 67, in __init__
+    self.pitch = height2pitch(pitch2height(self.pitch))
+  File "E:\Documents\projects\ducth-folk-songs\tune_parser.py", line 54, in pitch2height
+    result = pitches[g.group()]
+AttributeError: 'NoneType' object has no attribute 'group'

@@ -1,0 +1,7999 @@
+X:0
+T: 0
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2BG2A|B2BB2B|B2Bc2c|d3g2d/d/|d2dedc|B2AG2B/B/|A2BcAG/A/|B3G2|]
+
+X:1
+T: 1
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+d2d|f2f|e>fg|f>ed|^c2d|e2f|gf2|e3|a2b|c'3|g>af|e2f|f2f|f/e/d/c/B/c/|d2d|c2c|d2c|B>AB|A3|G2F|F2C|A>AB|c2c|B2B/B/|c2d|e2e|g2e|g2a|f2e/d/|^c2c|d2A|B2B|c3|c2c|c2B|A>BA|G2A|F2|]
+
+X:2
+T: 2
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: C clef=treble
+G|GGG|cdc|BAG|E2E|GGG|DDD|FED|C2C|G/G/GG|cBA|G/F/E/D/C/D/|C2z|cBA|GEG|ABA|AGd|c/B/AG|GzG|cdc|BAB|cBA|G2c|ccB|c2z/|]
+
+X:3
+T: 3
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: Bb clef=treble
+AGF|G3|EFG|C2C|GBA|G3|c2B|AGF|G3|G3|F3|BAG|F/G/EF|G3|F3|D2F|EFE|D3|G2F|E/F/BA|G3|]
+
+X:4
+T: 4
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+e^de2|fg2a|gf2g|gfee|fgg2|fed/c/B/A/|Bc2d|edc2|b2c'a|bab2|abd2|g2ec/e/|fg/a/dc|d2ze/d/|cB/A<BA/|dAFF|B2G2|FEDC|G,2A,/C/A,/E/|B,2g2|gfed|ggcA|B/c/ddd|cd/e/c2|B/c/dBG|A/B/c/d/cf|g/f/e/d/cc|c2f2|]
+
+X:5
+T: 5
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+G|EEEE|D>EDG|GA/G/FE|cBAB|c2zG|AABB/c/|dccB/B/|G/_G/G/A/BG/A/|BAG/A/G|ceed/c/|BABd/c/|BdG3/F/|GBA2|]
+
+X:6
+T: 6
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+B2|B3A/G/A2|G2ABcA|BG2GGG|A4A3/B/|cBAGcd|B2A2B3/d/|cBABcd|B2z2c3/c/|c2BBAA|c2B2d2|e2d2cB|A2>G2FE|D2E2FD|G4zedc|B2AAG2|FG4|]
+
+X:7
+T: 7
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+G|cdc/d/e/d/|ccc3/B/|cczd|cz/^c/dd2c|Bcd/d/f/e/|d2d2|dded/c/|dcBc|ccBc/d/|zddc|B2AG|G2z2|ddGc|AG/A/Gc|edeG|c/d/e/f/g2|gf/e/dc|G>Gdd|eedc/B/|c2|]
+
+X:8
+T: 8
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+d2BGA2|B4AG|c2BABA|G2B2A2|A2GFED|GABcd2|a2fga2|BABGA2|BcdcBA|GABGA2|D4A2|BGcBAB|G2>F2GA|B6|ABc2d2|g4e2|ABcBcd|BAGdef|g2B2^c2|d4f2|e4de|fedcBA|GAB2AG|G6|]
+
+X:9
+T: 9
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+D/|DE/FG/|AA/AB/|AA/Ac/|B3/AA/|Bc/dB/|AB/AA/|AF/GF/|E3/D|d|G3/FE/|FF/FE/|FD/DC/|C3/DE/|BB/AB/|GG/GF/|EE/EE/|F3/FF/|GG/GF/|E3/D3/|DD/EF/|G3/A3/|BA/GF/|E/D/DD3/|DD/DD/|C3/D3/|DD/DE/|F3/D3/|]
+
+X:10
+T: 10
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+G2ABcBAG|GFGAB2A2|GFGAB2c2|defd2<^c2d|d2Bdefga|f2efd4|G2FGA2E2|D2DGA2c2|c2BBd2dc|BGcBA4|A2dcB2c2|e2d^cd2G2|g2efg2fe|d2cBG4|]
+
+X:11
+T: 11
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+GGAGEE|E2DE2E|D2DD2D|C2CC2C|GGGG2G|A3G2G|c2ccBA|d3c3|c2cB2A|d3d2B|ccBAGc|G2EE3|EEEE2G|EGGE2C|E2EAAA|G3G2c|GcGGFF|GGGG2F/E/|D2DF2A|G3G2G|GAGG2_G|G2FE2E|G2GG2G|c3E2d/c/|B2BB2G|G2G/G/G2G|A2GA2B|c2GG2G|A2AG2A|G3G2|]
+
+X:12
+T: 12
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+GGA|G2GE2A|G2>G2GE|D3D2E|E2EE2E|F2DD2E|D2CC2E|EFFGFE|D3D2E|GFGFED|C3z2E|E2DDDC|C2B,C2C|C2CEGA|G2zEF3/G/|EEABcB|A2>B2ED/C/|DDEECA|G>DCD2G|GGFF2G|E2|]
+
+X:13
+T: 13
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DGGG|GGzD|G>GGB|B4|GGFG|ABA2|GGFE|D2zD|GGAA|B2G2|c2BA|GABG|A3F|D3A|BGGB|A2AG|F2F2|G2zD|BGGG|AGE2|DGFG|B2A2|z2d2|cBAA|GBAz|ccBB|AADD|GGAG|E2z2|]
+
+X:14
+T: 14
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+A2F2|AAFF|AFFF|F2D|]d|A2FB|A2FG|A2F2|F2AA|AABG|A2AG|FFFG|ABAF|A>AAG|F2D2|g2fe|A>AAA|d>cBA|G2A2|d2cd|dcBA/B/|A>BGE|F2D2|]
+
+X:15
+T: 15
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+D|GABc|d>ede|dc/B<AG/|G3B|BABc|d/e/d/c/Bd|cBcA|BB/c/dB/c/|ddBG|c/B/c/A/BG|AGAB|cdB3/A/|GABc|d2c/B/c/d/|Bc/B/AG/A/|G3|]
+
+X:16
+T: 16
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+ffedcdefa2g2a2b2a4e4|d2e2c2ffageeeag2B2defga2f2g>ae2f4f2d2f2ede2f>ef2e2d2dfffaaa2b2bagf2<e2aebb2z2|]
+
+X:17
+T: 17
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+c/d/|e>eeg|f>gge/d/|cGcd|ee/f/ga|_g>edc|g2ef/g/|adcd/e/|c>Bcc|e>fg3/d/|edcA|B3|c|BB/B/AA|GABc/B/|cc/B/cc|zddd|eg/a/bb|gefg/a/|b3b|c'gge|_gfg3/a/|bagf|gbag|_ggab|g3|]
+
+X:18
+T: 18
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+E2>E2D3B|A2A2A4|^c2def2g2|a2>d2g2g2|g2a>ba2g2|fgaf2<f2g|e2de2<^c2d|e6|e2>c2d2|^c2>d2efga|B2cde2AB|c2>d2c4|B2>B2ABGA|F4D4|B2c2d2e2|c2>B2A2B2|^cdef2<d2c|c6|]
+
+X:19
+T: 19
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+CD|GGGGGGAB|G2F3E/E/DE|DD/D/EFG4|D2DBccd2|d3d/c<BA/|G2>G2FEED|GBBcde/f/|g2>e2fc|d>cBd/d/ed/c/|B4e/e/g|e2d/c/BG2|ggfedef/e/|d2cB|AAAB^cd/^c/|d4d2|d/e/f/g/af/g/e/f/|gfef|d/f/e/d/fed^c|da/g/g/f/e/d/|gfga/b/|agfg/a/a|g/f/e/d/c2B2|A4B2|c/B/A/G/Ad|c/B/B/B/GA|B/c/d/edc/d/e|d4z2|]
+
+X:20
+T: 20
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GAAB|B2ABdB|A2AAAB|AAAAAA|ABdccB|A3G2D|G2Bd2d|ddddef|g2dedc|c2BB2B|AAGB2G|c2Ac2B|ABGc2d|B3B2|]
+
+X:21
+T: 21
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+GFA|G2G2BG|A2G2|FEDzGA|B2ADG2|A2z/E/FG2|AAF2|GAB2|EBc2|dcBA/B/|ccc2|cBcA|G2GF|G2FG|BAGF|E2z2|]
+
+X:22
+T: 22
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GGGB|d3c2c|B2dc2B|A3z2B|B2BBdA|d3A2A|BBABcA|G2zzDD|GGGBAB|ccccBA|G2AB2d|D3z2B/c/|dddB2c|d2BG2B|d2de2d|B3G2B|ddde2d|d2cc2c|B2BA2B|c3c2c|ddddcB|AAAA2d|B2cd2c|B3z2|]
+
+X:23
+T: 23
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+BB2<B2B|Bc2<d2d|e>gf2gf|ed2<^c2B|B3c/d/c2|BGA3c|B2g2fe|d2e4|d3d|f2g2f2|e3d|c2B3c|d2>d2ef|g2>g2fe|dc2<B2d|^cBcdeg|fefgfe|d2>B2A2|B2>d2ef|g>af>ggf|e4d2|]
+
+X:24
+T: 24
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+E2FGAB|A4G2|D2F2E2|F4zD|FEF2A2|c4B2|A2B2A2|G4B2|A2A2_A2|A6|d2B2f2|e2>d2c2|ded2cB|A4G2|cdedcB|A4D2|B2A2G2|F4G2|A2Bcde|c4B2|A2GFGA|F4D2|d4c2|B4A2|G4F2|G6|]
+
+X:25
+T: 25
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+a|d'gfg|a>gfg|fdec|d2zd|d>ffe|d3f|eeef|gefa|dddB|caec|d2z2|fege|dcde|ffed|d3c|BBcA|dea2|bga2|fzfe|dddd|cdec|d3A|Bdef|a2a2|gabg|edc2|]
+
+X:26
+T: 26
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+e2efg2g2|f2fef2a2|efede2f2|g2g2f2f2|d2A2d2e2|f2gfe2A2|defga2g2|f2gagfed|f2ededcd|e4d4|d2efgefd|e2def2e2|defgagfe|defga4|a2g2f2e2|defge2e2|d2cdB2B2|c2>B2A2G2|BABcd2d2|e2fge4|g2>f2e2f2|efg2f2e2|d4c4|]
+
+X:27
+T: 27
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+zAAB|c2>d2c3B|AGA2zBcd|edcB2<c2A|c2c2defd|c2z2cBAG|GABcd>cdB|c2>B2A2A2|A2>A2B4|B2c2d3d|efge2<f2e|d4ecdc|B6B2|c2B>AA3A|B2>c2c4|]
+
+X:28
+T: 28
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+D2|GABcde|dcdcBA|Bcd2dc|BABcBA|GGG2d2|d4d3/d/|g2gfga|b2bgab|e2dcBc|d4d2|f2defe|d2d2cB|A2D2DE|D4|]
+
+X:29
+T: 29
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+G|G2G|GBd|B3|A2D|G2A|BBB|B2A|B>BA|G3|A2B|A2G|AAA|B3|B2B|Bcd|d2d|c3|B2B|e>ee|e>ee|d2d|g3|B2G|c3|Bdc|B2d|c2B|A2d|B3|G3|d2d|d2c|B3|A2A|G3|G2|]
+
+X:30
+T: 30
+L: 1/8
+Q: 1/2=72
+M: 2/2
+K: G clef=treble
+Bc|d2d2c2d2|e2A2B2c2|dcBAG2g2|f2gfefge|fgfed2Bc|d2GAF2G2|A2BcA2cB|ABc2A2A2|B2A2G2F2|G6|]ef|g2bfe2dc|d2G2B2d2|g2f2efge|f2d2d2de|f2d2g2g2|dBcBABcA|Bcdefgef|g6|]
+
+X:31
+T: 31
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+cdeg|fed2|cdef|g4|eeff|ece2|dfe2|dcce|dfe2|dcBA|G4|Gccd|ccAc|AAG2|A2dB|c4|]
+
+X:32
+T: 32
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+BA|G2G2GA|B2B2GA|B2d2dc|B2G2Bc|d2dddd|G2G2AB|c2ccdc|B4Bc|d2>e2dc|B4BB|B2BAGA|B4BB|B2e2dc|B2d2cB|A2eedc|B4dc|B2>B2cd|e2g2ag|f4g/f/e/e/d|B4z|]
+
+X:33
+T: 33
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+G2|c4e4|d2cde4|G2A2Bcde|c2B2dcde|f2gfedcB|c4z2d2|e2dc2<d2B|c2d2e2d2|e2>f2e3d|d3c/d/e2fg|d2c2BcdB|c2z4z2|]
+
+X:34
+T: 34
+L: 1/16
+Q: 1/4=120
+M: 3/4
+K: A clef=treble
+dBdcBAA4AAA|]z2BAGABcBGA2|A2>A2AAGFF4|DEFGAGFEE8|c/c/BcB2<G2FG4|A2>B2A2F2A2zA|z2A2A2G2z2FF|G2>G2FFFF6|]
+
+X:35
+T: 35
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+B3/A/|G2>G2AB|c2B2A3/B/|c2>A2G3/A/|B4B3/c/|d2>d2ec|B2A2G3/A/|F2F2G3/A/|G2z2D3/D/|G2>c2d3/B/|A2d2c3/B/|A2>B2A3/G/|G2F2E3/D/|E2G2G3/A/|B2B2A3/G/|F2>d2d3/e/|d2>G2GF|E2>D2DD|B,4|]
+
+X:36
+T: 36
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+DDD|G2G2G2AB|E4DDEF|G2>G2BAGF|E4D2DD|E2F2G3E|D4C2DE|F2>G2A/B/AGF|G4z2|]
+
+X:37
+T: 37
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DD|G2A2B2G2|B2GGd2dB|A2GFE2D2|EDEFG2DD|G2G2G2D3/E/|G2G2B2B3/B/|A2D2G2A3/A/|A2F2G3/D/|GGGAG>GG3/A/|B4A4|c4B>BB3/c/|B2B2B2AG|A2>E2F3G|G8|]
+
+X:38
+T: 38
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+dddd|ddB2|dddd|BBG2|AAAA|B2B2|BBBc/c/|d4|ddec|B2A2|GGG2|G3|]
+
+X:39
+T: 39
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+g|c>de|d2c|ded|e>de|dcd|e3|fde|ga_g|g2g|d2e/f/|ged|cBc|dde|cfa|g>ag|fe2|d2d|ef/e/d/c/|dBe|cdB|c2|]
+
+X:40
+T: 40
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+Bc|d4d4|e2d2c2B2|A2GFG2G2|G2GAB2F2|GABAG2E2|D4G2|D2|B2c2d2B2|c4B2A2|B2cBA2FG|A2G2F2E2|D2e2fgaf|g6|de|c2B2G2G2|e2dcd2cB|A2B2G2A2|G4|]
+
+X:41
+T: 41
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+ABcd|e2E2|fedc|BA_AA|Bedc|BAA2|eAed|cBA_A|AAe^d|eAe2|Befd|cBA_A|Add2|Affa|g2f2|eedc|d2|]
+
+X:42
+T: 42
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+Gd|d3d/d/dcBA/G/|A3G/A/d3B|A/G/A/B/cBABcd|c4z2AB|c2>c2dged|B2B2G2BB|AGABG2AB|G4z4|]
+
+X:43
+T: 43
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+FA|d2D2D3/C/|D2D2DD|E2E2DE|FAD2A,3/D/|F2>D2FD|CAD2|AEE|F/F/FD2|D2D2|zDEF|GBA2|D2FA|F2A2GFG2|B,2z2z2|d2AFA||A2|A2z2|]
+
+X:44
+T: 44
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+GA|B2c2d2d2|dcBAG2g2|_g2g2a2g_g|g6|cd|e2d2c2BA|BcB2AGAB|A2>G2G2B^c|d2d2d2fg|e2dcB2ed|g2>f2g3a|b2a2g2f2|g6|]
+
+X:45
+T: 45
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+C|F2AAGF|G2GG2G|G2GA2G|A2AA2F|GABcBc|dcBA3|G2GD2E|F2AA2A|G2EF2D|E3E2E|F2Ac2B|c2zz2C|FFFF2G|A2AA2A|G2GA2G|F3z2|]
+
+X:46
+T: 46
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+FFFE|F2D2|AFFF|F2D2|DEFG|FFED/E/|FED^C|D4|FD/F/FF|EED2|EEED|DDD2|BAGF|EDD2|]
+
+X:47
+T: 47
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+z|B>GGF|GBAF|B>AG2|]
+
+X:48
+T: 48
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: A clef=treble
+AA|A2>A2ABcd|e2e2e2ed|e2>B2^c3d|c2e2d3d|c2ec2<c2B|B4B2cd|e2>d2cBAG|A2E2A2cA|EBBAGFED|F2>d2c3d|B2B2f3e|e4d2de|f2g2e2dc|d2f2f2ff|edcB2<A2G|F2F2D2fe|d2FAG2f2|edcBABcd|e2dcA2f2|fefdc2A2|c4Aeec|A2f2e2dc|B_AA_AB2ed|cBABAB4|c4BAAB|d6ze2|f4eeef|g4d2c2|f6a2|B2A2E2|]
+
+X:49
+T: 49
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+EDE|FGAD|DEFG|F2E2|EDA,B,|C2CA,|CCA,G|GCCD|ECCF|DCCF|CFED|DGF2|ECED|CCB,C|E2A2|DFFC|DDDE|DCB,C|FEFG|BAGA|F4|GCCD|CCEE|B,B,CD|D2C|]
+
+X:50
+T: 50
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+FGAB/c/dzde2ff/e/fd2AAB2>c2B2AGABcdccBA>GAF/G/AFGAA/G/F/E/DA2<c2AGcG2B2AAGFF2F2GAAG2F2zGAGF2FGA2B/c/dc/B/c2A2zAA/G/AAEC2<G2A/A/GFGA/B/cBAGF2<F2DC2FGFBA2<G2Fc2AFBAGFGcBAE2FGABAF/D/D4|]
+
+X:51
+T: 51
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+GGB|dcB|d2B|A2B|AGA|BcB|d/c/Bc|B2A|G2G|F2B|cBA|Bed|eed|cB2|BAB|A2G|dBd|gfe|def|dcB|cB/A/A/F/|G2B|BAB|c2B/A/|d2c/B/|cd/c/B/A/|G/F/GG|A/G/AB|G3|]
+
+X:52
+T: 52
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+A|ABc/d/e/f/|gg_ge|dcBc|dcBz/B/|BdBG|A2Dd|efed|^c2A2|eBcd|e/d/^c/B/cA|ABAG|F2ED|]
+
+X:53
+T: 53
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+zFAA|BAGc|FzAc|cAFF|DEFG|F2z2|ecA2|GAB2|BAFE|F2z2|BFGG|GGF2|AGF2|G/G/A/B/A2|AABc|dcAG|F2F2|]
+
+X:54
+T: 54
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: D clef=treble
+A|d2dd2A|B>cdc3|d>edd>dd|d3d2c|d>efe>fg|a>gaf>ga|d>ecB>cd|A3A2|g/f/|g>agf2g|a3a3|g>fgd>cd|e2AA3|B>cdd>cB|A>Bcd>ef|f>ged>cB|A>BcB2|A/G/|F2FA2B|c>Bcd>cB|c>deA>dc|d2dd2|]
+
+X:55
+T: 55
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+f|f2e3/f/|g2f3/g/|affg|a2ba|bff3/g/|g2|dd|f2ff|f2f3/f/|f/g/aa/g/f|fad3/c/|c3e|f>edB|eegg|fABc|e>ff/d/e|A3a|g>fe3/d/|d3|]
+
+X:56
+T: 56
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+edcdef|d2e2fe|dcded2|e2fed2|cB2<B2A/B/|c6|g2fefg|e2def2|e2fedc|d2Gcde|f2e2f2|g2fefd|g2a3g|g6|]
+
+X:57
+T: 57
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+d|BAG|GDE|FE/F/F/G/|A2G|FED|E2E|FEF|GG2|GGG|GAB/c/d/|cBA/G/|FED|dd2|Bge/d/|cED|AG2|C2d|AAF|DGA|BG/G/B/B/|BBd|dce|A2D/E/|FFF|GGd|d2F|G2|]
+
+X:58
+T: 58
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+c2dcced^c|dBBec4|edecABcd|eAeAe2A2|fefgafdB|cAcec4|e2fefgec|d^cded4|defedcBc|ddcecfBc|AfeaA2f2|edcBA4|g2e2c/d/e/f/ge|d2d2B2e2|eBgeAcdB|c2c2c4|fagffdgc|BGcfaefg|aGabagfe|d2c2BGcd|Bcded2c2|GAdBG4|]
+
+X:59
+T: 59
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+c2|cefga2c2|cBdc2<c2e|fgfed2z2|ce2e2e3e|a2aaagfe|d4G4|g2>f2e3d|d2g2A2d2|c2gab2b2|g2>f2f4|e2defefg|e2c4|]
+
+X:60
+T: 60
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: A clef=treble
+A2BcA2e2|gfedc2c2|AdcBc2de|fefdc2e2|A2a2gafe|f/e/dcBc2a2|fedcB2A_A|AcBAB4|cBcde2f2|gabag4|agfgefga|fedcB2G2|egfef2fe|d2cBc2d2|efgagafg|e2a2g4|F2G2E2d2|cBAG2<A2G|F2E2E2A2|c2B2A4|]
+
+X:61
+T: 61
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+d/c/d/e/f2f/g/a|c2B4|cB2AG2GA|B2AGFE|DA,2E2F2|GF4D2|e2f4c2|BABAG2|dg/f/e2d2|c2>d2cc|cA/G/FFC2|D4|gf|efea/e/fe|f2f2ef|def2ba|ggfge2|dcdefg|a2A2FB|GcBAB^c|d6|]
+
+X:62
+T: 62
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|D2ED2D|G2GG2G|A3A2A|A2BA2F|G3F2E|D3D2D|G2GG2A|B2GD2D|G2GA2B|G3G2G|A2GG2G|A2Bc2B|A2Ad2d|d2cB2A|G2GG2G|EEED2A|A2GBAG|G3A2B|c2dcBA|G2GA2B|e3c3|B3A2D|DDdddd|d3c2D|G3G3|]
+
+X:63
+T: 63
+L: 1/8
+Q: 3/8=92
+M: 6/8
+K: D clef=treble
+d2>e2dc|dAdedc|d2>A2Bc|d2efef|dAFdFE|D6|dAdefd|efgdef|dAAGFE|DAFD2f|gAFdEd|fedfga|eGFG3|d3f3|a3a3|bagf2e|defd3|abc'fga|ggfd3|bagfed|cBcA3|defgfe|dcdd3|]
+
+X:64
+T: 64
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: A clef=treble
+a2edc2eg|c2BcA2Bc|d2cBa2gf|e2dec4|dcdef2dB|fbfef2de|f2agf2ed|f2>e2d4|e2dcB2GF|E2E2E2AB|cBcdc2de|f2>e2f2de|f2f_aa2fe|f2fe2<d2c|c2e2d4|d2c2B2f2|g2e2f3d|gagfe2dc|fefdg2fe|e2>d2c4|]
+
+X:65
+T: 65
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G2ABc2B2|d2eedcB2|ABcAGGF2|dddcBcdc|B2Bcd2d2|d2ddd2cB|cedBFGAB|G4|]
+
+X:66
+T: 66
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+G2B2|ABAG|F2F2|B,2CD|E2F2|_G3D|AABB|cA_GG|F2F2|G2G2|A3F|GFED|G3E|F/D/CD3/D/|D3D/D/|BBB3/A/|Bcdc|BA/G<cB/|A2GB/B/|A2G2|G3|]
+
+X:67
+T: 67
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: F clef=treble
+F4F4G4A4B4A2A2G4A4A4A4F2G6A4A2B4c4c2d4z2A2B2c2A2c2B2A2>G2F2F2G4F4z4A2B4A2G4F2z2G2A2A2B2AGF4z2F2F4F2D2G2F2G2A2B2G4A4z2F2F4F2F4c2B2ABc4z2c2BAGAG4F4z2F2E4F4d2c2BABAGFG4z2G2A2c2BBAGAGF4z2C2F2G2FFGAB2c4d4c2B4A4z2G2F2F2F2G2A4G4z2F2EFG4F2E4E2D2EEF4z2F2F2G2A4F2E4D2D4F4F2>F2DEFGA4A4D2A2AGBAGAF2FEFEF4|]
+
+X:68
+T: 68
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+cBBAGBAGB>GAGGFA2G2dcBBAGABGAA2B2zcBABAG/F/G/G<FF/GFGG/F/G2G2GFG2E2zABcdGBGFG2AEG2GFF2DF2GG2FAAAB>AGABA2GG2FGAA>GFFE2zAB>BGd>AGAG/F/G/E/DzFGGA2Dd>dc/B/A/G/A/F/GF2z2|]
+
+X:69
+T: 69
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+G2|cdedc2Gc|dedef2G2|cdefgedc|B2c2d2Gc|dcd2e2dc|cdecBc2Bd|c2cBAGAB|cBcde2fe|d2c2efgd|edcBcd|f2efdBdc|c6|]
+
+X:70
+T: 70
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+F2|A2A>AA2A2|A2AAA2FF|G2F2E2FG|F2EFD2DD|E>FG>GFEDG|F2FED4|A2ABAABA|GDA,CD2zD|F2>G2A2F2|FEFGA2B2|A2G2G2F2|EFGFG2A2|A2>G2F2G2|F2GAB2d2|c2>B2A3A|A2>_A2A2GF|EDEFG2A2|G6|]
+
+X:71
+T: 71
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G2GGG2G2|A2A>AB2A2|B2A2B>cd2|d>cB>cd2d2|cBcde2ee|ddddc2Bc|d2ddG2B2|A2ABc4|d2cBc2B2|A2E2F4|G2GBd2dd|d2A2B3A|GGGGd2dB|c2G2B4|d2d2d2d2|e2e2e2e2|dddcB2G2|A2d2d4|d2GGB2d2|g2gfg2f2|e2e2e2ee|d2d2d2|]
+
+X:72
+T: 72
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+B//c/|dddecdeg|cBAGA4|ddedfede|fgaed4|ddddggfe|d^cded2G2|edefg4|f>eddedcB|c2>B2A3A|d2>c2B4|b3a/b/abe3/d/|d4g2|]
+
+X:73
+T: 73
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+d2de2c|e2de2f|g2ga2g|f2gf3|e2dc2B|e2dc2e|f2gagf|e3d2|e|f2ga2a|g3b2e|d2gf2e|d3c3|dcdB2A|d2ed3|f2ed2B|c3d2c|d2cdef|g3b3|f2efed|e3f3|e3d2|]
+
+X:74
+T: 74
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G>GBB|c>cBA|GGFD|G>GGA/B/|cADG|c2d2|BB/c/da|AddD|GG/G/DD|BBBB|cBcd/c/|BBAA|GGGG|AABc|BA/G/AB|G2D2|]
+
+X:75
+T: 75
+L: 1/4
+Q: 3/8=63
+M: 9/8
+K: G clef=treble
+B/G/B/|d3/d3/ee/|d3/d3/c3/|BB/Bc/dg/|B3/B3/|dd/ee/|d3/cc/|B3/g3/|dc<Bde/|d3/B3/GG/|A3/A3/|A3/G3/|]
+
+X:76
+T: 76
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+G3/GG/|G3/GG/|GG/EE/|E3/EE/|GG/GG/|EE/G3/|GG/GG/|GG/G3/|d3/d3/|dc/B3/|cc/BA/|AG/G3/|GB/cD/|gd/c3/|Ac/dd/|ce/dd/|dd/dd/|cc/Bc/|cB/AG/|G3/Az/|]
+
+X:77
+T: 77
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: Bb clef=treble
+G|BBBBAG|B>AB/c/d/e/d|edcdA>G_G|G3G2|e|g2gf2e|d/e/d/c/B/c/d3|d2dd2d|e>dcB/A/Bc|B>ABA>G_G|G3G2|]
+
+X:78
+T: 78
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+E|A>BA/B/c/d/|edcB|ABcd|ed/e/cd|ed/c/BA|B/c/d/e/dA|G_GFE|FAGE|A>Bc/e/d/c/|BA/_A<AG/|G2zA|Bcde|fg/g/ff|e2d2|cf/e/dB|ced/c/B/A/|G3F|EEEc|d/e/fe/d/c/B/|ABcB|c2d2|e2c2|Aaag|babg|c'd'd'b|c'b/a/gc'|g2d3/d/|dddd|d/e/fg3/a/|abag|fedc|BG,cd|e2|]
+
+X:79
+T: 79
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+G|ccc3/d/|c3G|ABcdc|e2dzc|ccA/A/B|c2zc|cdef|d3e|fddc|c2zc|Bcdc|BGzG|cBcA|G3G|c2zc|e/d/e/f/ed|c/c/AGA|BGdd|e2cf|fedB|c/d/c/B/cc|dBcz|]
+
+X:80
+T: 80
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+AB^c|d6cd|e2e2f2ef|g2f2e2d2|cBc2d2A2|gagfe2c2|d6e2|f2>a2bagf|a6|fg|a2>a2abab|a6b2|a4z2f2|e2c2deed|e2E2z2A2|d2>e2f2fg|a2e2z2e2|f2gfgab2|afa2z2|]
+
+X:81
+T: 81
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+GA|B2c2d2F2|G4G2cd|e2d2c2B2|A6G2|F2A2B2A2|B4g2a2|b4agfe|d2>c2B2B2|c2B2A2d2|F6|Bc|dcdedABc|dAdcBdcd|efedcBAG|A2G2F2A2|B2G2d2c2|B6A2|dcdedcde|d6|]
+
+X:82
+T: 82
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+EBBB|GFE2|BdBG|FFE2|G/F/E/E/GF|BBAA|DEFG|AAAE|DEEF|G/A/B/c/dc|BGAF|EDB,2|]
+
+X:83
+T: 83
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+e|GA/B/cG|E/C/E/E/Ed/c/|B/A/G/F/EA/G/|FGEG|cGEd|edef|gded/B/|c2d2|eAfg|agff|edcd|BAGG|cc/d/ef/d/|e3f/g/|fg/f/ed|c/B/c/d/ef|gf/e/dc|d2cc/B/|cdec|d3|]
+
+X:84
+T: 84
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|GBBB|d>ddd|dcAA|d2BA|GFGA|BdB2|DAAD|GFE2|D3c|BBBB|BAA2|DFAG|F2G2|]
+
+X:85
+T: 85
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G>AB>BA>Bce|d>cBGGdG3/B/|A2BAGGGG|A>dddGGGD|G2G>GB2GD|G>ABcd2d2|e2d2c2c2|G6|]
+
+X:86
+T: 86
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+d/|cB/AB/|AA/Ad/|cB/AB/|A3/FF/|dc/de/|dc/BA/|dc/FA/|B3/AF/|dd/cB/|dA/zd/|ed/cB/|A3/G3/|dd/cB/|c3/BA/|d3/c3/|BA/GA/|Bc/d3/|A3/A|]
+
+X:87
+T: 87
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+AAAB|BBB2|AAA2|AAB2|AAB2|AAF2|FFAA|BBB2|AAA/B/A/G/|F2F2|FFFF|F2G2|A2AA|A2F2|FFFFF|F2F2|A2A2|D2A2|D2D2|F2F2F2|DDDD|F2F2|FFFF|EE2E2|E2D2C2|E2^C2|D4|]
+
+X:88
+T: 88
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+G4A2G2F2E2D2C2B,4C4D4D4D2F2G2A2B4G4z4B4G2F2G4G4G2G2F2E2D4G4D4D4F2G2A2B2G4F4z4A4G2F2E4D4D4z4G4F2F2G4F4D4D4D4F4G2A2G2F2E2D2D4|]
+
+X:89
+T: 89
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+DGA|B2B2A3/A/|G2A2AB|c2e2dc|B4dd|d2edce|d2GG|edcB|A2z2d3/d/|dedB|BA2dc|BAGB|A3D|GBde|ded3/d/|cedc|B2z2|]
+
+X:90
+T: 90
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+c|f>ga>ag>aba|g4fgab|g2f2f2f3/c/|c2f2f>ef3/g/|af>gegf>de3/c/|d8|f2>e2c2a2|g2>d2f2ed|c2c2c3a|A2>c2e_gg3/a/|b2a2g3d|c3e/f/g2a3/b/|a2>e2d2c3/B/|AdcB2<A2B|c8|]
+
+X:91
+T: 91
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+G4d2B2d2c2d2B2A2B2c4B4z4B4c2d2d2d2d2c2B4A4G4z4G4c2c2f2g2f2e2d2c2B4z4A4d2d2B2c2d2d2c4B4A4z4A4d2d2c2B2A2G2G4z4B4F2G2G2A2G2F2G4|]
+
+X:92
+T: 92
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+ddd|e2e2df|d2dddd|e2>e2fg|edddde|f2dcde|d2d3/d/|ddffff|e2e>fed|e2e>ee3/e/|d6|]
+
+X:93
+T: 93
+L: 1/8
+Q: 1/4=120
+M: 6/4
+K: C clef=treble
+gfedcGGGc2c2defdfedc4|G2gdedefededcdBAG2d/e/f/g/f2A2G2ccBcA2G2A4G4|]
+
+X:94
+T: 94
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+F|AAAA|BBBB|AAdd|dc/c/BB|A2A2|DGGd|AEFE|AAA2|B2B2|A2FF|AAFF|GG/G/GG|AAFF|AF/E/DD|DE/F/GF|EDDA/G/|FAFD|FED2|]
+
+X:95
+T: 95
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: F clef=treble
+z4F2D2E2E2A2F2G2F4zAA2A2G2>F2G2A2F2C2D4F2F2F2F2G4F4z2C2D2F2A2G2F2FEF4G2G2>E2F2EDE2F2G2E4D4C2D2EDC4D4D2D4D4|]
+
+X:96
+T: 96
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+BcdGA2d2|d2e2d4|d2cBc2de|cBAG_G2D2|G2GABcd2|GABcd4|GABcd2c2|BAGAB2G2|c4|ABcBcdcB|ABGAF4|c2d2gfgf|edecd4|G2>F2GABG|AdABc2_G2|dcdedefd|gfed2<e2f|gfedcBAG|F2>E2D4|]
+
+X:97
+T: 97
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|GGABAB|c2cBBA|G3G2G|BBBBAB|dccecA|G3G2B|BBBdcB|AAAAdd|BedcBA|G3G2|]
+
+X:98
+T: 98
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G|B4G2AB|G4G4|G2GGG2AA|BBBBcBcd|d2d2d2G2|d4c2Ac|B2G2G2zG|GABcd4|cBcdc2d2|c2B4A2|G4G3|]
+
+X:99
+T: 99
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+GB|dc/B//A//|GAd|dgf|fe/d/e|Ad3/c/|c2|A/B/|cf/g/f|gf/g/a/g/|f/e<dc/|c>BA|dgf|BBB|d>ed|cdB|cB/A/B/c/B/A/B/A/|Gz|]
+
+X:100
+T: 100
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+c3/d/|e>ed3/e/|c3|c|d>cB3/A/|A2B3/c/|d>ef3/e/|d>ed3/c/|c2z2|fedc|B>AG3/E/|AGFE|GAB3/c/|d>dc3/B/|c>BA3/G/|G2G2|e>dc3/B/|A2d2|A>AAB|c2c3/d/|edcB|A4|]
+
+X:101
+T: 101
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+ddc|dddddd|B2>B2Bd|eddc2c|B2>G2AB|AABABc|d2deee|d2ddcB|A2>A2cc|d2ddef|g2gfgf|e2dg2e|e2dd2d|e2cd2e|c2>d2ef|g2>g2gg|f2ggfe|d2BG2|]
+
+X:102
+T: 102
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+D|D>DEF/G/|AADD|D2Dz|D>EDF|F2G/G/A/A/|BAGF/F/|C2AA|A2GG/E/|EDAA/F/|GFED|FGF/G/E/E/|D2z2|]
+
+X:103
+T: 103
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: Bb clef=treble
+Bef2e2|f4e2|dcBABc|dcded2|ABcBAB|c6|efg2f2|efe2f2|ABcdec|dedcBG|c2f2e2|d6|ABBcBA|ABABcA|G2F2E2|FEFGAB|c2G2A2|B4|]
+
+X:104
+T: 104
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|GGAB|A3A|GGAA|B2B2|B>BcB|B4|BAGB|d2d2|BBdd|dedc|B>BAA|G3G|A>AAAA|ddd3/d/|ccAB|c>AGF|GBdB|G4|]
+
+X:105
+T: 105
+L: 1/4
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+zA/A/|dd|cA/F/|B2|c3/B/|cd|AA/B/|cc|cc/d/|cB|cB3//A//|Gz|c3/B/|AB//c//d/|cB|c2|f2|xc/c/|BB/B/|AA|BB/G/|G2|A3/B/|cz/e/|fd|Bd|c3/B/|AB/A/|Gd/f/|cd|cB/A/|Gz|]
+
+X:106
+T: 106
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+cccc|cee2|e2g2|gfga|bbag|fed2|g2_gg|e2ag|fged|c2c2|c2c2|g2g2|a2a2|gfed|efga|f2e2|gfef|def2|gggf|efgf|e2f2|e4|e2c2|]
+
+X:107
+T: 107
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+Dc|BdcBAcc3/d/|d2c2d2de|dcBABGA3/F/|G2D2D2d3/c/|BAGAGFED|G_GGAB2AG|defed2e2|c2>B2A>Bc3/B/|A>dA>dBcdA|G4|]
+
+X:108
+T: 108
+L: 1/8
+Q: 1/2=76
+M: 2/2
+K: C clef=treble
+G2c2|d2c2Bcde|c4A2G2|ABcBA2cB|B4B4|ABcde4|c2>d2efge|c2A2G2A2|B4A3|A|d2>c2Bcde|c2>B2^cddc|d4f4|e2cde2fg|e2c2cBcd|e2dcBABc|d6e2|d2>c2c2cc|g2gab2ag|a4e2fe|d4d3c|c6|]
+
+X:109
+T: 109
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G2G2d3B|AGFED2zB|c2c2z2G2|BAG2B2B3/B/|c>cc2B3G|G2G2A2G2|F4E3G|F2>G2A2AB|A2>B2B2G2|A2>c2c3B|A4BcBA|G2>c2B2B2|A4G2z2|]
+
+X:110
+T: 110
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DD|G2>F2E2DD|E2D2D4|D3D/D/DDD2|E>DE>ED>DD3/D/|G6|AB/B/F/D/D/E/F>GG3/D/|G/G/G/G/GGDDDG|E2GG2<G2G/A/|G/G/FFE2<D2D|G2>G2FFED|D4z4|]
+
+X:111
+T: 111
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+cccc|e2e3/f/|ggab|gfe2|zGgf|cdcd|ecGd|ceef|b/a/g/f/gd|e/d/e/f/g2|ef/e/de|c2ag|fff/f/f|gaba|gGEE|E4|]
+
+X:112
+T: 112
+L: 1/8
+Q: 3/8=92
+M: 6/8
+K: A clef=treble
+cBcA2A|BcBc2d|cdBc2B|A3d3|cBcdcB|ABcA2c|BAGA3|ddcB3|cAAAEA|E3G3|AcABcd/c/|Bcdc3|GABGEe|deca3|bf^dede|ef_ab2A|cdBABc|cdefAB|BEAEEA|AAAd3|GABCcd|ebed3|]
+
+X:113
+T: 113
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GG2G|A3B2d|dcBAAA|A3G2d|d>Bcd2e|d3e3|dcAcBA|G3G3|d2>e2ee|d2dcBA|G2GA2A|B3c2d/e/|fedcde|d3G2z/|]
+
+X:114
+T: 114
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+gbag|fge2|agfg|e2d2|fde/d/c/B/|A2G2|ABcB|A>GG2|]
+
+X:115
+T: 115
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G|G>GGGGD|G>GGG2D|GGGGGG|GGBdDD|c2cc2B|A2AA2A|A2Bc2d|BBBc2e|d>ddc2B|d3z2d|e2dc2B|A>BAe2d|A2AA2d|c3B2A|B2GGBd|B2Bc2B|ABAABc|d3d3|c2BABc|d3e2^c|Adcc2B|G3G2z|]
+
+X:116
+T: 116
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+G2|c2cdec|d2d2f2|gfedcd|e2>f2g2|f2edec|d4|e2|e2efg2|a2fga2|g2abbg|a2agfe|d2fedc|d4|]
+
+X:117
+T: 117
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+cB|A2d2f2f2|g6e2|f2e2d2ga|b4d2e2|fdgef2g2|fefga2c2|B2cdB2B2|A6|ef|f4f2ga|a2>e2d2cB|A4bagf|e4g2e2|c2def2gf|e2>c2d2B2|cBAGA2A2|B6GA|B2GFG2A2|G4z2|]
+
+X:118
+T: 118
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: E clef=treble
+G2ABc2B2|A2FGA2B2|B2BA2<G2A|B2d2d4|c2>B2B4|c2B2A4|B4c4|G2F2E4|]
+
+X:119
+T: 119
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+F>GAcB2A2|cBAGE2G2|A>dd2B4|ccBAG4|BABcB>cdc|B>AA>GG4|g>fe>fd2g2|g>fe>de>ABc|dGcAB2B2|dFGAG2F2|G2F>GA2E2|D>CCCc2A2|c>cc>Bcdc3/d/|AGABc4|]
+
+X:120
+T: 120
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+c2G2B2|B6|A2B2c2|cBAGFE|D4d2|eccddd|d4cB|Aeddc2|B2c2B2|A6|fgafg2|efgab2|f2edc2|dedef2|g2gfef|g6|B2cBAG|A2d2A2|F2DEFG|ABcBcB|A2def2|g6|d4|Bc|dcded2|dedcB2|c2e2d2|dcBcd2|cBcABG|A4D2|Bcd2d2|gfgag2|gfedcB|AGABcA|GFG2|]
+
+X:121
+T: 121
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: Bb clef=treble
+G/|G3/GB/|BA/GA/|c>BG/A/|B3/Ad/|dc/BA/|G3GG/|A>AA/G/|FG/BF/|G3/FE/|D3/D|]
+
+X:122
+T: 122
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+DDE|D2D2GGGG|AGEDE2GF|E2GGDCB,B,|B,2D2DGGF|E2DCD2GG|B6GG|A2AGF2E2|D4B,4|C2D2E2F2|G4|]
+
+X:123
+T: 123
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+defgab|a2a4|fed2g2|fefgfe|dcd2f2|edc4|fba2g2|fefdc2|gfg2e2|f2a2d2|edc2B2|A6|ede2f2|gfga2f2|g2fefg|abc'ba2|agffed|c2BcA2|GEGFGA|F6|DEFGAB|cBcdce|fedgaf|gfecdG|AGF2G2|A6|]
+
+X:124
+T: 124
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+D4D2G2A2B2c2c2B2A2G4z4B4A2G2F2G2D2D2E2F2D4D4z4D4F2E2D4A4G2B2A2G2F4E4D4z4D4E2F2F2G2A2G2F4C4z4E4G2G2F2D2D4D4F4G4A4z4G4F2E2D4G4F2E2D2A2G4|]
+
+X:125
+T: 125
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+c3e3|c3A2c|c2cB2A|G3G2G|c2cc2B|c3c2z|cBAe2e|^c2cd3|d2BG2f|e2>d2zd|d2eg2d|e2fe2a|g2fe2c|B3G2z|e2eefe|d2ec2f|e2cG2c|B2dG2|]
+
+X:126
+T: 126
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+F2AA2B|c/c/B/B/A2A3|cAA/G/F2F|GABc3|A/A/GFGF/G/A|AAAA3|F2GABA|G/G/A/B/cA2G|F3F2z|]
+
+X:127
+T: 127
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+c4d2e2f2d2e4d4c4z4c4A2d2d4c4B2B2c4z4f4g2e2f2d2c4c4z4c4f2f2e2d2c2B2A4F4z4A4A2B2c2A2B2A2G4A4z4c4c2c2f4f4e2g2f2e2f4z4f4d2e2G2f2e4d4z4A4d2B2d4e4f2d2e2c2d4|]
+
+X:128
+T: 128
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+g|e>fg|gf2|ed2|c3|c2c|dc2|dc2|ef3/e//f//|g2g|e_gg|de2|d/c<BA/|A3|A/d/c2|B3|ABc|BAG|cB2|A3|A2e|efg|e2d/c/|def|e3|G2|]
+
+X:129
+T: 129
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+GB/B/cB|dGBd|cBAA|G4|BBBe|e/d/c/B/AG|F/F/F/F/AF|G4|DBBBBB|d/B/G/A/GEB,d|BB/B/Bd|c/A/cA2G2|GDBB|G2B2|]
+
+X:130
+T: 130
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+G|ABcd|^cdec|cBAG|A2F3/G/|A2F2|B>ABc|d>edc/B/|A3D|_G>DFA|d>Bcc/d/|e>fed|cdBA|B>cdA|d>fgf|ed/c<cB/|AGFB|A>G_GG|A>Bcd|e/f/g/e/d/c/c/B/|A2G2|]
+
+X:131
+T: 131
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+de/f/g/f/e/d/|ecc3/d/|BA/B/GA/B/|cGcd|ef/e/dc|B2B2|cB/c/de|c2B2|A/G/A/B/A2|EFGA|GEFG|GFED|c>Add|ed/c/dB|cA2G|A/B/c/d<dc/|cABA/G/|c/B/A/G/F2|]
+
+X:132
+T: 132
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+F|F2AFA2CC|EFEDC2G2|DDDDEFGG|EECFF4|B,DEFGDA,G,|EEEEF2Dz|]
+
+X:133
+T: 133
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+ddd|e2g|dcB|A3|AAd|geB|cAA|dGz|B2e|d/c/B/c/A|g2d|cdc|Bd2|B2z|ccc|ded|cBc|A2B|cBA|GDB|BA/G/A/G/|F>GA|d2e|d>cB|cd2|cfd|G/G/dd|de^c|d/c/Bd|d3|]
+
+X:134
+T: 134
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+GGAc|B2d2|ecdd|cBA3/G/|G4|c2c2|dBcB|AGAB|cBAG|cBAG|F4|B,2G2|cAAB|c2B2|c2c2|CGGA|Bcdd|edcB|A2G2|]
+
+X:135
+T: 135
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+de|f4g2a2|b2>a2g2f2|e2d2c3B|c6de|fefg2<f2e|d6|c2|d2>d2f3e/f/|g2>f2e2dc|defde4|fefgfede|^c2>B2A2dc|B2>c2A2de|f2>g2a3a|a6Bc|dedcBABc|dcdefgab|g2>f2f2g2|a2g2a2f2|g6f2|f2e2d3c|B4c2Bc|d2dddfed|c4Bcde|c2>B2A3G|G6|]
+
+X:136
+T: 136
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GGGG>GG/G/|AAAA3|dBd/d/eed/d/|AA/A/A/A/AdB|ceedBG|GFAE3|GF/E/DAAc/c/|B/A/GFEE3|DB,EFED|GGBBcA|G2|]
+
+X:137
+T: 137
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+ccdef|a2aa|ga_g/e/f|ggf3/f/|edc2|Gdd3/e/|f/e/fdd|c/G/A2B3/c/|d>ed2|g>fed|c>BAB|ccGA|AdG2|ef/e/d2|ef/g<Gc/|c>ee2|gg/f<ef/|dcB3/A/|_AAAG|A/B/c/d<dg/|e>cc2|]
+
+X:138
+T: 138
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+c>dec|fed2|dBcc|d/c/B/A/G2|Gcd/c/B/A/|BAG2|c>ded|e>dc2|B>cdd|e>dcB|AGG3/B/|c>de2|g>_ggg/f/|edc2|d>cdd|c>dBG|c>dBd|c>Bc2|]
+
+X:139
+T: 139
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+D|G>GG|G>AB|BAA|G>AG|F2E|D2z|G>GG|B>BB|B>AG|e>zA|B>cd|c>BA|A>GF|G2z|G>AB|c2B|A>GG|c>GA|B>GG|B>cd|c>Bc|d>ed|BAG|G3|]
+
+X:140
+T: 140
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d2gBdB|BA3A3|AAAAAA|c2BA2G|AcAAGE|D3z2D|G2BdBG|DzzzBB|G3c3|dzzzcc|d2B/B/ddB|d3z2B|ccccce|dd/d/d/d/BdA|GB2B2d|e3e2z|c3B2c|d3z2A|AAAB^cd|d3z2B|BBBBAG|A3A2B|ccce2d|B3z2B|GGGGBd|g2gd2c|B2AG2F|G3z2|]
+
+X:141
+T: 141
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+gdBGBd|gfgedc|BAGAAB|GDGB2D|BABcdB|A3D3|FBcGGB|A2GF2E|D2GF2E|D3g2x|dGABcd|G2DD2B,|GFGAGB|A2GF2D|GFGA2D|BABG2G|FGAB2A|GFGA2G|fede2e|b3e3|fdee2f|fefd3|ecAfed|dedcdB|ABcdAG|dgfe3|cdefde|faAe3|D2DD2G|FDAD2D|ABAGFE|FGAD2|]
+
+X:142
+T: 142
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+DE|FGFEDE|FDA,zFG|FGFBGF|EEDEzD|E2GE2D|D3zEE|FGFG2G|E2>E2zB|AGFGEF|GFEF2E|GFFEDF|G2zzGG|FEEDFD|E2EFFG|EDCD2G|FEDddB|B2AA2A|DFAced|A3A2g|gfedef|e3A2f|defgab|a2gf2g|adAf2d|d6|]
+
+X:143
+T: 143
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+GA|BcddcBAG|A2D2D2de|d2d2d2fe|dcBAG2ga|b2>g2f2g2|gfgag2de|dcBc2<B2A|G6|cd|edcBABcA|B2c2defd|efedcBcA|B_GGAB2B2|A2A2A2d2|BAGFG2AB|c2A2c2B2|ABcAB2GA|Bdefe2f2|g4G2AB|c2cBccdB|^c4BABc|d2B2cdBc|d2GAB2c2|d6|]
+
+X:144
+T: 144
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+geg|c2B|cg3/a/|g/g/ag|f/b/g2|egd|E/>C<cd/e|eee|dg2|gea|g/a<ed/|d3|dg2|dBg|cdc|de2|f>de|cB/c/A|e>gd|G/G/GG|Ec3/B/|c3|]
+
+X:145
+T: 145
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+AB|A2A2GB|A2A2BB|AAG2GA|B4AB|c2c2Ac|B2G2GB|A2A2EF|G4|BB|A2>B2AG|A2A2dc|BBBAED|G4|]
+
+X:146
+T: 146
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+e2|c2Ade2A2|d2c2Bedc|B2A2_A2FG|A6|ABc/B/|c2cBcBcd|e2e4e2|f2ga_g2ef|d4c4|e2g2fgef|d2B2c2f2|e2dc2<d2c|c4|]
+
+X:147
+T: 147
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+G|cBAGFEDD|EDB,B,A,2DD|EDDDGFED|GEDEF/F/EDD|DFAGFEDC|B,B,CB,C2B,A,|A,DCFGAGE|D4D3|]
+
+X:148
+T: 148
+L: 1/4
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+d/e/|ff/e/|de|dc/B/|_Bd|x|f/a/g/|ff|fe/f/|ge|f/g/a/b/|af|ba/b/|ag/f/|gf|f/e/f|b/a/g/f/|e2|d|]
+
+X:149
+T: 149
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+A3/AA/|d3/cA/|G/A/B/cF/|E3/zB,/|FE/DD/|E3/cc/|BA/GG/|e3/eG/|cc/cc/|B3/zd/|dc/AB/|GF/EF/|BA/GE/|_G3/Gz/|GG/GG/|EE/D/E/C/|DE/FG/|A3/z|]
+
+X:150
+T: 150
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+BB|cBAG|ABc2|B2AA|G4|cccB|A/B/c/B/A2|dcBA|B/c/dG2|GABc|dgcf|ed/c/B2|]BABA|GAB2|edcd|B2c2|dcde|dc/B/A2|BA/G/cF/A/|GFG2|GAB2|Gc/d/e2|dcBA|c3B/A/|AGGA|B2A2|G4|]
+
+X:151
+T: 151
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+cBcd|g2g2fede|d2>c2B2Bc|d2d2cBcd|e2d2e3d|cBcdc2BA|G4D3|G/A/|B2A2ABcB|A2G2>B2cd|e2>d2c2BA|G2G2DFGA|B4A2B3/c/|BABcdefd|g2g2ggde|f2>g2fedc|B4|]
+
+X:152
+T: 152
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+A2|dAdAd2d2|e2d2^c2d2|ed^cdc2de|f2e2d2e2|fefgfedc|BAGFE2A2|D2c2B2A2|GFGAAAGF|EDFED2A2|defdeAd^c|dfed^cAde|fefga2gfe|d6|ga|bbagagfe|fgaba2c2|cBcdcdef|g4f2fg|a2gfefde|^cBcdefgf|efed^cdec|d2d2d2|]
+
+X:153
+T: 153
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G>GG3/A/|G3B|AGG/A/B|c2EF/G/|G2BG|E2FG|AGFG|D3d|GGAA|Bcde|dc/B/AB/c/|BB/A/GD|G2DD|GAB2|cBBA|G3e/e/|dddc/B/|AEEF|G2B2|A4|GF/E/DB|A3G|GFGD/D/|GFGE|D3|]
+
+X:154
+T: 154
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+c4A2|c2BAGF|F4G2|F2e2a2|g2fgef|f4B2|A6|d4c2|c4de|f6|c4de|fdefg2|efggfe|dcBAGA|B4g2|bagfef|d4g2|c2e4|c4_g3/g/|fcdef2|dc2<B2A|A4z2|]
+
+X:155
+T: 155
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+c|gagf|e/d/c/g/fd|gga/g/a/g/|a3|g/f/|ed/c/Be|cFGA/B/|cGec/B/|cGf/e/d/c/|BGgg|e>dcG|ADD/D/E/F/|G3|]
+
+X:156
+T: 156
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+dGA|BBBBBGBd|d2>d2dcBA|G2d2e2d2|G2zddefg|f2>e2dcBA|G2zzdcBA|GBdg2<f2e|e2>z2zeee|d2>B2c3B|ABG|]
+
+X:157
+T: 157
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+B|cAGF|E2D2|AGFE|DDDD|BBAG|BAGF|G2FE|DDD2|EEGG|AEFD|D2G2|A2d2|BB/B/A/B/A|GB/B/dB/A/|G2D2|D>DFF|G2AB|GG/G/Gc/c/|B>BBB/B/|B2A2|G2|]
+
+X:158
+T: 158
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+F3/F/|F2CG|A2d3/B/|A>ABA|GBd3/c/|ccB3/A/|A3G|F2FA|A>Ac3/c/|B2G2|A2A2|B2c3/d/|c2G3/A/|A2e2|c2zF|A2G3/A/|A2F2|z2F3/G/|A4|z2D3/D/|F2A3/B/|c2c3/B/|A2c3/c/|c2d3/d/|c2B2|AGFE|F3|]
+
+X:159
+T: 159
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: C clef=treble
+D|AAB|d2f|edefgfe|defed|fedB|zdc|dedcB|cz^c|ded|cfe|d2c|ABc|ezff2|f3/e//f//g|zd3/c/|cez|dc3/B/|ccB|cB3/A/|Azf|e2g|ee2|B2z/E/|ccA|c>dd/c/|B>BA|Bzz/B/|f/>f/ae|fdz|ggg|]
+
+X:160
+T: 160
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+A/B/c|dcBABcBA|GABGA2EA|_A2A2BcBA|_AABcB2GA|A_AABA2A_A|A2EABcde|F2dAGABG|A6|f2|defgagfe|cdcBA2c2|BcdBcBcd|dcded2A2|cdecBcAB|AGABc2AB|cBA_AABcd|e2fed2cB|c2dc2<B2A|A4A2d2|Bcdec2Bc|AdAdd2f2|efdfefed|c2B2A2|]
+
+X:161
+T: 161
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+G2|c2>e2c3B|c2fed2fe|f2g2a2g2|f2g2fefd|e2f2gfed|ccBc2<A2G|G6|GA|B2AGcBAG|F2GAB2G2|c2def2de|feded2ef|gfed2<e2d|d6zd|d2>e2f2ab|a4f2fg|agfedcBA|AGABc2cd|e2gef2ge|f4z2ag|fef2defg|agfef2g2|a6ed|cdcB2<A2G|G6|]
+
+X:162
+T: 162
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+ddgd|egc2|f/g/a/b/c'/a/g/f/|ee/d/c2|ffga|aaf2|gffe|fAfz|fedc|dBc/d/B/c/|dde/d/c/B/|AGF2|G/f/e/d/cB|AGFf|^cadf|ed/c/BG|g_ggf|ggGf|gafd|d^c/B/A2|BGdD|EGG/F/E|GABG|BGcA|GGGE|F/G/AB2|]
+
+X:163
+T: 163
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+C|FFGG|A2A2|GG/G/AG/G/|FFFF/F/|GGGG|ABc2|c/c/ccc|d2d2|edcc|A2c2|FFF2|F2FF|FAG2|AABc|cBBA|G4|]
+
+X:164
+T: 164
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+B2c>BA>GF2|GA>BA>GF2F2|G2D>DE>FG2D2F2|A2A>Bc2c2|B2A2G2B2|A>GA>Bc2A3/B/|c>BA>GF2c3/B/|A>GF>GF>ED3/D/|G2B2G2A3/G/|F4c4|A2>A2B2e2|f2g2f2e2|d2d4g3f|efd^cAFBG|AGFED4|]
+
+X:165
+T: 165
+L: 1/4
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+c|cB|BA|Gc|F2|GG|A/B/c/B/|AG|F2|c/A/F/B/|BA|GG|GB|AG|F2|FG/F/|EG|Fc|F2|]
+
+X:166
+T: 166
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+BA|G4d2d2|dedcB2BB|A2>A2Bcde|d2>d2d2d2|e2eeeddd|cBcde2d2|c2B2Acde|d4ddde|d2dcB2c2|ddddg2d2|g2gga2ae|d2cBc2de|ddddc2cc|B6c2|dedddddd|e2>f2d2c2|B2Bc2<d2d|e2>e2fgd2|ggggg2|]
+
+X:167
+T: 167
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|BBBB|A>BAD|GGFE|D2dc|BBcd|B2>B2AB|c>BAB|G3G/c/|BBBB|cc/>B/AA/A/|GABB|BAzz|]
+
+X:168
+T: 168
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+g2g2f2f2|f2g2e2d2|e2d2c2ed|cABcd4|d2d2e2e2|dcded2d2|g2f2f2e2|dcded4|]
+
+X:169
+T: 169
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+G2B2defg|a_aaab2dg|a2g_gg2gf|g2d2d4|A2ded2cB|A2gea4|A2Bcdedc|B2>A2G4|d2ddd2dB|gfedc4|B2edcBAG|AdFGA4|]
+
+X:170
+T: 170
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+d2e|d2c|B2G|cde|d3|e2d|edc|Bed|c3|B2B|B2z|BBd|c2A|GGB|d2z|d2B|A2e|d2e|c2B|A2A|G2z|G2G|BcB|d2d|ded|d2c|e2d|c2B|B2B|e2d|cBc|BAG|BAG|dcd|e2d|cBA|c2B|BAG|G3|]
+
+X:171
+T: 171
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+fdcd|BAB3/c/|d2d2|cdB3/G/|A2G2|G2c2|fef3/d/|g>aba|gab2|e>dc3/e/|d>de3/c/|e>fg3/c/|c>dd3/e/|f>ad3/d/|c>ccc||B3/A/|BAGB|d2fd/e/|f/g/a/b<gf/|f3|]
+
+X:172
+T: 172
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: F clef=treble
+D4D2F2G2G2A2>B2B2>B2A4z2z2c2c2A4G2A2>B2A2B2cdB2A2z2A2B2A4G2F2E2D2E2F2ED2A2B2A2G2F2G4z2A2B2>B2c2d2c2B2B2A_AGBA2G2zAABc2d2d2c2B2AGA2z2B2A2G4A4z2A2B2>c2d2B2A2>G2F2F2G4|]
+
+X:173
+T: 173
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|G2Bd2e|d>cBA2d|dcBAdc|BAGA2|G|GFEDDD|EEzz2D|cccBdB|AGFE2z|zGBddB|GBBDDD|B2dd2d|cBAGBG|cBAG3|G3z|]
+
+X:174
+T: 174
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+GA|B2dcBA|G4GB|d2dedc|B4dd|edcBcd|eee2de|c2g2gg|d2B2Gc|B2d2gf|e2d2cB|A2ddBd|e2>d2ef|g2f2ge|d4de|dcBcd2|cBAGAc|B2dcBA|G4|]
+
+X:175
+T: 175
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+c|fgfgef|gfeefg|fgfefg|fgfgce|fgfefd|cBAG2A|B^cdgfg|d3c2|c|cBcGcB|AcAF2c|cBcBdB|cccceg|fgagag|a3g2|]
+
+X:176
+T: 176
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+GdBD|BGd2|AFAG|GFD2|GBd2|GFE2|FGAF|G2z2|DGGG|GFG2|AcBA|GEGF|GBAB|cAB2|dBdc|BAG2|Bcd2|BBB2|AGAc|B4|ABG2|AFF2|GBdD|c2c2|BB/B/A/G/A/A/|G2G,2|]
+
+X:177
+T: 177
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GGGG2<G2G|GGGGF2AF|AAAAAAAB|GGFGAFD2|G2>G2GAcB|BAADD2z2|D>DD>DDDB3/G/|G>GGGB2BG|GGB>AG3B|BAGBA2G2|BBB>Bc2c2|ddddd2^cB|dedde2c2|c4cccc|B>GGGG>DD3/D/|G2G2z2z|]
+
+X:178
+T: 178
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+a|agdd|gdBG|AcBA|A2G3/G/|GABc|dddc|BA3/A/GA|BGAA|BGcB|BAE3/E/|DEFG|ABG3/B/|BBBc|d2d2|ccBB|ABcc|AAAA|G3|]
+
+X:179
+T: 179
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+D|D>BA/G/|FGF/E/|ED/E/F/G/|EED/D/|GAB|GA/B/c/d/|BcB|GAB|_AG/A/B/A/|GED/E/|FAG/A/|D/D/GG3//A//|B/A/B/c/e/d/|cFF|AG2|]
+
+X:180
+T: 180
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+d2d|d3d2d|d2cc2f|e3e2e|d2ddcd|e3d2c|d2cBAG|F3z2c|c2cd2d|e2cg2g|gdecBA|G2zz3|d2dd2d|e3e3|d2dc2B|A2GA2A|B3zzdd|g2ge2g|gffe2f|e2dc2B|A3z2d|e2eg2f|e2dc2B|c2cABc|B3G3|]
+
+X:181
+T: 181
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+c2e2gg|c4ee|edc2cgf|edcBAG|GEFGABc2|dedGGG|edcd2cdd|gfefgfed2|gegfga2f/g/a/g/|f6|e2fedcdB2|cBA_A4F2|gfe2f2|ggggc'aga|baggf2c2|ccdcB2A2|efg/a/b2g2|fed2f2|edc2c2|cee2d2|c3c|c6|]
+
+X:182
+T: 182
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: F clef=treble
+z/A/|A>AB/c<dd/ed|c2Bc>dc|BA/B/c/d<dc//d//e|e2A/G/A/B/cc/B/|cB/A/B/c/d2e2|c/d/e2>d2f2|c2ag2c/B/|A4g/e/c|d2>G2cd/c/|B4B3/A/|B2G>cB/G/|A2BBcd|e>dc>eg2|d4c2|ed2<c2d|ed/c/B2A2|Bc2<d2B|c2c2fa|b2>g2be|_g2ggfg|ef2<g2g|dB2<B2B|c2c2Bc|de2<f2g|ag2<f2e|d4c2|]
+
+X:183
+T: 183
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+G4FG|A4A2|FGA2B2|c4d2|e2dcdc|B4A2|B4de|f2>e2de|fe2<d2c|c6|f2>e2d2|A2B2c2|d2d3c|B2>A2G2|cdcB2cd|e2>d2d2|cBcAd2|c2BABG|edcBAB|A4G2|]
+
+X:184
+T: 184
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D/|GG/GG/|GG/GG/|GA/BB/|c3/AB/|GA/BB/|A3/AF/|AA/GA/|BG/AB/|cc/cc/|B3/d3/|B3/d/B/|G3/G3/|GF/G3/|A3/A3/|B/>B/B/B/B/c/|d3/d3/|G/G/G/GE/|D3/F3/|C3/EF/|B3/G3/|F3/F3/|G3/G3/|]
+
+X:185
+T: 185
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+BA|G2G2GA|B2d2dd|A2A2cB|A2A2dc|B2G2GG|A2A2GA|B2d2dd|G4z|]
+
+X:186
+T: 186
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+DEF|GGGGAc|B2BBBB|B2>B2AB|G4DE|F2F2AG|FFF2FF|E2>D2GA|B2A2D3/F/|G2>G2G3/G/|FFF2F2|B2>B2A3/G/|F6|]
+
+X:187
+T: 187
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GGBddd|GABAcA|GGABcd|dedccB|Adeded|gfed2z|c2cced|BgggdB|GGGGGB|AAFG2z|]
+
+X:188
+T: 188
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+eedd|e>fed|edcG|cde2|gd/c/ed|cdec|dc/d/ee/f/|dcc2|ee/f/ge|dc/d/ee|edc/d/c/e/|d>cG2|G/G/c/c/df|ed/c/cc|d2d2|cccG|cGEG|cece|dc/G/EG|c2G2|E2c2|c/G/c/d/ee|cGE2|cedG|EEG2|GEG/c/E|EGcG|E2|]
+
+X:189
+T: 189
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+dcde|ff/g/af|BcAd|BAB/c/d|g/a/f/g/a2|abag|gfed|ed/c/d2|ad'c'b|ag/f/e^c|fgad|^c/d/e/f/ga|feac'|d'aee|gf/g/gf|ed/e/^c2|A/B/c/d/cB|AcA2|A/B/c/A/d/c/d/c/|B2A2|cAc/d/e/d/|cBAa|aa/_a<ag/|f2e2|dc/d/Ac|daba|gfe2|b2a2|gg/f/ed|cBAG|G3G|]
+
+X:190
+T: 190
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+C|F3F2G|A3A2F|GGGEFF|D2>E2DC|B,DEF2G|A2BAGA|F3E2F|AGFG2z|E2>F2GG|FEFGAB|c2dc2B|A2GF2z|]
+
+X:191
+T: 191
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+e4g2|a4g2|c2FFDF|C4DD|c4E2|F4E2|F2FGFG|A4E2|F4GA|G2G2F2|E4F2|G4G2|A4BA|G4EE|CEGEDE|F4G2|ABcBAG|D6|]
+
+X:192
+T: 192
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+d|ddBA|G2DG|cccc|A/B/c/A/GF|EGDc/c/|B/B/B/B/B/B/B|c>dec|BBAA/A/|G2AA|G2zz|]
+
+X:193
+T: 193
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+e|egedcd|eeeeee|e/f/edddd|eeeefg|e2ef2g/f/|e3G2|c|d2>g2eg|bagfef|ggfgge|faagag|fedggd|d3d3|gagf2e|d2>B2dd|gabagf|g3g2|]
+
+X:194
+T: 194
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+D3|F2E|D3|A>Bc|d2d|^c2d|e>d^c|d3|z2F|A>GF|G2F|E2A|F3|d2d|^c>de|c2c|B>cA|G2F|E3|D2D|E2F|G3|A2A|B>cd|c2A|B2A|G3|FGA|B>cB|A2A|A2B|^c2B|c>BA|d>cB|c>dB|A2G|F3|A2A|F>GA|A2G|F2E|D3|D3|A2G|A2D|A>BA|d3|B2c|d3|^c2d|e2d|^c2A|d2d|d3|e2d|^c>de|f2B|A>GF|F2D|FGF|F3|E3|]
+
+X:195
+T: 195
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+GA|B2dcB2d2|^cde2cAdef2|egfeagfe|^d2A2c2AG|F2E2D2D2|DDDB,A,2A2|ABBABcd2|A2ABc2d2|D6|ABc|A2B2dcBc|dcBcAcBA|B2g2f2ed|^cBcde2f2|g2fge2d/^c/d|g6|]
+
+X:196
+T: 196
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+d2^cBA2GG|A2AGF2f2|e2de^c2de|fefgf4|d2efg2ef|d2gfe2ef|g2agf2ed|^c2d2e2A2|d2>^c2d4|defgf2c2|B^cdBe2d2|^c2de2<f2g|efgfe2d2|^cdefg2c2|defgagfe|agff2<e2d|d2D2D2|]
+
+X:197
+T: 197
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: Eb clef=treble
+G|c2de|A2BB/c/|cBAG|A2z|]A|c2B2|B3G|AABc|B4|AGAB|c2B2|d>edc|Bcd2|B/c/d/c/BA|G3z|BBBd|dc2B|d2d2|d2cA|B2dc/B/|A2z|]
+
+X:198
+T: 198
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+B|G>BGBed|B2BG2c|BBBAGF|G3G2D|BBcded|BBBAAB|cdee2d|B3B2d|ddddef|g2GGdd|e2>e2fd|d3B2e|edcedc|e2dc2d|B2eece|d3d2B/d/|gedcBc|dedB2G|ABcddA|G2>G2z|]
+
+X:199
+T: 199
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+d2>d2d2fa|d2>d2d4|bbgge2f2|ddddd4|e2>e2e2f2|A2>f2e2d2|f2defgab|_a2bbc'4|a2bag2fg|a2d'bg4|f2ddf2a2|a2>a2a4|c2AAA4|a2agf2a2|a2bag2ba|c'2bag4|d2g2fedc|eddcd4|g2fed2aa|g2fef2e2|dcBAA2AB|cAafd4|]
+
+X:200
+T: 200
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DGGABAG3/A/|BcddcB|AGFGDD|GABcde/d/|c>BAB>cB/c/d|ecd/>c/B/c/de|d2c2z2|GAB2|dcBA|G2Bc|ddcBcd|BBGA|BcdBB|c2BA/B/cd|B2c2|d2AG|F/G/AE2|D|]
+
+X:201
+T: 201
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+d2|d2ABc2B2|AGABA2de|f2gfe2f2|e4d2|ef|gfgagfed|cdcBA2f2|g2a2b2g2|fefga2a2|gfgagfef|gf2ede2d2|ABcdedcd|B6c2|d2cdedcB|c4c4|B4cBAG|A2>G2FBcA|dcdedcde|edefgfed|d4c4|]
+
+X:202
+T: 202
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+GA|Bcded2e2|d6dc|BGBcA2GA|B4g2bf|e2g2f2ed|e4c2ag|f2>e2d2c2|BcBAG2zd|def2defg|f2>e2dcBA|GDGG2<B2A|A6|d2|f2d2d2d2|cBA2G3A|B2d2B2e2|d6cd|edcB2<A2B|G6|]
+
+X:203
+T: 203
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+A|d2G2|FEFD|d2^c3/B/|d>cBA|AGAB|d3A|c>BBE|G2F2|E>EEE|c3A|BdcB|A2A3/G/|FDFF|F>FD2|e>ed3/c/|B2A2|c>Bc3/e/|d2c2|d>ce3/d/|c2D2|]
+
+X:204
+T: 204
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+F2|GABAG2G2|A4A2GA|B2A2GBAG|F2A2D2D2|G2A2BcBA|G2>F2GABc|dedc2<B2A|G6DD|G2ABA2Bc|dcded2GF|GABAG2A2|D6|]d2|e2dcBcdB|c2BAA2AB|c2BAG2AB|c2BAG2A2|B2BAG2FG|A4d2AG|AGFGA2AF|G6|]
+
+X:205
+T: 205
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+BG|B2>B2AG|A2>G2FG|A2E2DD|E2GDDC|B,2D2DD|G2F>GAG|F2G2BA|G2D>DG3/A/|B2>A2BA|G3|]
+
+X:206
+T: 206
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+AA/A/Ad|F/G/A/B/AG|FD/D/BB|A4|ddzg|ff/f/eg|faag|f2z2|ee/e/ee|ccAe|fedc|BBcd|BB/B/A/d/c/B/|A3f|Bffe|d3d|dg/f/ee|d/c/B/A/GF|EAFc|fAAA|AdAF|Bd/B/Bd|cedf|e2d2|cBcd|eeee|cAdA|g2z2|]
+
+X:207
+T: 207
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d|d>ggc|BdBg|fgAd/c/|B3d3//c//|BeBG3//G//|ABAc|B2c2|d3z/d/|deef|g3d|edcB|AeBB|B2A2|G3|]
+
+X:208
+T: 208
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+E|FEDFGA|G3F2A|BABA2G|A3F3|BAGAGF|G2FG2G|FGABGA|B3A3|E2FG2G|G2GF3|]
+
+X:209
+T: 209
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+g|abag|f2ed|efgf|edec|fged|c2C2|gfed|cBcd|BAGF|E2z|e|cBcd|ecde|f2dc|c2ec|cB/A/Gd|g3_g|gagf|e3d|c2e/e/e/f/|gee_g|g2g2|e2|]
+
+X:210
+T: 210
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+GddBd3e|dcBAGABA|GG/G/AB2<c2B|AAAABGGF|GBde2<d2B|ccccBBBG|A2d2c3B|AAcBAGGG|DDGFG2zD|G2BBBAGA|BGF2EFF2|GABcd2AA|AcBA2<G2D|GGGGAFG2|EEEEE2z2|GGGGGGG2|BBccB2c2|dddcB2BB|BBBBAGFD|FGAFD2z2|]
+
+X:211
+T: 211
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+D|FFGA|BBdc/B/|ABcd|e2c2|Bcdc|Bcd3/c/|B2BB|GABc|d2dd/e/|fge2|d3|]
+
+X:212
+T: 212
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GGGG|GGGGGG/G/|BBBcBA|G6|A2AA2A|d2dd2d|d2dd2e|d6|B3B2B|c3d2B|B2BAAA|G3G2G|B2Bc2B|B2AA2G|G3G2|]
+
+X:213
+T: 213
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+a4a2g2a4c4c2f2e2d2f4e4e4z4d4z4c4d2d2e4f4a2a2g2g2g4e4d2e2c2c2d4c4z4e4e2d2c4G4c2c2B4A4z4d4c2c2B4A4d2g2f2d2d4e4A4z4d4c2B2c2c2c2B2c2B2A2G2F4|]
+
+X:214
+T: 214
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+D|GABd|c2A2|cB3/B/|ABc3/B/|A4|GcBd|fedc/B/|Adc3/B/|A2z2|dedg|f/g/a/g/f/d/e|c2d2|d/B/cdB|ed/e<cB/|A2|]
+
+X:215
+T: 215
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+cGcG/G/|cdd2|edc2|ff/e/d2|GABc|BAG2|fe/d/ec|defe|dccA|BAG2|ccd/c/B|AG/G/cf|gfe/d/c/d/|c>cc2|cd/e/f2|G/A/B/c/AB|cc/c/c2|GcB3/A/|GGcc|dc/B/cc|GGF|]
+
+X:216
+T: 216
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+F4A4c4B2A2G2F2F4G4z4A4B2A2G2F2G2A2B4A4z4D4G2F2G4E4D2D2G2G2F4z4G4A4F4c2B2A2c2B4A4z4d4B4A4A2F2G4F4z4D4A2A2B4F4F2F2G4A4z4G4F2D4G4F2F2G4A4z4F4B2A2G4F4A2c2B4A4G4F4|]
+
+X:217
+T: 217
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+G/A/B/G/|ABcB|AAG/G/G/G/|AAee|dBGG|Adcc|c2BB|BA/A/GD|GdcB|AGGB/c/|d2G/A/B/c/|dd/d/cA|G2|]
+
+X:218
+T: 218
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+d/e/|dBA|BBB|ccc|d/e/dc|B2B|BAG|Bc/B/A/G/|AGF|EG/F/E/F/|GG/A/F|GGE|E2D|cc/c/c/c/|BBd|AAd|B2d/d/|BBd|dcA|GGD|Bd/d/c/c/|B/B/A/A/A/A/|G3|]
+
+X:219
+T: 219
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2AB2B|A2AABc|B2AGDD|G3G3|AAAAAB|cBAG3|d2>d2dd|^c2cc2B|c2Ad2d|G3G2|]
+
+X:220
+T: 220
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|d2de2e|d2dB2d|d2de2e|d3B2B|ddde2e|d3B2B|d2dB2e|d2>d2AA|B2BB2A|B3B3|G2GB2B|A2AAA|d2dcAA|B2>G2z|]
+
+X:221
+T: 221
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+A2>A2B2B2|B2>c2d4|c2>B2A3A|B2>A2G4|FEFGAAGG|G4z4|G2ABc4|B8|edcBedc2|BcdcB2A2|G2A2B3c|d2>c2B3A|GABcd2BA|A2>G2G4|]
+
+X:222
+T: 222
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+BBBB|B2B2|AAAA|BAB2|cccc|B2BB|AGAB|G2z2|BBBB|B2B2|A/A/AA2|A2A2|B/c/d/d/dd|d2cB|A2A2|G4|]
+
+X:223
+T: 223
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+f4d2d2|f2c2A4|a4g2f2|f4e4|e4a4|d4z2x2|c2>c2d3e|f4f2f2|d2e2d3c|c4c2|]
+
+X:224
+T: 224
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2FG2A|B3e2d|d2edcB|A3B2A|G2BAdd|d3c2d|eedBcd|e3d2d|d2ge/d/e|f2d^cBA|Gcdedc|B3B2B|ABcdcB|A3D2|G|c2BAGF|E3F2G|ABcdcA|G3G2|]
+
+X:225
+T: 225
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: A clef=treble
+e|eAAcBA|G_AFE2E|dedcBA|E2zEAB|cBcede|AAAA2x|eagf2e|ffef2e|dBddBc|BBBBcB|bbdcBc|f2ba2d|cdBA_AA|B2de2z|]
+
+X:226
+T: 226
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+d|e2dc|c2Bd|eeef/e/|d2dd|eedd|e2gg|f2fe|d2dd|e2dg|e2fe|d2dc|eddc|c2c2|e4|d2gf|e2ed|e2ed|c2z2|]
+
+X:227
+T: 227
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+dc/B/A/B/|G2D|GAA|B2G|AFG|G3|agf|e3|egf|e2c|Bc/B/A/B/|G2G|gfg|aba|bag|f2f|ed/c/d/e/|^cde|fga|A3||
+
+X:228
+T: 228
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G/G/|GGGA|GDGG/G/|AFGA|G3D|GGGG/G/|GGGA|Bddc/B/|A3A|ABcd|e2d2|c/c/c/c/de|d>dd2|e2e2|d3B|cBAG|GFE3/E/|D3D|cccc/c/|B2B2|AAGB|d3|]
+
+X:229
+T: 229
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: Eb clef=treble
+B,/B,/EG|B2>A2GAcB|G4DAAA|B2>G2BdcB|c4zDEE|F2G2A>ABB|c2>c2cdBc|A2>G2ABGA|B2B2BBBB|B2>B2AGFE|D4zAAB|c2>c2BAFG|F>FF2z2|]
+
+X:230
+T: 230
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+g|d2gd2g|e3d2f|e2efga|f2dgag|daba2f|g3g2g|f2de2g|fedagf|f2gf2c|d3d2|a/b/|a2fafd|g2gg2d|ggdfg_g|g3g2g|fgafdf|g3d3|c2cc2B|A2edef|e2fgaf|g3d2|]
+
+X:231
+T: 231
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+G|c>cB|AAB/c/|d2d|e2d|cB2|A3|dBc|dBc|cd3/d/|e>fd|e2d|c3|]
+
+X:232
+T: 232
+L: 1/8
+Q: 1/4=132
+M: 3/4
+K: D clef=treble
+FFF2D2|dfeAcB|ceA2c2|ddedcA|FdGGFA|D6|dagfed|cac2A2|gecAcf|fefdgg|fdfafd|e2ceea|fdB2A2|c6|f2aaab|aaefg2|fBcdec|d2>e2fd|ceBece|dcdBA2|ce_A2c2|B4B2|]
+
+X:233
+T: 233
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: C clef=treble
+GcG|c2d|BA_A|cEC|d2G|FAG|czc|B2G|d2e|c2c|czc|d2c|d2F|C2G|G2c|A2A|Bcd|Bdd|c3|c2z|d2G|dGG|eec|f2d|A2G|d2e|f2f|e2e|c2d|G2c|d2e|f2e|d3|e2e|c2d|ecd|e2c|c2z|]
+
+X:234
+T: 234
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+F/|FF/FG/|AA/AG/|G/G/G/GG/|G3/zF/|BB/GG/|c3/cc/|cc/cc/|d3/zz/||Fz/AA/|AF/FF/|F/F/A/cc/|cc/cc/|BB/BB/|A3/z3/|]
+
+X:235
+T: 235
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GABc|d>ede|d2c2|B2Gc/B/|AGFE|DEFF|G2G2|BABc|dedc|B2A3/A/|G2D3/D/|G>ABA|AGdc/B/|A>dcB|AdAG/F/|G3|]
+
+X:236
+T: 236
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GG2G|G3A2B|A2AF2F|G2>G2AB|c2>d2ed|c2BA2d|d2edBA|G3G2d|d2dd2c|B2BB2A|G3zBB|Bcdd2d|d2Bcde|e3d2d|d2dddc|B>BBB2A|G2GA2A|B4B2|Bcdddc|BcdAcB|ccceee|d3d2B|dddd2d|d2dd2d|ccccBc|d3d2|]
+
+X:237
+T: 237
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|BBBBcB|AAAB2D|BAGFEE|F2GA2A|FFAAAc|c3B3|ddddcB|c3c3|BBBccc|B2AG2z|]
+
+X:238
+T: 238
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+G|c2c2c2ef|g2g2g2gg|ababagfg|agfef2e2|d2>e2fgfe|d6|d2|GABcB2d2|e2dec2G2|c2B2c3B|c6e2|f2gfefde|cBcdc2B2|AGABABcd|B2BBc2z2|ecBABcde|d2cB2<g2e|c6x|]
+
+X:239
+T: 239
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+GBAB2A2|G2G2G2|A2AABB|A2>G2A2|B2BAGA|B4A2|d2>d2cB|A2>G2F2|_A2>A2BA|AG6|A4B2|c2d4|c2>d2ec|AG4G2|e2>d2cB|A4G2|Bcc2d2|G2B2g2|A2d4|cBA4|c4B2|AB2<c2d|edcB4|AGABcde|f4|]
+
+X:240
+T: 240
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+C|FF/F/FF|GGGG|AGFA|ccB2|AAFG|cccc|cAAF|GGAG|F3|]
+
+X:241
+T: 241
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G/|GB/AA/|GG/GA/|GB/cd/|d3/ee/|d3/BG/|AB/cc/|BB/AA/|G3/GG/|AA/Bc/|BA/GB/|Ac/cB/|A3/A3/|Bc/dd/|ef/ec/|BA/GF/|ED/ED/|GA/Bc/|d3/dd/|dd/cB/|A3/AB/|AG/FE/|D3/E3/|DC/EF/|G3/G|]
+
+X:242
+T: 242
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: Eb clef=treble
+GGc|BA/G/G|GG/G/G/G/|ccG|ccc|de/d/c|BB/c/c/e/|dc/c/|cc/e/d/c/|BzB|dGG|dc/B/G|cGG|GzB|FDF|Bzz|cc/c/B|eGG|cB/B/B|AGz|dcf|Ecc|c/B/A/A/F/A/|G2z|]
+
+X:243
+T: 243
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|BAGD2A|BAGA2F|GABAGF|G2BG2B|B2AG2F|G2>A2AB|GGBBAG|G2>B2GB/c/|dcdcBA|dBGc2B|ABcBcA|G3d2|]
+
+X:244
+T: 244
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+daa2|abag/a/|fdBd|f2d2|eee/c/d/e/|fdA2|eeag|fa/f/a2|fdf/f/d/e/|fe/f/d2|defg/e/|ced2|eeg/f/e/d/|gec2|dgba/g/|fga2|Aed2|cd/e/f2|afe2|ddd2|]
+
+X:245
+T: 245
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+C|F2FF2E|D>CC/C/B,3|c2FF3|D2FG/F/EE/C/|G2GG2G/F/|EG/c/BA2<c2cc3|BAGFE2B,|g3G2d|edcBBA|G3C2C||A2FFED|G3c3|GEGB/G/_G/E/D|D3z2B|cdccfe|dcBA2|c|cBBAAG|GABE>Gc|GBAGGA|F3z2|]
+
+X:246
+T: 246
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+ddg|fgf|f/e/dg|gde|d/c/B/c/A|D3|Aed|c/B/AG|F/G/AB|cAA|AAc|GFG|dBA|G/B/GD|eca|GAc|c/B/Ac|G/A/BB|E/F/DE|G/F/E2|dcB|A2G|]
+
+X:247
+T: 247
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+e|gBcd|e/f/g/d/ed|cBA_A|A3|B/c/|ddeA/B/|cdBc|edcB|A3A|GBB2|BGd2|dcB2|cAB2|Bc/B/AB|A3|]
+
+X:248
+T: 248
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+c2|BAGB>AG/A/B/c/|d2z2B2|A>GFFEF/A/|G4zB/c/|d>dddcd|ecedcB|Ad/d/defg|g/f/g/a/g2d/e/f|g4|]
+
+X:249
+T: 249
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D2>|G2G2GFEF|G4G2GG|A2A2A3c|B4A2d3/e/|d>cB>cd>dc3/c/|d4ABc3/d/|e2e>ee2e3/e/|d2G2d2d3/d/|e>ee>ef2e3/e/|d4B2d3/d/|d2c2e2e2|d4B>AGG|F2G>AB2G3/B/|A4D>DDD|E2D2E2F2|G4|]
+
+X:250
+T: 250
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+F2|cdefg2fe|d/cdecdfge|c2f2c2d2|efgef2g2|a2gfgaba|g4|afff|e2>a2b3g|gabagfed|c2g2g2fe|d4cBAG|Fdef2<f2e|e4f2|f2|efgefgef|d2>c2c2ed|^c2c4de|fefgfefd|g2>g2afed|^cBA2A2ed|^cdecdefg|e4f2gf|e2d2^c2d2|e6fg|a2>g2f2e2|f2ge2<f2g|e4cdef|g4g2de|f4f2ef|g2a4fe|d4edcA|d2d2feff|dedccdec|d4|]
+
+X:251
+T: 251
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+G|GBBA|B2G|B|AAA|d2B|A2B|G2G|BBB|d2d|BBA|GGD|G2G|A3A|A/B/cB|AAA|ABG|G2A|B2A|G3|]
+
+X:252
+T: 252
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+B/|BG/GA/|c3/BB/|B3/AB/|c3/cG/|AA/AA/|B3/GA/|BB/dc/|B3/BB/|cc/cB/|B3/AA/|GF/EE/|D3/Bc/|dd/cc/|B3/c3/|AB/cc/|B3/d3/|dc/BB/|B/A/G/G|]
+
+X:253
+T: 253
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+GA|B2B>BA2FA|G4A2A3/B/|c2c2e2dc|B4A2d3/d/|BGGABcdB|AGABG2dd|eddc/B/A2d2|B4ddee|dddd/d/GGAe|e4dBBA|GBd2d>cB3/A/|G8|]
+
+X:254
+T: 254
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+GGcc|B/A/B/A/GG|dBdB|AGG2|DGGB|A>GAF|GcBA/G/|A>AG2|BB/c/cc|BA/G/A2|GBAG|GFE2|F/F/DD/D/E/F/|GAB2|cc/c/ce/d/|cB/A/G2|]
+
+X:255
+T: 255
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+C|FGAB|cdcB|AccB|A3z|cAG/F/E|ED2B,|DEFG|AGFF|c/d/c/B/AB|cBA2|ccA2|BGGB|A2Gz|AAGF|G/G/A/B/G/F/E/F/|G3F/F/|GFE2|D/E/F/G/AF|E2zA|d2cdc|cB2z2|]
+
+X:256
+T: 256
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+A|Ade3/f/|e3d|dcB3/A/|cdef|gfe3/d/|c3A|Bcd3/g/|e3f|fga3/g/|fedA|AB^cd|e>gd2|dee3/d//c//|d3d|f>ga3/a/|gfef|gfee|d2d3/c/|B>AA3/A/|B>^cBA|dAe3/f/|g3f|ed^c3/d/|d3|]
+
+X:257
+T: 257
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: G clef=treble
+d|G>Bdd>cB|d>edG2d|e>fgd>ed|A3G2d|d2ded2e|d3e2c|d3e2g|d3d2d|e>eeg>fe|d3g2g|e>eeefe|d3d2c|BBBB2c|d2dBGA|B3d2|]
+
+X:258
+T: 258
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+d2d3d|g2f3d|fgagff|e2d3d|ddgggg|f2e3f|d2gfed|e2g4|GA2<B2d3//d//|gfe2d2|efg3f|g2a3d/f/|edd2g2|a2g2f2|ee2<e2d|d6|]
+
+X:259
+T: 259
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+dd|B2BAG2B2|AAAAA2d3/d/|ddddd2BB|ddded2z3/c/|BBBBBBA2|B2BBB2B2|AAAAAAzAA|B6zB|d2>d2dded|dcccB2A2|B2B2d2dd|ee2<f2gfgfe|B2B2A4|G4z|]
+
+X:260
+T: 260
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+A|defd|gfed|dgec|d2z2|cAAB|c2Ac|dcdA|B_AAB|AGAG|FEDe/d/|ccdB|dezd|dccB|cdea|fedc|d2z2|]
+
+X:261
+T: 261
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+dBB/B/|dddddddd|edd2zf/a/ba|g/f/g/a/gfeggg|feddggfg|e2g/e/f/g/af|g3g|]dg|faf2ged3/c/|BAAB|G>Bdd|g2>f2e2|d4c3B|Bdeccc|BedA|d/>d/fgd|efgf|e2|]
+
+X:262
+T: 262
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+Bc|dgfe|d2gf|fgef|ggdg|e2g2|cAFB|A2GF/E/|D2|cB|AcBA|ddgf|e2dB|cece|d2cB|A2ff|ffag/f/|edcc|B2Fc|BFde|d2dc|B2G/G/A/A/|B2AB|G2|]
+
+X:263
+T: 263
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+DGF|E2c2d3/B/|A2A2G3/A/|B2d2G3/B/|A4GF|E2D2B3/c/|d2d2G3/G/|A2f2e3/c/|B2B2d3/d/|A2>E2A3/A/|G2A2d3/c/|B2G2G3/c/|B2>A2G3/A/|F2E2E3/D/|D2>d2d3/d/|e>dc2c3/B/|A2A2D3/D/|G2B2d3/e/|d2c2c3/B/|A2c2B3/A/|G2z2|]
+
+X:264
+T: 264
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+D|B2G/G/|G/F/Gc/B/|ABc|B2A/G/|G2A|Bcd|cB2A|G3||dB/G/|GDG/B/|dec/c/A3//A//|GAB|c2B|cA/G/F/E/|DcB|AGGB/A/|GG|A2B|ccB|B2c|de/d/e/A/|GF/E/D/E/|FDD|G2|]
+
+X:265
+T: 265
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+de|d2B2B2A2|G4G2DB|AABAA2GG|AAADG2Bd|c2BAG2dB|B2ABA2df|eedfg2e2|dddedcB2|dedcBAcB|BAG4|]
+
+X:266
+T: 266
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+A2B2c2|d2>A2d2|e2e2a2|a2>d2f2|gfefgf|e8|f4g2|a2babg|a2bagf|e2>d2c2|d2>d2ef|g2f3e|d2dcde|f6|f2fede|f2d>efd|g2>e2f2|a2dgfe|d2>e2f2|gf2<e2f|d6|]
+
+X:267
+T: 267
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+DD|DDDDDD|F2FFFF|A2AAAA|B2>A2zA|ABcBcd|c3A2A|AAAAAA|A2>B2AB|AAAABc|d3d2d|BBBAAA|BABA2D|GGGGGG|G3z2|]
+
+X:268
+T: 268
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: Bb clef=treble
+F|B2>d2ed|d2c2zA|d2efAc|BBz2cB|A2c2F3/G/|A2cBcd|B4zF|B4BBc2d|B2f2cd|e2d2c2d2|B4z2cB|c2c2cBAGF/F/|G2A4B2|d2cde2dc|B2z2B4|G2>G2BABA|c4c2z2|d>cBABA2AF|F4z|]
+
+X:269
+T: 269
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+g/d/ed|dg/d/e|d/c/BD|G/F/G/A/G|dde|e2f|gde|cB/c/d|gdc|Bc/d/B|edc|B3|AB/c/d|ec/A/B/G/|cf/g/a|fdB|gbg|cBA|f/g/aa|f2d|gGB|AFD|gb2|fga|Bc/B/A/G/|G3|]
+
+X:270
+T: 270
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+gfe|d4B4|c2B2c2B2|AGABA2Bc|dcded2G2|c2d2c3B|B6G2|afga2<g2f|g4g4|c2>d2efga|f4z2fg|a2g2abag|fgf2e4|d2cBc2de|e2Bcd2d2|g2gab2ag|a2gfg4|f4g2fg|abagf2ef|g2fe2<d2c|B6|]
+
+X:271
+T: 271
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: Bb clef=treble
+d2|B2d|e2d|dc2|B2d|def|B3|GAB|c2B|B2c/B/|ABc/d/|B3|d2d3//e//|f>ed|cBc|cBA|d3|G2A/B/|c2d|e>dc/B/|cdc/d/|B3|Ac3/d/|e>dc|de3/A/|A3|GGA|B2c|d>cB|G_GG|Adc|B3|d/e/f2|g/f/ed|gag|f>ed|e/f/d/e/c/d/|BB3/A/|c>BB/A/|B/c<cB/|G3|]
+
+X:272
+T: 272
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DD|G2GGG2AA|BAG2zDG3/E/|DDGGABAG|F2E2zDDD|GGGGGBdc|BAG2zBBB|F>GABG2E3/F/|EDDz2zBBB|A2G>FGBdB|G3z|]
+
+X:273
+T: 273
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+FE3/F/|F2C2G2B3/A/|GFE2E2B2|A2>A2DEFG|A2zGA>Bc3/B/|A>GF>EDEFG|A2BFE2E2|D4zD/E/FG|AGFGA2A2|F2G>AB2c3/A/|B2D>EFED3/E/|F4z2|]
+
+X:274
+T: 274
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+ded|cBA|GAB|A2G|FG2F|AD2|dBd|d/c/B/A/G|BAG|A/G/FD|gdB|ABG|cBA|dcB|gB3/c/|A3|G|]
+
+X:275
+T: 275
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+DDDE|D2ED|DDDD|DDD2|GGGG|A2DD|G2G2|G2z2|]
+
+X:276
+T: 276
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: Bb clef=treble
+d2|g2ffe2fd|e6e2|f2defgfe|d2cdB2c2|d2cBABcA|B4d2ga|b2bga2fg|a2g2f2d2|g2g2_ggab|a6|gf|e4d4|c2BcA2A2|G2BAB2dd|c2BcA2c2|f2ddggab|_g2efd2a2|gfedcBAG|AGFED2c2|d2g2f2e2|d6c2|d2cBABcA|B6|]
+
+X:277
+T: 277
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+GAB|E2E|Edd|B2G|BcB|d2c|ccc|c3|dBG|GFD|GAB|G2z|dcB|c2A|BGG|FFG|FFF|EGB|cAF|G2z|]
+
+X:278
+T: 278
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: A clef=treble
+E2>E2EEEE|E4E3A|BBc2ccB2|A4zB/B/AG|F3F/G/FEDD|EEEFGABc|A4B2c2|B3A/G/A2E2|d4BBB_A|A2G4D/D/D/D/|B4c2d/e/a/e/|B2B2e2d2|c2>A2B4|A2c4e2|B2BBAGFG|A6|]
+
+X:279
+T: 279
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+C|F>FEF|G>GGG|BdAG|F2zc|c>BBc|B>BAG|FAAA|c2CC|c>ABA|G>BBB|BBcB|A2zA/c/|cBBB|AGFG|AcFF|G2z2|A2A3/G/|F/A/A/A/GG|FCCE|F2z|]
+
+X:280
+T: 280
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+d>cB|e>dc|dgf|e>dc|ge3/f/|d>cB|cd3/c/|c3|dcd|B>AG|dg3/_g/|g3|c>de|d>cB|ef3/e/|d>ec|cB3/A/|A3|]
+
+X:281
+T: 281
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+G|E2EE|E2G3/G/|c2A3/A/|G3|]c|c3e|edcc|BGEC|D4|zdcB|AG2G|A2GG|ADDE|c/c/dee|d2e2|fecB|cGzG|A2GA|A2Bd|c2A2|G2z2|]
+
+X:282
+T: 282
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+C|F2FA2G|F2CC2F|G2cG2A|F2zzAc|fgecAc|b3c2G|G2cB3|c3z2C|f2agfg|f2>a2aa|c2gc2G|c2>f2cf|g2fedc|c2z||cf|e3g2c|gfedcB|B2AG2A|G2fe2G|fedczc|B2zzBB|B2ggca|A2zAAG|Adeedc|B2BB2d|BdBGfa|gfec2c|defcfA|GBgcfb|ecAcde|fefD2c|c3z2|]
+
+X:283
+T: 283
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+d|defg|ag/f/ee|df/e/dc|dc/B/AA|dded|ef/e/dg|ag/f<ed/|d3|e|g/f/e/d<cB/|cB/A/AA|FeAe|d3d|dBGB|c2df|aafA|BGGG|ed/c<BA/|A2G|]
+
+X:284
+T: 284
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+A2A2AzF2|g2f2f2f2|d2d2d4|d2dfe2dc|Bcdec4|d4e2dc|d2B2e2A2|AGABB4|c2def2d2|fefgfgfe|d2efg2f2|fedf2<e2d|d6e2|fagfe4|ABcde4|gababgaf|gagfeedc|BBBdBGAB|cBcde2d2|cBAGFEFG|AAGAG4|]
+
+X:285
+T: 285
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: A clef=treble
+E|A2AA2A|B3A3|E2GB2B|A3z2E|FGABBc|d3c2c|BBBABA|G3G2z|dddd2d|d2ce2d|c2BB2A|G3z2|]
+
+X:286
+T: 286
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: A clef=treble
+A2^d>edc2|efde2<c2B|B2e2cd|c2A2B2|A2GFEA|BG3A/A/G2|G2FE2D2|E3|D2B|c2e2<d2d|B2a2def|e^dc2e3f|G4G2|f2>g2egf|eff2e2dcB|A4G,2|]
+
+X:287
+T: 287
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G3G2G|A3A2D|GGGG2A|B3B2B|BddBAB|d2cBcB|A2DDDE|D3z2D|GGGGBB|B3B2G|AAAAAG|E3A2B|cBcAcB|c2BAGA|E>EEFFA|G3G2|]
+
+X:288
+T: 288
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+DG2A|B3B2B|d3d2e/d/cB|A2ABcd|e3c2>d2ef|gfgd2c|B3d3|e2ec2c|B2BBAG|c2cc2c|B2dd2c|B2BA2A|G3g3|d2ed2c|B3A3|G3G2|]
+
+X:289
+T: 289
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+A2dcde|f3f2a|gfedcB|A_AAB2A|A2GE2B|A3A2A|ABcedc|dBdccB|A2DF2G|A3A3|e2ag2f|e>dcB2A|f2gf2e|d3efg|f2ge2d|e3D2|]
+
+X:290
+T: 290
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+d>fed|^cAfg|aaa3/a/|a2a2|de/f/gg/f/|ed^cd|efed|^c2A2|cd/e<ed/|efg3/a/|a4|aaa3/g/|f2f2|edd3/c/|d2de/f/|ge/f<de/|e2d/e/f/g/|a/g/f/e<dc/|c4|]
+
+X:291
+T: 291
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+C|F>ABc2c|d>efB2G|A2Bc2G|c3c3|c>Bdc>BA|G>ABC>dc|B>cdB>AG|F3G3|]
+
+X:292
+T: 292
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+e4d2|cGEEGG|cde2c2|c6|cdcGcE|G4G2|cfedcG|E4B2|ceGGDc|B6|G2dedc|B2AGA2|dAEced|c4z2|fdGddG|GGGGGG|AcBdcd|ecAeGB|c2e2e2|c6|]
+
+X:293
+T: 293
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+de/f/d|cdB|cdB|B2G|ABG|B/A/B/c/d|Bcd|e3|ef/g/a|d2d/d/|Bg/a/b/d/|ed/c/B/c/|dc/d/B/c/|A>AB|cB3/A/|A2G|g_g3/g/|gfb|d/c<de/|f>ed|eg/a/b/a/|a2|]
+
+X:294
+T: 294
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G>GG3/A/|G>FE3/E/|DAGF|EDDG|F>EE3/E/|DA>AG|DD/D/EE|D3D/G/|AADD|B,GG2|]
+
+X:295
+T: 295
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+G4d2|d2>e2f2|e2d2e2|f2d2e2|fgfgef|g6|c2B2A2|B6|f2g2a2|d4c2|edcBAG|F2GAB2|GABABc|d2B2e2|c2cdcB|A6|dgf2e2|dcBcd2|g2g4f2|gfedcd|e2>d2c2|BAGABc|dcdede|d^cded2|d2g2f2|g2_g3g|g6|]
+
+X:296
+T: 296
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+c2cc2B|c2cd2B|cBccBA|d2cG2z|cded2f|e2dc2z|e2ge2e|efgcBc|ABcd2c|c2cc2z|G2GG2G|c2de2e|cBAGFE|FFDD2z|ecegfe|d2cB2c|defedc|BAGF2z|efeded|cGcBcc|e2cB2d|c3z2c|cdefge|dcdB2G|c2zG2z|BAGG2|]
+
+X:297
+T: 297
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+g2fgab|a2gfge|gfe2dc|B2ABG2|gfe2fg|BcBAG2|d2g3d|cBAGAB|cd2<A2G|G6|d2gfgf|e4c2|edc2BA|A2dcBA|BA2<G2F|G6|]
+
+X:298
+T: 298
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GGBd|d2cBAc|B2GcBA|G2GG2d|e2egfe|ededBG|d2eB2G|d3d2d|d2dc2e|d3c2A|B3B3|B2BBBc|dddedc|BABG2A|B2BB2B|d2dd2d|ecee2e|d3d3|B3B2g|g2fe2f|e3e2d|c3c2A|B2GGAB|d3e2d|GABedc|B3B2A|B2dc2d|d3B2d|dedcdB|c3d3|eeee2d|B2cd2g|cededc|B2Bd2d|fedgag|f2>e2cg|fefgfe|d3e2e|dAGAdF|G2B|d2cB2A|G3G2|]
+
+X:299
+T: 299
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+c2d2e2eg|fgeec2ef|d2ddg2dg|e6g2|abc'2a3a/g/|f4g2a3/g/|f2f2A3A|Bcd2B2c2|G2G2Adef|g6a3/b/|a2>g2f2e2|f>ef>gf2d2|e2dec2d3/c/|c6|]
+
+X:300
+T: 300
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+G2>A2BcdB|c2d2c2B2|A2GABedc|B2ded2Ad|B2g2d2de|d2>c2BABc|A2>G2G3c|B2dBA2GA|BdcBA2BB|c2>c2dddd|c4d3d|g8|]
+
+X:301
+T: 301
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+E|ABcB2B|c2de2d|c2BAAG|A2>A2z|]f|edef2e|d2ec2c|B2cd2e|c2BA2A|A2>A2AB|c2>d2ef|g2ag2f|e3e2e|fgfede|d2cB2B|c2Bc2d|B2>c2de|dcBc3|ABcd3|cBAB2B|c2de2f|e2Bc2c|B3A2B|c2eBcd|B2>B2GB|eeeGdc|B3e2e|f2ef2d|e3d2f|f2ed3|d2de2g|f2ed2c|c3B2e|A3B2A|G2cd2c|c3B2c|d3x2f|e2de2d|c2ef2g|a2agab|g2fe2d|cBcd2^c|e2de2d|edcB3|A4|]
+
+X:302
+T: 302
+L: 1/8
+K: D clef=treble
+M: 2/2
+K: F clef=treble
+ABcBAGFE|F4c2ef|gf4e2f2|gfedcf4|e2c4a2|f2>e2d4|c2>A2c3B|A2>d2d4|A4|G2E2E2F2|EFGFEFAA|d4B2e2|cAgfedcddc|dcBcBAGA|FEF4D2|]
+
+X:303
+T: 303
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+G|A2Bccd|Bcgd2g|cdefed|c2zz2|e|fdefad|e2ce2d|cdefed|cfcc2|]
+
+X:304
+T: 304
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+g2a2gfed|efgab4|A2BcBAGF|G4A4|d2gfe2f2|efdef2ed|^cdecdefg|a6|fe|d2afb2fd|g2d2ggab|gffgaefd|e4d4|]
+
+X:305
+T: 305
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+A2GF2G|A2AA2G|FED2<E2D2D|FGAD3|D2FA2G|EGABAG|FFED2d|d2cB2AdAG|F2EDEDE|FAGAde|feddcB|]
+
+X:306
+T: 306
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+ddefgf|e2A2A2|d2A2F2|cBcde2|dAcdec|d6|fgafg2|f4c2|BAGFED|E4G2|AA2<G2F|E6|fefdef|e4d2|dffgef|dcded2|ABc2A2|FGABc2|dc2<d2e|e6|dAgAdA|d4ef|gfgag2|f2>e2f2|ef2<A2G|G4|]
+
+X:307
+T: 307
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+dBde2g|d2Bd2d|e2ce2c|B2BA2d|d2cB2A|d2dd2B|A2cG2G|FGAD2d|B2AG2d|d2eedB|d2dddd|cccc2d|dddddd|eceeee|d3d2G|cccE2c|BBAG2B|B2BB2B|BBddBd|cBAB2G|G2GG2G|dddd3|B2BBdB|A2GF2d|e2ff2d|g3g3|]
+
+X:308
+T: 308
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+GABc|d>dd2|ccBB|AAG2|ddde|f2f2|ffed|cdc2|cABc|d2B2|cded|ABc2|dddB|c2c2|cBcA|Bcd2|GGAe|d>cBA|BcdB/c/|d>dd2|e>dcB|AGA2|Bc/B/AB|c2B2|AGAB|AGF2|d2B3/c/|dgde|dcBA|G4|]
+
+X:309
+T: 309
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+A|d^cde|f/e/f/g/ad|edef|ee/f/ga/g/|f2e2|d3|e|g2f2|e2d^c|d2e2|fe/f/gf/g/|abag|f2f2|gfed|^c2A2|de/f/ge|f2g/f/e/d/|^cdec|d2|]
+
+X:310
+T: 310
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d4c2A2|A4B2D2|FAceB2d2|GDGBDBBD|F4A2d2|G4z4|EEGEF2d2|cAAcF2G2|ccBAGBAB|G4z4|E2EGF2D2|DEFGA2F2|GABcB2A2|G6A2|BdededcA|G6|]
+
+X:311
+T: 311
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: Eb clef=treble
+BB|B2B2BB|c2B2zA|c2A2zA|c2B2zA|BBB2E2|F2F2FF|F2A2GF|E4zc|B2B2BB|BAG2cB|A2B2BA|G4z|]
+
+X:312
+T: 312
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+d2>d2dfe3/d/|^c2>d2efge|f2ef2<d2d|e4fgef|d^c2de^c2d2|d4|agf|g2ffg2fe|f2e/f/ge2ef|d2AAB^cAG|FEDE2<F2F|G2>A2A3A|d2d^cd2B,d|A4f2ag|g2>f2fagf|e4a3e|agfefde^c|d8|]
+
+X:313
+T: 313
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: Eb clef=treble
+B/|dd/B/G/E/|GG/DG/|FG/AG/|A3/zB/|cc/cA/|c3/cc/|GB/AG/|F3/zE/|EE/EE/|EA/FD/|ED/FD/|D3/z|]
+
+X:314
+T: 314
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+D2|G2G2F2D2|FEDED2D2|D2>D2B,2D2|EEEDD4|A2A2d2A2|dBGBA2DD|G2GFE2ED|c2B2A2D2|B>GA>GGFDC|B,A,B,2A,2D2|AABcBAGA|FGA2D4|]
+
+X:315
+T: 315
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D2G2|G2>G2AABB|AA4A/B/cd|B2>B2AAGB|d4dg2f|fedcB2A2|G4zB/c/dc|BBAcBAG2|B2B2B2B2|B2>B2BBBd|d6B2|c2e2e3d|c2B2B2d2|d2dcBBcc|d2c2B2A3/G/|ccccBABd|B2G2G2|]
+
+X:316
+T: 316
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+BcddcB|AGFDGA|BcB2A2|G2D2G2|G2A2B2|cBAGFG|ABcded|cBAdBG|AB2<G2F|G4G2|edefga|bab2a2|b4ba|gfg4|efg2d2|g6|gfe2f2|gfgag2|abgfga|f4e2|dcBBcd|e4d2|gefga2|defga2|FGABcd|B2>A2GD|GA2<B2A|G4B2|GABcde|d2d2c2|B4A2|G6|]
+
+X:317
+T: 317
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+B|BcBA|G3B|ABcc|BA2B|c2BA|G3|d/d/|c2cc|c>ccB|A2dd|cB3B|e>dcB|c2c3/B/|A3G|A3A|d2df/g/|e3d/e/|ddcB|B3G|Acd3/d/|B2AB|cBcd|e3e|d2ed|cB4|d3g|c2AG2|]
+
+X:318
+T: 318
+L: 1/16
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+G2BAGF|G4D2|B2BcdB|G2DGBd|c2BAcB|A4d2|d2dedd|c2AcBA|B2BAGF|G4D2|B2GBdc|B2ABcA|d2BdBB|A2D2E2|D2DFFA|G6|d2cBAG|A2D2A2|edcBAG|F2D2d2|BAG2B2|A2Bcdc|B2dBdd|d2g2e2|ddcBcA|G6|]
+
+X:319
+T: 319
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+a2>g2fga/ba|f2e2e4|f2>f2f2da|ffffgaba|agfefdef|g2>f2d2A2|fefgaffa|b2>a2af2fg|eage2<e2e|f2fef2a2|afdfbagf|fe2ffe3A|dggfgeaa|f4f2z|]
+
+X:320
+T: 320
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+z4_G2G2A2A2G2F2E2F2E2D2A2B2A2G2F2E2F2G2F2E2D2D4|]
+
+X:321
+T: 321
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+z/G/|Gddd|e/f/e/d/cB|cB/A<BA/|G2G,2|dd/e/dc/B/|A>GG2|G>BdB|cBAB|FG/A/Bc|A2A2|ABAG|FDDD|EDG2|Bc/B/AG/F/|G2|]
+
+X:322
+T: 322
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+D2E2D2GA|BABcd2d2|cBAGFDGA|BcdBd4|edcBAGAA|Bcdefedc|B2A2G4|]
+
+X:323
+T: 323
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+G2dcBA|B4G2|A2dABc|d2ABA2|efg2e2|a4B2|DAcdBg|gfedcB|c2A2c2|BGAFG2|A2fgag|f4c2|D2fbagfe|d2efga|f6|agafed|ged^cd2|f4g2|a2edcB|AGAFGAFF|G4G,2|]
+
+X:324
+T: 324
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+g|e2dc>de|fgab2a|g2fe2e|e3f2a|g>fge>dc|d>edc>dB|c2de>AB|G>ABA>GF|G3G2|g/f/|g2gg>ag|f>gae>fe|a>gfg>af|g>fge>fg|f>gaa>gf|g3g2|]
+
+X:325
+T: 325
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+C|FFFA|cccc|BBGG|FzzA|Fccc|cccz|cccc|dddc|BBAc|BGGE|FFFA|GGA2|dcBA|G3c/c/|cccc|Bcdc|BBBG|B2A2|F2z2|A2A/A/A/A/|AAA2|B>GG3/F/|G/A/BGB|AGFF|c3z|]
+
+X:326
+T: 326
+L: 1/4
+Q: 1/2=60
+M: 3/2
+K: F clef=treble
+C4B2|A2BAGF|E2>G2GA|B2d2d2|c4B2|A6|AAA2c2|d4c2|e2efe2|A4A2|A4c2|A2BcA2|c4EF|G6|z2A2B2|c4c2|c2>B2A2|G4F2|E4G2|A2A2B2|c6|d2B2d2|e2>A2Bc|d2d3d|d2BBcd|e4e2|cccdcB|c4B2|A6|f2e2d2|c4B2|A2G2F2|E6|]
+
+X:327
+T: 327
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: C clef=treble
+gee|cde|e2g|f2a|a2g/f/|e2g|cde|dcB|c3|egc|e3|e2a|ba2|g2f|efg|a2f|ggf|g2f|e2z|d2c|dzc|de_g|a2z|efg|g2e|f2z|cef|fed|e3|ezc|Bdd|fzg|efg|ggg|gzz|]
+
+X:328
+T: 328
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GGGG2G|GAdBAA|G3F2G|A3G2A/A/|BBBcde|d2cB3|D2DGAB|A>GAA3|DEFGAB|G2FE3|]
+
+X:329
+T: 329
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+f2^cd|e2d2|cdef|a4|efg2|f4|f2e2|defg|e4|d4|d4|c2cd|e2dc|f2c2|f4|]
+
+X:330
+T: 330
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+ECCA|GGFC|CFGG|GAG2|CEGc|BA/c/GC|GA/B/cf|eAdA|BG/A/BF|G2FG|C2fe|fded|ccBA|_A2cB/A/|Ecdf|ecG/A/B|A2d2|B/A/G/c/B2|BGE^c|A2GA|B2^c2|d>AAF|D2f2|efg2|A2dc|BddA|B2A2|d4|]
+
+X:331
+T: 331
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+BAGA|B2AAGA|B2B2|ddedcA|GA2B2|ddddd|dcBA|GBcddd|d2B2|dddc|BAGG|cBBAA|G>GGA|d>dd3/d/|d2B2|cBAGGF/G/|A>DDD2B|c>cc3/c/|d>dddd|ceee2|d2dc3/A/|G2B2|]
+
+X:332
+T: 332
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+cBcd|cBA2|GABc/d/|c2G2|Bc/d/cB/A/|GAA2|ddef|gfg2|ccde|fcB2|Bc/d/cc|A2A2|cc/c/c/B/A|A2GA|BGBc|d2c2|eefg|e3f|d>efA|dBc3/B/|f3f|dggc/d/|ecdB|c4|]
+
+X:333
+T: 333
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D/D|cAc/B/A/F/|G>GGd|Bd/d/cA/c/|B3d|BGGG/B/|A/A/F/F/DA|AA/>B/cB|A3G/D/|GG/G/G/A/B/A/|GBBG/B/|ddAF|G4|]
+
+X:334
+T: 334
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: A clef=treble
+e|a2>b2a2a2|d2cdc2e2|eBcde2e2|dedcB2B2|eBABc2G2|A2A2A2e2|f3d/e/f2e2|d2fgabef|gfea2<c2c|d6|Bdg|fefga2e2|gabc'a2d2|BcdBg2d2|e6Bc|dBgfedcB|c2>B2A3d|eeceg2c2|c3c/d/e2c2|dAAFFABG|AFBG2<F2F|E4D4|]
+
+X:335
+T: 335
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D/|GG/GG/|GG/GG/|DD/DD/|G3/GD/|GG/GG/|G3/G3/|cc/cc/|B3/B3/|BA/AA/|GG/GG/|FF/GF/|E3/DD/|EE/GF/|EE/E3/|FE/FG/|G3/G|]
+
+X:336
+T: 336
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+G4c4B4A2G2G4F4E4z4G4A2B2c4B4A2G2F4E4z4C4D4D2D2D2D2E4E4z4D4F2E2D4D4D4C4D4z4E4E4D2F2E2G4G4z4E4E2D2E2F2G4D4z4G4G2A2c2B2A4G4A4z4F4G4F2E2D2B,2C4z4F4G2A2B2A2G2F2G4|]
+
+X:337
+T: 337
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+d2|B2GBdfdc|B2>B2AAGB|AgfagFGc|G6AB|c2BAG2g2|B2>B2B2g2|ABcAA2G2|G6|d4|d2>B2edcB|cAf2d2A2|BgA2f2d2|d2cBA2G2|f2e2d3c|B6gf|g2eg2<e2d|d8|]
+
+X:338
+T: 338
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+A|AFDF|A3A|GFEE|D3z|DEFG|ADDD|AABB|A2FA|dGFE|DDDE|FEDd|c2c2|d2AG|F2D2|DDDD|CAAA|ABAG|F2|]
+
+X:339
+T: 339
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+BBBBB2<A2Bc>Bc>d2<e2dc2>B2A>AABA>GD2z2DBGBdgdB>BBAdd2D2ec2B2A2>A2A>GAB2<d2dddeef2f2>e2d>AAAd2>d2ddddB>dd2d>dd>^cc2<B2A2EFG>ABG2<B2GBded>cBAG2>z2cBAG4z2|]
+
+X:340
+T: 340
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G/|GGGG|GBd2|GA/B/cc|BBdd|dd/d/dd|ccce|dd/d/ec|B2B2|AAGA|Bd/d/d/d/d|dAdd|B2G2|e/e/e/>e/ee|dBGG|AAB2|cccc|B2B2|Ac/c/BG|AA/G/AB|Gz|]
+
+X:341
+T: 341
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+GGBG|GGDD|GGBG|G2zG|BBBc|ddz2|c/c/cc2|BBBB|A2d2|G2z2|ddec|A2BG|GFGA|B2z2|AAGF|G2GB|AAAA|G2zd|ddef|g2f2|ede3/d/|c2c2|e2d3/c/|B2z2|e2e2|e2de|dc/c/BB|A2de|dddc|BBAA|G2z2|]
+
+X:342
+T: 342
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|d>cBG/G/|A>cA2|D>DDF/G/|AGFG|AGFE|D2Bc/B/|AGFE/D/|A2G2|G2A2|G>AGG|AG/F<AB/|cGA2|G>GBB|cBAF/F/|G2|]
+
+X:343
+T: 343
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: A clef=treble
+E|AABA|GFGA|B/c/d/c/B/A/G/F/|E3|z|zA,DC|B,A,DE|DzAA|BGcA|AGED|DzGd|dceG|BGBd|GGGG|cABG|EzAE|AAGA|B2Ad|B2cB|BdcB|Azz2|]
+
+X:344
+T: 344
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+FF/G/Ac|cB/A/GA|BAG/G/F|GFEC|FG/A/BB|Ad/c/BA/G/|Fc/B/AB|cB/A/GG|GABA|GGAzA|B>AGB/A/|GcG2|c/c/c/c/dc|BAGA|A2G/F/E/D/|C/C/E/C/F|]
+
+X:345
+T: 345
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: F clef=treble
+C2D2E2G2>E2D2D2EFGFE2D2z2C2D2D2>E2F2E2D2D4z2D2D2C2B,2D2D2D2B,2A,2>B,2A,4B,4A,4C4z2A2G2G2F2E2F2E2F4G2E4F4GBAGF/E/D/E/F4A2FEF>EFG2<G2F/E/D2G4A2F4D4|]
+
+X:346
+T: 346
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|BBcc|B2A2|DFAA|GFE2|FAA2|GGG2|DDBB|BcBA|BAGG|E2|]
+
+X:347
+T: 347
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: Eb clef=treble
+B|BeBG|GFAA|cAFF|D2Ac|dBGd|ccB/d/d/d/|c/B/A/G/GB|ddd|]
+
+X:348
+T: 348
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+d|f3A|d2AF|GFEG|FDFd|fegf|e3d|cdAg|f2e2|D3|e|ecfe|f3d|Bfed|cdBc|ABcd|e3d|fABc|dAFA|FDGA|F4|]
+
+X:349
+T: 349
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|d2bdec|BAGBcd|g2Bc2d|B2AG2B|A3F2A|BGde2d|ggfffd|e3e3|decac'g|d2BgBe|^ccdaf^d|e3d2|d|ggbgfe|d2cBdB|cedcBA|B2Gd2c|cdededc|Bgdddg|fgfe2c|cBAG2|]
+
+X:350
+T: 350
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+AGFED2|Bcd2B2|efg2ef|def2d2|e2^c2d2|e4d2|_a2a2b2|_af4e2|a2c2B2|A4A2|g2decd|edc2B2|ABc2d2|e2fea2|f2efd2|B6|g2abab|c'6|g2>e2fg|agf2e2|fgab4|bag2_g2|gdcBcA|B2G4|]
+
+X:351
+T: 351
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+gab/a/g/f/|e2d2|df/g/ed|cBc/d/e/c/|dfdB|c>dd2|c2c2|ccEA|G2E2|FDED/E/|FED2|BGAc|A2C2|GABG|cA/B/c2|z2c2|cdB2|G2B2|d/d/c/B/cG|c2C2|zBGc|GDEG|FEFG|ABcd|eg/f/eA|c'2_a2|a4|]
+
+X:352
+T: 352
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: Bb clef=treble
+F|B2AB2c|d>edc2d|e2dc2c|c4A2|GAB|c>ded>ef|g2ga2b|f>efg>af|g3f2|d/e/|f2ga>gf|e2dc2g/a/|b>agg>af|g>fef>ed|c>decdB|c>ded>cB|A>GFF2d|c3B>AB|c2de2f|g3f2f/g/|a>bga2f|g3f2f/e/|d2cB2G|B3c2d|e2fg2a|f3g3|f>edcB2A|B3d2|]
+
+X:353
+T: 353
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|A3A2A|d2ef2e|d2AB2d|dcBd>dc|B>BcB>Bc|B3A2G|c3c>BA|G3G2|]
+
+X:354
+T: 354
+L: 1/16
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+gc|d2>d2gg|g2>g2dd|dBG4|B4Bc|d2>deec|d4dd|g2fgg2|B2>e2dd|c2B2dc|B2ddde|d2cABG|G2DDDD|G4|]
+
+X:355
+T: 355
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G>AB>cB2A|GABBcdee|d>dcBA2zd|ddddAd2d|Gdde2<e2d|d>dedccBG|eeeedBB|GBd>ddedz|ddeedcBA|dcBAG4|dddddd2ed|edABccBB|A>AABcedz|AGcBA2Gz|]
+
+X:356
+T: 356
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+e>ge3/f/|g2G2|A>Bcd|ed/c/dg|fefg|a//g//f/e3/d/|d2|]cdB|cGAB|c/d/c/B/AA|AA/B/cB/A/|B/c/d/e<cd/|ecfg|f2g2|]
+
+X:357
+T: 357
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|BAGG|GGFF|GGGD|GGGD|GGGG|GG/G/GD|G2DD|GGGG|GGDD|BBBB|B2B3/A/|GBdB|GGGA|BBGz|AAAA|cB/A/Gz|G>GGB|d2cB|BAAz/B/|GG/G/GA|BG/G/zA|B2AG|EFGz|]
+
+X:358
+T: 358
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+G3/F/|G>GG2G3/G/|G2d2d3/e/|d2A2B3/c/|B2A2G2|A4d2|d4d3/d/|d>dd2d3/e/|d2c2B2|A4|G6|G2d>cB3/A/|G2>A2B3/B/|G2G2G3/G/|c>cD2c2|B2A2A2|G6|]
+
+X:359
+T: 359
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+CEG2|GECE|GGA2|AdA2|GGA2|EED2|EDC2|]c2GA|G2E2|E2D2|CEC2|GGGG|c/c/cC2|F2G2|AA/G/F2|c2c/G/G/G/|GEE2|GGF2|C2|]
+
+X:360
+T: 360
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: Eb clef=treble
+B/c/|BBBB|B/B/A/A/GD|A>AAA|G2zA/A/|AFFA|G2zF/F/|F2zD|ccc/c/c|BA/G/Az|GG/G/Gc|BzF/E/F|G2F2|E4|B2AB|B2e/c/B/A/|A/G/G/E/FD|G2z|]
+
+X:361
+T: 361
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: G clef=treble
+G|D>DCDCB,|C2DB,2D|E2FG2F|E>EDD3|B2BB>cA|G2CB,2D|EA>GF2E|GFED2B|c>BAD>DD|G2B,CGE|F2EF2F|G2DD2D|D>DDB2B|GGGG2|]
+
+X:362
+T: 362
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+dGd|e2d|d/c/cc|A/B/cd|ABG|cA/F/G|A2d|gc/B/A|dd/c/B/A/|d3|d/e/fg|e2d|e/f/gg|cB/c/A|G3|E2G|ABc|cBA|Bc/B/A/G/|d2g|g2d|e/f/g/d/e/c/|ded|ABA|ded|ed/c/B|g2B|A2G2|]
+
+X:363
+T: 363
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+d2efef|B2G2F2|E2d4|c4d2|BGBcdB|e2>c2d2|A2A2G2|F2G2A2|B4A2|A4A2|ABcBcd|e2Bcdc|B2>c2A2|e2e2f2|g2fedc|d2A2G2|FGFEDE|FdGFGE|D6|]
+
+X:364
+T: 364
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+d/e/|dcA2|B2c/B/A|GG/F/GF|E/F/GGA|GAB2|cAG2|FDG2|BGBd|edcB|edcB|A3|e|gfg2|fg2f|ede2|^c2d2|d^cd2|dBcA|BAGF|G3|]
+
+X:365
+T: 365
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G3//A//|Bdcc|GAGF/G/|AGFE|D2DD|GABA|G2F2|G>FE/F/F/G/|AdDD|GGBA|GFEE|D2F2|G3|]
+
+X:366
+T: 366
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+AABB|AGA3/G/|GBBd|cBAG|AABB|A2G3/G/|AAAB|A2G2|AABBB|A2A2|BBBB|AGAD|GBAGG|AGA2|Bcdd|ee2<d2e|dcBA|G2z2|]
+
+X:367
+T: 367
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: G clef=treble
+zFG2A|B2GF2c|dc2>d2BA3/G/|E2EG3|F3B2A|B2GF2E|D2DGFE|D3G3|G2G2<D2G2G|F2>F2BAG2A|G3D2DG2G|A3B2ed2c|BAGAGF|G3G,2||cd|eecA2c|d3A2GF2E|D3c2B|A2>d2zE|DGAGFG|A2>B2cBAGF|DGBA2G|F2BA2AG2F|G3c2AGFE|D3G2|]
+
+X:368
+T: 368
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+G3/|AG/GG/|G3/GG/|GD/CE/|F3/GA/|B3/EB/|G3/FG/|AB/AG/|A3/G3/|B3/d3/|c3/B3/|AF/GF/|E3/zE/|FF/GA/|Bc/Gc/|BA/GA/|BG/EG/|AA/GF/|E3/D3/|]
+
+X:369
+T: 369
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|GGGGFG|A2AA2e|dcBcde|d2dB3|B2BB2B|B3B3|G3G3|B2BG2D|d2de2f|gded3|d3c2B|c2AB3|AAAA2e|d2dB2A|B3c3|G3G3|]
+
+X:370
+T: 370
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D/F|BB/B/BF|G2G/G/G/G/|AADF/A/|B2BB/B/|ABc/>B/A//A//|B/d/c/B/Az|ecA/F/G3//A//|BGdd|BBdg|ggAG|F/>E/D/D/DG/F/|EBdB/A/|GzGB|d2dd|dc|B2A2|G2|]
+
+X:371
+T: 371
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+F2>F2Bc|d2dd2d|e2eefg|dcdc2A|deffgf|fgaagf|gfeAee|e2ee2|d|g3d2f|eeefgf|BdBcAA|d3z2|]
+
+X:372
+T: 372
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+da/b/ab/f/|ba/g/fe|d/c/d/e/ff|fa/e/d|]f|gf/e/gf|ed/f/gf|gf/e/fe/d/|eg/f/ed/c/|de/f/ge|dc/d/eA|BBB/c/d|cd/e/BA|BABG|Adc/B/A|ddAd|Bd/d/cd|gf/e/aa|ffaa|Aeeg|fd/e/fd|edcd|fdf3/g/|acdd|Bc/d/cA|dAd2|A,G/F/Ee|ffgf|fe2B/c/|dAG2|]
+
+X:373
+T: 373
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+e|e>fg3/g/|a2f2|F>AA3/B/|A3c|AGFc|A>GFF/G/|ABAG|F3G|FFDF|FE>FG3/E/|D>CC3/E/|F3|]
+
+X:374
+T: 374
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+G2GGB2d2|G2GGDDDD|G2GG/G/G2D2|GGGGG2D2|B2BAG2G2|ddddd2c2|d4d4|ddddg4|d2ddd2d2|ddddd2D2|G2GFG4|]
+
+X:375
+T: 375
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+dde|e2d>dcBcd|e4d2cB|A2A2d>ded|A2G2zcd3/d/|e2>e2edcB|B4cdef|g2g2ggfe|ddd4d2|e2>d2edcB|A2G2z2|]
+
+X:376
+T: 376
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+d|gddB|AGFG|Bd/d/c/B/c/A/|B/>A/G/>G/AA/B/|ccdB|A2z2|e>eeA3//c//|BdBd|AeA/B/c/e/|dA/B/cd|Bg|df2e/f/|gddA|BAG/B/c/A/|G3z/|]
+
+X:377
+T: 377
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+f3/g/|f2e>fd3c|c4z2zc|B2>d2c>BA3/G/|c2z2c4|d2effede|c2d2e2b2|c'>ba>bg2fe|f4ffgf|g2ab2<a2g|g6|ef|g2g2gfed|c4BABc|c2G2cdef|g2>f2eagf|d4cABc|d4d4|ffefg2f2|e2>e2eagf|dcB2ABc3/d/|B4z2|]
+
+X:378
+T: 378
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+D|DDG|GGG|cB3/A/|A2D|DBA|GdB|A/G/FE|DzG/A/|BBB|ccc/c/|dBB|BBA|GDG|GzD|GGG/B/|BAB/A/|GGG|D2D|GGG|AAD|GGA|BDD|DEE|DzB/B/|BBB/B/|BAA|E2E/E/|EED/D/|GGB/B/|cde|dcB/A/|G2|]
+
+X:379
+T: 379
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+c|cdcd|e/f/e/d/cG|cef/g/e|e2zG|efe/d/c/d/|e2zc|eeab|agff|egeg|f2z|g/g/|ga/g/ec|fddg|cccc|c/d/e/f/gg|fdgf|e2cz/d/|gfed|e2z2|]
+
+X:380
+T: 380
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+B//B//|c>dcB/c/|d2ed|AGBc|d2dd/d/|e>eee|dd/d/dd|edee|dd/>B/cc3//d//|ddd3/c/|BA/>G/AA|B/>c/ddc|B2A>AA/A/|G3|]
+
+X:381
+T: 381
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: G clef=treble
+G/A/|BBBBBAAA|cBA>GG2DD|G2>G2DEED|B2A2>B2cB|AdcBAA|G2>G2GB|A2GFFA|A2A>ddB|A>GFED2|D4z2|]
+
+X:382
+T: 382
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d|GBdBcdBd|BdBG2<B2G|cceedBGB/B/|AFFGA2G3/B/|BBBBdded|cccB2<B2d|ddBddddd|dBGBABG|]
+
+X:383
+T: 383
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G|G2AB2B|c2BA>Bc|d2defg|e3e2d|dedcBc|d3e2d|c2BABc|d2GB2F|G3G2G|G2Gd2g|g2fe2d|cBA2<G2B2|GABcde3//e//|dABd3|e3g2f|g>agg>fg|d3d>dg|f>efe>de|d3d2|]
+
+X:384
+T: 384
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+A/G/A/|BBAG2c|cB/A2A2|AG|c2BA2G|A3F2A|G2FD3|D3D2A/A/|FGABAG|cBAG2G/F/|E2AA2G|E3F2D2|DEFG2A|G3G2E3//G//|AGFG2A/G/|F3D2|]
+
+X:385
+T: 385
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+BF|G2B2AG|F2D2B3/A/|G2B2BA|G4GA|ABdcBA|G2D2GG|F2c2ec|B4BB|A2AAdd|B2G2B3/G/|A2G2AG|F4de|d2>d2dd|B2A2GG|ccA2A2|G4|]
+
+X:386
+T: 386
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G|BBBB>AG|A2dd2d|dedA2B|G3G2A|B>edB>BB|c2cc>BA|G>BdcBA|G2>G2zG|B2dd>cB|c2de2B|cdBAGA|G2>G2z|]
+
+X:387
+T: 387
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+zGGG|G/G/ABA|G2GG|E>DGB|A2GD|ED/E/F/G/A/B/|A/G/F/G/FF|GB/d/d/c/B/A/|G/A/B/c/dz|B/c/d/B/dA|c/B/A/G/Bd|c/B/A/G/FE|DGAA|Be/d/cB|A>GG2|]
+
+X:388
+T: 388
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: Bb clef=treble
+B|g2ggab|fgfddd|e2edfe|d2cB2f|fdBgeg|fffd2d|dddcBA|BGGd2|]
+
+X:389
+T: 389
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+AB|c2>c2BA|B2G2cd|ecg2c2|d2B2Gc|BAGFGE|D2e2cB|A2>F2G2|zGAGcB|A2BAGF|EDCEFG|F2>z2cd|c2BAGF|F4BA|B2B2dA|D2EFGA|G2GFGB|A2ABBA|d2AcDA|G2G,2|]
+
+X:390
+T: 390
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+a2>f2eded|d>cB>AA4|d>dggf2ed|g2>f2e>fgf|e>dc>dB2dc|d6|d2|g2fe2<f2g|g2a2f2ag|fgaagfed|g2>f2efde|f2>e2d2de|fefg2<g2A|d6|]
+
+X:391
+T: 391
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|efgf2e|d2DD2A|BABGcB|A2>B2cB|Aedc/B/A/G/A|B2>D2Be|d/c/B/A/df2d|B3B2|G|A2Bc2B|AgzfBA|B^cdAFA|F3D3|dBz|]
+
+X:392
+T: 392
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G2>B2ADdc|B2>A2G2DD|G2A2Bcde|d2c2B2BA|G2BAB2AG|A2G2D2AA|G2e>dcBAG|A2AcB2A2|G4G2|]
+
+X:393
+T: 393
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: A clef=treble
+Ac/ce/|AA/cB/|Ae/dc/|B>Bz/F/|FF/GF/|G3/A3/|AB/cB/|F3/C3/|D3/D3/|AA/c3/|cB/Gc/|B3/AA/|GD/A_B/|BB/Gz/|AG/FE/|D3/E3/|]
+
+X:394
+T: 394
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: Eb clef=treble
+E2D>EF2GA|B2D2D2G2|F2cBA2B3/c/|c2B2cBAG|F2GFG2F2|E4z2EF|G>GGGF2G2|F2E2D2GF|E>FG>AB2z2|F2G2G2B2|F2A2G2F3/E/|E6|]
+
+X:395
+T: 395
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: Bb clef=treble
+D|G_GGBBc|d3d3|edcBcd|B/c/dBB3|dGBd>gd|c/d/c/B/A/G/AFB,|_g/g/a/f/gB3|ggab3|gBAB>AB|BAGG3|BABcde|dDGF3|defgag|g3f2|]
+
+X:396
+T: 396
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d2|d2ddd2dd|d2d2G2gg|gfggg2fe|d2d2d3e|d4d2BB|c2dedBBA|G4||e2efg2fe|d2cBA2B2|B2BBB2Bc|d2edcAzd|ccccGGGG|A2d4dB|A2>G2G2ed|c2c2c2ee|d2c4B4|]
+
+X:397
+T: 397
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+GA|B2cdB2AB|c2A4ed|c2ded2cd|B6AG|A2B2AdcB|A4G2GG|_G2G2A2BA|G4d2cd|e2>d2c2c2|B4A3c|c4dfga|b2g2b4|d'2c'ba2gf|e4g2b2|a2gfagfe|f6|]
+
+X:398
+T: 398
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+C|F2FF2G|A2AFGF|E2DC2C|D3D2D|D2DC2D|E2EE2E|F2GA2A|G3F2F|E2DC2C|C2CD2C|F2FE2E|D2>D2zC|CDEF2E|FEDD2D|E2EE2C|F2GA2A|G2GFED|D2>C2CC|D2DECC|E3E2z|D2FGBA|G3F2z|CDEF2G|G3F2z|]
+
+X:399
+T: 399
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+bg/_g/g/a/|b3|ded|e3|fe/d/e/f/|g3|gab|a/b/b/g/a|aa/g/a|_g/e/f/g/a|fgf|g3|g/a/bg|f/e/f/g/f|fgf|edc|B2e|^c/B/^c/d/c|Afe|d/c/d/e/d|gAz|G2|]
+
+X:400
+T: 400
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: F clef=treble
+z2G2G2G2G4z2G2A2B2G4F2D2E2D2F4z2A2B4B4B2A2A2G2G4G2z2G2A4B2B4G4G2>A2G2>G2F4zFG2A2B2Bcdef2d2d2d4c2B2B2B4A4z2G2A2A2G4DEF2z2D2E2F2G2c2>B2A2G4|]
+
+X:401
+T: 401
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+d2c2B2|BABGAF|G2GABB|B2ABcd|e2cBAB|G2F2E2|d2gfge|d2c2Bc|A2>d2cB|ABcBAB|G6|c4|AB|c2c2Ac|Bcdedf|g2fefg|agf2e2|dcBdcB|A4A2|B2BcdB|cBAGFE|D2F2E2|D6|]
+
+X:402
+T: 402
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+BGcd|efg3/c'/|ag/_g/ge|fde2|cdB3/A/|A3||g|ga/g/ag|f>ed3/f/|edcc|dcBc|d>eff|d>bag|ff/e<dc/|c3|]
+
+X:403
+T: 403
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+G|cGGG|EECG|cc/d/ec|dc/d/cG|EcGG|Ez/G/GG|GGGA|G2z2|]Bcdc/B/|c/d/c/B/A2|c2G2|c/d/c/d/eG|cG/G/cE|C2z2|]
+
+X:404
+T: 404
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+c2Bc2e|edcB3|A2Bcde|c3c3|ABcdef|eBcd3|c2ccde|fede2f|ed2cBA|B2cd2z|c2cd2e|e2dc3|e2dc2g|edcB3|dedcde|dedc2z|]
+
+X:405
+T: 405
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: F clef=treble
+z2D2E2G2F2D2E2C4B,2D4G4F2E4D4z2A2B2A2G2G2F4E4D4|z4A4A2A4G2A2G4F2A2>G2F4E4D4z2z2A2A2G4F4F2E2D2B,4B,4F4E4D4z2z2A2B2c2d4B2B4A2A4G4G2E2D4|]
+
+X:406
+T: 406
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+A|AAAGAB|cGcc2G|FFFGAB|cccc3|fe2dBcd|ecdBAG|FGAG2F|dABcB3/G/|EEFCFC|dBGFA_G|G2zc3|cgfe_gg|ec2agf|edcBAG|G3B2A|EFGECG|d2cGGA|BAGF2G|F3z2|]
+
+X:407
+T: 407
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+defg|f2>e2dcde|f2g2f2e2|d4e2f2|e2>f2eed^c|d2d^cdefd|d2^cBcdec|d4|Bcdc|B2gecAcB|d4g2fe|d2>c2c2f2|e2>f2g2d2|c2BAc2GA|B2c2BAGA|AGABAGAF|G4A4|c2Bc2<d2c|c6|]
+
+X:408
+T: 408
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+d2d2|ggfg|agfe|dddd|g2b2|g2a2|b2g2|g3|c|B2BA|G2BB|c2cc|d2dd|c2dc|B3B|A3G/A/Bc|dddd|d2d3/d/|e2d2|d|g>fee|d2de|fggf|e>dgf|e/f/ez/g/f/e/|dgf/e/d/c/|B/A/B/c/d|d2ed|cBAB|GBdB|dABB|B3|]
+
+X:409
+T: 409
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G2GGG2z2|AAAAAAAB|ccBAA2zD|G2GGG2G3/G/|A2GFEGAA|A2A2AGFD|G2B2d3z|B2BBBAGA|GFEDG2z2|AAA2A3/A/|ddc2c3B|B2A2B2BB|ccc2c4|ddded2cB|c2B2A2z2|GGBBAAG2|A>GFED2E3/F/|GFEDd2d3/c/|BAG2z2z2|]
+
+X:410
+T: 410
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D/|BB/AB/|GG/GG/|AA/BA/|G3/zA/|BB/Bd/|dc/Bc/|d/d/dcB/|A2zz/|d3/cB/|c3/cc/|BA/GF/|G3/dc/|B3/BA/|G3/zB/|BB/BA/|G3/B3/|A3/A3/|B3/AG/|FF/ED/|GB/dd/|B3/|d3/|cB/>BA/|G3/z|]
+
+X:411
+T: 411
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+a|a2ga2a|g>fge2d|c2GA2G|A2Bc2A|B2cd2d|g2gg2z|g2gg2g|c'>abc2e|d2dd2c|B3B2z/e/|c2cc2d|e>fgc2c|c2BA2B|c2cc2|]
+
+X:412
+T: 412
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G|G2cB2G|c2de2d|c2GA2B|c2cB2G|d2gBBc|B2Bce^c|d3d2d|B2GA2c|B3g3|d2Bd2g|B3B2B|d2de2d/c/|cBAG2c|B2BBcd|B3c2c|B2AB2c/d/|ed2BA3/A/|G3G2|]
+
+X:413
+T: 413
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GGGG/G/|Ad/d/BG//A//|BG/B/AG|AdDD/D/|DB,GB|d2cB3//B//|Ae/e//e//e/e/d/c/|BGB3/A/|GA/B/c/d/d/B/|BAAz|AA/B/AG/A/|Bd/d/|]G/A/B/c/d|edeB|B>AGz/D/|GBdd|c>AG/F/E/D/|GB/d/dF|G2|]
+
+X:414
+T: 414
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|DBAG|GFFG/A/|BcdG|FGBA|G2G2|FE/F/G2|F/E/E/E/DD/D/|A/A/A/A/AB|B2A2|B2G2|FGBF|GAB2|AAdD|G2A/B/c|dcB2|AAAA|B2d2|FGA2|GcBA|GFE2|A2|]
+
+X:415
+T: 415
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+f2e3/f/|gfed|e2f3/g/|e2A2|A4||d^cde|^c3A|B2c3/B/|A2e2|cdef|ede/d/e|fa/g/d/e/c|d>efe|d2e2|cde3/c/|B2c3/B/|cfe3/d/|c4|]
+
+X:416
+T: 416
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+bbagfe|d2cBAG|d2G2^c2|d6|defgab|Ad^cdec|d6|egfedc|BcBAG2|D2A,4|B,CD2C2|A,4z2|ceggGG|BdGBfg|Begagg|f6|ecaBBb|d2b2g2|aefggc|dgBcAB|G6|G4B2|AcBABA|GBddBd|dcBAAc|cABGGB|AGFGAF|G4|]
+
+X:417
+T: 417
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+B|dedB|cdcB|Ad/d/dc|BAG|]
+
+X:418
+T: 418
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: C clef=treble
+E/D/EF|G2cc2B|cdde2d/c/|Bcdd2d|dceddB|c3z2E/G/|cBGABc|deffdc|B3d3|g/a/g/f/e3|]
+
+X:419
+T: 419
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+E|E/E/EEFFA|GG2G2G|FEFEFG|A3z2C/C/|EEGc2C|E2FGDE|FGFE2G|F2ED2C|CDCD2D|C2zEEE|G2GG2F|EFEE2E|CDEFGA|DGCD2G|E2EG2D|D3z2|]
+
+X:420
+T: 420
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+zzcde2d3/c/|c3z/c<cB/AB|c2>B2c>de3/f/|g3f/e/ddc3/B/|c2A>de>g_g3/g/|g2zde2cB|ABcdeBcd|e2fgagfe|d2fga2e2|d3e|e2>d2cBAG|A2>A2A3/A/|BABcB2|ABcdefgf|edcB2<A2G|G4z|]
+
+X:421
+T: 421
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+f|A>Bc3/d/|c>dBc/d/|e>cB3/A/|_A3c|dcB3/A/|A3z/f/|f>ed3/c/|B2G3/B/|_A>AB3/c/|d>cd3/A/|B/c/d/e<cd/|B3c|ed/c<ed/|e/f/e/d/cc/B/|B2A2|A3z|zAA3/B/|ccBB|czd3/d/|eczd/e/|fzf3/d/|fed3/c/|c4|]
+
+X:422
+T: 422
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+fefg|f4|gfed|c3A|dd/c/df|ed/e/c2|e2f/e/f|AGFE|Dfed|ef2e|ef/g/ag|f/g/aee|ff/e/dc|d2z2|]
+
+X:423
+T: 423
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: Eb clef=treble
+B|G2GF2D|E3E2E|c2ccB2A|A3F2G/A/|B2cB2A|G3G2G|B2Bd2B|e2EB2A/G/|d>eB/B/d/c/B/A/|G3z2B/c/|d>dd/d/c2B|G2>G2cB|B2FG2F|G3A2B/c/|B2GG2G|F3G2|]
+
+X:424
+T: 424
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GG/dd/|BG/G3/|A3/GF/|E3/D3/|c3/cc/|BB/Bd/|BG/D/D/D/|G3/GG/|A/A/A/AA/|c3/A3/|AG/F/E/E/|E3/DA/|AA/cB/|G3/G|]
+
+X:425
+T: 425
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+D|GGA|BAG|BAG|AzA|BAG|G2A/B/|ccc|A2B|BBc/c/|GGG|B/A/G/A/B|AA/G/A/B/|GG2|BBc|B2A|Gz2|]
+
+X:426
+T: 426
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+A2>A2BA|G2cBcA|d6|f4g2|a4a2|gf2<e2d|d6|d2>c2B2|c2B2A2|c2>B2A2|GF2<D2F|A2A2c2|AG2<A2B|c6|z4FA|F4G2|A2>B2c2|F2a2a2|b2>a2b2|gabbag|f2>e2de|c2cdef|f4f2|c2e2d2|c2>B2AB|c4d2|c2>B2_BB|c6|]
+
+X:427
+T: 427
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+C|GG/G/EF/G/|AAcB/B/|BABc|G2zG/G/|GGGD|C2zG/F/|EF/E/FG|AGFE/D/|EEED|C/C/E/G/cc|B3z|]
+
+X:428
+T: 428
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+c2dfe2d2|c2>A2d2cd|B2>A2BAGA|B6B2|A2>B2cABG|c2c2d2cB|AGABc2ed|c4B4|B2A2G2F2|A2>G2F2F2|F2c2c2AB|c2>c2c2dc|B4B2B3/B/|B2ddggab|agfff2d2|g2gba2g2|f2f2f2ff|f4fdef|g4|]
+
+X:429
+T: 429
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+f|e2f2|d>efe|fg/f/ed|e2A2|dcdd|c2d2|efga|f>efd|gfed/c/|d3|F/G/|AdAd|B>AGG|FGEA|F3A|dcde|f>edf|edcd|B3d/c/|BGAG/A/|B>Gcc/B/|Afed|c2A,2|]
+
+X:430
+T: 430
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|GGGG|G2GD|GGGB|ddd2|dd/d/dd|dddd|e2d2|c2e/d/d/d/|d2d2|c2cc|BBcB/A/|G2D2|GGGB|ddd2|d2cB|A4|c2dc|BB/B/BB|AAAA|d2d2|c3c/c/|BBBB|A/B/cd2|B2A2|G2z2|]
+
+X:431
+T: 431
+L: 1/16
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+AABcddd2d2c2B2|c2AGA2G2D2G2|cBAGF2EF2G4|FGABc2dBA2d4|defedcB6|agfdc2BABGAG|FAceafgfa2a2|gfedefg2f4|fgafg2a2f2f2|agfedcBA2B2^c2|defge2c2d2|e2c2e2e4|f2e2d2^c2d2g2|fefd^c4A4|dAfAfAgfed^cB|Acde^c2d2d2c2|Bd^cdcBAGF4A2|acdec2d2B2e2|dcBABGA2B2A2|Ad^cdDcdcBcdBcd|BBBcdefdefgf|e2g2g2z4|]
+
+X:432
+T: 432
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G|d2de|d2cA|G2G2|GAB2|c2c2|Bd/>c/c2|d2cB|A2FG|A2dc|B2G2|c/>c/ccc|B>ABB|A2d2|B3c|d2dd|d2cB|c/c/c/c/c/c/c|c3B|A2A2e2ee|ddde/d/cc|B2GBGA|BdBAGF|G3|]
+
+X:433
+T: 433
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+E2FGF2A2|G2FED4|B2>B2A2B2|c2>B2A4|A2GAcBAG/F/|F2EDE2A,2|c2>d2e3c|B2cB/A/G2c2|F2A2FABc|d>cBA2<G2A|A2B/c/dcde2|dcBA2GE4|E6|]
+
+X:434
+T: 434
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+AAB/c/B/A/|GAFG|FEDE|FEF3/G/|A3d|cBA2|GAAd|d>ef2|defe/f/|ded^c|d4|dB2c/d/|e/f/g/a/gf/e/|d/c/B/c/AG|AA2d|cBfe|da/b/f2|edc2|dc/B/A2|A2|]
+
+X:435
+T: 435
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+A/G/|F2FDDD|D3D2D|F2EDEF|A3A2D|E2EEED|D2EDCB,|D2EFAG|F3D3|DEFGAB|G3z3|FGAABA|GFGF2E|D2DD2F|D2ED2D|DDDDDD|E2GD2|]
+
+X:436
+T: 436
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+zd|d2>d2cBc2|zGA2B2c/d/g/f/|edcA/B/cc2z|fe/f/g2a3d|efdf/d/cc/B/A2|BAeBcA3B/c/|A2B2d3d|d2gfedg2|d/c/d/e/f/g/e/f/fa2|d6|]ed|c/B/ccef2e2|dfedcA/B/G2|BA/B/G2cf3d|efg2b/d/cBA|Bcd2Ge2f|dg_g//g/e3f/g/|gf/g/dcd3c|d>edcB2d2|Bcd2>f2e3d|c2A/G/_Gd2gd|g>dgdgg2_g|g2aga2eg2|f4f2de|f4f3e|fgfedd2e|fedcB2<c2d|d3d/d<dc/|cc2z/B/AA2G|G6|]
+
+X:437
+T: 437
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DGGGGDDD2|DDDBGG2GG2|GGGGGGGG2|AAAABBAG|F/G/AGEDDD2|dd/d/ddcBBB/G/|ccccBBGB|cA/c/BGG2G|]
+
+X:438
+T: 438
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+B2|B4G2Bd|B4G2BB|A4F2d2|B4B2dd|d2>c2A2B2|G2Bcdeed|d2c3|]
+
+X:439
+T: 439
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+G2|A2A2d3e|dcd2e2dc|B2>B2A2G2|GGG2D>GG2|]
+
+X:440
+T: 440
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+D|GG/A/BA/G/|AABB/A/|GABc|d2dd|de/d/cd|edcG|cB/A/BA|Gc/B/AG|AB/G/c/B/A/G/|F/E/D/E/DD|GABA|G3|]
+
+X:441
+T: 441
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: Bb clef=treble
+G>ABB>cd|e2ce2d|c>BAG>A_G|G3G2|d/e/|f>gff2g|f>ecc2B|A>BcB>cA|G3G2|G>AB|A2GG>_GG|F2AG3|c>Bce3|d>efA3|B>cdc>BA|G3G2|]
+
+X:442
+T: 442
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+Bc|d4g2|B2cd2cB|AGABAG|F2>G2AB|^c2d2fe|d2d4|c2>B2AG|F2A2gf|ef2<c2B|B4G2|f2fgaf|g2>g2f2|gefed^c|d6|]
+
+X:443
+T: 443
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G3/|cB/AB/|AB/cd/|BB/AB/|G3/z|]
+
+X:444
+T: 444
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+BB|BB/c/AB/G/|FGEG|eedd|zGFG|Ad/c/BA/G/|EDGA/B/|cBeA|G2zD/D/|D/e/f/g/af|eB/c/dB|FGdB|Ag/f/ee/c/|BA/G<FG/|E2D]]
+
+X:445
+T: 445
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+d|g>aba|g2c2|f>efd|edc2|ega_g|g3d|gfed|cAf/d/e/f/|gf/e<dc/|c3x|ABcc|d2A2|GAB/c/d/c/|BA/G/GG|GABc|B2A2|GABc|d3c/B/|AGAF|G3|]
+
+X:446
+T: 446
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+d|d2d2|d2dd|A3|e|eeag|fgag|ff/g/ag|fefd|e2d^c|d3d|deff|edc3/d/|d3B|defg|a3g|agfg|a3b|agfe|df/e/d^c|dA/A/Ae|g3f|gf/e/a2|c3|]
+
+X:447
+T: 447
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: Bb clef=treble
+G|G2B2|d3c|BGFG|FEFc|B2AB|G/A/BGD|EEFG|A3c|BAGF|GABc|d2B2|c2cd|Fd/c/BA|G/F/G/F/GB|AG/F/E2|G2FB|B3d/c/|BABG|d2^c2|d2zc|B2c2|ddcB|AGA_G|G3|]
+
+X:448
+T: 448
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+A|dfd|fAd|ccd|c2e|eee|dBe|cdB|A2|c|Bec|ABA|GEE|DFG|AA_B|B2B|eBe|cBe|eAA|dBd|e_a/g/f/e/|d2|]
+
+X:449
+T: 449
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+GGB|d2ddde|ed3G3|e2ee2e|ddd/d/cBA|G2GA2B|d2dgfe|d2AB2c|d2ed2d|d2dddd|c3B2|]
+
+X:450
+T: 450
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+C2>C2EE|C3C2G|AGABcA|G2zz3|d2>d2ef|^c2BA2A|d2BG2d|c2BA2z|A2Bc2B|ABGA3|ABcBAG|FGAB3|AGABAG|c2Bc3|cB>cAGF|E2dc2z|f2ed>cB|AGAB2c|d>edcBc|c>Bcc2z|F2EF2E|FGAD2z|c2dcBA|GFGE2d|e2dc2g|a>gfe2c|decdgf|e2dc3|cGEFCB,|EEFG2G|ABGGFE|F6|]
+
+X:451
+T: 451
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+EGcB|A2G2|AAGzF|GGGGGF|GDEG2|G2A2|GEE2|DDFE|D3G|BcBA|GG2GG/G/|GCEG|cBA2|GEGGE|cAGA|A2A2|EGGFE|B3/B/|AA/B/cz/E/|AA/>G/AB|cBAG|_A2G2|cABc|c2cc/B/|AGF/E/F/G/|Czz|]
+
+X:452
+T: 452
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+d2|G2>A2Bcd2|B2>A2G2G2|A2d2cBAG|F4G2AB|ABcdABcd|B2_G2D2g2|f2d2efge|f6||A2|A2ABc2B2|A2d^cd2ba|g2d2gaba|gfgag2de|fgab2<g2f|d6|]
+
+X:453
+T: 453
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+C|F2AG2G|F2GC2c|B2BB2B|c2cc2c|c2cc2d|c2BA2G|F2GA2B|c2cc2e|f2cG2G|F3F2z|]
+
+X:454
+T: 454
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+AGABcdef|gfgag2f2|g2b4f2|e4d2A2|Bcdec2de|fefgf2e2|f2e2fgaf|e4A4|e2def2e2|d2d2e2fg|a4b4|g4f4|edefgafg|e4A4|dfedcBcd|edcBA2E2|ABcdedcB|A2F4A2|A2dcd2f2|gfedcBAB|c4A4|]
+
+X:455
+T: 455
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+gb|agagfedd|f2e2fagf|e2>d2e3d|cBcde2dc|BABcBdcB|A2>d2dede|e2fg2<g2f|g2>^d2e3g|f2g2gafe|d6|fg|a2>g2f2g2|cdcBA2G2|e2efg2fe|dcBABdcB|cdBc2<d2c|BABcBedc|B2A2G2|]
+
+X:456
+T: 456
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+d2B2|d2d2|ede2|edcB|AGBA|G4|z2d2|cBAB|cdcd|cBcd|G3z|]
+
+X:457
+T: 457
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: C clef=treble
+c2B|cde|e2f|g3|gfe|dcd|edc|d3|GAG|ABc|c2B|cBc|dcB|cBc|def|gfe|def|edc|f2g|gff|ede|c3|]
+
+X:458
+T: 458
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+C|F2FEF2A2|CDEFG2z2|F2B2A2G2|F2z2F2G3/F/|C2d2d2z2|A2c2c2z2|AAFAGGG3/F/|E4|]
+
+X:459
+T: 459
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+D|GGB/B/|dB3/B/|ABc|d3|GFE|D2F|GAB|Bd2|BBG|E3|dcd|B3|d2g|d2e|dce|d2B|GAB|cd3/e/|ddd|G3|]
+
+X:460
+T: 460
+L: 1/8
+/8M: 4/4
+K: G clef=treble
+B|c2cc2<B2d|edcBB2AB|cBAdd2d2|e2c2a3c|B2>A2G2B2|G4B2d2|d2>c2B2AG|AGF2E2G2|BBBB/c/cc3B|A2G2B2A2|GABcdedc|B4A4|]
+
+X:461
+T: 461
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+BB/B/Bc|BAAD|GGDzD|dcBA|BBBz/G/|c/c/c/c/c2|zzGd|A2Dz|eedd|ced2|BB/B/AA|G2z2|]
+
+X:462
+T: 462
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+Bc|d2de|defg|d2cd|B2Bc|dddc|BGAB|c2cc|AcAF|G2Bc|d2dd|dece|d2dc|B2AG|B2BB|B2cB|BAAA|G2AB|c2dc|B2GA|BBGG|A2FD|G2|]
+
+X:463
+T: 463
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+F2ABce|c2Ad|B2fc|Bcdc|F2f2|e2dd|c2A3/G/|G2F2|cfff|f2c2|c'bbg|f2fe|d2f2|feegfd|]
+
+X:464
+T: 464
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+G|GGGGGA|G3C2G|cdcAAB|c2dG2G|c2ccdc|c>cdedc|BcAGFE|D3G2G|ccBcAd|G2ed2c|Gcdegf|efedcB|ABcd/c/B/A/G|E3c2|]
+
+X:465
+T: 465
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+g2GABA|BcA4|AGFEDd|e4g2|BdcBAG|FGAFDB|AGF2E2|D4D2|Gddded|AABcB2|AdA2A2|BABcd2|GAB2B2|BAGFED|GFGABc|AGED2G2|B2GABc|d4B2|efedcB|ABcdcB|ABc2a2|B4G2|]
+
+X:466
+T: 466
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|dddd2d|d2cB2B|ddddee|d2cB2B|d2dc2c|c2cc2e|d2dd2D|G3G2d/d/|d2defg|d3B2B/B/|c2ABcB|A3A2B|c2de2e|d2dB2d|dedc2B|A3A2A/B/|c2Bcde/d/|G3F2d|eedA2G|B3A2G|G3G2|]
+
+X:467
+T: 467
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+A|d2fe2d|^c2BA2e|g>afe>d^c|d3d2|g|a>bab2a|g2fe2e|f>efd>ef|g>fe^c2d|e2fg2a|f3g>fe|f>gff2f|a3f2|]
+
+X:468
+T: 468
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+g2d2B2|GAB4|dBe2G2|F2GBA2|D2dBG2|G2B2B2|BAG2F2|EDC2B2|BBc2B2|d4D2|GBd2d2|^cBA4|AdB2d2|BAG4|dBB2G2|FGA2G2|E2G2D2|B,6|fBa2g2|ab4efg|cBAagf|agfed2|cBA2f2|g6|]
+
+X:469
+T: 469
+L: 1/16
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+G2|B2>G2E3D|B,D2D4|E2EDB,D2<D2A|B2>A2G2DD|G2>G2G4|ABcAA4|D2>D2EGAB|GAB4Bc|d2B2g2G2|A2>G2G4|BBBBB2A2|DFAAA2D2|G4G4|D2EE2<E2D|BGGBA2GF|GBBAG4|]
+
+X:470
+T: 470
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+c|cAAA|F3E|FGAB|c3|c/d/|ecBc|dG/A/Bc/d/|eeee|e/f/g/e/fB|ABcA|G3A|GABc|d2cc|AGAB|cc/B/AG|FG/A/BA|A3F|D3E|F3G|A2G2|FEFG|ABAG|F3|]
+
+X:471
+T: 471
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+cAdd|efd2|cdef|gge2|ddcd|e2f2|geef|gfeg|ageg|ddde|deg2|fed2|bagg|abc'2|fgef|ecA2|F|]
+
+X:472
+T: 472
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+c2GAG2G2|G2>F2DDC2|cBcdefge|g2fedefg|e2c2d2g2|f4edef|g2edc2dc|BGcdB2c2|d2>f2e2dc|B6|f2|_ggabbc'gf|b2edeBcd|c2>d2c3d|edcBA2AB|c2g2gdfd|e2d2c3d|e2g2ggfe|fddgf4|c2e2c2d2|d4c2|]
+
+X:473
+T: 473
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D/E/|D2DD2C|E2>E2DD|D2BAGA|G3G2D|G2GGAB|B3A3|A2ADFA|B2AFED|G3A3|B3G2|]
+
+X:474
+T: 474
+L: 1/4
+Q: 3/8=80
+M: 9/8
+K: G clef=treble
+d/e/d/|e3/d3/dB/|e3/d3/cB/|G3/A3/GA/|BB/cB/AB/|G3/zz/|GF/EB/|d3/z3/Bc/|d3/d3/de/|d3/zA/|BB/cG/|F3/E3|dd/cc/|B3/B3/|dc/BA/G3/|BA/GG/|cc/B3/A3/|G3/zz/|]
+
+X:475
+T: 475
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GAGA2B|cdBcde|de>dc3|B2BcBe|d3d2d|edegfg|dcBd2e|dcBcBA|G3G3|e2dcBB|A2BG2A|Bcdefg|G2Bd2|c/B/|AGFded|BAGFED/D/|GDDA>Bc|B2AG2|]
+
+X:476
+T: 476
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+A2E2A2|A6|c2G2c2|cBcBA2|e2d4|c6|A2e2fg|e2d2c2|_AAB4|BcB2c2|dcB4|A2_A4|efg4|efe4|dcBAGF|E6|]
+
+X:477
+T: 477
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: C clef=treble
+D4D2C4D2G2G4G4G4G4E2E2D2E2D4D4C4D2C2D2F2E4D4C2D4D4G2FEFGA4z2F4D2E2F2E4D4F2G2G4A2A4B4A4z2A2G2G2E2D4E2E2D4D4C4C4z2D2E4D2B,2B,2C2C4B4A2G4c2B2>A2G2A4A4z2A/G/F/E/D2D2E2>D2D2A,2C4z2F2E2>D2DCB,2DD2EFG4z2A2A2cBA2GFF2E4F2F2G2>E2FEDDC2C4z2F2D2F2E2D4C2D4z2z2FGA2<B2c2A4B2AGFF2<E2C2DEF4D4|]
+
+X:478
+T: 478
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+C|FFGG|FDCG|FFFF|GGGG|FFFF|FEF2|ECCC|CCB,2|FGA3/G/|F2F3/E/|FFFC|FGA2|GGGE|F2A3/c/|c>AG3/F/|F3|]
+
+X:479
+T: 479
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+FFAA|GFE2|D3C|DDC3/C/|F>ED3/C/|D3C|C3G|F>DEC|F3F/E/|FGAG|F3|c|ccAG|F3E|FEDE|F2AG|FEDE/C/|EFGF/E/|D3|]
+
+X:480
+T: 480
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: A clef=treble
+e2fga2|g2fge2|defedc|B6|gaba_aa|b2c'2d'2|defcdg|e2A2c2|BAGABA|GABcdc|Bfe2d2|c6|gfgefg|a2g2f2|gfefga|dcBAG2|fgfe4|dcBAG2|B2>E2EE|BGADE2|c2A2z2|E6|]
+
+X:481
+T: 481
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: A clef=treble
+E4Ac|B2>c2e2|GAB2c2|c2>B2AA|GA2<B2A|A6|B4A2|ded2B2|F4c2|B4A2|e6|d2>c2d2|f2gfed|e2efg2|e4fg|a2agfe|fgfgag|a2>f2g2|a2g2f2|a4ab|c'2b2a2|g2>a2b2|g2g3f|e6|]
+
+X:482
+T: 482
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+BBBAAcBA|G2B2D2GA|BddedcBA|GcBAG2D2|G2ABccB3/A/|G2GGAABd|eeedcB2cc|BBAAB2G3/G/|GFGABeed|dcBB2<d2d|ccBBAcBA|GcBAG2|]
+
+X:483
+T: 483
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|B2AG2G|AAAA2D|G2FEDB,|A,2DGAB|G2GGAB|A3B3|A2AG2F|GBdG2F|F2ED2F|G2FD2z||A2>A2Bc|B2DD2F|dBGcEB|e3d3|GGGGFE|FFED2z|EGGFGE|D2EDED|BBGFGE|D2DG3|c3c2c|BBBG2B|BAGAGF|G3G2|]
+
+X:484
+T: 484
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+G2dded|c2B4|d2d2ef|g2fge2|ddcBcA|B2G2G2|A2B2c2|B4A2|AGG2G2|A2ABcA|fge4|f4g2|efgfed|e2^cBAG|FGAABA|F2G4|babagf|gcBAG2|A2g4|fedcBA|G2d2d2|g4f2|edcd4|G2>A2Bc|Bded2cB|A6|]
+
+X:485
+T: 485
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+gbb|agf|g/g/f/g/e/d/|c/B/c/d/c|GAB|c/d/e/d/c|dec|dc/B/A|d/d<ef/|g3|ggf|gf/e/d|e/f/e/d/c|Bcd|g/f<ed/|d3|e/d/c/B/A|_AAB|cA/B/c|Bd/A/B/c/|B/A/Bc|AEC|f/g<fe/|d3|]
+
+X:486
+T: 486
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+d|ddgg|f2f3/g/|ag/f<fe/|d>ee/f/g/e/|d>ed/^c/d/e/|d>^cB3/A/|d3|A|d/e/f/g<gf/|f>gf3/e/|d>cB3/c/|B>Gd3/c/|B>cB3/A/|A3A|B>cB3/A/|Gcc3/B/|A3F|A>Bc3/d/|c>dB3/c/|dGG3/F/|E>DD3/d/|d>ef3/d/|e>fg3/g/|_g>bg3/a/|b>gf3/g/|afa3/e/|fgad|gde3/d/|d2|]
+
+X:487
+T: 487
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: A clef=treble
+A|c2AB>AG|A3B2A|G2BA2B|G3G2z|c2AB>GB|A2EA2E|A>BcB2G|A3B2|E|A2cB2A|F2GA2B|c2de2e|c3c3|B2cd2c|d2BB2A|B2BB2c|d>dcB2d|d2cB2d|c2AA2G|A2dc2A|A2GA2c|e2g2<e2d|AAAA2f|efgaef|g3g2f|e2dc2B|B3c2z|]
+
+X:488
+T: 488
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|dgfedc|B2FG2B|dfdedc|B3D2d|g2dedc|d>edB2G|c>Bcd2e|d3d2B|e>eeefg|f>edG2B|cdedcB|A3A2|]
+
+X:489
+T: 489
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+GA/AG/|F3/D3/|CC/CE/|GG/GG/|AA/FG/|F3/D3/|DG/GG/|A3/G3/|BB/BB/|AA/GF/|BB/BA/|B3/A3/|]
+
+X:490
+T: 490
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: D clef=treble
+A2|d3c2c|c4A2|f2ed2e|f2fg2a|b2ag2f|e3e3|a2aa2b|g3f2f|f>gfedc|d3B2|A/B/|c2cc2d|e2AA2B|c2AA2d|d2>d2cB|A2Bc2c|d2ddcd|c2AdcB|A2AA2A|A3F2D|d2dd2e|f2>f2ab|a2>g2ff|e>fed2d|efed2A|d2dd2A|dedcBA|_A2BA2A|FEFBAG|FFEDee|f3f2e|dedfed|c3c2A|d2>d2ef|edcdcB|A2>d2gf|gabfef|e3e2d/d/|dGddef|cdBBAG|FGAd2f|fefg2a|gfeede|faag3|efgdcB|A3E2|]
+
+X:491
+T: 491
+L: 1/4
+Q: 1/4=132
+M: 4/4
+K: Bb clef=treble
+GABc|d2d2|c2c2|d4|d2c2|BcdB|cdcB|A2G2|d2^c2|d3c|B2c2|d4|Bcde|d2c2|B2A2|G4||B2cd|e4|c2c2|B2c2|d4|BcBA|G4|d2de|d4|g2f2|e4|dedc|B4|A2de|fed2|ABcd|B2d2|c2A2|B2c2|d4|B2BA|G2AG|A4||
+
+X:492
+T: 492
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|GGGG|AG/F/G2|G3G|GDGA|B2A2|G2GG|FDGB|G>AGF|G3|]
+
+X:493
+T: 493
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: C clef=treble
+C/D/|E2GAB/c/d|G>FGC2|]
+
+X:494
+T: 494
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+G|e2d|c2c|c2B|A2G|c2d|e2e|dcB|A2|G|GEG|G2d|d>ef|e>dc/B/|A3|c/d/e/f/g|b>ag|_gge|d3|ede/f/|g2a/g/|g>fe|d>ef/e/|de3/f/|g3|g2B|c2A/G/|c2d|e>fd|cd2|B2|]
+
+X:495
+T: 495
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|B>BBB>GA|G2FG2G|B2AB2B|B3B2B|BBBBGG|F2EE2d|B2BB2d|d3c2B|AAAG2E|E3D2D|G2GA2B|G3G2D|G2FFED|E3E2G|A2GF2G|E3D2F/G/|AAABGB|G3D2A|B>edcBA|E3D2|]
+
+X:496
+T: 496
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+B2cc|d2>c2BABc|d4gagf|eeefg2a2|e4f2g2|g2>a2f3e|eeddefge|e4dcBA|c2>B2A3G|A8|A2d4e2|B6de|f2e2d2Bc|A4d2dc|BABcd2e2|c4e2e2|fgfedcBA|G4z4|]
+
+X:497
+T: 497
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+D2|D2>B2AF|G2z2G3/G/|A2B2B3/A/|G2G2D3/D/|G2>B2AG|A2A2|GGz2|B2B2|A2G2|B2B2|cdec|BAGG|F>EF3/G/|G2z2|]
+
+X:498
+T: 498
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+dGB|dedd|AcBd|d2B3/d/|eegf|ee2d|cBcA|B3B|AAde|e2dd|dcB3/d/|dA/G/AB|d2ed|G2GA|B/d/d/c/dB|Ad/A/Ae|d3ggf|egfe|d2e2|ddGG|e2e2|d2BG|G4|]
+
+X:499
+T: 499
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G>GG>GA2G3/G/|F2E2F2D2|E2E2A3G|FG4DDBA|GGF2EF2B|A2AED2G3/G/|F2EED2EDD|B4G>GG3/G/|A2G>GG2F2|G4z2|]
+
+X:500
+T: 500
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+d2de|dAAG|FAAG|DBAc|BBcc|BAAA|BABc|d2dc/c/|cABA/G/|GFED|GABc|dddc|B2A2|G2|]
+
+X:501
+T: 501
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+A|dec|dAf|efd|e2A|dcB|ABc|dc/d/B/A/|B2|e|cBA|e2f/e/|dcB|c2d/e/|fef|g2e|f2d|efg|c2d/e/|fg2|a2e|ede|fgf|d2|]
+
+X:502
+T: 502
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+C4DEFE|F4D4|AGFGcdefBA|G4c/A/GF2G2|A2>f2e2d2|e4g2d2|cdBA2<G2F|F4A2Bc|dBcBAGFE|D2C2E2G2|A4g2gf|fe4zcefgfed|ed2cBA4|]
+
+X:503
+T: 503
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+G|G2G>GGE|G2G2cB|A2A2AA|B4zc|c2>A2AA|c2B2zD|E2GGFG|AAG2zG|c2>d2AA|B2>B2cd|e2>d2cB|c2zcde|f2>d2cB|AGF2cG|c2d2ed|G4|]
+
+X:504
+T: 504
+L: 1/4
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+D/|GE/|D3/D|ED/|ED/|E3/|D3/|EF/|G3/|D3/|E3/|ED/|DD/|GF/|E3/|DD/|E/D/E/|FE/|DD/|EF/|GG/|F3/|ED/|CC/|B,3/|B,z/|]
+
+X:505
+T: 505
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: C clef=treble
+d|A>BAGAB|A>GFD2D|cdef>ga|e3A2A|d>edc>BA|g>fefga|f>edg>fe|a3f2|d|defgaf|e^ceAfe|dd^cdef|f>eff2a|e>fd^c>de|f>efa>gf|e>fd^cAe|A2d^c2d|A>Bcd>cB|c>BAd>ef|e>fdc>dc|B>cAG2|]
+
+X:506
+T: 506
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GGGBAAG2|AAAABBB2|AAABAG2B3/A/|GGAABBGDD|GGGGBAB2|AA/A/AB/B/AAB2|Ac/B/ABGFD2|BBBBGGGG|AG/F/EED2|]
+
+X:507
+T: 507
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: Bb clef=treble
+f3/e/|edGF|BB2G|dddd|c2B3/d/|dB/A/GA|B/BB/c/dd|dBdc|BG/A/Bd|ddBd|e2fd|edcA|B2AB/c/|ddec|d/e/d/c/B2|c/c/B/A/GA|BdGB|ABcB|A2d2|BGcB|A2F2|]
+
+X:508
+T: 508
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DGD|G2>G2G/BBGD|D2G2>B2cB|A2D>GBGE3/E/|F4zDDE|F2>F2G/>G/A/G/FE|D3G/G/FG/G/|A4DDEF|GGG2GABd|c2>B2A/G/FGE/D/|cB/A/GFGF/E/F|G4z2|]
+
+X:509
+T: 509
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: C clef=treble
+zGGDC>DGFEDGF2<E2DD2CB,DC2<D2B,DDEFG2zDEF2<G2ABcd2d2BcAAG2z2GFEFG_GGED2FG2<E2DF4D4D4D2B,A,G,CA,2D4z2GGG2D2GGFGA2G2F2D2C2B,2>A,2G,/A,/B,C4zG,DEFGABG2GGGFGGA2D2zA,B,DC2G4CB,A,DCCE4D4|]
+
+X:510
+T: 510
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: C clef=treble
+dd3/e/|d2d|g2e|d2e/f/|gfe|d3|d>ef|e2e|f>ef|g2f|e>dc|_g3|d2G|e2d|e2e|e>fd|g>ad|g2d|e3|c2c|d>ed|B3|f2f|fg2|g2c|d>^cd|B2a|g>_gg|de2|g2g|]
+
+X:511
+T: 511
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+GEGG|B/A/B/c/dA|decd|e2f2|ed/c/B2|f/f/fdG|cc/d/gG|cGAF|G/c/e/G/FA|d2G2|]ged2|cGAB|c2cf|Bd/G/c2|d/c/e/d/c/B/A/B/|cee2|fcec|g/a/b/b/a2|c/B/A/G/A/B/c/d/|eegc'|baa2|ge^c2|df/e/d2|gdc2|de/f<ed/|eeec|ede/d/c/B/|AAc2|]
+
+X:512
+T: 512
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+B|d>ddg|gc2c/e/|edcB|A2B|c|fede|fe2d/c/|d>ded|c/>d/e/>e/d/d/g|fedc|c2Be|ddcA|G4|]
+
+X:513
+T: 513
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+cccccc|c2cd2d|d2dGGG|e2ee3|e2dcdc|c3z2z|e2fgdd|e2fg2g|gfeddd|g2fg2z|ggfe2d|e2fe3|d2gd2d|c3z3|e2gg2d|c2fccG|EGGGcG|e2eeGG|c2Gccc|d2GG2c|cdefge|d2gEEC|EEGG2|]
+
+X:514
+T: 514
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+dddd2e|dddB2B|d2de2e|d2dB2e|d3d2B|eeee2e|d3B2z|dddd2d|gggg2g|ffff2f|e2ee3|dddd2d|c2>c2d3|g2ggde|d3d2|]
+
+X:515
+T: 515
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|D>EFGAB|GFGA2G|ABcBcB|A2dd2d|edcBAG|FGFD2d|dededc|d2BG2G|GABcBA|GFED2D|BGcAAG|FDAB2D|EFGGEF|G2FG2|]
+
+X:516
+T: 516
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+B|B2G3/G/|AAG3/D/|G2gB|B2A2|d2dd|d2cB|c2A3/A/|B>BB2|B2BB|B>cd3/c/|B2A3/A/|G2z2|d2d3/d/|e2fe|edcB|BAG3/A/|B2d3/c/|B>BA3/A/|G2G3/G/|D2z3/d/|c>cA3/B/|c2d3/d/|g2B3/c/|d2G2|edcB|A2G2|G2z2|]
+
+X:517
+T: 517
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+d2c2d2|c4c2|edef2g2|fg6|f4e2|def2e2|d2ABcA|B2AGFE|DEF2G2|A6|f2agfe|f2fff2|fga2a2|a4g2|f2edcB|e2e2e2|f2a_aab|A4d2|]
+
+X:518
+T: 518
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G>GGGGBdd|d2BAG2B2|B2>A2B3^c/A/|G>dded2d3/c/|B>BBBe3c|d>cBcd2d2|ddddg2_a3g|b4agba|b2agf3e|d4B2|]
+
+X:519
+T: 519
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G|G>FG/A/B|c2de|dcB/A/G|F2AG|FFGF|E2ED|EGEF|FE/D/ED|DGAB|cBBA|GAFE|D2DF|G2B2|A2G/E/D|AFDD|GGBB|A2e2|dBG2|DGB3/B/|B/A/B/c/BA|G2z|]
+
+X:520
+T: 520
+L: 1/8
+Q: 3/8=80
+M: 9/8
+K: G clef=treble
+B2AG2E|E2FGAB|G2DG2B|G3FGA|D3C3|D2DE2F|G2dd2B|G2cB2d|d3c3|e3B2c|d3B2d|edcABG|F3G3|B2>B2Bc|dddedc|c2>d2fd|B3B2|]
+
+X:521
+T: 521
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D2|GGGGD2cc|B>BAGA2DB|A2AGF2ED|GGAABGBA|G2>E2D2D2|G4FDDE|F4F3D|E2E2EDEF|G2|]
+
+X:522
+T: 522
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+D|DGG|AGA|BBz/B/|Azz|BG/G/GB|A2G|FFA|GzG|AAd|dGB/G/|AB/B/A|GzG|AAd|BdB|ABA|G2z/D/|DDG|z2d|dde|dBzd/c/|BAG|BzA|DFA|dzc/c/|BGG|BAz|DAA|ABc|B2A|G2z|]
+
+X:523
+T: 523
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+C|F2FF|F2zF|G2A2|F3z|cccc|B2B2|AAAA|B3G|FFFF|F4|CCCC|F2F2|AAAA|c3c|BBAG|F3z|CCCC|F2C2|CC/C/CC|F2zF/F/|AA/A/AG/F/|EEGc|AA/A/GG|F3z|]
+
+X:524
+T: 524
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+d/^c/|dAff|g>aag/f/|edd^c|d>efg|eAcf|f>ede|d/c/d/e/ff|d3|A|de/f/gf/g/|e>ddd|AFBG|Ad/e/fd/c/|Bgfe/d/|cef/g/a|d3|]
+
+X:525
+T: 525
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+f2ed^cd|edefed|^cBABcd|e2e2e2|^cBcAdc|B2G2d2|c2F2e2|d6|f2a2f2|bagfed|ccBAGF|FEDCDE|FGABcA|B2G2B2|d2e2d2|c2>B2AG|AGFGAG|FEFGAF|GAGFED|C6|]
+
+X:526
+T: 526
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+G|GBAG|A2_G2|G/A/BBA/G/|AFD2|G/G/AAA|G_GG2|GGAB|ccc2|BAAG|G2z2|BAG_G|G>GGG|BBed/c/|B>BAB/c/|d>Gcc|B2A2|G2zG|G2B2|A2GG/F/|EFGB,|D4|]
+
+X:527
+T: 527
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G2ABc2B2|BABcd2dc|c2B2B2e2|d4z2Bc|d2dcB2Bc|dddcB2B2|B4A>GA3/G/|G4z2DD|GGGGG2B2|GGGBdddc|BBAAG4|]
+
+X:528
+T: 528
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+c4d2c2B2A2A2G4F2E4z4E4A2G2F4E4F4G4E2E2F2G2A4|z4F4G2A2A4D4D2E2F4G4z4B2A2G4F2E2D4C4z4C4D4D4D2E2F2G2F4E4z4A4G2c2B2A2G4F4E4z4F4D4D4C2G2G2G2E4D4z4E4E4G4G2B2A4z4G4B2A2G2F2G4z4E4G4B2A2F2F4E2F4D4z4F4D2D2F2E4D2F2G4||A4B4e2d2c2B2A4G4z4A4A2G2F2E2D4E4z4F4E2D2F2E2D4E4|]
+
+X:529
+T: 529
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+BG2|GGG|GG2|G/A/d2|B/A/GG/G/|B>BA|G2G|GGd|d>ef|ed^c|d2c|d3|ded|c2B|d2e|dBB|eee|c2A|ccc|d3|d2f|ddd|ded|Addd2d|c2c|c2c3//B//|dcd|B3|Bd2|efg|BB2|cec|Bed|ced|dcB|A2F|G3|]
+
+X:530
+T: 530
+L: 1/8
+Q: 1/4=132
+M: 3/4
+K: F clef=treble
+B4d^c|d4ef|gf4f2|ag4fe|fedcBA|B2A2B2|G2A4|cB6|f4e2|fg4f2|gedefg|B4A2|B2GABc|A6|f_ggafdf3|e4ga|gagfgf|ef2<e2d|d6|]
+
+X:531
+T: 531
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+DAAD|AAA2|ddfe|ddd2|DEFG|AFD2|AAAA|ddA2|G2D2|FAAA|A2AA|AAA2|DDDA|G2G2|gdBG|AAFA|ABFE|D4|]
+
+X:532
+T: 532
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+dAfedc|d2D2F2|d2e2c2|d4A2|AGFED2|defedc|BABcde|f4B2|dcBcde|c2B2A2|e2fga2|B6|efg2a2|fga2A2|fg2<f2e/f/|g6|d2e2f2|d2cBA2|BABcde|c2BA2d2|efgfed|edecd2|B4cd|edcBA2|dcBcd2|gfedc2|edcBA_A|A6|]
+
+X:533
+T: 533
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GABc|dg/f/ed|ccBc/B/|A>AAB/A/|GABc/d/|GABA/G/|Addc/B/|A>GGB/A/|GABc|d>ded/c/|B/G/A/B/GD|GABc/B/|AAdg/f/|edef/e/|d3|]
+
+X:534
+T: 534
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: Eb clef=treble
+B|B/c/B/A/GF|GGFE|DFFG|B2A/G/F/E/|DEFG/A/|BBBB/c/|BEFG|E2c3/B/|ABcA|BAGz/B/|BEcB/c/|dezg/g/|fffg|a_ggf/e/|gcBc|GAGf|e/d/c/B/AG|A2z|]
+
+X:535
+T: 535
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: A clef=treble
+ef3/a/|faa|ee3/a/|gab|af3/e/|bfa|gb3/a/|af3/a/|e3/d//c//AA/c/|F2z|AB3/B/|cB3/A/|B>GA/B/|cde|fa3/g/|ffe|de3/f/|^cd3/e/|cA2|egg|bB3/A/|A3|]
+
+X:536
+T: 536
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G2GGB2BA|G3E/G/GG/G/AB|cB2<e2efg|dd2dd2ec|B/A/BBA/B/cA/B/cB|B2A2A3d|d3c/c/cBAB|c3c/d/ee/d/dcB|B2>A2B/c/d/c/BA|G2B3d|eABcdcBA/B/|c>cdededg/g/|edcBBcBA|G4G2|]
+
+X:537
+T: 537
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G|GGGGGFGG|G>GGGGGGG|G>GGGG2G3/G/|GGGGGGG2|GGGGGG2z2|G>GG>GGGAG|G>GGGGG2|G>GGGG2|]
+
+X:538
+T: 538
+L: 1/4
+Q: 1/2=66
+M: 4/2
+K: F clef=treble
+z2G2G2G2G2G2A2c2B2A2d2d2>d2c4B4A4z2A2A2A2A2G4A4B2cAB2G4z4A4B2B2A2B4A2G2B2G2E2D4z2B2A2G2A2B4A2B4d4c4B2d2A2G4z2z2B2A2G2EF2<G2GF2E2D2G2GABcc2B2A2>G2FEDGFGA2B4B2A2GGFGAFG2z2G2GFG2A2G2FEDDGAB4B2BABGA2GFG4|]
+
+X:539
+T: 539
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+g|B3|^c3|dBc|d>cB|gf3/e/|f/e/dc|Bcd|g>a_g|g3|d3|eca|_gdB|cd3/c/|c3|f>ed|e>dB|Aed|de/c/d/e/|c3|d>df|cB3/A/|AA/B/c|d>de|cce|f>dg|fe3/d/|c3|]
+
+X:540
+T: 540
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+Bccd|c>BA2|E/F/GAB|c2A2|G2G2|A2G2|BcdB/c/|dedc|dccB|c4|GGAB|cdcB|B/A/Gcc|d2d2|dcd^c|d4|GGB3/c/|d2d2|edcc|d2c2|cBcd|e2c2|GcBc|d>cde|dcdB|c3|]
+
+X:541
+T: 541
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+dd^cc|AFFAGA|ccAF/A/|ddd2|deg2|fed^c2B|AAAd|d^cd2|efgf|ed/e/^c2||dgf/e/A|ddA2|fe/d/e2|fdef|eed^cd|Add/^c/d|BAGE|DFDFE2|AA/B/A^c|dDD|]
+
+X:542
+T: 542
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+c2z2c3d|f4g2f2|gfgab2de|f2>e2fgaf|g6|g2|e2cfe2ef|d2>c2c3c|d4zdef|g2g2g3f|f4zfed|c8|]
+
+X:543
+T: 543
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+ab|a>gfg/f/|ffe2|d2fe/f/|g2g2|fdaa|a>afd|aagf|eee2|fgee|f2A2|efga|e2dB|cBcd|e2e2|cde/d/e/f/|e2dc|d2A2|B_AGB|A2|]
+
+X:544
+T: 544
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2AB2c|d2dd2d|efgefg|d3d3|eeedcB|B2AA2e|dedcBA|G3G3|d2ddBd|cBAB2d|d^cdBAG|c2BA2d|deddcB|ABcB3|e3d2c|B3B3|]
+
+X:545
+T: 545
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+G|c>ded|cBAd|cB/A/Gc|Gzz/B/A/A/|GBdB/d/|eced/c/|BG2B|A3G|AG/F/EG/A/|cBAG|cB/A<GA/|B3B/c/|ddgc|dfdc/B/|c/B/AA/A/G/d/|c/B/A/B/cB|A/B/cdB2|AG|]
+
+X:546
+T: 546
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+GFG|A2A2BABc|d2G2d2d3/d/|e2dcB2d3/A/|G4|]d2de|f2edc2d2|e2>d2c2B2|c2d2effd|c2B2ABGA|B2cd2<^c2d|d2g2a2_g2|g2>_g2gfga|b4||
+
+X:547
+T: 547
+L: 1/4
+Q: 1/2=60
+M: 3/2
+K: F clef=treble
+B>cd2d3/e/|f>gf4|d>ed4|g>gf4|e>dc4|Bc>dB2|c2c3B|A>Gc4|g>ag2f2|d2>e2c2|d>cB4|d>ef3f|d>cd4|A>Bc3c|d>cd4|B>AB4|A>Bc4|B>Bc2dB|c>dd4|e>de4|d>ef4|g2a2b3/f/|g>ab3a|f>gf4|]
+
+X:548
+T: 548
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+B3/A/|G2c2B3/A/|G2B2d3/B/|A2A2d3/c/|B4d3/d/|c2B2F3/A/|B2B2B3/B/|A2AAAA|BBG2B3/B/|A2A2F3/D/|G2z2B3/B/|A2c2A3/A/|G2G2D3/D/|G2B2A3/A/|G4|]
+
+X:549
+T: 549
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+cde|f4e2ed|g2c4ab|a2g2f2ed|e4c2g2|g2fga2gf|e2g4fe|d2d2d2dc|d6|dc|dedcB2c2|defefdef|g2>f2e3d|edcBA2GA|B2c2d3d|e6g2|f6fg/f/|e4c4|]
+
+X:550
+T: 550
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+cdcdefe2|fcdcd2d2|efgafg/e/fe|d2ddef/e/f2|gfefgefg|ed/e/f/d/e/d/c2z2|ed/e/cecdce|fefgeefg|gfefgfe2|egggefgc|gfgag2f2|edcdefg2|fede/f/g2g2|fedef2e2|fefga2g3/f/|e2<g2gegf|eefd2<c2G|cde2fga2|gfefg2gg|efe2d3d|e4d2ze|edcGA2ze|GcBge2fe|d2gef2e2|e6|]
+
+X:551
+T: 551
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+GDGABGBd/e/dcBAG2DDGDDGAAAAABcGGGAdBAGFGDDDDGEAGABAFG2D2|]
+
+X:552
+T: 552
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GGGGGBB2|GGBGB>BBB/B/|ddBBccB2|DDDDBDDG|EEFEDD/D/B,/B,/G/G/|FAccBBAA|BGGG/G/GGB2|ABcFG2B2|]
+
+X:553
+T: 553
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+ggb2a2|a4g2|cBc2A2|BcBAGA|Bcd2d2|efg4|ABcBAB|G6|dababg|_g4b2|gfg2f2|dcd4|cBA4|Bcd4|cBc2B2|AGG4|edcBcd|ecA4|ddf4|_aab4|dcBcBA|G4|]
+
+X:554
+T: 554
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+def|gfeddGAB|ce2ceGAB|cBceddcB|AdddBcBGABc|defededc|BG2AGGAcB|G4|ABcd|f2f4fa|a2a2f2fg|a2>f2f3e|e2f2g3d|g2g2f2g2|ag2f2f2ee|a2a/g/f/g/e3f|d4|]
+
+X:555
+T: 555
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G|ccccAccB|A2GGG2GA|c2ABc2BA|G2G2>G2GB|B2A2AAAA|F2A2D2DD|G2GGG2AA|BBBBB2B2|B2BBB2cB|A2AAA2B3/c/|d2edc2d2|cAAcB2G3/A/|G4z4|]
+
+X:556
+T: 556
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+d4fd|g2e2ef|e2d2c2|d4d2|c4def|e2d2cd|A2G2F2|E4A2|f6|f4e2|f4d2|g2fedc|d2agfe|f6|f2ABcd|e2EEE2|d2dcde|f4f2|d2e2d2|c6|B2dcBA|A4DA|A2^cdef|A2GFEF|D6|]
+
+X:557
+T: 557
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: Bb clef=treble
+F|D2F3/F/|GFGB|B2BBBc|c3/B//d//B2zG|F2GFGA|B2G2|F3A|B3B|G4|FGFE|DDDF2|ABcA|B2z|]
+
+X:558
+T: 558
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+B|DABc|d>cBA|B>dBc/d/|B>AGG/F/|G>ABc|d>ef3/c/|BA/B<cB/|BGGB/c/|d>de/d/c/B/|c2df/e/|dddd|e/d/c/d/cc/B/|ABcB|A>GG2|]
+
+X:559
+T: 559
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+e2eefb|^c2deag|f2aaed|^c3B2|c|BcdG2c|edecef|g2agfg|e2efef|d2eedc|e2dc3|]
+
+X:560
+T: 560
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+FF|GABABc|c2BA2A|A2GGAB|c2Ad2c|Bcdd2c|B3A2B|cdcB2B|AGFF2F|A2>A2Ac|dBGA2A|FAGF2F|F2>G2AA|B2Bdcc|d3B2f|dcddcB|c2zz2|]
+
+X:561
+T: 561
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+DG|G2G2DG|G4Bc|d2>D2GA|B2d2zA|ABccdc|BGG2zD|GGGGGG|AFD2zD|Acc2AB|c2BAGD|GGGGGG|GBd2GG|ABGDDD|Bdc2cB|BAAAGDD|G2|]
+
+X:562
+T: 562
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+c2B|B2A|A2G|FE3|DDD|D2D|G3|c3|BAG|B2A|G3|A3|ABA|B2A|G3|e3|d3|d3|e3|c3|B3|A3|B2d|g3|ecA|G3|F2E|D2D|G2F|E2G|AGA|B2c|B3|A3|G3|GGA|B2B|dcB|A3|G3|G3|GAB|A3|AGA|B2B|BAB|G3|]
+
+X:563
+T: 563
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+zEE3/C/|GEB3//A//|GG3/G/|G>EG|cdc|cdc|d>ef|c>dd3//c//|d2|Bc|d>^cB|c>de|f>ed/c/|B/A/G/A/|G3|AcB|A3|dd3/e/|cc3/B/|cc/B/A/B/|c2|]
+
+X:564
+T: 564
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+c2zcB2AB|cfcde2zc|cdef2<^c2e|ed2<c2de2|ffdcAced|cB/c/A2zeBd|c2c2B2ze|aabaggfe|ffdg_gefg|e2ezfGcg|B2c2f3z|]
+
+X:565
+T: 565
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+f/|f2d2e>ff3/d/|e2>d2e/fefg/g/fe|d2e>ff3e|f2z2g2fed|g>fed2c2zc|edcBA2F2z|BdddcBed>cB|d2f>fef/a/gf|eefe2<e2d|def2c3c|def/g/aed/^c/dB|c2>d2edcb|c'/>b/ag>ff2f|]
+
+X:566
+T: 566
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+E|DGFE|EFGA|AGAA|G2zc|B/c/dGc/B/|BAGG|cBA/G/A/A/|G2z/G/G/G/|EGcG|BBzc/B/|cd/e/cB/c/|AzB3/c/|cdd3/c/|c2zf/e/|dcAG|Gcde|cBAG|E2z|]
+
+X:567
+T: 567
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+GBddcB|cdcB2c|Bcdefd|c2dB3|x2gg2e|c2AF2g|agfgfe|dcBAGA|G2BG2A|B2cd3|d2cB2c|dedc2B|ABcBAG|FFGA2D|]
+
+X:568
+T: 568
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+A2|Bcd2e2f2|edcBA2G2|FGFE2<D2B|cccBA2d2|efdgf2ed|^cAdef2d2|d^cdefed^c|d6|Bc|d2dde2fe|dcdedfed|cdcdB2A2|G6B2|cdcBAGAB|c4c4|]
+
+X:569
+T: 569
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+G|c2cB/c/|dGGG/A/|B2A2|G3|c|cABG|c2ag/f/|eded/c/|d2dd/c/|BGec|g/f/e/d/cf|ed/c/Bc|d3|]
+
+X:570
+T: 570
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+c2e2efgf|edcdedcd|e2fga4|c2cde2c2|d6|]e2|a2gfg2ga|g2f2g2fg|a2gfgfed|c2f2e4|d2gfe2fg|a2f2gfed|e2edc2z2|]
+
+X:571
+T: 571
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+C|FABAcB|AFFF2G|AAcdcB|AGFF2z|A2AA2G|GGABcB|ABGF2E|F2CF2c|c2cBAG|G3F2F|GGGA2G|F2FF2G|A2AA2A|c3B2A|GFED2G|G2FC2|]
+
+X:572
+T: 572
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+A3/B/|c2>d2e2AB|c2defe3e|dcBA2<G2A|B6|Bc|d2Bcddcd|edcBA2a2|g2fe2<e2d|d6|]
+
+X:573
+T: 573
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+D2FAA>AF3/G/|F2DAA2F2|A>BA>AA>AB3/A/|F>EF>GA4|FFF>Ad2D2|D6|]B2|BBBBBBG3/G/|cccce4|AAAAAAAA|B>GGG2<G2F/E/|D2DEFGGB|d>cc>BA4|]
+
+X:574
+T: 574
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+ef/g/fe|ed/c/Bf|e/d/c/B/c/B/A/G/|A_AAz|e/>f/e/>f/dd|ddge|da>ba|gdBz|zAAB|cd/d/ed|c/B/c/d/eA|ddge|f/e/f/g<dc/|B2ee/d/|cB/A/B/c/B/A/|AB/c/d/e/f|g>fge|e>dd|]
+
+X:575
+T: 575
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GGGGAB|A3G2A/A/|B2GA2A|G3G2B|B2Be2e|d3d2e|dcBd2d|e2dB2d|d2dG2B|d3d2d|d2dB2d|e3d2A|B2cd2g|f3d2B|d2dBAG|Ac2B3d|BBBA2G|B2BA2d|dcAB2G|G3G2|]
+
+X:576
+T: 576
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+A|dAAA|Add3/d/|c>de3/f/|d2df/_a/|agfe|d3|d|A/d/f/e/dc|d2A2|d/c/de3/B/|c>de3/d/|cBA3/G/|F3E|F>ED3/F/|ExdB|cAB3/c/|d3|]
+
+X:577
+T: 577
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+B2B2B2|B4B2|BABcdB|cBAGF2|d4A2|BGABc2|BAGAGF|G6|d2gfg2|dedcB2|bagfge|fgadc2|B2A2G2|DDDDDD|d4A2|Adggg2|]
+
+X:578
+T: 578
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+DD|G2G2GG|A2A2GA|B2B2BA|G2z2DD|G2G2AA|BBBBcd|d2d2ed|G4z2|d2ddgf|e2d2cB|A2d2cB|A4z2|B2GGGG|A2B2cd|e2e2ee|d2z2dd|c2cccc|BBBB|A2A2BG|G2z2|]
+
+X:579
+T: 579
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+D2|G2G2F2B2|d4d2dd|dedcB2e2|d4cBAG|A2>e2eedc|B4G2Bd|e2dcBAGF|E4D2dd|G2G2d2e2|d2d2c2BA|G2B2d2e2|d6|]
+
+X:580
+T: 580
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: A clef=treble
+A|B2c|cBA|G2A|B3|zcd|e2c|e2d|c2z|B2B|ABc|B3|B2B|B3|A2z|A2B|c2B|AAA|d3|zdc|B2B|c2d|ez2|d2B|cde|e3|c3|z2A|A2G|A3|A2B|c2e|d2c|B2c|d3|d2c|A3|B2B|c2B|A2B|c2z|c2|A2A/A/|B2c|B2A|A2A|E2A|A2A|e2d|c3|A2z|]
+
+X:581
+T: 581
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+GGGG|GGGG|G2A2|B2BB|BddA|B2e2|d2c2|B2z2|G2GGG|GBd2|G2A2|B2d2|d2dc|B2zB|A2AB|c2A2|GBdB|A2G2|GABc|d2d2|cBcd|B2G2|ABcA|BdcA|GBAG|F2D2|G2Bd|g2d2|edcB|A2G2|]
+
+X:582
+T: 582
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+dz/d/Ae|d2A2|f2A2|e/d/e/f/ge|fedc|d2z2|AABG|EFAG|FEDA,|D2z2|BB/A/GF|EFGF|EB/c/AB|c2B2|A2FD|EFBF|GG/F/FF|Dzzz|]
+
+X:583
+T: 583
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+DG|GGGBd2e2|A2>D2E2F2|G4ddBG|DdddADGD|GBdBAGFE|D4F2DD|DDDBB2A2|G4A4|AccBcdGF|E4B4|dedcB2d2|B6B2|dcBAG2e2|d6B2|cAAcc2AA|B6A2|ddddF2d2|B4AAFA|G6|]
+
+X:584
+T: 584
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+Gcd|e2G|c2c|d2G|cde|d3|c2c|B2G|ABc|d2d|efg|e>de|c2B|A3|d2d|e2d|e2f|g2f|e2A|d2z|d2d|f2e|d2G|c3|d2d|e>fg|f>ed|e2c|d2c|B2A|G2G|A3|G2c|c>dc|d2g|e>de|c2G|B2c|B2G|c>de|d>cd|A2G|c2d|e>fe|d2c|c2|]
+
+X:585
+T: 585
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D/E/|Dz/G/F/ED|FEDD/D/|CDFE|DDD3/B/|BAG/F/E|DA,|]
+
+X:586
+T: 586
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+c4A4d2B2c4d4e2c2c2d2c4z4f4e2d2c4z4c4g2f2e4c4d2B2c2B2A4z4A4A2A2G2F2d2e2f4z4G4c2c2d2g2f2e2d4c4z4d4d2d2e2f2e4d4z4g4e4d4c2e2f2e2d4c4z4A4c2c2d2f2f2e2d2c2B4A4z4G4A2d2c4B4c2c2c4A4G4z4A4D2B2A2G2B2A2G4F4|]
+
+X:587
+T: 587
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D2|G>GGBddd3/c/|B2A2A2DD|DGABcABc|ddd>dd>cBA|G4B2BB|AGFED>DG3/D/|GABAG2A3/A/|B>BB>BB2GB|d>dded>cBA|G2G>DG2|]
+
+X:588
+T: 588
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: Bb clef=treble
+B,2|G2>F2F2G2|E2>A2G4|E>FG>AB>AGF|E4D2B,D|GGABG>BAF|A>GAGF2ED|E2>F2AGFC|B2A>G_GEDD|F2>G2A2D2|E2>E2F2G2|A2>F2G2E2|D6DG|D>EF>GAGAB|c>BAGA2FA|GABcd2B2|BcdcB2G2|B2Bcd>FEF|G4|]
+
+X:589
+T: 589
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+Be/d/cB|ABG2|ee/d/cB|AGG2|GG/A/Bd|ADAB|cd/c/BG|A/G/A/B/c2|AA/B/cB|AGA2|egfe|dgc3/B/|AF/F/D2|dB/c/dd|cAB2|]
+
+X:590
+T: 590
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|GGGA|G2DD|GABc|d2dc|BAGA|B2de|edBG|c2e2|dd/d/dc|B2G2|]
+
+X:591
+T: 591
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+B>BBB|B>BB3/B/|B>ed3/d/|c2G2|A>Bc3/A/|B>GG3/G/|GDGA|B>BB2|G>AB3/c/|d>dd2|G>GG3/A/|B2d2|c>BA3/B/|G2z2|G2A3/B/|G2z2|]
+
+X:592
+T: 592
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+d4d2e2d4c4B2d2c4B4z4g4g2f2e4d4c4c4z4c4B2A2d2e2d2c2B4G4z4d4g2g2f2e2d4c4c4z4A4A2G2c2B2A4G4|]
+
+X:593
+T: 593
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+e/e/|efgdcd|e2cc2C|EFGABc|dddgdB|ccdcdB|c3z2|B|g2>f2ed|c2Bc2B|A2AFGA|c3B2A|a2aa2_g|g3d2d|e2ge2g|g3g2z|]
+
+X:594
+T: 594
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+d2|GBddggfe|e2d6|zdddd2d3/B/|GABcBdGG|c>ccdedBc|d3d/d/ed|c2e2dcBA|G6A2|B2G2G2GA|BBBBd2BG|A2>B2AG/F/G2|GGGGG2G2|AAAABdcB|AAAAGGGG|e2ddd2cB|A2B2G4|]
+
+X:595
+T: 595
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+DDE|FFDDDD|D3D2F|AAAAAA|A3A2A|GGGA2G|G2FF2E|DFAB2A|A3A2A|AAAF2A|F3E2F|A2AA2G|F3E2D|E2DE2F|E3E2F|GGGA2G|F3F3|AAABBA|G2FF2E|D3A2|]
+
+X:596
+T: 596
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+A|dd/e/ff/g/|a3a|a/g/f/g/aa/g/|fgag|fe/d/ed/c/|d3|zde3/f/|g3g|ede3/f/|f/e/f/g<fe/|f2d2|AB/c/dB|c/d/e/f/ga|fedA|A/B/c/d<ed/|e3|]
+
+X:597
+T: 597
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+z2z|F2F|FGA|B2c|cBA|B/A/G/F/G/A/|F2F|f2e|d2c|B2e|dc2|cBA|GG/F/E|D2|G|F2G|A2A|B2A|G2E/G/|c2E|F2f|f2d|g2d|c2d/B/|cAE|FGA|G2C|F2|]
+
+X:598
+T: 598
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+FGABccB2|d2c>de4|d>cBAB2a2|fed>cc4|dBcdcBAG|AGFEF2Bc|dcBAGABG|ABcdc2B2|BA_AABcdc|cBAGF2c2|defagfed|^c/d/eAcd4|]
+
+X:599
+T: 599
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+GGEE|CEG2|F/F/FEF|GGG2|AA/G/GG|AA/c/BB|AcAA|GECG|AccB/G/|FDD2|AFD2|DFGG|GG/A/FF|EED2|GGFF|G/G/E/E/D2|EEFA|GGC2|AAAA/G/|ECF2|AGEF|AGCz|]
+
+X:600
+T: 600
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+G|GGG/G/|GBd|BAB|GGD|GGG/G/|BdB|AAB|G2D|GGG|AAA/A/|BdB|A2A|GBd|ccc|B2d/d/|GBd|BdB/A/|G2G|GB/d/c|BAA|AdB|G2|]
+
+X:601
+T: 601
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+dccB|AGF2|FEFG|cBAE|FED2|CA,DG|GFED|DCCD|EG_G2|G2F2|EFGE|C2C2|BGAA|FGAG|FCB,C|FCFC|G2A2|G2A2|G2f2|fedc|B2A2|GFED|C2z2|]
+
+X:602
+T: 602
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+D2|G2G2d2BA|B2G2z2DD|GBd2d2c2|B2A2z2B3/B/|A>AAGG2AB|c2A2c2zB|ddd2d2AA|dcB2zded|eddcB2GA|B2d2B2AA|GBd2d2ed|ddGdG2DD|GGABc2cc|BAG2z2D2|B2AGA2DD|GBdBG2|]
+
+X:603
+T: 603
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+D|DGGAB2A3/G/|c2G3zG|BAGBA2B2|G3_G/G/ABAG|G2A2B2c2|d2>d2c3d|cBBBAG4|B2>B2A2G3/F/|G_GGBAG4|G2A>Bc2dd/c/|B>AG2F3G|G6|e2>e2ed3/c/|B2zeefd3/c/|BdcABGFEDd3/e/|c8|z2ded^cBdcA|B2>G2A2z2|d3f/e/dcAG|G6z|]
+
+X:604
+T: 604
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+GBcd|gdd2|BBBc|dBG2|GGGG|BBBB|gBAG|d2B2|d2d2|gdBG|dddd|d2z2|bgg2|eee2|ffff|ggf2|efgg|f2z2|dBG2|ddd2|GBAG|AAF2|ddcB|A2A2|G2G2|Bdg2|Gdef|fed2|ffe2|f2e2|d2d2|c2B2|AGFE|D2z2|]
+
+X:605
+T: 605
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+B|ddcB|ccz2|B>BBB|BAB2|dddd|d/d/dd3/d/|dddd|AGFF|Gddc|B2A2|dddd|G2B3/B/|A>ABc|d2dd|cccc|A4|G2|]
+
+X:606
+T: 606
+L: 1/16
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+d2c2|B4G2GA|B6A2|B2>c2dedc|B4c2d2|B2cdefga|f4e2|A2|d2^c2d2e2|dcdec2d2|B4B2cB|ABcd2<A2A|A6|]
+
+X:607
+T: 607
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: A clef=treble
+e2dcBA|GABGA2|BGAAdc|B4e2|gfgaga|b2>f2ed|c2B2A2|A6|e2cAf2|agabgf|edeBcd|c2>e2f2|d2efgf|e4E2|FGA2Bc|d4e2|f2defg|e2A2c2|dc2<B2A|A6|]
+
+X:608
+T: 608
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+G/|BGD/D/|ADd|Bdd|dBG/D/|Bed/B/|ADd|BGB3//d//|B2g|cB/>c/d/^c/|dd3/d/|ABG|FE2|Dg3/B//B//|BA2|]
+
+X:609
+T: 609
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+zzA|BAG|AGF|G>AB|B2A|c2d|e>dc/B/|A>GA|G2z|e>fe|dcB|e>dc|BAG|_GGA/A/|A2|z/D/|BBc|B>AG|d>ef/g/|ec3/e/|f2g|af3/g/|e3|c>dc/B/|A>GA|GD3/C/|D2d|BBA|G/A<Bc/|d3|d3|]
+
+X:610
+T: 610
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+A|d3A3|A>BAA2A|d2>d2ef|g3f2g|a>gfedc|d2dd2|a|a>gfg>fe|f2ed2a|f2ff>ed|e3c2d|e>feA>dc|d3d2|]
+
+X:611
+T: 611
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G|A>AAAAAAA|c2d>cB2B|A>AAB>Bcd|edcd2<B2A|GGGcBABc|ddddc2BA|GABGAcBA|G2z2z2|]
+
+X:612
+T: 612
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+D|DBAG|FAeA|AA/F/DF/A/|BAGB/A/|GFGF|E2zA|AdAF|FDFA|DFBA|F2EF|FDce|fABd|cAcd|e2zx|z2|]
+
+X:613
+T: 613
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d2BB2d|d2BGdd|B>cBedB|A2>B2zd|e2dBed|e2dd2z|gdeAed|B2dd2z|d2ee2B|G3G3|d2dedd|dBGA2B|edBcBA|G2Bd3|edcB3|Bdde2d|G3z3|]
+
+X:614
+T: 614
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D2|B2A>AG>DGD|GAB2B2zB|B>ABBBAB2B2|AABGG2zD/D/|GGGGBA2<D2G/A/|BBABd2ed|dddcB2d2|dcBcd2cB|A/B/c/B/AAB2EF/G/|FEDGBBcc/B/|A/A/Gz2z2|]
+
+X:615
+T: 615
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G>AGD|G2d2|c2B2|A2DD/D/|GAGA|B2A2|G3D|GGFE|D2D2|D2|G3/D/|CCB,C|D2DD|G2F2|G4|A2D2|A3D/D/|AGAB|ccBA|G2D2|DGB2|A2G2|B2d2|dAAA|G2|]
+
+X:616
+T: 616
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+G|GGGG|BAGG|_GAAA|d3z/d/|dddc|BABG|A2d2|B2GG|GGGG|BBA2|GGGG|GGG2|GGG2|GGG2|BBBB|B2GB|dddB|G2G2|]
+
+X:617
+T: 617
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G|BBBBAG|c2dc2B|ABAGGF|G3z2A|Bcddef|g2gd2c/B/|A2dedc|B3z2d|efgcBA|G2z|]
+
+X:618
+T: 618
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+d|e^cde|fg/f/eA|d/e/f/g/ef/d/|ed^cd|e>dc2|d/c/d/e/dd|eB2^c|d3|g|g/f/g/a/gd|e2f2|fedc|d3|F|Ed2F/E/|EF2D|B,/C/GGF|E/F/GB/c/d|eBcA|d3B/c/|d/e/d2|d/c/d_A|A3_A|ABcd|e^cd2|AAA/G/A/B/|AAB/c/d/e/|^ccd2|d3|]
+
+X:619
+T: 619
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+c2|B2A4|F2G4|AGABcd|d4f2|c2c2c2|d4F2|cdBGcd|c2BAG_G|G6|d2EFGF|E6|gfg2f2|edefg2|e2gfef|cBABcd|edc2B2|A6|fef4|cBc4|defedc|Bcd2a2|eff2c2|def2d2|fef4|dcdefe|d2cBAG|F6|]
+
+X:620
+T: 620
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+fgfg|a4g2a2|g4a2ba|g2a2g2a2|g4fefd|edefgefg|e4|f2c2|f2a4gf|efgfgaba|g2e2fgaf|g4a2f2|g2a2b2ag|f4f2fg|a2a2gfge|f2A2dcBA|G4zded|e4g2g2|a2g2fgef|d4|]
+
+X:621
+T: 621
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: C clef=treble
+B4G2G2B2B2B2B2BA4A2D4A4B2A2G2F2G4z4F2A4G2G4A4B4c4d4c4c4d4c4z2A2d2B2c2d2z2d2B4A2G4F2G4z2B4A4G4A4B4c4d4dBc2d4e4f4f2f2e2d2c4c2B4c2B2B2G2A2B4z2c4B2A2B2G4A2c4BAG4B4c4d4|]
+
+X:622
+T: 622
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+z2G2|BBAG2|GAGG4|G/A/B/c/d2c2|B>AG2G2|GG/A<BB/A|d3c|cB2cc2|d3c|BA/G/A2|D2z2|DGBD|dAG2|GG/A/B2|AB/A/GA|G2F2|GAGA|B3c/B/|AG/G/Bd/c/|BGd2|zegd/c/|B3A|G4|]
+
+X:623
+T: 623
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+gfe|dec|d/e/f/e/d/c/|d>ec|ddc|ec/B/c|dGc|cB/c/d|g>ag|f>ed|eec|cG3/c/|c3|ggg|e/f/g/e/f|ddd|e/d/e/f/e|e>fe|ddc|cfe|d/g/d/g/f|g>gf/g/|e/f/g/e/f/e/|f2g/f/|f>ed|c2G|c2|]
+
+X:624
+T: 624
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+g2g2|gfed|edcB|c2d2|e2a2|gfee|f2e2|d2e2|f2e2|e2d2|Bcde|cdec|d2d2|egfe|d2d2|c2Bc|d2d2|ecde|f2d2|g2f2|e4|abag|f2e2|cdec|d4|]
+
+X:625
+T: 625
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: C clef=treble
+c|c2fc2e|dcdc2a|g>fee>fg|e2cc3|gfedef|d>cde>fg|f>edcBc|A3G2|e/f/|g>agf>ed|e2ge2e|f2ff>ef|d3e2g|_g>gad>e_g|g3d2g|d>gfe>fd|d3c2|]
+
+X:626
+T: 626
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+a|fdAdAA|dAAddd|f2Aa2g|fddfff|gfgfdB|cAAe2f|gfedec|d3D2|f|a2c'a2b|a>gfaef|e2fg2f|e>fgf>ed|e>dce2d|d>efg>ab|b>bba2f|a2fdAd|c2de2f|aagfef|d2dd2|]
+
+X:627
+T: 627
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: Bb clef=treble
+de|f2A2dcde|dedcBcdc|BABGAFGA|D6|ag|fefgfgaf|g4f2fg|a2f2fgaf|gabba2gf|efgfedec|d6|]
+
+X:628
+T: 628
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G/F/G/A/|BB/d/d/d/c/B/|AAGA|B2BA/G/|FABc|BdA3/B/|cd/c/BB/A/|Gd/d/cB|A2d2|cBcA|G2|]
+
+X:629
+T: 629
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+GABA/G/|ADD2|GABc/B/|AGB2|AGAB|cBA2|de/f/gd|ed/c/BG/A/|Bc/d/BG/A/|BAGD|GABA|GABA/G/|A/B/c/B/A/G/A|AA/B/cA/B/|cedc/B/|AAG2|]
+
+X:630
+T: 630
+L: 1/4
+Q: 1/2=60
+M: 3/2
+K: F clef=treble
+zzG/G/|A2G2DC/E/|D2GFG/A/G|G2z|z|D2z2G2|c>AG|F/F<GG//A//|A>GD|B>BA/G/|F3G/A/|B>AG|BGG|A2cc|F2A2|F3/G/Ac2|B2B2|A2G2|A//A//c<dd/|c>ccc/d/|e2de|d2g3/g/|g2fe/d/|dc/B/AG|FGF2|GcBc|df//e//f<ag/|_gddf|f<e^c/d/|eAFD|]
+
+X:631
+T: 631
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+BBeA|AGG2|AABA|GGAB|AA/A/AA/B/|ccc2|dd/d/dd|BGG2|eee2|e/e/e/e/d2|]
+
+X:632
+T: 632
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+B|G3G3|GABccd|BGGBDE|FBdBed|c3B3|GGBB2D|dB3|]
+
+X:633
+T: 633
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+ff/e/fe|dcBF|B,CGG|BA/E/F2|f>dcg|Fdfg|cAGF|F2Az|f/b/aba|g/a/bag|f/f/g/a/be|af/g/ac|dBcg|b/a/g/a/fg|ega/g/f/e/|dccd|e/_g/g/f/ed|cCA,A,|Cagf|bbgc'|Bgfe|E3a|fff/f/f/f/|fefz|]
+
+X:634
+T: 634
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: Bb clef=treble
+d|d>^cB3/A/|B2G3/A/|B>cd3/c/|B2z2|G>AG3/B/|d>cB2|d>ded|ccc2|ccBc|d>cBc|A>AGA|G2zB|AGGF|A>GAB|c>GG3/E/|G>FD3/E/|Dzz2|]
+
+X:635
+T: 635
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: Bb clef=treble
+dc/>B/F|G3|cBA/B/|cB2|GE/F/A/G/|ABG|F/E/DD|GAB|def|c3|ecd|BAB|GAB|GAB|AdB|AcB|cce|dcB|ffd|cBA|cB2|d2c|B3|]
+
+X:636
+T: 636
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d2dcBA|G3G3|e2eedc|B2AG2d|defgfe|d2>c2BA|G3G3|GABcBA|G3G2G|c2BABc|d2>c2cB|A3A3|G3G2|]
+
+X:637
+T: 637
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: A clef=treble
+A2B2|AA2F|E2D2|E2A,D|DD2D|CC>DE|B,/D/E/F/GF|E3/D/C2E/C/|DFFE/F/|GFEA|BGFE|A/A<Bc/|BDE|DEFG|A2c2|BA/B/cA|Ed/c/B2|AA/A/AG/F/|EEEB/B/|AcAc|EBG2|cAeG|GGAE|C/E/G/F/EC|AcBG|A/B/c/d/A/B/c/d/|d/c/B/c/A2|dcBA|GAFG|BABG|AFD2|]
+
+X:638
+T: 638
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|GGGG|DDDD|GGDD|E2DD|GGGA|B2BA|G2DD|G2D3/D/|GGAA|BBBB|BBBB|BBBd|ddcB|A3A/A/|AABA|GGGD|G2BB|A2D2|GGFF|E2E|]
+
+X:639
+T: 639
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+c4B2A2G2c2B2A2G4F4z4G4A2c2G2c2B2A2G4F4z4c4B2A2G4F4G2A2A2F2G2E2z4G4A2c2B4c4d2d4d4c4z4c4d2e2c2B2A2G2A4G4z4c4c2B2A2c2c4c4B4z4c4c2B2A4G4F2A2G4F4z4E4F2G2A4F4G4E4F4G4A4G4z4f4e2d2c2A2G4F4z4G4A2d2c2e2d2c2B2A2G4z4A4G4E4D2E2F4G4c2d4B4c2A2A2A2G4|]
+
+X:640
+T: 640
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+c|d2de>fg|f2ed2B|cdcBcA|G3G2|d|GABAB|cdGBA|GABA2D|GABc2B|AGAd2e|d2de2f|g2dg2d|B2AGdB|cdcB2A|G6|]
+
+X:641
+T: 641
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+A|BAGF|G3F|E2G2|F3E|DEFG|A2AF|D3D|E3D|FGAG|FE2F|A2BA|D2FF|DGFG|ABGF|E3D|D4|]
+
+X:642
+T: 642
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: F clef=treble
+D|G2AB2c|d3B2c|d2dc2B|A3B2G|A2GA2G|G3G2|e|d2Bc2d|B2GA2A|B>AGG>AB|c3c2c|c2dc2d|B3G2A|G>FGA>Bc|B>AGG2d|g>agf>ed|c3c2|]
+
+X:643
+T: 643
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+G3/B/|d3d|dde3/e/|d3z/B/|c>cc3/c/|B>BB3/B/|A>Ac3/A/|G2z2|z2B3/B/|A>GF3/G/|A3B|cdeee|d3d|c>Bc3/B/|A2c3/e/|d2d3/d/|d2cc|B2B3/d/|d2c3/B/|A4|B2Bcd|e2d2|d2ed|c2Bd|d2d3/c/|B2z|]
+
+X:644
+T: 644
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+DGFEDE|FEDDEF|GGGAGF|EEEC3|FFGAAB|GABA2C|DCDB,2D|CCA,D3|AGFDGD|EEB,E3|FGABcd|cBAGAG|EFGFEF|DGAB3|AGFG_GE|defe3|ABADcd|FGEE3|GAGFED|ccAcEf|gDGCDE|FDCA,3|]
+
+X:645
+T: 645
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+A2BA2F|edcB3|BABcBA|d2>e2c2|c2BA2A|GAAG3|A2GAAc|B2AGGF|FEAF3|A3A2|E|FFEA2A|dcBA2G|FGAG2A|_B2cB2A|B3A2G|cdcB3|A2GA2B|c2de2d|c2>B2AA|G3G3|]
+
+X:646
+T: 646
+L: 1/8
+Q: 1/4=132
+M: 4/4
+K: F clef=treble
+G2A2B2c2|d2c2B4|c2B2A2B2|AGABc4|BcdBc4|defde2c2|dcBAG2A2|B2G2G2G2|cBcABGAF|G6|]
+
+X:647
+T: 647
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G2GGD2DD|GGBA2<G2D|GGGBBBAA|AG/G/FED4|B/B/BAAG2|BBBBBBB2|G2B2d2d2|dddcBBd2|c2AAG2z2|]
+
+X:648
+T: 648
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+d2d2|d2>d2^cdef|g2>a2bagf|edefgefg|a4|e2ed|^c2>B2cdef|e2D2f2_a2|aaagf2e2|d4agfg|fedfe2e2|f4a2de|f2dgagf2|edAd^cde2f2|edcf2<g2a|aefde2d^c|d2D2|]
+
+X:649
+T: 649
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+g4g2|f2gf2ed|c2c3d|B2>A2G2|c4B2|A4G2|f2gfed|e6|z2c2d2|e4d2|de2<d2c|c2E2B2|G2A2G2|B4B2|A2BAGF|D6|e2f2g2|d2cBcA|B2dede|d2c2B2|E2d2c2|B2G2F2|G4G2|]
+
+X:650
+T: 650
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+ddc|B2>B2BBA|G4D2|c2cc2<B2B|AAAd2<d2d|d2e2d2c2|B2c2>B2AA|B2A2GGD2|G6|]
+
+X:651
+T: 651
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+E>EEE|EEEE/E/|E2G2|C2zG|dddd|e2d3/c/|c2z2|z2EE|E>EEG|C2z2|F2zA/A/|G/G/GzB|c2c2|A2B2|A2AA|F3D|EE/E/EE|E2zE|GGFF/E/|E2D3/E/|EG/G/EF/E/|DEEB/B/|c2c2|c4|C2z2|]
+
+X:652
+T: 652
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GGGGAB|A3A2B|BBBAAA|G2dd2d/d/|d2dBBB|G3G2G/G/|dddedc|B2BB2d|dcBc2A|G2BB2B|ccccBA|d3c2B|AAAd^cB|A2>B2cd|eedABc|d3e2d/d/|gdcB/A/GA|G2G|]
+
+X:653
+T: 653
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: C clef=treble
+z2C2C2C2C2B,2C2E2D2C2C2z2C2D2E2D2C2A,2C2B,4z2E2D2E2D4C4z2C2F2E2D2D2B,2C2B,4z2C2D2E2F2E2D4C2B,2A,2G,2B,4C4z4C2D2C2D2D4C2C4B4z4F2G2C2A,2D2D2C2B,4D2B,2C2A,2D4A,2A,2A,2G,2E,A,A,4A,4z2B,2B,2z2C2C2D2D2EDEAG2A2D2A,4B,4|]
+
+X:654
+T: 654
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+A|ddd3/a/|g>gb3/f/|g>gb3/g/|a>ef3/a/|f>ed3/c/|d3d/|c/|c>BB3/d/|d>ef3/g/|a>ga3/g/|f>ed3/c/|d3d/e/|f>fe3/f/|g>ef3/d/|e3c|d>cB3/A/|d4|]
+
+X:655
+T: 655
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+A|d^cB|A2G/F/|EFG|F2A|DGC|A,2A/G/|FED|AB/^c/d|cBA|_A2F|E3|A2A|cde|^c>de|A2A|G2f|e2F|DEF|G2|A|BcB|c>BA|D2E/E/|FF/G/E|A,/D/E/D/E/F/|GAB|^c2B|A2G|F/E/D3/F/|DED/C/|EDF|E2d|A/B<^cd/|d/>c/d|]
+
+X:656
+T: 656
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+cee|g>fe|fff/e/|d2c/B/|ccd|e>fg|de/f/g/f/|e>dc|G3|A>AB/c/|d2d|e>fg/f/|ed3/c/|c3|ee2|f>gf/e/|dGe/d/|c/d/e2|ffg|e3|edd|c/B/c2|e/f/g2|d>ed|Gc3/B/|c3|]
+
+X:657
+T: 657
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: Bb clef=treble
+B|d>ded|cccd|B/>B/B/>A/Bz|BBBB|B>BAz|G/G/G/G<A/B/|c>ccz|zc/d/cA|cdBz|d3d|GGzG|G/B/B/d/BA|B2z2|]
+
+X:658
+T: 658
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+E>EEF>ED|CFGA2E|FEFG>FG|E2DE2E|F2FFGA|E>EGF2D|DEFG2B|AGAB2G|C2B,A,B,D|DEDC3|GABAGF|E3G3|G2GA2B|c3F2x|GAGF2E|D3C2|]
+
+X:659
+T: 659
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: Bb clef=treble
+Gcd|GF/G/A|B/A/B/c/B/c/|B/c/B/A/G|Gde|fg/f/e|dc/B/c/d/|B2d|FGA|F2G|A/B/GA|B2G|gfg|fe/f/g|ed3/c/|c3|BA/G/A|A2B|A/B<GG/|A3|d/c/d/e/f|dgc|Bgc|B3|f/e/d/e/c|f/g/f/e/d|efg|d>cB|AB/c/A/c/|B/c/B/A/G|d>ec|fcf|de3/f/|_g2g|]
+
+X:660
+T: 660
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+GG|G2GG|G2F2|cccB|A2D2|GGGG|c2GG|A2A2|G2d2|BBBG|cccc|A2A2|G2|G2|G2F2|G4|D2F2|G2G2|A4|G2A2|G2F2|G4|]
+
+X:661
+T: 661
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+D|GAB|G>FE|G>AB/c/|dBG|Ac2|B2z|G>BA/A/|GFE|DGF|GG3/A/|BdG|Fzz/F/|E>DB/A/|GGB|AGD|GBd|dBz/B/|AB/c/d|Gzz|]
+
+X:662
+T: 662
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+F>GAG|FAG3/F/|EDGA|G2GF/F/|EDEF|GAEG|FGAG|F3A/B/|c>cB3/A/|GCGA/B/|c2G2|A>GF/G/A/B/|cdBG/F/|GzF/D/E/F/|GGGG|A>Bcd/c/|BAG/B/A|G2zz/|]
+
+X:663
+T: 663
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+e>de|c>BA|B>cd|A3|fga|g>fe|dc3/B/|c3|bgf|e>dc|Bcd|e>fe|a>ef|dgc|BGG|c3|Bcd|c3|FA3/G/|F/A/GA|GAB|c3|]
+
+X:664
+T: 664
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: D clef=treble
+D2E|FF/F/F/F/|AAA|G/F/E/F/E/E/|F2G/G/|A>AFF|FFF|F3|AFA|F2F|FFF|F3|FGA|B2B|BBA|A3|GGF|EDE|FAA|AGF|EED/D/|DDD|]
+
+X:665
+T: 665
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+c2cc|deff|e2fg|afge|fag/f/e/d/|c2z|]B|c2A2|cc/B/ee|gggg|aaa2|c2f2|ge/f/ef|ggeg|c'2b2|agfe|ffgg|aede|ffc'z|]
+
+X:666
+T: 666
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D/D3/|G2G2G2G2|A2G4FE|D2BGA2A2|B2>G2E2F2|G2FED2EF|G4B3B|AGFGA2F2|G6G2|A>AA>BA2B3/c/|d2d>dB2G2|c2BAG2Bd|B>AGBB2A2|G4A4|B>BB>BB>AG3/B/|d2B>BA4|G6|]
+
+X:667
+T: 667
+L: 1/16
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+g4dBdd|edcAG2fg|agfededc|B2>B2Bedg|f2>g2a3e|d4dddd|e2>f2ggge|d2>G2GGAB|c2Gdd2d2|B2G2edcB|A2D2f2ed|g6|]
+
+X:668
+T: 668
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: Bb clef=treble
+D|DGAB2A|GABc2c|dcBBcB|A2GG3|efff3|f2dB2g|fedefd|efed3|cdecAc|d2cB2b|abgfga|b3a3|gfed2e|fgfe3|dcBAGA|G3G2|]
+
+X:669
+T: 669
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GG2A|B3B3|G2Bd2d|e3e2d|cAccdc|B3G2G/G/|GBdggf|e2fd3|eeee2g|e2dd3|dddd2f|dccd2x|d2dd2A|cedc2c|B2dB2c|dddc3|AcBA2A|B2AG3|]
+
+X:670
+T: 670
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+GABA/B/|c2B2|AA/G/G/A/B/c/|ddd2|e/f/g/e/fg|_aa/g/fg/f/|ede/A/d|d/c/B/A/GA|cBdA|B>cd2|dd/c/BBcd|ec/d/e2|dc/B/AF|B/A/B/c/d/c/B/A/|dde_g|ggg2|]
+
+X:671
+T: 671
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+D/F/|GABc|d2zA/B/|cedc|cBzB/c/|dgdc|Bzdc/B/|Ad/B/Ge/g/|fdd|f|g/f/e/d/c/B/A/B/|c2ff/e/|fde/d/c/B/|A>G_Gd/B/|ceAd|BGgB|AdcB|A/G/F/E/De|fedg|c2de/f/|g_gef|gB/c/de/f/|dcAB|c>de/d/c/B/|AGFE|D4|]
+
+X:672
+T: 672
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|G/G/G/G/Gd|de/d/cB|B2A2|AAAB|cA/B/cd|c2B3/A/|GBdg|ddf/e/d/c/|BABG|AGFG|E>FG3/F/|EGFG|AB/A/Gd|G/G/A/B/cA|B2A3/A/|G4|]
+
+X:673
+T: 673
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+d2c/c/BA2A2|A/B/A/B/c2c4|B2>B2A2G2|c2c2B2AG|c>BA2G2G4|c4z2c2|c>dcB>ABGcd|e2c2f2f2|g2d>de/f/e/d/cB|c4z2B3/A/|A2G2GABc|d2dcc4|zed/c/B/A/G3B|c2cded2c2|d2>c2A4|B2AGcde3/c/|d2c2BBA2|G3z|]
+
+X:674
+T: 674
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DEF|G>AGF|E2DD|E2D3/G/|FGAD|D>DGF|E2G2|D2DF|A3G|A>AAA|c>BA3/F/|DDD3/E/|FDA3/G/|F2E2|D4|]
+
+X:675
+T: 675
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GG2G|A2Bc2d|B3B2d|d2cB2A|B3A2d|e2dc2c|B2BA2A|A2AA2c|B2BA2A|G2GG2A|B2BA2B|c2Ac2B|G3B2B|A2AG2D|G2GA2G|G3G2|]
+
+X:676
+T: 676
+L: 1/4
+Q: 1/2=72
+M: 2/2
+K: G clef=treble
+BGAB/c/|dGc2|A/B/cAA|B3G|A/B/c/B/Ad|BGGG|A/A/B/c/Ad|B/G/c/d/cA|AB/A/G2|BdA/B/^c/d/|g>feA|d/e/f/g/fg|adg2|de/d/ec|AB/c/Ad|gdBe|fdg2|bg/f/ge|efd2|ed/c/BA|B/A/B/c/d2|G/A/B/c/d2|df/a/a2|ff/g/ag|f>gf2|f/g/a/g/fg/f/|fedd|cBAB|cBAG|AA/B/cA|d/c/B/c/dd|GF/E/F2|GG/A/BG|A2A3/G/|GABc|d2B2|d2G2|]
+
+X:677
+T: 677
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+ddABAGG|ABGGG2dB|GABc/d/g2dd|eedded^cd|dgddc2c/c/c|GABce2dd|dcBcd2ed|dcBcddB2|A>AA/B/cg2g|]
+
+X:678
+T: 678
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+AAG/A/|B2Gc2c|c2BA2B|c3d2B/c/|d2AAG2A|A3G2z|E2F|G2AG2G|A2GF2E|D2EF2D|E2DF2A/E/|D2ED2E|F3z2D/E/|F2DAAF|G2DE2D|E2AA2A|d2eDcB|c3z2|]
+
+X:679
+T: 679
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+E2A|E3D2F|A3D2A|A2AA2A|D4G2A|F3A2ABAG|F2>B2AG|F2EFE2D|D3D2>F2EF|G2Dc2A|A3D2GE2A|G2zE2GFE|D3|]
+
+X:680
+T: 680
+L: 1/4
+Q: 1/2=80
+M: 2/2
+K: F clef=treble
+e|e2d2|A2_GG|c2B2|A2d2|d2e3/d/|c3B|A4|ddef|e3d|d2c2|B2de|fedc|B3A|GABc|d>ef3/e/|d2c2|B>ABc|A2G3/F/|G>AB3/c/|d3d|e>fg3/f/|e>dcd|B4|A4|]
+
+X:681
+T: 681
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D/AA/|GG/DD/|G3/D3/|DG/GA/|BB/B/A|G3/A3/|G3/DD/|GG/GG/|GA/GB/|A3/AA/|c3/d3/|BA/G/AB/|D3/D3/|BB/AB/|cc/BB/|A3/AG/|FE2|F3/G3/|EE/DG/|c3/cc/|B3/GB/|AB/c/d/c/|B3/A3/|GG/G/G/A/|B/B3/|DA/AA/|B3/B3/|A/>G/G/AA/|B3/B3/|AG/AB/|G3/G3/|]
+
+X:682
+T: 682
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: G clef=treble
+D|GABc2d|BABG2f|dedcBA|G3G2|d|dcBc2c|c3B2A|BcBAGA|G3G2|]
+
+X:683
+T: 683
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+f|g2a|f3|a>gf|edc|d2A|d>gf|g2a|g2g|gf3/e/|d3|def|g2d|g>ab|a>gf|g3|a3|g3|a>ba|g3|f>ed|e>dc|d3|A2|e|c>de|c2d|efe|d2|]
+
+X:684
+T: 684
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: Bb clef=treble
+G|G2Bded|c3d3|c3d2d|G3d2d|cdBA2G|F3d3|c3A2B|c2AG2F|G3D2F|G3A3|G3G2G|G2>F2zA|B2Bed2c|d3B2z|c2BBA2G|_G3G2z/E/|dBdccB|AGzG/|B|]
+
+X:685
+T: 685
+L: 1/4
+Q: 1/2=66
+M: 2/2
+K: D clef=treble
+AAFD|d2c2|BAGF|EDA,2|AAdd|ed2cBc|d^cde|fe/d/eA|BB/c/dcB|AB/A/G2|A4|ABcdc/B/c|d2b2|bagfgfe|d2z2|fagc|BA/G/Af|A/d/c/d/Bg|eaaa|de/d/cA|d2z2|]
+
+X:686
+T: 686
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|B2AGdc|B2AG2g|bagfed|c2BA2b|aagfed|B2GG2g|f2ed2g|f3e2|d|g2gddg|f2ge2d|c2edcB|A3B2d|g2agfe|d2>e2dc|B2gdcB|AGABed|gfedcB|A3B2e|dcBABc|B2GGAB|c3B2e|d2gdgf|e2^cdAB|c3B2|]
+
+X:687
+T: 687
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+ddd|dddd|e2ee|d2dd|c2d2|B2G3/G/|A>AB3/c/|d2g3/f/|d2d3/d/|d2zd|B2Bdd|e4|d>dd3/d/|edc2BA|A2G2zz|]
+
+X:688
+T: 688
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|GGGG|G2BG|B3A|G4|A2AA|c2BA|ddAA|A4|GBB3/G/|c2BA|G2B2|dDG3/G/|AABd|A2GD|BGBd|d2c2|geee|dgfe|ddccBc|d4|BBBdcB|d2B2|BAGE|D2D2|]
+
+X:689
+T: 689
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+cGcc|BAGF|c2B2|AG_GE|D2c2|BccB|A3A|d>ddd|defd|e2c2|dBdG|g2g3/c/|ccfc|g/e/e/f/a2|BBAA|G/G/B/d/A2|A/d/d/d/cB|A2G2|]
+
+X:690
+T: 690
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+E4F>GAB|c2>B2AGFE|D4c2fa|B2c4|e2f2e2fg|d2efg2e2|fedec2A2|f8|c4d4|e2d2c4|c2BABdec|B6c2|d2d2defg|e2d2c4|a2a>g_gede|g2f2e4|f2ded2ed|cBcdc2BA|d2edeABc|A2ABc2AB|G4|]
+
+X:691
+T: 691
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+A|AABc|de^cA|defg|a2ef|ed^cd|e3|f/g/|agfe|d/c/d/e/de|d2B2|c>Bcd|c2B2|AABc|d/c/B/A/GG|AB/c/dc/B/|A2d2|ddfe/d/|^cAde|f3e|fgae|d3|]
+
+X:692
+T: 692
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+D|G2G|GFB|BAG|FA3/A/|AGA|B3|F2e|^c3|d2d|fed|cB2|cBA|B/A<BA/|G3|B,3|d2e|d2c|Bc/B/A/G/|de/d/c|d2a|g3|]
+
+X:693
+T: 693
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+C|FFFF|FGAG/F/|EEEE|F2zF/F/|FAcd|c2BA/G/|FG/A/Bc/B/|AGFG/B/|AG/F/EF|G2zD/D/|GABB|A>Bcc|BB/A/Gc|B2zC|G>GAB|cB/A/GF|FEDE|F2zA|c>dec/c/|ccBG|FEFG|Fz|]
+
+X:694
+T: 694
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GGAG|F/E/D/D/B,D|G/G/F/G/AF|GGGG|A/A/F/G/FE|DDDD|BB/B/BF/F/|AAAD|D/D/DFF|D2GD|GABc|B/>B/AAG|FE/D/EF|G2z|]
+
+X:695
+T: 695
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: D clef=treble
+f2f2a2f2|fffff4|f2defefg|e2d2d4|f2fff2f2|fefed2g2|adffg2ab|ggeeb4|fgaaa2aa|g2g2f4|]
+
+X:696
+T: 696
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|DABAGG|D2CG,2D|F2FG2F|G3G2D/E/|EDABAG|F2>G2AB|A2AA2G|F3D2|]
+
+X:697
+T: 697
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+A2B|c>BA|dcB|c3|B>AG|c2G|A>Bc|B2A|GA3/B/|c2B|A2d|c>dc|B2A|G3|A2G|F2G|A3|c2c|d2c|B2G|c>BA|G2G|B2G|A3|G2F|D2B|c>dB|A2G|F3|G3|GBA|G>FE|_G>ED|E2D|C2G,|A,2C|D>DD|D3|EFG|G>FE|FDF|E2F|G_GE|D2D|C2E|FFG|A2D|D3|F3|E2E|C2B,|C>DE|D>GE|D3|G3|D3|B>AG|_GG/A/B/B/|B2A|E3|A/A/G/F/E/F/|G2F|E3|E3|A3|G3|G2z|]
+
+X:698
+T: 698
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+F|c2B2|AGGG|AABz|B2Bc|dBBA|BAAF|GGzz|_GGAB|cczc|ddef|g2f2|d^cdz|]
+
+X:699
+T: 699
+L: 1/4
+Q: 1/4=120
+M: 6/4
+K: F clef=treble
+d|d>cBG>AB|c3c2A|BcdD>EF|G3G2|d|B>ABB>cd|e>dcA>Bc|B2cd2d|d>cBc>BA|G3G2b|a>bbg>af|g3g2|]
+
+X:700
+T: 700
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DGG|G2G2GGDD|G2G2zBBB|B2A>AG>AB3/A/|A2G2zAA3/B/|c2>c2dBB3/B/|c2>B2c2c3/B/|A2d2d2BE|GABc|d4BcAG|A2>d2G>GA3/A/|B2B2Bcde|d4c3/c/|BBAGA2GD/D/|G>ABc|d2e>cBABA|B2c2ddgf|e2d^cdd2cB|B>AA>GG2|]
+
+X:701
+T: 701
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+G2A2B2c3/c/dc2ABcd2B3/A/GAB2G2zBc>de3d/c/B2|cc2AG>AB>cc4|]dc/d/c/B<BA/cB2AG2ABcBA2dd>cBA/G/AG>FG4|]
+
+X:702
+T: 702
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+d|cde2f2|ag2<g2f|b2agfe|d3B/d/d2|B2B2d2|d2>d2e2|f/a/a/a/aaff|g2f2g2|gefge2|f/A/F/E/DFD2|fAFAGA|FdEFGE|dA/G/FG/F/E2|D4|]
+
+X:703
+T: 703
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DGFGA2D3/D/|cAdcB2D2|c2A2c2c3/c/|B2G2B2G2|AGFED2cB|AGFED4|GGGGF2GG|AFE2E2B3/B/|d2B2B2G3/G/|A>AA>AB2G3/B/|e2d2c2B2|B2A4G2|]
+
+X:704
+T: 704
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+F2E2D2|c2ABcBAG|F2FGABc2|A6zc|B2>B2A3G|A2E2F4|G4zFGA|B2>B2B3c|d2cBA2B2|cABGGFGA|G2cBAGFG|A4fe2<d2c|BBBBcBAG|A2z2zB/A/|GABBdcBB|AGAAG2|]
+
+X:705
+T: 705
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+G/G/|GABc/B/|AGGz|GG/B/dd|BBcB|A/G/A/B/cc|cBAG|CFED|CDEF/A/|GE_GE|G2G2|AABc|cBAG|AA/B/GF/E/|FGA2|G/F/G/A/BA|GABB/c/|d/d/ef/e/d/c/|dBGG/A/|GFEA|Gdff|eddc|B2A2|G2|]
+
+X:706
+T: 706
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+A|BAAA|dAFA|GGFE|E2zD|DFAd|A2FF|GGGD|DAAA|d3D|B,EFE|DDE3/B/|A2AA|dfa3/f/|gedc|edcd|e2f3/e/|ddce|d>BA3/G/|Agfe|dDD2|]
+
+X:707
+T: 707
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+f2|f4e2f/g/a|d6AB|c2d2e2f2|g2gab4|e4f/e/fde|^c2dcB2dc|d6x|e2|fga2bgfe|f2ffe2f2|gfgag2f2|e4e4|defga2b2|_a4a2a2|d2e2f2g2|f2edc2B2|A2c2BABc|d2E2c2c2|dedcB2cB|A4|]
+
+X:708
+T: 708
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+dABc|ddef|gf/e/d/^c/d/e/|f/g/a/g/fa|gfe/d/e/f/|e>dd2|fg/a/f2|e>fde|f/e/d/^c/de/d/|^cdeA|f/e/dGc|B>AA2|]
+
+X:709
+T: 709
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+FF|F2GA|AGG2|FEFE|F2G2|ABGFG|AFF2|FEFF|D2DD|ECEFE|D2EFG|GCD2|C4|]
+
+X:710
+T: 710
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+z2z|G2G2G2|F2F2G2|E2E2F2|G6|G4B/B/B|B2B2B2|z2G2A2|B4zB|B2B2c2|d2>c2B2|d2cBcB|A2F3z|A2B2c2|d2cBA2|F2G3|]
+
+X:711
+T: 711
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+GGGG|GGGG|GGGG|GGGG|G2G2|GGGG|G2G2|AAA2|G2GG|A2G2|G4|GGGG|GG_GF|G2A2|G2G2|GGGG|GGAG|GGG2|GGGG|GAGG|AAGG|BAG2|GGGG|GGG2|GGGG3/F/|E/E/E/E/E2|G/G/G/G/GG/G/|GGG2|A2A/A/G|GGE2|]
+
+X:712
+T: 712
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+fffe|fffe|dgfe|fde/f/g|fga/f/g/e/|fF2z|dfdg|fg/a/ba|gafe|fccf|fede|fedz|agga|gag|f2af|e/c/d/e/d|]
+
+X:713
+T: 713
+L: 1/4
+Q: 1/2=60
+M: 3/2
+K: C clef=treble
+d2deed|^c6|z2d4|e3c2d|f2ed2d|B4A2|A2Ad2c|B6|c2ccc2c|BcBA2G2|d2ddc2z|ccff2d|c2eed3|e2dc2B|BABB2A|A4|]
+
+X:714
+T: 714
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GG2G|A2BA2G|F2DE2C|A2>G2FE|D2AB2G|B2GA2F|D3z2D|c2BA2A|A3G2F|B2GE2G|F3z2D|G2GG2B|d2BG2F|G2AE2D|D2zz2D|G2GG2G|F2ED2F|G2GA2G|F2ED2D|GGGB2F|G2GG2G|A2AF2F|G3z2|]
+
+X:715
+T: 715
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+A|dcde|f2f3/g/|e3d|d3|e/f/|gag3/f/|f3g/f/|eddc|B>cdc|d/e/fe3/d/|d3|]
+
+X:716
+T: 716
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+fg|a2b2a2g2|f4e4|fedef2a2|d4c4|Bcdefedc|B4B4|cdefd2f2|g6|g2|a2b2agfe|f4f4|FGABcABc|A2D2A2d2|e2d2c2BA|G2F2E2c2|F2G2A2E2|F6|]
+
+X:717
+T: 717
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+d2|B2G2EFGA|B6||B2|A2B2c2Bc|A2G2FED2|B2>c2d2d2|d6c2|dcBABcde|dcBcBAGA|B2>c2d3e|^c6Bc|dcdedcdd|B4Bcde|fgagfgag|g4f2|]
+
+X:718
+T: 718
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+de/d/cd|B/A/B/c/dB|eBcA|B/c/d/e/dd|dc/B/Ad/c/|B2G2|ea/g/fd|e2c2|e/f/g/f/gd|ed/c/B2|A/G/A/B/cB|A>GG2|BA/B/cB|AG2G|ABcd|eABc|dc/B/A2|G/F/G/A/BG|dccB|AB/c/d2|G2G2|BA/B/G2|DGAA|Bc/B/A2|G4|]
+
+X:719
+T: 719
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+FGAB|c2f2|edcB|Adc2|dfge|fa/a/gf|edef|ggfe|ffff|gag2|ddgg|ggag|bgg2|gge2|cdef|cdB2|dgAd|c2A2|BAGF|G2G2|]
+
+X:720
+T: 720
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+GG/E/EE|E3G/G/|GGAA|G2E3/G/|GG/A/FE|DD/D/DD|EDEG|ECC2|GGGG|AA/A/GG/E/|GG/A/GF|E3D|EEED|DDD3/E/|GFED|C2z2|]
+
+X:721
+T: 721
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+z2A|A2FD2A|G2Bc2d|e>dcd2B|A3e2E|GFED2E|F2FA2A|B3F2E|D3D3|E2FG2D|D3D3|A2>D2FG|A3A2D|B2AEEG|F2ED2E|FEFGAF|E3D3|]
+
+X:722
+T: 722
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+dc|B2GAB2cd|e2A4B2|e2d2c2B2|A4G2|de|fedcB2^cd|A4G2A2|d2efg2d2|efd2edcB|A6A2|dedcBcd2|e2dcB2G2|D2D4F2|G2A2G2_GG|A2G2A2cB|A2AGF2D2|G2>A2B2cd|B2AAG2FE|c6|]
+
+X:723
+T: 723
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+G2c2B2|AGABA2|d2e2fg|a2bagf|e2g2e2|f2gaa2|eg2<g2f|g6|a2fga2|efg4|f2baga|gfedec|dcBAGF|G6|]
+
+X:724
+T: 724
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G2>G2B2B2|A4G2G2|d2e2dcBc|B2>B2AAGG|A4B>GA3/G/|FED>DD2d3/d/|edcAG2B2|A6z2|z2A2G3F|G2d2ddde|d4BBBA|G6z2|]
+
+X:725
+T: 725
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+A|dAAA|dd/e/fd|efgf|e2A2|dAf/f/e/d/|c/B/c/d/eA|ff/g/af|aA/B/AE|fafd|fe/d/cd|eA/B/cd|B3|F|c/d/e/c/BA|ef/g/af|edc/c/B/A/|c2e2|eA/A/Ag/f/|eddc|ddec|d3|]
+
+X:726
+T: 726
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d2d2dfgg|gfedc2ed|ccBcdcBA|d2^c2d2z|]e|d>^cded2dc|defg2<d2d|efgeedd3/e/|defgggde|f>ff/g/ag2f3/g/|efgfg4|]
+
+X:727
+T: 727
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D/D/|EEDC2C/C/|CB,B,A,A,|DDCDEB,|B,B,CA,3D/D/|B,D>EDDD|B2GD2D|DDDDEC|B,2A,A,B,|DG|]
+
+X:728
+T: 728
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+B|BdBA2A|Bdde2e|d2ed>ed|B3d2d|d2cB2d|d>cBd2d|BAGd>dd|B2AG3|d>ddddd|eeee2e|dddd2d|c3B2d|d2dd2e|d2cB2d|d2ed2d|d2eeee|d3d2A|dddd2e|d2cB2d|dedB2d|e2dc2B|A3G2|]
+
+X:729
+T: 729
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+g4b2|a2gfed|g2fgfe|d4B2|gagfef|edcdef|g2b2a2|g4g2|B2e2d2|c6|]g2ggbg|f4e2|d2d2e2|d2c2c2|fbae_gg|dcBABG|BcddcB|cdcBAB|dc2<B2A|A6|]
+
+X:730
+T: 730
+L: 1/16
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+DDE|DDD2D2G2|A2AAB2cA|GFG2B2G3/A/|B2zBA2zD|G2A2d2d2|B4B2d3/c/|B2A2G3F|E6zD|D>DB>AB2dc|B2A2G2DD|G2BdBGAA|G4z2|]
+
+X:731
+T: 731
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+e/f/g/a/f2ec|f2f/g/a2g/f/gd|edc/d/ee2ef|gab2g/a/gfe|Beefg/aB/c/dB|c2ecdedc|c2AGF2EF|ABczfd3d|BA/G/cA/F/G2F2|F4G4|cdgGBcde|ccdBG2gc|BA/B/c/B/c/d/e2f2|geccd2B2|A4agff|edefg2a2|c/d/c/c/B/A/d/^c/dec2|dA_GDGAB2|GB/c/dBGfec|ga/f/gedfe2|fga2fg/a/ae/d/|^c>cd4A2|]
+
+X:732
+T: 732
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+f2agfe|d4e2|f2gfed|e2c2de|c2B2A2|B6|A2f2a2|d2cdBc|A2Bcde|c4B2|c2cBc2|dedcB2|A2Bcde|c2>B2A2|B2E3A|A6|F2GAB2|D2EFG2|E2c2A2|B2ded2|cB2<A2G|F6|A2c2B2|A2GAGF|EDEFEF|GABcd2|d2e2d2|c2Afed|c2ABcd|e6|]
+
+X:733
+T: 733
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+A|B>AG3/_G/|G2FA|B2c>de|A2d3/c/|Bdc3/B/|A2B3/c/|d>de3/e/|A2z3/A//B//|c>cd3/c/|B2zB|A2B3/c/|c2B3/c/|d2d3/g/|d>ce3/c/|dc3/B/|A2|d>ec3/B//c//|dcde3/c/|Bcc3/B/|c>dc3/B/|A2B3/c/|c>AB3/d/|^c2A3/z/|G>BA3/G/|F2f3/e/|d>fe3/d/|c2c3/d/|B>AG3/D/|E2z|]
+
+X:734
+T: 734
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+d2A2d2Ad|e2d2e2f2|e2agf2ef|d6|ag|f2efd2gf|e2g2d2e2|f2d2e2f2|g2f2efBc|dcdecdef|g2d2a2Ad|e2A2z2Bc|d2efg2d2|efedcBcd|e2dcd2cB|A2d2A2GF|G2F2E2A2|D2D2D4|]
+
+X:735
+T: 735
+L: 1/16
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+G2|c4d2>c2B4A2B2cB|A2>G2FGAB2<A2GF2G2|c2d2e2f2edc2A4|BcB2AGABcBAGABcde2d2|dcBcd2cBA2G2F2c2|dBcdedecBAGABcB2AG_G2|E2_GGEFEDD2e2c4ef|d4c2d2B2A2B2A2|G6|]
+
+X:736
+T: 736
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+F2>D2GB|A2DEFG|A2B2A2|G4B2|A2DCDE|F4D2|A2BcdB|A2GFED|c4e2|A2ABcd|B2_AABG|A6|A2FGAB|A4GF|E2AGFE|D2GGFE|D4z2|]
+
+X:737
+T: 737
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+E|A2AB|c2B2|A2B2|c2zA|A2A2|ABcd|e2z2|e2ed|c2B2|AGAB|B2zA|Bcde|cABc|B2B2|A2zA|B2B2|c2B2|cBAB|A2A2|B2B2|c2cc|BcBA|A2z2|]
+
+X:738
+T: 738
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: C clef=treble
+z2C2C2D2E2A2>B2ccBAGGF4G4z2C2E2F2G2c2c2c2BAG2F2F4E4z2C2DEFGF2E2F4E2D4z2F2E2D2C2B,2B,2C4FEF2F2G2d4c4B2>A2GFEFG2F2E4D4E2D2C2D2C2z2C2D4G2E2E2>D2E2C2D4C4|]
+
+X:739
+T: 739
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+DDB|B3D/D/G2D|GB2dBG2D/D/|GF/E/D2AA|A2BGFG/B/|d2cAGF|E6|DGB2B3/B/|B2dccB|B2c2G2B2|A2F2G2|]
+
+X:740
+T: 740
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+d/e/|fedA|Bcde|cBAG|FEDB/c/|de^c3/d/|ed/^c/|d|cBAB|BcBA|B/c/d/e<cd/|d3|]
+
+X:741
+T: 741
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+dd|cdef|g/f/e/d/cG|GdB/c/d/e/|c2cc|cBAG|A2GA|G/A/GG/E/F|G2|d/f/e/f/|d/c/d/e/ec/c/|fegf|eddc|d2gg/f/|ed/e/c/d/e/c/|d2|c2|ddgd|e/f/ggd|c2c2|f2|g/f/e/d/|cEFG|Adgg|f/g/ef/e/d/e/|^cd/e/eB|^cded/c/|d2|]
+
+X:742
+T: 742
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+d>ddf>dd|g2gg3|g2gf2e|d>ddd3|f>fff>gf|a2aa3|a2ge>ab|a3a3|agfb2b|e2ee3|f2gf2g|abba3|e>fga3|f2ff3|e2ee2g|f2ga2d|b2ga>be|f3z2z|]
+
+X:743
+T: 743
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+DF|A2>A2A2BA|G2>F2E2A2|B2AcB2A2|G2>F2E2DF|F2>E2E2F3/E/|A2BAF2DD|A2>G2FGAG|FDFAG2EA|ABAGFEDC|D4z2|]
+
+X:744
+T: 744
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+DD|G2A2AB|G2B2B3/A/|G2B2dd|B4DD|E2D2DD|G2G2DD|G2D2ED|G2>G2GA|B2GGAB|G4z|]
+
+X:745
+T: 745
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+BA|G2G2dd|ee2edc|B2d2cB|A2A2AB|c2e2dc|B2B2cd|e2d2cB|A4AG|B2A2dc|d2d2cB|A2d2cB|A4AB|cdedcB|A2G2cB|A2d2ed|G4|]
+
+X:746
+T: 746
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+c2BAG2B2|AGFGE4|F4F4|G2GGAGFA|AGABAAGE|G2z2F4|FGABAGFG|A2A2z4|ccdcB2B2|AABAG2F2|GFGABcdc|BAGAB4|cGABABcA|GAF2z2c2|cBAG2<F2D|C2F2G4|A4c4|c2c2c4|]
+
+X:747
+T: 747
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+D|GABc|ddde/d/|AAdc|BADG|FEDD|d>^cdd|^cAGA|B3B|c>BBB|B>ABA/G/|AcBA|GABG|ABc3/B/|A2A2|d>dd3/B/|cAcA|G2c2|B3|]
+
+X:748
+T: 748
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+B|c>cc|cc3/c/|GE3/G/|ccd|c/d/d/c/d|ee3/f/|d>dc/c/|c2|e/f/|g>eg|e2c|ddd|d>cd|ee3/d/|cc|c|ccc|Bcd|e>fe//d//e/|c/d<Bc/|c2|]
+
+X:749
+T: 749
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+agfe|ddAcdefg|fddA|b2a2a2_a2|a6fa|aggffegg|a2a2fdAA|dfffed^cB|A4F2AA|d2A2f2ca|e4a2aa|f2bagfee|d2DDAAdd|d2dddAAA|AcBAG2FE|E2f2e2a2|f2def2d2|d4|]
+
+X:750
+T: 750
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GGGABcdc|B>AG2zBdB|A2de2<d2e|d3c/B/Aze3/e/|d2>d2cBA3/G/|F3E/F/G2GG|AcB2AGFE|E2>D2G2AB|c2B2c2e2|d3c/B/A2B3/c/|d>ddcBA2B3/c/|d4|]
+
+X:751
+T: 751
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+efd2f2|g2a2b2|abagfg|g2>f2ed|gfe2f2|d6|f2gfed|e2>d2cB|c2dcBc|d4e2|e2fedc|dedcBc|A2dcBA|BcBcd2|gfgaga|f2g3f/g/|a2agfg|a2>g2fe|dcdede|c4d2|]
+
+X:752
+T: 752
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G2GGGGGGGGGGG2G2G2GGGGGG2DDDDGGGGGFG2G2GGGGGGGG2GGGGGG2D2EGGGGDDGGGG2G2D2DGGG2G2G2GGGGGGGGGGGGGG2DDGGGGG/G/GG2GGG2|]
+
+X:753
+T: 753
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+d|BGDB|B/A/G/F/GD|GGGD|G2zA|AABc|dzB3/A/|GBdB|GABc|A3d|c>BBB|G2zd|d2d2|BGBD|B2zd|Gced|B2zd|gadf|eBeg|fdAc|B2z2|G3d|gdde|agfe|d2zd|dcBd|Gcde|d2B2|d2z|]
+
+X:754
+T: 754
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: Bb clef=treble
+AdB|e/d/c/d/B/A/|G>DE|G>FG|A>GF|FG/F/G|B>dc|B>AG|c>BA|G3|bag|f>ed|edc|e/d/c/B/A/G/|AGF|d>Ed|cB/c/d|ABc|B3|]
+
+X:755
+T: 755
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+fe|d2c2BcdB|c4d2zd|e2dccBAd|c2>B2A2cB|AGABcdBA|GFEDE2zG|A2B2c3d|e2>f2e2de|f2>e2defg|edcdcdef|d6GA|B4z2|]
+
+X:756
+T: 756
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+D|c2c|B>cd|c>BA|GG2|_G2A|BG2|G2D|F>EF|D2D|D3|F2F|EDE|F2E|D>DE|F>FG|A2F|D>DD|D2A|D3|D3|A2A|D2A|G2D|D2E|F2D|E2D|A2d|d2z|G,>B,C|D3|C>DC/C/|FzG|A>GF|G3|A2G|A2G|F2E|F3|D3|]
+
+X:757
+T: 757
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+FB|c2cfe2dc|c2BGc2Gc|c2ABcdec|d4f2GA|B2d2dcBd|c4cBcd|A2dcB2AG|F4z2ed|^c2ddAfge|f4cfga|a2f2_g2ga|bagfe2dc|f4z2cB|A2GAF2fe|d2defgaf|e6|]
+
+X:758
+T: 758
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+dddddd|ddcBA2|G2G2G2|_GGA2C2|F2GABA|G6|ddd2d2|ggg2g2|gfe2g2|fed2d2|gab2b2|gfefe2|defgag|ffed^c2|dec2BA|d6|]
+
+X:759
+T: 759
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+cccc|BBBA|GGGGG|c2c2|BBBB|A2d3/d/|c/c/BGA/B/|c2c3/d/|eccB|ddc3/B/|AAAA|A2G3/G/|AAAA|dc/B/AA|AcBA/A/|Gdd3/c/|cAAA|c2BA/G/|G2F2|G3E|F2F2|GGGG/G/|c2A2|B4|c2de|c2B2|E4|G2c2|G2G2|GGcG|E4|]
+
+X:760
+T: 760
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+D|GGA|BGG|AAF|D2D|G>GA|B>GG|F>AA|G3|e/>d/d3//c//|BGG|ddc|B>DG|AG3/A//D//|G2B3//B//|A>GF/E/|EE3/c/|BAG|G2|]
+
+X:761
+T: 761
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D/D/|G2GGF2EF|G2B2c2c2|dddd/e/dAAB|cBcAA2dd|d>dd|]
+
+X:762
+T: 762
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+GGBBAAG2|B>BB>BB2B2|B>AGBAB2GB|dddddd3d|deecc4|B/A/B/B/GG/G/GBd2|BBB/B/B/B/B/B/ddc|BAAAAAec|BGABcBAG2|]
+
+X:763
+T: 763
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d2ddedcB|A2B2c2B2|GABcd2ef|g2f2e2d2|g2gfe2dfed|c2Bcd2A2|G8|d2ded2Bd|dcBcdcBB|A2AcB2d2|ddddddd/d/ddd|e>dcBA4|]
+
+X:764
+T: 764
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+GABcd2d2|d>dedc2B2|BAABcAGF|GFGED4|G2Bdg2g2|edcBA2G2|d2gfg2f2|edcAG2B2|G>ddbg2g2|feedg2e2|d3c/B/AB/c/dG|c>BAG/A/G4|]
+
+X:765
+T: 765
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+ABc|d2c2B2A2|G2E2E2E2|B2A2G2F2|E4c2a2|a2b2b2a2|g2>f2e2|ef|g2fefedc|d6|ag|f2>e2d2c2|B2ABc4|cBcdeABc|d2>e2d2a2|begfagfe|d8|e2e2edec|d6|a2|a2b2agff|e4c2e2|d2>e2edef|g6A2|ABAGFGAG|F4E2GF|E2A,2Bcde|c2A2defg|a2>g2f2e2|d2AGFEDC|D8|]
+
+X:766
+T: 766
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+D|EFGA|B2GA|dd/c/dA|c3/B//A//Ac|cB/c/de|dcBA|cBAG|G3G|cdBA|A/G/ABc|dcBc|A2AG|AGAE|G>FDC|CEF_G|G3|]
+
+X:767
+T: 767
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|BBBd2g|A2BG3|BBBBBc|d3d3|BBBBcd|dcBA2A|dddcBc|dddd2c|BBBBcd|dddd3|c2ccdddcd|d3A3|BcBAGA|G3G3|]
+
+X:768
+T: 768
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+ee3/e//e//|ecB|cB/c/d/B/|cGG|eFE|e/G/A/B/c|geC|c/d/e/f/g|e/f/e/d/c|BBd|Ad/c/d/e/|f/g/f/e/d/c/|BzG|ege|e/d<cB/|B2G|GcE|B,2c'|ab_g|g3|AcB|cB/A/G|B/A/AG|E3|]
+
+X:769
+T: 769
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+c4G4G4A2B2c4A4G4A2c2d4c2d2d2d4e4c4d4c2B2G2E2F4G4z4E4E4c4c2G2c2B2A4G4z4G4A2A4c4B2B2A4G4c4z4G4A4G4F2E2F2G2A4E4z4D4E2E4A4c2B4A4G2G2B2A2G4c4z4G4A2c2c4c4A2B2c4G4F4G4|]
+
+X:770
+T: 770
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+E2|D6A,2|D6z2|C4D2EF|G4G2EE|D4C4|C4C4|CDEFGBBG|A2F2F2E2|G2F2E2E2|D4z2D2|F2G2A2G2|F4E2DC|B,CGGEECD|E2A,2D2C2|E4z4|zCDDEEDC|EDC2z4|C4C2z2|]
+
+X:771
+T: 771
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: Bb clef=treble
+G>BA3/G/|GA/B/BA|G2A2|B>AG2|c2AB|c2Gz/B/|A>Bc/d/c/B/|A>GGG|G>BAG|F>EDA|A>AGG|F2DG|BA/G/F/E/D|D>DD2|F2AA|G>GGA|F>Bcd|e>ddc|B>AGD|G>ABA|G2G2|]
+
+X:772
+T: 772
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+B/B/|BBAB/c/|d2B2|GB/B/BB/d/|B2G2|GB/B/ed|AG2G/F/|AGED|E2D4|GGBB/B/|B/B/BBB|BcBA|G4|]
+
+X:773
+T: 773
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+GB|d2>d2edc/B/A/G/|B2d2z2Bc|d2>e2ee/d/c/B/A|G>AG4z2|dd/e/fga2gf|g4egfe|dAFdAfedfe|d4z4|d>efg2<e2d/d/|ed/>c/B2AG|d/c/BA2<A2B|A>Bc2dc/B/A2|g2>f2g/g/fef|g2z2|]
+
+X:774
+T: 774
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+DGD|D2D>GF3/G/|A2Bced|B>AG2BG|A2D2GA|B2G>Ac3/B/|A4zB|cAG3/A/|B2D2Bd|c2d>BA3/G/|F2z2B3/A/|G2B2G3/G/|A2DBdB|c2c2zA|B2B2B3/c/|d2G2Bd|B2G2B3/G/|A2AGFE|D2z2|]
+
+X:775
+T: 775
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+dABcdg|ef>ed>cB|AGAB>GA|BABc2A|G>ABA2d|BAGA2d/c/|BABG2A|cBAG3|Bcddcd|cBcd2g|fgfe2f|gfeed2|d2dd2d|feddcB|cdecBA|GFGD2|]
+
+X:776
+T: 776
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+de|d2dedc|B2z2dd|g2>g2ee|cBAded|G2GGAB|G2zBBc|d2d2dc|B2AABG|d2Bcde|d2zded|c2A2c3/d/|B2c2dd|GGGG|GFEd|d2c2dc|B2zddg|fefgba|gag3/f/|eeeg|ddgB|ddff|egcB|BAdc|B2z2|]
+
+X:777
+T: 777
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+GGBd|cBAz|dd/d/d2|dddz|]
+
+X:778
+T: 778
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+g2gba2|g4fe|dcdedc|d2def2|g2fef2|e2dcd2|e2e2dc|d6|efg2d2|e2dcd2|cdc2d2|e2fede|c2f2e2|d4z2|g2defg|g4g2|e2efee|c2cdc2|d2G2c2|c2cdef|g2fefd|e6|cGc2G2|cdedc2|eefde2|c2Gcd2|edefed|c2zz|]
+
+X:779
+T: 779
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+G2A3/B/|c4|d3B|cBcd|d2c2|c4|cdcB|A2GF|d2d3/d/|d4|d2Bc|B3G|FABc|d2c2|B2A3/G/|G2zG|cdB3/c/|ABAG|AGFD|GGA3/B/|cdBA|G4|Bdef|B2G2|c2cd|edcB|AGAB|c4|]
+
+X:780
+T: 780
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+d|dAB/A/B|BcdG|Fcc2|ddg3/d/|cB/c<AG/|B3A|E/F/F/E/D3/D/|D2z/G/E/D/|GG_G3/G/|G>AG3/G/|F>GG2|zGG3/e/|c>db/a/g|f>ed2|e>dcd|B>cdB|A/G/ABG|c>eAc|dd2c|B>AGC|D>DD3/G/|_G>G_G2|D2Bc|d>cB2|zG/B<AG/|G>FG2|]
+
+X:781
+T: 781
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+d>ed|b>ag|d>ec|B2a|b2a|g2d|d>ef|g2d|e>_gg|f>ef|d2B|g>fe|d>cB|B3|gab|f>gf|e>fg|c2c|d2e|f3|f>gf|e2d|g>fg|e>de|f>gg|f>ed|g>ab|a>ab|g>ab|g>_gg|B>cB|G3|]
+
+X:782
+T: 782
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+BAG|G>GGFGc|B2AGAd|GABBAG|e2ed2A|ABcddc|B3A3|G2Bdfe|ededfe|d2BG2F|G3|]
+
+X:783
+T: 783
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d2|g2fed2e2|AzB2zAAc|deddAdcB|A2z2D2D3/D/|EFGAG2G2|B2>A2G2dd|eAAecfef|a2z2d4|g2zzdAcB|A2ccBzBA|dgfdg2f2|g6z2|]
+
+X:784
+T: 784
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|G2GA|B2BB|BBBc|AAAA|B2cc|d2dd|BGBd|e2dc|B2BB|AAAA|d2BB|ceee|dddB|c2Ac|BBBB|B3A|GGGG|FFFF|E2DD|BBAG|A2F2|BBB/B/B|c2A2|d2c2|B2B2|B/B/BBB|ccc2|BBBB|AAAA|G2z|]
+
+X:785
+T: 785
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+C|F2A3/G/|F2AG|F2E2|D2zC|FGAB|c2cc|AAcc|A2zA|c>ced|c2zc|c2dc|B>AG3/A/|GBdc|czAc|B2Gc|c2zE|FcBA|FDcB|A2A2|G2zG|A>GAB|c2cB|AEFG|c2c2|A2zE|F2f2|c2d3/c/|cBA2|d>df2|B2zA|FFG_G|E3z|F2AB|c>GB2|A2A2|G2z2|]
+
+X:786
+T: 786
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+C|FCFG|AGFE|FFGC|FEF2|AGAG|F3|f|cBAB|cBA2|GAG2|AAB2|ABA2|GGAA|G3E|F2z|]
+
+X:787
+T: 787
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+e|eeeegd|edccde|cceeed|cccd2G|eeegfe|eddd>cc|e2ag_gg|e3d3|dcdefe|decBcd|efge2f|gagf2e|ecegge|d3z2|]
+
+X:788
+T: 788
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+A|d^cd|e2f|ec2|d2f|e2d|eg2|f3|efg|e/d/e/f/e|d2^c|d3|d2e|f2g|f/g/e2|f2|e|a/g/f/e/d|edc|BAB|^c2d/e/|f/e/dA|B2B|Be2|B2e//d//c/|B/A/A/G/A/A/|d2c//B//c/|cde|cde|fed|c2d|c2|]
+
+X:789
+T: 789
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: Bb clef=treble
+B/c/|dABA|Gddg|fe/d/cA|BG/c/Bd|BAG2|c2d2|efe3/d/|dcff|ed/e/cB/A/|Bcdc|B/A/B/c/Bc|Bde2|d^c/d/ed/c/|d2B2|g/a/g_g3/g/|g3|]
+
+X:790
+T: 790
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: A clef=treble
+A|AAAA|AGFE|AAAB|c2cG|AGGA|BAAA|GGGG|A2A2|e2F3/F/|_A2z2|e>ee3/f/|gggB|c>cc3/c/|c>Ac2|B2B2|AeAA|B>cA3/c/|BGG2|A3|]
+
+X:791
+T: 791
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+FFFF|F>FCC|FFFF|BBAF2|FFF2|AAAA|A/G/GAB|cCC2|GGFD|ECD2|FAGC|FFF2|G/G/GGG|ccA2|ddd2|gg_ge|ddcB|AA/A/A2|gBB2|GAB2|f2c2|gbag/a/|fcAc|fgf2|AcFB|AcA2|GGBB|ccc2|fefg|f/g/afd|gfe/f/e/d/|c2f2|]
+
+X:792
+T: 792
+L: 1/4
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+DE|FG|FE|FD|DD/D/|EE|FE|D3/D/|DF/A/|BA|G3/A/|F2|DE/E/|F/E/D/C/|FD|ED|ED|AF|AG/F/|E2|zz|]
+
+X:793
+T: 793
+L: 1/8
+K: Db clef=treble
+M: 2/2
+K: G clef=treble
+d2g2f2de|gfgde2d2|g2gfedec|B4B4|d2>e2f2e2|d6d2|gfgaa2g2|g6f2|e2Bcd2g2|^c2>B2A4|B2>c2d2B2|^cdefg4|e2>e2f3e|eagf2<e2d|d8|]
+
+X:794
+T: 794
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+A|deddeed2|FEF2GFE2|z2d2d2e2|ddBz_A2A2|Acdee2B2|cedcB2B2|AeAA_AFEG|DddddBGG|AdAdfAed|fBBdddcd|cBA_A2<A2A|AfedcBAB|EGBAG2B2|A2>G2FE2E2|D4D4|]
+
+X:795
+T: 795
+L: 1/16
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d2|B2G2BABc2<B2GFGAF|G4g2>e2d2A4AGA|B4d4d4d2B2|c4B6eg|f4B2d2B2>B2cAG4|A2>d2cBAGABc4ce|dcBABGBA2<F2ABcc2BB|AGFDDG2<B2G4B4|AzDDEFG2BGBdcABc|dg2dcB4A8|]
+
+X:796
+T: 796
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+cBc2d2|efg2d2|ede2f2|gfedc2|GABcde|f2a2f2|e2g2e2|d6|fedgfe|d2cBcd|edc2B2|A6|dedgfe|dcd4|edefef|gfe2d2|edc2c2|BAB4|c2d2e2|f6|defedc|cBedcB|AGA2B2|GABcd2|ed2<c2B|B6|]
+
+X:797
+T: 797
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+f2e2fef2|gfedc2a2|bagfefed|cdcBA2A2|G2FGA4|A2ABcABc|d2cde2f2|g2fef2e2|dddd2<f2e|d8|f2fga2c2|f2efg2fe|fgaf2<e2f|f6x2|]
+
+X:798
+T: 798
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+c4B4B2B2A4d4c2B2A4G4A4z4B4A2A2A4B4A2G2A4G4z4c4B2A2G4G4F2C2F2F2B2A2G4F4z4F4A2A2c2c2f2e2d2c2B4A4z4A4d2B2c2c2e4d4B4A4z4d4c2B2c2d2c4B4c4|]
+
+X:799
+T: 799
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GG2G|A2BA2D|G2AB2B|c2BA2G|A2Bc2c|B3Bdd|e2e/e/eee|d2cB2G|B2BB2A|G2cB2A|G3G2d|d2edef|efgd2f|e2dd2B|B2BB2A|G3z4|]
+
+X:800
+T: 800
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GGDDD2DD|GGABA2GA|BBBBA2Az|BBBBc2BA|AGABA2GF|EEFFG2ED|FAFDG2z|]
+
+X:801
+T: 801
+L: 1/8
+Q: 1/4=132
+M: 3/4
+K: A clef=treble
+A2c2c2|A2c2A2|a2gagg|fedcBA|G2GABc|Agabe2|gfedcB|c6|c2zcce|F2ffga|b_acd2B2|c2A2g2|abfada|bgb2f2|A2A,2^C2|D2D2E2|FAdfad|gBBBa2|f2c'2a2|cecAgc|dBd2c2|B6|]
+
+X:802
+T: 802
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+c|c2Bc2d|e>dcegc|g2fe2d|c3c2|g|g>fed>cB|c2cc2g|g>fed>ef|e>dcc2B|A>Bce>dc|d>cBd>cB|c2cc2G|A2AA2B|c3c2|]
+
+X:803
+T: 803
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+B/G/|ddedgB|dBGB2B|eeddBB|c2cB2B|BBdd2d|dedd2B|ccce2d|d2dB2d|dedcde|d3c2c|BB>BGee|d>ddd2z|d2ef2e|d2dB2z|c2eg2f|edcBdd|e2agfg|g2gg2|]
+
+X:804
+T: 804
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G2GGAdcB|A2D>DD2GA|B2B2BAGA|B2B2BBcd|eeefgedc|B2B2d>cB3/A/|GcBAG2Ac|B2d2d2cc|B2d2d3B|AAAAA2G2|]
+
+X:805
+T: 805
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+d|d3d2A|d3d3|f2ffef|e2ee2g|ffffff|a2baaa|a3a2a/g/|f2bagf|e2ea2_a|a2aadd|e3f2|d|d2de2f|f2ee2f|g2eAAA|dddddd|d2de2d|d3f2|]
+
+X:806
+T: 806
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+de|f2e2d2ef|g2f2edef|g4d2ef|gfedc2a2|b2ag2<f2e|e6|ef|g4f4|edefe2gf|e2d2d2ef|g2fefgaf|gafgefde|^c2defga2|e2f2gfed|^c6|]
+
+X:807
+T: 807
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GGGGFE|EDEF2E|D2EF2G|E2ED2D|EGEG2F|EDED2D|D2DD2D|G3G2|]
+
+X:808
+T: 808
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+G2GEB2B4f2d2e2e2fdc2B2B4G2c2cd2B2B2G2A2c4B2A2B2A2G2z4G4A2B2c4A2A2A2A2B2c2|z4d4c4z4d4c2B2A2G2A4G4F4|]
+
+X:809
+T: 809
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+G2A2|B2d2|e2d2|efgf|e2d2|A4|cdBd|cBAG|FFGA|BGAB|cdBc|A4|d2cB|AGFG|AdAd|BGAF|G4|GABc|d2de|fefg|fed^c|d4|d4|dcBc|A4|G2b2|agfe|d2d2|BcdB|c4|B2A2|G4|]
+
+X:810
+T: 810
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+C|FAGG|FFF2|AB/A/GA|FFA2|BB/B/GG|cB/A/Gc|dddc|G/G/GE2|A/A/AcB|ccdc|B2GA|G/A/BG2|efeg|fef2|AABG|FFG2|]
+
+X:811
+T: 811
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+F2E|D/F/Ac/A/|B2A/G/|cB/A/G|A2A|A/G/F2|AcB|A2G|de/f/g|A>Bc|e/d/cB|A3|f2e|dAF|dde|^c2d|g/a/g/f/e/d/|^cdf|AA/B/c|d>d^c|fe/d/c|e3|e2f|efa|cd/c/B/A/|A2B|cAd|d>cd|ge3/d/|d3|]
+
+X:812
+T: 812
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+DDE|D2BBBcAc|c2B2B2dBd|AdAAedcB|A6zz|c2BABBAAAG|FGAG/F/EDDEF|G2AGF2E2DD|G2>G2GBA2A2|B>dBGABdc|BAGFE2D2|G2>D2D2GF|G2B2z2d2|G2>F2AAGF|F4E2zD|G4G3A|B4d2B2|A2A2G2A2|B4GGAB|d2dcc2e2|d4A4|D2DEFGAF|G2G2>G2A2|BBBBB>BcB|A4D2D2|DEFGABcA|A2>G2D2G2|B2>G2A2B2|A4z2|]
+
+X:813
+T: 813
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+EAG|A2B/c/|dcB|AcB|cdd|e2d|cB/A/B|e3|dfd|geB|dcB|cc/B/A|dBG|A2^c|de/d/c/B/|A3|F/B/c/c/B/A/|_AcB/c/|A/G/AA|Bdd/e/|faA|A2B|Bde|AcB|ABB|AAB/c/|d>AB/c/|B/c/dd|cA3/B/|B2g|eBd|cA2|^c/c<cd/|AAd|BGc|A2B|cd3/e/|e2|]
+
+X:814
+T: 814
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|GGGF|BBBB|AAAA|G3D|GGBA|GFED|GGAA|B3BBG|AABcB|AAG2|]
+
+X:815
+T: 815
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: A clef=treble
+E|A2>A2A>GF3/E/|E4zDEF|G4F3F|G2>F2E2C3/D/|D2>E2FGAB|c2zcc2c2|BzBBBBAA|GBd>BG>BA3/G/|F4z2|]
+
+X:816
+T: 816
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: C clef=treble
+z2G2G2G2B2>A2G4F2G4z4D4G2c2c2B2A2B4c2A2A2G4z2G2G2B2B2A2G4A4B4A2B4A4G2A4G2c4A4z2c2B2c2d2d2c2G4A4z2G2G2G2>d2d2>c2B2A2G2G2d4c2B2A4d4c2B2c4BAGABcdcBAG4|]
+
+X:817
+T: 817
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+B|d2B|A2A|B2B|B3|GBd|d2c|B2A|G3|GAB|cBc|BBA|A3|B2G|G2A|B2c|d3|eee|ded|B2d|G2G|e2e|ede|BBB|BAG|BBc|e3|d3|B3|BzB|dcB|A3|G2z|]
+
+X:818
+T: 818
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+c2|f2>f2ga|b2>b2c'b|a2>b2gf|e2c2ag|f4b2|b2>a2g_g|gf2<e2d|d4|g|abc'2c'2|c'ga2c2|dgafge|f2f2f2|agfgaf|g4|]
+
+X:819
+T: 819
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|BBBBcd|d3c2c|cced2c|B3z2B/B/|BBBBcd|B2BG2d/d/|ddd/d/ddd|B3B2B/c/|dddefe|d3d2c|BBBddc|B3z2|]
+
+X:820
+T: 820
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+FAc|f2cf2f|g2cc2d|d2cGcd|G3z2f|e2fg2d|c3A2f|egecef|d3z2e|f2cdcB|ecga2b|f3fdg|e2cg2g|ffgcBc|f3f2z|a2fdbg|f2ffAd|a2fa2g|f3|]
+
+X:821
+T: 821
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+d|d>ed|GAB|cde|AAc|B2f|e>de|fgf|e2|d/e/|f2g|_a>fe|_ge3/f/|g2c|cde|f>ed|ee3/d/|d3|dGA|Bcd|ed3/c/|c3|d2|]
+
+X:822
+T: 822
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+A2A3/B/|cccd|efed|e2c2|f2ed|e2c2|fagf|e/d/c/B/AA|d2^c2|defd|e2cd|ec/B/AB/c/|d/c/d/e/ff|gf/e/dc|B/c/dd3/d/|edc2|BABc|deBc|d>cBA|A3|]
+
+X:823
+T: 823
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: Bb clef=treble
+b4c'2|_gefda2|g2g2g2|e4g2|f2edcB|c2BcA2|G2A4|B6|defgaf|g4e2|agfedc|f2edc2|egfdf2|efgef2|c4f2|fdc4|d4g2|fgf2g2|g4f2|efg2a2|bgfga_g|g6|]
+
+X:824
+T: 824
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+d3/e/|f2e2d3/c/|c2c2f3/g/|a2gfge|f2a2g3/f/|b2f2b3/f/|f2|d2ed|c2f2fe|dAa2cB|c2d2f3/e/|d2c2g3/f/|e2e2a3/e/|f2d2de|f2e2d3/e/|_g2d2fg|a2g2fe|d2f2ed|c2g2ga|b2a2ga|f2gfef|g2f2ga|b2agaa|g2a2g3/f/|g2fgef|d2z2|]
+
+X:825
+T: 825
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|D2DB2G|D3D2z|E2FG2F|E2ED2D|B2BG2A|B2zz2G|F2AA2A|B3A2G|G2EE2E|D3D2D|E2GG2G|G3B2A|G2AB2E|D3E2z|C2DD2G,|G2DD2D|D2FG2A|G3z2|]
+
+X:826
+T: 826
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+de|f4e4|dcded4|dcdedefg|e6|cd|edefg2fe|f6e2|dcded2e2|f4e4|d2c2d2e2|c4BcdB|c2c2cdcc|c6|]
+
+X:827
+T: 827
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d2|dedcB2BB|AGABG2G2|d2dgf2ed|e2>d2d2dd|efgccBBB|AGABG2defg|gfedcBAG|dedcBdcB|AGABedcB|A4z2B3/A/|GABcd2dd|edcBAdcd|e2d2cBcB|A2D3D|G4G|]
+
+X:828
+T: 828
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|AAGFE2E3/E/|D>DG>AB2zc|BBAAB2c3/c/|B2A2G2z2|D2>D2E>DD3/D/|ABA2z2D2|D2>G2F2A2|D6z2|]
+
+X:829
+T: 829
+L: 1/4
+Q: 1/2=60
+M: 3/2
+K: F clef=treble
+G2GAB3/A/|G2c>BA/B/c|d2e2d2|c2c2B3/A/|G2>_G2G3/G/|d2^c3d|e2c2B3/B/|c2>c2d2|d/c/d2<A2G3/F/|G4ce|f2>d2de|f2>g2fg|a2>b2a2|gfedec|d2G2f2|f2efgf|e4ed|g2>f2ed|c4G2|c2B3c|A2B2c2|B2B2cA|B2G3|]
+
+X:830
+T: 830
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: Eb clef=treble
+c|d2ec2e|g2fe2f|g2ec2d|e3z2d|d2gd2g|ecedff|e2fg2f|e2e2d2c2c|c2cd2d|e2ee2e|e2c'd'2a|gf2fef/g/ag2e/g/|fd2d2g|gaba2g|d2ef2e|g2gg2f|d2gg2a|g2fe2c|cd2d2|]
+
+X:831
+T: 831
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+d/d/d/|BBBddBdd|edccBdBz/d/|cdeed/e/BG2Ac|B3d/d/gfed/d/|Adddefg2|dd/d/B/d/B/c/dcBA/G/|cBAGFG4|d2eedc2B|cBBAGAAAB/B/c/|G>GGBdgded|A/G/F/E/D/D/EEGGd|edcBB2B2|]
+
+X:832
+T: 832
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+d2|d2e2f2e2|fefgf2ef|g2agf2e2|cBcdc2f2|g2f2e2d2|^cdecd2cd|e2de2<d2c|c6A2|d2efffed|c2BcA2c/B/A|agfgafga|b2aga2g2|fgfefgef|d2>^c2d2e2|fagfefde|^c2A2defg|a2gfg2a2|a4gagf|ed^cdefga|d4|]
+
+X:833
+T: 833
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|GGGG|G/G/GDD|E/E/E/E/ED|G2zG|ccc/c/c/c/|BBGD|GD/D/GG/F/|GzDD|GDGD|GGDD|GGDD|G/G/G/G/G/G/G/G/|AABc|BG/G/DD|AA/A/AB|Gzz|]
+
+X:834
+T: 834
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+d|e>dec>de|d>cBc2B|A>BcA>Bc|G3G2|d/e/|f>gff>ef|d2dd>cB|c>BcB>AG|d3c2c|f>edc>BA|G3G2|]
+
+X:835
+T: 835
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+F|FEFGA2B2|A2G2F2ee|dcdefdef|edcBA2FF|GABcd2A2|cBAGF2f2|edcBcde/fg|f2cGA2c2|ffede2c2|fefcc2ef|d2cBc2BA|GFEDC2B2|cdcBccde|fcAcB2A2|GFGAG2z2|]
+
+X:836
+T: 836
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+FF/FA/|cc/cc/|BB/BA/|GG/B3/|BB/c/B/A/|Ge/dB/|c/B/A/BA/|G3/G3/|AA/Bc/|dc/BF/|cA/FF/|B3/e3/|cc/fe/|d3/ed/|dc/c/A/B/|cc/cB/|BA/G3/|F3/zz|]
+
+X:837
+T: 837
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+d2gded|c4B2|A2gcg2|d2BGA2|f2gfge|a6|ABcdcB|A2>D2GA|B2>B2c2|d2edc2|B2cBA2|dcdBd2|G2edcB|A2F2D2|A4G2|D2DDDD|G6|]
+
+X:838
+T: 838
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+G,|D2FGA4|A2_GGABcd|e2fedcBA|B6FG|A2DF2<A2A|G2EAG4|E2B2E2EB,|C2G2F2E2|D4E2F2|c2ccB2AG|F2A2B2E2|AG_GGG4|C4C4|EEEDCEB,E|B,6F2|E4AFGB|A6A2|dcBAGABc|d6Bc|A4d2dB|c2c2C2G2|A6fe|d6dc|B4A3d|d2>c2B4|A6|]
+
+X:839
+T: 839
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+D|G>GGG|D2AA|G2BA|G2zB|BB/B/c/B/c/B/|BAAA|Bdd/c/B/A/|dGzB|BAGF/G/|ABcB|AGAG|AAAA|cBAG|BGDD|GBcd|e>dcB|BA/G/BA|GDGd|BGDG|AGAA|BGAG|Gz|]
+
+X:840
+T: 840
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+D|BBB|B2G|BBB|B2z|AAA|GEF|A2G|AAA|GGG|FEF|G2A/B/|cAA|cBA|GGG|F2z|]
+
+X:841
+T: 841
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DG3/A/|B2d>ed2c3/B/|A2G4G3/d/|dgddefgg|f4f2af|e2>d2c>BA3/G/|F4GGAB|c2>c2dedc|B2>G2AdcB|B2>A2AABG|D4|G2dd|e2dc2<B2A|G2>G2G>edc|BBAcBAAB|G4g2ag|f2edgeed|d2D2ed|cBcBA/B/AG|D2D2|]
+
+X:842
+T: 842
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+c2|d2>c2d2e2|fefgf2g2|g2a2baga|b4a4|g2agf2ed|c6|cd|e2c2cdef|gfgag2fe|fgagf2de|cBcdc2f2|efdecBAB|cBcdc2fe|d2>f2efge|f6|]
+
+X:843
+T: 843
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: Bb clef=treble
+B|Gddedc|BBGded|dcBAcB|G2G,B,2g|^cdBgcB|GBGgfg|gfedcB|cBAG2b|agfedc|d2gfed|c2BABc|B3|]
+
+X:844
+T: 844
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+ABA|dcdef2d2|c2B2AB/c/de/f/|efgaf2de|c2>d2e2f2|g2>g2fedc|B4A2|A/G/F/E/|DFBA2<B2A|A2A2F2A2|BAGF2<G2F|E2A2A3B|c6z/d/e/f/|gfga2<e2A|ABcA2<A2B|d3c/d/e2A2|f2>e2fd/e/c2|A4d>fed|^cdecd4|]
+
+X:845
+T: 845
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+c2BcBA|BcdGAB|A3E2d|e2eedc|dedcBA|G2GA3|z2zcBA|G2G/F/E2z|ce2cee|ddcA2B|cBABAG|c2ze2e|A2ceBA|_AEEACA|BcdBGA|c2BA3|]
+
+X:846
+T: 846
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+d|gag3/f/|f3|e|cdBc|d>edc|d3d|BABc|dcde|cd3c/d/|ed3/c/|B3|]
+
+X:847
+T: 847
+L: 1/4
+Q: 1/2=72
+M: 2/2
+K: F clef=treble
+D|GABc|dAA/B/c/d/|ed/c/dd/c/|c3B|A/A/B/c/dd|ded^c|d3|z/e/|dccB|AG/A/Bc|ddgg|gffg|e/d/e/f/ee|fef3/e/|g2d3/e/|dBd3/c/|c3|]
+
+X:848
+T: 848
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+FE|F2F2FG|A2A2FA|GEF2zG|F2EDC2|D2C2A,2|D2z2DE|FEDDDC|C2C2GG|FDDGFE|E2DCDE|F2E2F2|F4z2|]
+
+X:849
+T: 849
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+cBAGAB|A2cB2A|G2cd2c|B2AG3|AGAdcB|A2GF2c|cdee3|c>def3|agafef|dcBA3|deffed|e2Bc3|]
+
+X:850
+T: 850
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D/|GB/ed/|cB/AA/|GG/GA/|B3/d3/|ee/ee/|dd/dd/|dd/cA/|G3/Bc/|dd/dd/|df/fd/|AB<cB/A/|G3/G3/|c3/c/c/c/|BA/GB/|dd/c/B/A/|G3/G3/|]
+
+X:851
+T: 851
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G|B2BB2d|ddcc2c|B2AG2d|B2BA2A/A/|G2Bddc|BAGd2B/B/|ABcded|A3G2B|AAcedc|BBAGAB|cde>ed/c/B/A/|G3G2|]
+
+X:852
+T: 852
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: G clef=treble
+GGB|ddd|e2c|d2d|d2d|e/e/e/e/e/f/|e/d/cB/A/|G3|A2B|c2c|d2d/c/|B2B|B2A|GzG|c2c/c/|B2B|A2G|F2G|A2B/B/|c2c|BAG|A2B|G2z|]
+
+X:853
+T: 853
+L: 1/8
+Q: 1/4=132
+M: 3/4
+K: D clef=treble
+A2>A2BA|G2E2A2|B2B2c2|d2efed|c4B2|A4B2|AGFEDD|c2>B2AG|F>ED2|f4g2|e2>e2f2|d8|a4A2|d2d2d2|B6|]
+
+X:854
+T: 854
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DD|G2>D2G3D/D/|GG2<G2GAA|B2>D2DDGG|FEE4zD|BBBBB2AB|B2A2G2FD|DBBBABce|dcBAGGFE|D2>F2G3c|B2d2A>GF3/A/|c2B2z2z2|A4B>cBA|G3F/E/D2DD|G2>B2AGF3/E/|EE2DAGFG|D2>D2DBB3/B/|B2A2G2z|]
+
+X:855
+T: 855
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+DDD|D2DBAE|E3G2E|D2DB2A|G3G2B|AAAdBA|AG2BB3/B/|A>BcAGF|E3DGG|BBBcc2A|A3c3|Bcde/d/cB|A3G2d/d/|dBBcde|d2>e2dc|BABcdc|B2AG2|]
+
+X:856
+T: 856
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+B2d2d2e2|d4c4|B2d2B2A2|G4B4|A2BcB2G2|A2d2Bcde|d2c2B2dc|B2d4B2|A2B4c2|BBAAG4|BBdcB2G2|BAGAB4|B2cBA2B2|GABcB4|A2GABcdc|B2A2G4|]
+
+X:857
+T: 857
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+A2|d2>A2e2A2|g2fed2ba|g2f2edcB|d2>e2B2A2|d2c2d2z2|dfded2e2|efeefdec|d6|fg|a2d2efge|f4z2ag|ffgf2<e2d|d6e2|f2>e2d3g|gfefe2ee|edcBAGFE|D4z2|]
+
+X:858
+T: 858
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+GB|d2>d2cB|AGFd|d2e2ec|B2B2BB|B2A2FG|A2z2ed|e2>f2ga|g2zgfe|d2B2dd|G2ge|dcBA|G2z2|]
+
+X:859
+T: 859
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G2A2Bcd2|edefg2e2|fgagfge2|dded2<c2c|c2B2d>de2|d2>c2BBA2|G2>A2Bed3/c/|BBG>ABGG2|A>Bcde2dcB|c2c>cdcBA|G2E>GB>dd3/d/|e2cde2de|e>dd>cc>dcB|A2G>GG3|]
+
+X:860
+T: 860
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GGGAAA|BGGG3|dddddd|cccc2c|ccABGB|d2Bddc|B3B2B|BBBBBe|edcBAG|e3e2e|dcBedc|B2AG2|]
+
+X:861
+T: 861
+L: 1/8
+Q: 3/8=108
+M: 6/8
+K: Bb clef=treble
+B>AGFdg|FFEDCD|A,BcBcd|Bgfe2d|Ac>BA>GF|GBCD2D|EB,^CB,fa|gfefdc|Badfab|ggbgfe|fdeBcd|gcAFfd|cfdcBc|dbgbfg|b>agf3|]
+
+X:862
+T: 862
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+GAB|c3|ABc|d3|c2G|ccB|A3|G3|GAB|c>Bc|GAG|F3|A>GA/B/|EFG|cde|c3|ABc|ccB/A/|G>AB|G3|]
+
+X:863
+T: 863
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+g6fed^c|d2A2D2|A4fd|bc'6b2|baa2a2|g4a2|f2d2g2|edcBA2|G4|Bc|d4c2|B4c2|fefd2ded|BA4B2|ccdcBABA|GAB2G2|c2B2A2|AG6|]
+
+X:864
+T: 864
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+ddee|d2B2|d>dee|ddB2|dde2|ddB2|]
+
+X:865
+T: 865
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+AA|B>Bd3/c/|d2B3/e/|d2c3/c/|c>cddd|g>ga3/g/|f2f3/d/|e>ef3/g/|a2A3/A/|d>cB3/A/|A2z2|d>dd3/e/|f>ed3/e/|d2b3/f/|g>fe3/d/|e>dc3/B/|A2z2|A2A3/A/|d>dd3/e/|f>ef3/d/|e2e|f>ga3/g/|f>gg3/f/|b>gfe|dB3/d/|e2e3/f/|g2e3/d/|c2|g>fe3/d/|^c2d3/d/|ecd3/e/|efge|f2fd|G2B2|AGFE|F2d2|GABc|d2B2|c2A2|B2|]
+
+X:866
+T: 866
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+DDD|B2>B2Bcde/c/|B2dc/d/cBBA|Ad2<f2dde|fedcB2zc/B/|AFG>AB>cd3/e/|ABccB2A2|GBdd/e/dcdB|c2c2>A2Ad|_B2>A2G2|]
+
+X:867
+T: 867
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GGGGGAGF|EDEFG>GG2|G2G2D2D3/D/|GGGGGGGG|E2G2G2G3/G/|G2G2A2AA|B2d2B2d2|G2G2G2D2|G2G2G2GG|G>GGGG2GG|AGFED2D3/D/|G>GGGA2B2|G6Ac|B2ABcBAB|c2c2c2cd|c2BBAABA|G>GG>GG3D|G2GGB2AG|F2EFG2|]
+
+X:868
+T: 868
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2Bd2d|dedd2d|d2ed2B|A2Ad2d|dddddd|B2BB2B|AcdB2B|BBGG2B|d2dd2d|d2de2f|gfedcB|c3c3|defe2f|gfge2e|dddGGG|A3D3|]
+
+X:869
+T: 869
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+afd|_a>ag|aag|f>ed|ad3/g/|g2f|cde|f/g/a/b/a|fb3/b/|g/f/g/a/b|e>dc|c/c/A3/B/|c>BA|b3|d'>c'a|bb3/a/|g/f/ef|gf/e/d|f>ff|cd3/e/|e2e/c/|dc3/B/|B3|]
+
+X:870
+T: 870
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+A,|D2FA2B|A2DF2A|B2BA2B|A3A2d|d2dd2d|e2dc2B|A2GBAG|F3F2F|G3B2c|d3f2e|d2dd2B|A2AA2A|A3A2A|A2dd2F|E2GF2E|D2DD2|]
+
+X:871
+T: 871
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+CFFF|Accc|AAcA|G4|GcGc|cccc|BBcc|A2F2|AAcc|ccdc|BBBB|cccc|cccB|AGFF|AAAc|cccc|B2c2|A4|]
+
+X:872
+T: 872
+L: 1/4
+Q: 1/2=60
+M: 3/2
+K: F clef=treble
+c|d>cBAG_G|G/A/B/A/G2FE|D>DCCGC|FABcde|fdBdec|G4e3/d/|c>dBGzB|cdedf3/e/|dfdBdG|ceccGA|Bed/^c<AB/|c4z2|]
+
+X:873
+T: 873
+L: 1/16
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+G2B,2D2>D2DD|E2DEF4|F2>D2C4|E2A2B3G|FEFG2<G2D|G>AG>AB2G2|A/G/F/E/DEECEE|B2c2A2G2|A2BcB2B3/A/|A>GG2G2|]
+
+X:874
+T: 874
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+d|ddef|ef2f|defg|a2g3/f/|f>ed2|dfga|dd^cd|e2fe|d/e/f/g/af|g3|f|f>ed3/g/|agfg|a>agf/g/|aa/g<fe//f//|g>aba|g>ab2|gde^c|d3|]
+
+X:875
+T: 875
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+G2dd|cBAG|cccc|d2c2|]e2ee|d2dc|B2A2|G2zG|G2AA|G4|G2BB|A2GA|BAGc|B3A|G2E2|z2GB|AAGB|D2zd|ABcB|A2d2|d2cB|A2zG|A2d2|d2cB|A2B2|A2G2|G2G2|ABcB|AGFE|D4|]
+
+X:876
+T: 876
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GG2F|G2GD2D|c2cABc|B2GD3|G>GGGGG|G2DD2D|G2GG2G|G3D2D/D/|G2GG2A|B>BBB3|B2BB2c|d3d2c/c/|B>BAGBd|B2B/B/A2A|A2dd2A/A/|BGBB2B/c/|ddddcd|B3B3|dd>ddGG|cAFD2d/d/|dBddcA|BB/B/BGBd|dcAB/d/GG/B/|d3e2d|ceddcA|G3G2|]
+
+X:877
+T: 877
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G2GGG2GA|B2BBB4|B2BBB2cd|e2c2c2A2|B2BAG2FE|D2D2D2G2|BBB2BBBA|G2G2G2DD|G2G2G2B2|G2D2GAB2|dddd2<c2c|BABcd4|ccccB2B2|A2G2G3|]
+
+X:878
+T: 878
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+g|g3g/f/|e/d/e/f/ed/e/|ccde/f/|gddg/f/|e>dcG|c3|g|g>fgf/e/|dccd|e/d/e/f/e/d/c/d/|eccd|ef/e<dc/|c3|]
+
+X:879
+T: 879
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+Bc|d4B4|c6zB|A4|B/c/dB2c2d2|Bcd2e2dc|B2A2B2c2|c2B2AGAB|cdefg2Bc|dec2BABc|B4A4|B4|d2df|edefe2de|ed^cde2dc|decBA2Bc|d2dededc|B2AGABcA|B4z2d2|cBcdc2c2|dcded2e2|fedcBcdA|B6d2|cBdcBAGA|B2B2A2G2|B2B2B2cB|A2d2^c2d2|e2>d2fgag|cded2<c2B|B2>d2e2d2|gfgabbag|fedcd2B2|cdBc2<A2G|G6|]
+
+X:880
+T: 880
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+c|cBBB/c/|dd/e/fe/d/|czcc/d/|eccd|ec/d/ec|aa/a/bb|g2z|f|fe/d/cd/c/|ddgf|edde/d/|c2z|]
+
+X:881
+T: 881
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+BB|B2B2gf|e2d2gf|e4de|d2c2BB|A2B2GA|B4d3/d/|d2c2e3/d/|G2A2cB|A2B2GA|B4dd|e2f2ag|f2e2ed|B2e2dc/c/|B4|]
+
+X:882
+T: 882
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+d|e>deA>dc|d3D2d|e>fge>fd|e>de/f/gfg|e>fdc>Bc|A3A2|e/f/|g>agf>ed|e3A2B/c/|d>ede>dc|d3d2|]
+
+X:883
+T: 883
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|G2GA|B2c2|d^cde|d3d|BBcd|e2e2|A2G2|F2zA|A>BcB|A2DD|AB^cd|e2d2|e>dcB|c2dc|B2A2|BGdc|BdcB|AAG2|A2zd|e2fg|d2cB|ABcd|c2B2|AGFE|D2|]
+
+X:884
+T: 884
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GGBd2d|dedBBB|AAcd>cB/A/|G3z2z|BBBB2A|G2GG2c|B2BB2c|d3z2B/B/|BBcd2e|dedB2d|dgeeee|d3d2z|z2c/c/d2e|d3z2c/c/|BBBAGA|B3A2z|d3d2A|B3B2d/d/|dedcBA|G3z3|]
+
+X:885
+T: 885
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+G4B4A4c2d2c2B2A2G4z4B4A2G2F2G2A4F4G4z4F4F2E2F4A4G2D4D4z4B4B2A2G4D4B2B2A4G4G4z4D4F2G2A4E4D4z4A4G4B4A2G2F2D2E4D4z4D4F2G2G4F2E2F4E4D4A2A4G4G2G2F2D4F4E4|]
+
+X:886
+T: 886
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GGGGAB|A3z2D|GGGG2G|B2Bz2D|G2Bcde|d3B2B|cccc2d|c3A2c|B2BG2A|B2BB2A|G3G2D|GGGG2B|d2dB2d|d3d2B|BBBdBc|d3z2|]
+
+X:887
+T: 887
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: C clef=treble
+z2A2A2A2d2B2B2c2A4z2E2A2G2F2E2D2D2E2D2C4z2A2B2c2d2e4d4B4A4zcdefde4d2c4B4z2B2A2G2A2>F2E3DF4z2G2B2d2c2B2A4z2d2d4c2B4A2c2B2A4z2A2d2c2BAGFED2<G2F/E/F4D2D2G2c4B2A4|]
+
+X:888
+T: 888
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+B/A/|GBB|GAB|BBc|B2A|BdB|ABG|F2EDc|cBBdA|G2D|D>GA/B/|cBB|cBAGE|D2B/c/|dBedBA|GFGG|AAB|Bzdc|edc|BdBB|AEB|G2z|]
+
+X:889
+T: 889
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|e2agfe|d3d2d|gafged|c3B2d|G2Bd2e|A3A2A|Bcdefe|d2>c2Bd|GABdgf|e3d2d|g2gg2g|f3e2d|BBBcdc|d3e2d|deddef|g3g2|]
+
+X:890
+T: 890
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|DGBG2A|BBAG2F|AGFF2E|D2GD2D|G2Bd2d|^cAcd2F|Acec2d|B3B2B|dBdBGB|A2AA2G|F2BcBA|G3G2|]
+
+X:891
+T: 891
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+D2ED|DDDD|DDDD|D2zD|DDDDD|DDDDD|G2GD|F2GA|F2G2|A2dA|BBGB|A2z|c|B2AB|c2A2|BGBd|c2Bc|AAAA|D2F2|A2GF|E2D2|D2FA|d2zD/E/|F2D2|D3|]
+
+X:892
+T: 892
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: D clef=treble
+D/D/|FAB/c/|ddd|dc/d/e/d/|cAA/B/|AGF|A2A/B/|AGF|E3|FAd/c/|d2e|fdB|c2B|AFF|D3|]
+
+X:893
+T: 893
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d|g2gd|gab2|gggc|B2A2|Gzz2|GGBd|e2e2|ed^cd|g3g|ee/e/ef|e3z|eeee|f>ef2|gf/e/d/e/c/B/|AG/A/G|]
+
+X:894
+T: 894
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+F3A|F2cedcBA|GABcecdB|ecAcfcdB|c2>e2f2BA|G2F2GGFD|G4|d2fd|cFcgedcB|A2F2AFBd|c4afed|d2c2cedc|f4ggfe|fedcBdcB|A4d2ef|d2c2a2ba|b2_g2a2A2|c4ffed|c2G2A_GcG|c4|]
+
+X:895
+T: 895
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D/|G>GA3/G/|GFDD3/D/|GGGD|G2B3/B/|Aced|BGGD/D/|G>GG3/G/|A2FA|B2A2|G2z2|d3d/c/|AdcB|A2D2|GGGB|d>dBG|d>dc3/A/|G4|]
+
+X:896
+T: 896
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+d^cde|fed2|^cded/c/|d2d2|ABcB|A>BAG|GFFE|D2D2|FGAG|F2E2|D2A2|d2e2|f>eed|^c2B2|AG/F/E2|FEDd|^c2d2|e2f2|e>d^cd|B2Bc|dcde|f>ede|^cdef|gf/e/fd|eefd|^c2d2|Afef|d^cd2|]
+
+X:897
+T: 897
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+E/FA/GGG|B/c/dzG|AdcB/A/|GBBA|G/z/BG3/G/|EzBA|B/c/d/e/dc|d/c/d/e/dc|BA/G/AA|GAGB|ABcB|cGF2|D/E/F/G/AB|ABcB|AG_GE|D2zd|gfed/e/|fddc/B/|A>Bc/B/A/G/|F>GF|]
+
+X:898
+T: 898
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: A clef=treble
+AAA2A2|ABcBAG|A2G2A2|B2C2A,2|c2cdef|g2>f2e2|f2gfge|f6|c2ABc2|dAFAGA|F2BcBA|G4c2|e2efed|c4B2|ABc2dc|BcBAG2|A2cBAB|c4c2|B2cBAB|G4A2|B4A2|G4F2|Ecd2c2|B6|B2F2F2|c2A2GA|B2F2A2|B4A2|GABcd2|B2cdc2|B6|f4ef|g4fe|e2c2e2|c4Ad|B4AG|A6|]
+
+X:899
+T: 899
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+c/d/e/f/g2d2|edcagf|gb/a/g2g2|a/b/a/g/f2g2|a2gfg2|dc/B/A2d2|ecgdgf|efdg2g2|c/d/e/f<ef/g|e/d/c/d/edc2|Gggffg2|c/d/e/f/ggfe|fg/a/bc'e'2|ag/f/efg2|ff/g/a2f2|g/a/b/a/g/f/e2a|b6|ef/g/f2f2|gf/e/f2g2|fgeaB/c/c/d/|cc/d/e2G2|G/E/GG/G/G/G/FG|A/c/B/A/Bcdc/d/|B/c/d/B/B4|Gdddef|g3ggg|geggfe|fe/d/cdef|g/a/b/g/fc2d2|egdeccB|Ag>AG3C|GABc/d/e/f/g|E2F2F2|G6|]
+
+X:900
+T: 900
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+c|FFGAFG|ABcc2c|BBBABA|G3z2A|BcBA2G|FAAC2c|AGABce|f2zz2G|A2AABA|G2>F2zG|AGABAG|A2FF2c|B2BABc|G2>G2zc|BAGAFG|A2>A2GG|ccAAGF|A2FF2c|ccceed|c2cd2d|cfedde|c2dc2B|A2GFGA|A2FFzz|]
+
+X:901
+T: 901
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: F clef=treble
+z2C2D2DCD2B,4D2F2E2D2|]
+
+X:902
+T: 902
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+G|ABc|ded|cde|dcB|AGG|EzG|cGA|GBc|dBe|d2z|edc|BGe|dcd|e2c|BGB|dBG|cB/A/B/A/|G2e|c2c3//B//|cde3//f//|eBc|d>ed/c/|Bdc/B/|c2c|cz2|]
+
+X:903
+T: 903
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+cAFBdB|Afgefd|gbfdfa|eegffd|gfedcB|AfcB3|bagfed|edccBe|fffc'c'f|edefag|f3e3|]
+
+X:904
+T: 904
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: A clef=treble
+AG/G/F/E/|DCC|BB/B/B|E/F/Gz|B/B/BF|EGB|B/E/AA|G/G/FE|AFA|FFD|d2e3//d//|dcc|cBB|BBF|F2A|D>A_A/A/|Bed|c/B/cD|Aed|cDz|d/c/d/f/e/d/|c/d/B/c/d/c/|BAG|cBA|FGz|]
+
+X:905
+T: 905
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+Bc|d2G2Bc|d2g2d'a|b2bagf|e2d2ef|g2g2fg|e2>d2cB|e2decd|B4dc|B2Bcde|A2c2fg|e2d2cB|A4AB|c2a2gf|g2g2fe|d2efga|b2agfe|^d2e2fg|e2D2ag|f2g2|g2a/g/f/g/e|edefga|d2gfed|c4B2|ABcABG|ABcAFD|G4|]
+
+X:906
+T: 906
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+DGGG|DDB2|AAGG|AABG|AAGG|AADD|DFAA|F2D2|GGDD|EDDD|BGGD|GGD2|GGGA|B2G2|]
+
+X:907
+T: 907
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+c|fgab|a2g2|d/e/fdg/f/|e>dc2|fg/a/be|f/e/f/g/ff/g/|a/g/a/b/a/g/f/e/|f3|B|cd/e/fe/f/|g2ga/g/|ff/e/df|ef/f/eB/c/|d/c/B/A/G/F/E/F/|G3|]
+
+X:908
+T: 908
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+B/c/BA|G3|BBA|BG/A/B|ccc|cd/e/f/e/|dc/B/A|BGG|B/c/d/e/d/c/|BG/A/B/c/|ddG|GG/A/B/c/|dde|f2f|gfe|d>eg|fed|c3|]
+
+X:909
+T: 909
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+A|d2Ac2B|A2FFGA|A3A2A|BAGFAB|A3A2F|BABdcA|B2AG2A|GFEFGF|E3D2|A|ABAGFE|F2AA2G|F2ED2A|B3A2B|c2dedc|d3d2|]
+
+X:910
+T: 910
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G2GGGABA|G2D2DDDG|G2A2A2B2|G4z2DD|G2GGA2AA|B2d2cBAA|G2GGDDGG|DDDDDGBB|G2B2z2BA|G6G2|A2>A2AGFF|G4z|]
+
+X:911
+T: 911
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+B2BB2B|BBBBBG|F2GA2A|G3G2G|AABAGF|E2ED3|G2AB2G|D2GG2B|dedA2A|ddGG3|BBBB2G|dedd2d|B2BB2d|d2cBAB|c2de2d|e2dc3|A>GABBA|ABBc2G|A2Bc2B|AG>AG3|]
+
+X:912
+T: 912
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|GGFE|DFED|ccAA|BzG3/G/|cccc|B>BB3/B/|ABGB|G3A|B>BBB|ADDD|GGGG|F2G3/A/|GFGA|B2zB|c>ccc|BBBB|AAAA|BGGG|GABc|d2e2|d3c|BBBG|A2B3/A/|G2z2|]
+
+X:913
+T: 913
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+DGA|BBB>AG2d3/d/|d2e2d>cc3/B/|B2d2BBdB|ADB>AG2B2|B2>c2c3A|B2c2d2AB|c>ddc2<A2A|A4B2d3/d/|G2>F2GBA2|AB2<B2BBc|ddddcB2<A2G|G2>A2B2B3/c/|d2d>dd>cB3/G/|G4G2|]
+
+X:914
+T: 914
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+c|FFFc|c2zc|cccA|FFFc|cG/B/dc|BzzG|cBcc|B2zB|d2GG|AFzc|cdcc|B2A2|F4|]
+
+X:915
+T: 915
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D|DGDD|EDD2|GGFE|D2z2|A3F|GABA/B/|G>EEG|D2z2|G/>G/GGB|BAG2|EDDB3//B//|A>BAz|edc2|B>AGD|G3D|G>BAG|AFG2|]
+
+X:916
+T: 916
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+C|FEFG|A2AA|AGGG|AAGz|AAAA|G2cF|G2zG|F2zA|B2GG|AAAF|GGGG|A2A2|cccc|cccB|AABA|G2z2|]
+
+X:917
+T: 917
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D/G/|GBdd|B2B2|G>ABc|cBD2|cdcA/A/|BdG2|DGGG/G/|FDBB/B/|BdBd|ccBD|BdBB/B/|dBD2|B/B/B/B/AB/c/|ddd2|dd/c/BA/B/|cAFD|G3|]
+
+X:918
+T: 918
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F clef=treble
+F2d>ef2A3/G/|A2G>AA3c|d>cc>BA>G_G3/G/|A6z2|c>Ac>cA2c3/e/|d>cB>Gc2G3/F/|F4c2e3/e/|d2g>fe3c|A2A2GcB3/A/|G6e3/f/|e2c>ea2g3/f/|f>ef>ga2B3/c/|c2z>gd>Bc3/A/|B4A2zf|e2z2g2_g3/e/|d4z|]
+
+X:919
+T: 919
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+G2A2|G2G2|F>FF2|F>AG2|GGGG|E2G2|GGG2|]E2D2|C2C2|C2C2|CDEF|G2A2|GGFE|E>DD3/C/|E2E2|GGGF|E2E2|EFGG|D2|C2z2|]
+
+X:920
+T: 920
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+ddd|A3|cde|f3|def|g3|def|eff|ed3/e/|c2d|efg|efg|ag3/f/|f2|e|gfe|def|gaf|e3|e>fg|f>ef|dd/c/B/c/|d>cd|efg|e2B|cdc|BAA|Afe|d3|]
+
+X:921
+T: 921
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+d2a2|a2a2a2ag|f4f2ba|gaefccAc|f4|e2ef|d2e2f2g2|a2f2f2ed|^c2f2agfd|e2Bee^cdf|ed^cdedcd|B4c2d^c|d2c2BAB_A|A4|d2ff|g2c'2c'2fg|a2a2a2gf|g2g2gfef|g4|f2ef|d2def2ff|d2e2fga2|b2aga2g2|f2a2bagf|e2edefee|f4f2f2|bagfefde|^c2E2e3f|g6|]
+
+X:922
+T: 922
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+dG3/B/|d2dee2e3/e/|d2B2>G2Bd|g2g2fee3/e/|d2>d2gfed|c2B2A2Bc|e4dcBA|d2>e2dcBA|G4|]
+
+X:923
+T: 923
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+E|A2>B2cBc|d2dc2e|e2de2c|B3B3|c2de2e|dcBA2B|c2Bc2d|e3d2|B|c2cd2d|e2dc2A|B2cd2d|e2>d2cB|A>BGA2G|A2FD2|]
+
+X:924
+T: 924
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d|eBB/G/d|d>Bcd|e/e/f/e/dg|gdc2|Bdc/B/A|G>AG3/G/|A>BB3/B/|AEA3/B/|d>cBG|ABAG|A>AG3/A/|B>BB3/c/|d>ed3/c/|B>AGz|]
+
+X:925
+T: 925
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: D clef=treble
+A|dd3/f/|feed|f/ef/>f/f//g//a/f/|e>d|a|aff3/g/|a2ef|ffe/d/c/B/|A2dd|e>fg3/a/|b>fe3/f/|d/g/gg3/f/|egga|b>ag3/g/|g3|]
+
+X:926
+T: 926
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+C/E/|GGGA|GGC2|E/E/E/G/C3/B,/|C2z2|]GGG3/G/|G/G/G/G/G2|F2F2|GGGG/G/|GGcC|GGG2|E>EGB|A>AcF/E/|FFAc|B,>DC2|GGG2|GGG2|G>GG2|ECC2|]
+
+X:927
+T: 927
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|G2FE2D|G3G2D|G2GA2A|B3d2B|d>ddB2G|d2BG2G|A2GB>BB|c2BA2A|A2AB2B|e2cB2A|G3D2B|d2AA2G|D2GB2B|ADDGDG|A2AA2c|B2BA2G|A3A2|d|d2ed2e|d2dA2c|B>AGe2d|G3z2|]
+
+X:928
+T: 928
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+GG|B2Bc2B|A2AA2d|B2BG2G|A2DD2G|A2AB2d|d2c2<B2z2d|defdef|f2ed2z|d2de2d|c3B2A|G2Bedc|B2>d2c2B|A2GF2A|G3z2|]
+
+X:929
+T: 929
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: Eb clef=treble
+B2|G2>G2B2d2|c4A2C2|D2>G2ABcB|A2A2z4B2|G2FG2<A2B|c2B2A2B2|B4A2B2|c4BAG2F2|G2A2B2B2|B4z2F2|c6c2|d4B2B2|B2z2B2AG|A2B2G2F2|D2E2>F2A2|B2c4d2|edcB2<A2G|G6G2|c2A2B2c2|d2>e2d2d2|edcBcdef|d4zzz|]
+
+X:930
+T: 930
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+GBd2B2|A4F2|AGG2D2|D2DB,DD|B,2B,4|B,4D2|dfecec|dgfedc|Bgfgec|d4B2|DFAcfA|BGcBAc|cdB2c2|d2BGAF|G6|gfgafa|gfgfed|agfedc|BcA2B2|G2F2E2|FED2D2|GBdbag|f3g/f/e2|_gg2<g2f|g6|]
+
+X:931
+T: 931
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+fdg^cB2|AGABA2|d2e2f2|gfedc2|Bdc2B2|AGFEDd|FGAB2A2|G6|ABcdc2|BcdBG2|cBAe2g2|dcBABc2|cccdd2|Bcdef2|BdcA2c2|BBAGF2G2|ABcBAG|FGAB4|]
+
+X:932
+T: 932
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+ed|c2d2cB|c4dc|d2Befg|e2c2ga|g2a2bg|a4|dc|B2>A2Bc|d4d2|gfe2dc|d2g2ga|b2agfg|a4a2|b2>a2gf|g2e2gf|gg2<f2e|e6|]
+
+X:933
+T: 933
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+E|E>FGG|ABcA|GABc|dddd|dABc|dd/c/Bd|e/c/d/c/Bc|d/e/d/c/BA|GFED|GABd|edcB|A3d|gBdB|c2d2|e/c/B/A/A/B/c/d/|BAGG|Edcd|eA/G/FG|_AF/G/AG|GAGB|cB/A/GF|E2E|]
+
+X:934
+T: 934
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d|B>BB/B/AB2dc|B2dGBd/d/B/d/d/d/|cdee/d/ddg2|de/d/cBA2D2|d2e2egfg|d2FAG2gf|e2eedcde|d4d2dB|c2c2A2B2|e2g2g2fg|f2>g2agfe|d2B2G2|]
+
+X:935
+T: 935
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+c4d4|e>dc>BA3G|_G2>A2G3D|E4F3C|D2B2c3d|BcAB2<c2B|c6zd|d2>f2e2dc|Bcd2d4|G4z4|d2>d2d2de|d2>c2e3A|A2>G2G4|F4G2Bd|e4d3c|d4B2z2|d2d2G4|G4z3a|d2>d2gfed|^c2BAA2d2|d2>c2B2AG|c2AcB2c3/c/|A4AGA2|B4BdB3/A/|G6|]
+
+X:936
+T: 936
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|G2GGGA|B2BB2G|A2AcBA|G2GG2G|A2dA2G|F2ED2B|c2de2e|d3B2g|d2dB2G|A2AA2f|g2fedc|B3B2|]
+
+X:937
+T: 937
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+G|G>ABG|cBcd|edcB|AB2d|AGGG|GGG3/G/|G>GGG/B/|d>^cde/d/|c>Bcd|A3d|eg/f/gd|c>BA3/d/|GAB/c/d/e/|d>cBA/G/|FGAB|GBAG|A>BcA|B>BAB|AGAB|G3|]
+
+X:938
+T: 938
+L: 1/16
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+cDED|C2G2E2B,C|A,B,CG,A,4|A,CCC2<B2G|AB,A,4C2|c4z2G2|AGGG2<C2B|B2A2zcFG|E4z2CD|E2c2GBFG|BcF2zAEA|G2zCE2ED|E4C2EC|C2A,2B2cd|G2GGF2GA|G2C2G2G2|c2G2D2E2|F2EDC2|]
+
+X:939
+T: 939
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+d|B>de|d2d|e>ec|ddB|ede|dAd|d>Bc|dBd|ABc|A2D|G/A/GB|ABA|GFE|D2d/c/|B>BA/B/|ccB/A/|BGB|A2G|GAB|cAc|Bcd|B2G|ABc|ABG|cA3/d/|B2|]
+
+X:940
+T: 940
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+GB|d2dggcBA|B2G2G2Bc|dddde2ee|d2A2AAAc|B2AGA2Bc|c6dd|gddgg2dc|B2BBA2dB|ceedcBAG|B6^c2|d2dddded|c4A3g|f2>e2d2c2|B6Be|d2e2d2c2|B6cd|eeedc2B2|BAAAA2dd|d2efg2f2|eeefd2cB|A2A2GGGA|B2B4AA|A2f2eddc|BBBdd2dd|B2dddcBA|G4A2c2|BBcde2ee|d2c2B2|]
+
+X:941
+T: 941
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+G2c2A2|G6|d2B2B2|B2BBBB|c2c2c2|c2c2c2|cde2f2|d2G2c2|c2B2c2|d2B2GA|B2d2B2|ABcBA2|e2d2c2|B4G2|c2G2A2|B2cdB2|e2e2f2|c4G2|A2d2A2|AGABc2|GA2<B2A|AGF2G2|B2DEDc|BGc2d2|B6|]
+
+X:942
+T: 942
+L: 1/16
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+GG|G2c2c2G2|G2>B2A2GF|E2E2G2AG|E2>D2E2GG|F2EDE2ED|C2z2z2G3/G/|G2A2A2G2|B2>G2G2AG|G2F2E2D2|C6z2|]
+
+X:943
+T: 943
+L: 1/16
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+gdBdddzd|edefg2g2|d/c/d/e/ddcdBc|dBBcBAG2|d/c/B/c/d/e/d/e/f/e/d/c/B/c/d|G2g2d/e/d/c/Bg|g/f/g/f/e/f/g/a/bfge|fa/g/fgaedc|dc/B/c2B2z2|dd/c/ded2G2|ga/b/agg/f/gfg|dc/d/edc4|d/e/f/g/ad'c'/d'/bbc'|bc'ag_ggab|c'c'/b/ab/g/dcBG|AA/B/cAdcBG|ed/e/fededc|BAB>cde2B/c/|dBBcd>cdf|g2f2d2c2|B4z4|]
+
+X:944
+T: 944
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+G2G3/G/|A2B2|cBAG|F4|GBAG|FED2|GGAB|cBAG|F2G2|G>ABG|A>GFG|G4|B>cBA|G2de|fefd|e2de|^c2d2|A>B^cd|efge|^c2A2|g>fed|e2c3/c/|ddec|A>GFG|A3d|dcBA|BGBG|B>AG3/A/|A>GG3/B/|G4|]
+
+X:945
+T: 945
+L: 1/4
+Q: 1/2=60
+M: 4/2
+K: C clef=treble
+z2C2G2G2GABG2<d2cc2>c2edc4z2c2B2c2d4c2B4BABc2B2A2G4|G4G2d2d2e2fdc2B4c2d2c2BcB2A2G4A4z2c2d2d2d2cBA2G4|]
+
+X:946
+T: 946
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: A clef=treble
+cedeAB|B2AE3|FGAGcA|BGFE2z|gfedcB|cdeczB|ABccde|fcBAzD|bbBadB|dcfe2z|adBB2e|fecd3|eAAfEB|BdBAGA|E2GABc|dcBE3|]
+
+X:947
+T: 947
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|G2AB2G|A2AA2A|d>ddBcd|A3A3|dddd2d|d2cB2B|e2ee2e|d3B2d/d/|d2Bd2d|eeed2f|g3e2e|d3d2d|dcdg2f|f3e2a|gfed>ec|B3d2|]
+
+X:948
+T: 948
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+B|BAB|d2c|BAA|Ggd|cAd|BGG|ddc|B2B|ded|cee|gfg|e2g/f/|eef|gg2|gge|dB/c/d|G/A<BA/|G2|]
+
+X:949
+T: 949
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: C clef=treble
+g|g2fefg|g6|e2dc2B|c3G3|B2cd2e|f3e2d|c2BA2d|c3c3|a2gfga|g2fede|fgfe2f|g3g3|e2fged|c2BcdB|ABcBcB|cBAdcB|A/B/Gde2c|e2cd3|efgG3|cdedcB|AcBAdB|c3e3|fgfefd|ecAG3|]
+
+X:950
+T: 950
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+G2GAB2A2G2A2A2FGA2F2z2G2cB2AE2B2AB4c2B2c2d4G4|z2c2c2c2c2c2A2c2c2B2B2A2z2G2A2B2G2B2A4z4f2f2f2f2e2d2e2d2c4B4z4f4f2e2d2f2e4d4z4d4c2c2B2A2G4A4G4|]
+
+X:951
+T: 951
+L: 1/4
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+G3/G/|AG|F3/E/|ED|cB|AG/A/|Bd|c3/B/|Ad|Bc|BA|Bc|Ad/c/|BG|Ad/d/|dc|BA/B/|GB|dd/c/|B/A/B|c3/d/|e3/d/|cB|A2|G2|]
+
+X:952
+T: 952
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+AF|A2>B2cd|e2d2ed|^c2>B2Ad|^c2d2de|f2dcde|d2g2ef|g2efgf|efd2ec|d2B2d2|e4|z2|d2>c2Bc|d2c2de|d2>c2B2|c2dcde|A2ABcd|e2>f2ge|f4|e2|d2d2ef|d2cdef|g2g2a2|b4a2|g2e2e2|f2>e2d2|e2efge|^c4|d2|cBcdcd|c2d2c2|c2Bcde|c2edec|d2d2c2|c2F2B2|cB2<B2A|A2B2c2|d2c2B2|A4d2|c2defd|e2>d2e2|D2A2F2|A6|c4|]
+
+X:953
+T: 953
+L: 1/8
+Q: 3/8=100
+M: 6/8
+K: G clef=treble
+d|B2dB2B|dedAAd|GAB|d4A2|dAfedc|ddcB2d|AABAGA|GBdgab|fgfegf|g2fed^c|d2FcdA|BABBed|cBcAcA|B2fa^cd|B3d2d|g2gg2g|ggffdc|BABGAG|AB^cdcB|Ad^cdd^c|d2dAB^c|decBAG|FGADGA|BABGAB|A3|]
+
+X:954
+T: 954
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+G2A2B2|A2GFE2|A2edcB|A6|dAd2d2|AGABe2|d2cBAd|BAGABc|d2A2G2|D6|B2AGAG|FGADEF|G2GABc|d2Bcd2|D2BcdB|c4B2|A2GFED|G2B2A2|G2DGGF|G6|]
+
+X:955
+T: 955
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+eee|g/g/f/e/d|e2c|e>ee/e/|ed2|d|g3|d2e/c/|d>ed/c/d|e2>e2e/d/|e>ce|ed2|e>ea|gfe/d/|eg<dc/|B3|e3|d2c|c>Bc|B2A|E3|B2B|c>dB|c3|]
+
+X:956
+T: 956
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G|G2Gd2d|efde2f|gfgf2e|dd>cBAB|GABc2d|efgd2e|dcBAGA|G3B2|B|cdef2d|efef2g|agfede|fcBAdd|d2^cd2g|fded^cd|e3^c2d|dAAABA|c3c2c|edcB2d|cBAG3|]
+
+X:957
+T: 957
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d/|de/dB/|d3/dd/|ee/ee/|d3/dd/|ga/fe/|dd/de/|ff/gg/|f3/ed/|ee/ee/|de/fd/|d3/Bd/|d3/d3/|BB/dB/|AA/GA/|Bd/dd/|d3/dg/|gg/fe/|d3/dd/|ee/dc/|d3/df/|ec/ed/|B3/ga/|ba/gd/|ee/fe/|dd/gg/|fa/b3/|a3/ga/|b3/a3/|gf/gf/eg/|d3/e|]
+
+X:958
+T: 958
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: A clef=treble
+A|c3d3|e2dc2B|A3d2c|c2AB2A|_AABG2E|A3B2|A/G/|GFFG2A|BcBA2c/e/|e2Bd2e|edcf2a|g2feed|c3c3|d3e3|f3g2f|e2eg2a|g2fe2a|gfed2c|d3B2|]
+
+X:959
+T: 959
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+zd|d2>c2d3e|f6ze|f2>e2d2cB|c6c2|B2>c2d3d|e2>d2c4|e2>e2f3g|a2>a2g2ef|g2g2fefg|e4d4|z2d2f2e2|d2e2d3c|c6|]
+
+X:960
+T: 960
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+Bc|d2edcBAG|_G2E2F2de|d2c2BABc|d4f2ag|f2gfedec|d6|AB|c2c2cdcB|A2ABcdBc|A2Bcd2cB|A2A2GABc|d2dddddd|d2>e2fgef|d2GBd2d^c|d4D2|]
+
+X:961
+T: 961
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|G2>A2B2c2|d>de>dd2d2|AAcBc2B2|A4z2B3/B/|GGAA2<B2A|A>dddBcd2|eeeed2e2|d6d2|ddc>de>edc|B4e4|ded>cB2B3/B/|cde2e2ed|Bcddd2c2|B6z2|]
+
+X:962
+T: 962
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+d|G2Bd2g|dcBc2B|AGAB2A|GFGA2c|B2Bd2B|AGAB2f|dBcdBc|d2dd2d|d2ec2e|d3e2d|d3c3|B3c2d|e2dcBA|G3G2|]
+
+X:963
+T: 963
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G2AB2c|d2dd2B|e2ee2d|c3c2c|c2ccdc|B2BG2G|AAAG3|G2GG2D|G2AB2c|d2ed3|c2>c2BA|B2GG2A|B2dd2c|B2AB2A|A2Gc2c|B2BA2A|G2GA2G|G3G2|]
+
+X:964
+T: 964
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: D clef=treble
+D2E2F2|D2AAA2|ddddd2|F2EFD2|B2A2G2|F6|a2f2f2|a2dddA|dde2c2|dBdfd2|d2f2d2|e2Ace2|AcBAGF|G4A2|ddeecA|fdddfa|ecAcea|AAeeag|f2aafd|dc2<B2A|A4f2|a2c2d2|B6|]
+
+X:965
+T: 965
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: Eb clef=treble
+E|E2E2G2B2|B2AGF2GF|E2F2GABc|B2E2z2AB|c2BAG2FE|B,2zGFEAB|A2zGA2GA|B2A2E2c2|B6|]
+
+X:966
+T: 966
+L: 1/8
+Q: 1/4=132
+M: 3/4
+K: D clef=treble
+A2B2A2|d4A2|D2D2D2|A,4A,2|B,A,A,2A,2|A,2B,A,A,2|A,4|AFDzA,D|E4z2|A2A2F2|E4E2|DF2<G2F|E4D2||AAAAFF|D2dzAA|AAAAAA|d2B2z2|d2B2d2|A4G2|Faaaba|b4z2|]
+
+X:967
+T: 967
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+D/D/|GAGG|EDDD|B2B2|G3|]D|EFGA|B>AG2|GDEF/A/|G/G/GAB|A3z|G2B2|A>AAG|D3D|G>GGF|E3D|EAAA|GEzD|GDDD|GGAA|B2BB|BBBB|dddd|d>dcB|A2A2|G3z|]
+
+X:968
+T: 968
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+c2|d2cBc2fd|c2>d2e2cd|e2d2cBcd|e4zgfe|d2dcd2A2|D2E2E2D2|D2|]B2>A2Bcd|a2e2f2gf|e2dc2<B2c|c4A2GA|B2ABc2AB|d4B2AG|c2BAG2B2|A2c2B2c2|f2ef2<g2f|e6|]
+
+X:969
+T: 969
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+G4A2B2|c2B2A2B2|c2B2A4|G2G2G4|GFEFG2A2|B2c2d2c2|d4B2|B2|A2G2A4|B2G2A2F2|G4G3G|G6DD|G2A2B2cd|B4d4|c2BA2<A2G|G4BGA2|d2>c2B2B2|AGABc4|c6|]
+
+X:970
+T: 970
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+B|d>dd3/d/|d3B|dBBA|G2zA|B2Bc|ddBB|dAAA|AGGG|AGGF|EEED|D2DD|B2A2|G2DD|GGGG|G2BB|GGGG|G2DD|G2G2|GGG2|GABA|G2z2|]
+
+X:971
+T: 971
+L: 1/8
+Q: 1/4=132
+M: 4/4
+K: C clef=treble
+G2cBc2d2|dcded4|cdefg2ag|fedcB4|d2efedcd|B2ABG4|ecgga2d2|efgde2c2|d2b2a2g2|c2A2A4|fgfgfedc|B2E2B4|cBcdefgf|e2dcd4|G2>c2cBcd|c2ccefgf|e2dccBcd|edcBA2gf|e2>f2g2d2|e4c4|]
+
+X:972
+T: 972
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+F|G3B2B|A3D3|A3B3|d2dd3|e2dc2B|A3z3|A2GG>FG|c>ddded|c3B3|A2GFED|d3B3|B>BBBcd|e2ee2B|A>AAc2d|B3B3|A2zA3|dedGGA|B2BAed|d3c3|B2Bc2d|e3e3|d2BG2A|B3c2d|B3c3|d3B3|d2>d2de|d3B2B|d2dc2B|A3G2d|c2BAGA|B3z2B|BBBBAG|A3F2E|D2DGFE|D3D2A|dddcBA|G3z2|]
+
+X:973
+T: 973
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|GABc|dcBB|AG/A/BG|]
+
+X:974
+T: 974
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D|B>AGF|E/D/E/F/GA/A/|BAGF|G2zB|cBAA|DFFF|G/E/FGE|D2zB/c/|dedc|B>ABG|ccde|d3A/B/|cdeA|G2Gz|]
+
+X:975
+T: 975
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+aa|g2fgaf|g2c2fg|a2a2gf|g2f2e2|f2de^cd|e4|cd|e2f2ed|e2c2de|f2efde|^c2dcde|f2f2gf|e4x2|]
+
+X:976
+T: 976
+L: 1/16
+Q: 1/4=120
+M: 2/4
+K: F clef=treble
+F2|c2cde2fg|a2g2f2fe|d2efg2ab|a6ag|f4f2ed|c2BcA2e2|f2gf2<e2d|d6|GA|B2B2c2d2|BABcB2cB|AGABABcA|c2B2AGFE|FAGAGFEF|G2GGG2c2|f2g2a2g2|_gefgagfe|fgfde4|f2ede2dc|d6|]
+
+X:977
+T: 977
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: F clef=treble
+C|FGAA2B|cdcG2E|FFFGAB|c2cC2F|GGGGGG|AAAA2B/c/|dcBGFE|E3A2z|ABAFCC|F3G2|]
+
+X:978
+T: 978
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: F clef=treble
+f4cA|d2A2F2|G2G2G2|A2F2A2|c4F2|c2ABcA|d4A2|AGFEF2|A2B4|c6|F4F2|GAGFE2|F2ABcB|A2F2A2|d2d2e2|d4c2|f4c2|d2Bcd2|cB2<A2G|G2F2C2|f6|A2A2G2|F4|]
+
+X:979
+T: 979
+L: 1/4
+Q: 1/4=132
+M: 3/4
+K: C clef=treble
+c3|f2d|eed|c2B|c2e|fd2|eGG|c2c|c3|B2d|de2|cg2|f3|c2g|g2a|g2_g|g3|c2f|efd|e2d|cEB|cac|d2c|B2A|A2g|a2e|dB2|c3|c3|]
+
+X:980
+T: 980
+L: 1/8
+Q: 3/8=63
+M: 6/8
+K: G clef=treble
+D|GBdddd|eded2B|GdBd2e|dcBA2A|GGBB2d|dedc2B|ABcBAG|d3d3|GBdgab|gfee2e|dedcBA|G2GG2|]
+
+X:981
+T: 981
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+c|ccc/c/B/c/|dGG2|cc/d/e/d/c|cGG2|ccdd|ed/c/cG|cgdc|f2fz|cc/d/cd|cggzf|ec/d/cG|G4|c2GG|CEGG|C2zG|cGEG/G/|E2zG|cfed|c2zc|cd/e/cz|c2z|]
+
+X:982
+T: 982
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: C clef=treble
+G|GBAB|c/A/G/G/FG|AGFE|E2zD|GBBe|dd/c/cd|cBA3/A/|G2z|c|BBAc|B2GB|cc/B/Ac|B/A/B/c/d2|d>cBA|GABG|AF/G/GC|Cz|]
+
+X:983
+T: 983
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: F clef=treble
+F2F2|A>Bc2|defe|d4|e2fg|a2g2|f2e2|f4|d2ff|ddff|f2a2|f2c2|abag|fed2|A2B2|A2ef|gefg|e3g|f2f2|f4|]
+
+X:984
+T: 984
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+aaaa|ffff|d'bba|b2f2|fgec|dddz|e4|e2fe|ffef|gfef|aafd|g2g2|AAdc|d2z2|]
+
+X:985
+T: 985
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|BBBBAG|A2AA2G|F>GAD2A|B2BB2B|cdeedc|B2AG3|BBBBAG|cBAA2z|B3d2B|ABAG2A|BBBcBc|d3c3|AAAABc|B3A2D|G2BB2G|AA2G2A|B3B3|AAAG2z|]
+
+X:986
+T: 986
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+BBB2|ddd2|ccc2|ccc2|BBB2|BBB2|G2B2|AAA2|G2z2|]
+
+X:987
+T: 987
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+G|GdA|G/F/GC|DEF|GcA|GBd|A2|]B/c/|dBc|ABG|GGA|BAB/c/|dGF|E2|e|f/e/d/e/f/d/|e2c|CCE|B,DD|CEG|E/E/EE|EA/A/G|ECG,|EFE|D2|]
+
+X:988
+T: 988
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: Bb clef=treble
+fcA|BgB|B/c/AF|GCC|B/A/Bc|DAd|Bbf|daA|BfA|B3|dac'|bcc'|b/a/gf|d/c/d/e/f|Dg/f/e/f/|d2B|f/g/af|gef|d/e/c/d/c/B/|Af/B/A/G/|Be2|c/f/BC|fc^c|ded|e/d/cB|A3|]
+
+X:989
+T: 989
+L: 1/4
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+B|d2d2|e2ee|d2A2|ddgg|g2f2|gdcc|BAcA|GBBB|cccc|B2d2|AAAA|ddGG|G2G2|A2B2|GGGG|ddgd|e2d2|g2g2|c2z2|]
+
+X:990
+T: 990
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D3/D/|G2A2B2B2|A2BdG2zD|G2G2A2BA|G2GD2<D2B|c2B>AB2A3/G/|A2B>AG3D|GAB>cd4|d2dedcBA|G6|]
+
+X:991
+T: 991
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: C clef=treble
+G|cce|ddd|eee|ddg|eeg|e2z|G2c|c/d/e/f/g|gg/a/b/a/|gz/g/f/e/|d2d|e2g|gec|Gze|e2z|f2a/g/|g2e|efe|d2d|g2z|]
+
+X:992
+T: 992
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: D clef=treble
+F2E3/E/|A2D3/F/|A>FE3/D/|D3D|F2E3/F/|A2F2|A2D3/E//E//|D3|]E|AFDF|A2FF|EFED|EEE3/E/|E>DD3/D/|E3|]
+
+X:993
+T: 993
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+G|G2ddef|g3e2d|cBAAFG|A2GF2A|G3d3|efga2f|g2fed^c|d3e2|d|c2BAGA|G4zB|dcdedc|BABABG|ABGAFG|DDEFEF|G3z2|]
+
+X:994
+T: 994
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+GA|B>ddd>de|d2Bc2d|eefg2g|fedDcd|ef2gef|g3d2|e|fgaefg|fg3a2d|gdggfg|e3e2d|Bedgdf|ee>dcc2|e>edecB|A>BA_A2|]
+
+X:995
+T: 995
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|GGGG2G|D3D2D|G2GG2d|B3z2B|d2de2d|c2BA2A|c2de2d|B3D2D|G2GF2E|DGBB2d|c2Ad2d|B3B2B|d2dB2A|BcdcBA|G3G2G|c3c2d|c2ee2d|A2Bccc|B2GG2e|d3c2d|BAGD2D|G3G2|]
+
+X:996
+T: 996
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+d>gBdc2d3/c/|B2d2Bdg3/d/|c2B2d3d|d2ABc2e2|ddddedcB|A>AABc2c3/B/|A>AA>GFED3/D/|G2A2B4|A>Bc>dd2cB|B>AA>Bc2zA/G/|ABcdedcB|A>BG2FGB2|]
+
+X:997
+T: 997
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: G clef=treble
+d|BB/A/GB|G2GB|BA/G/AB/c/|B4|d>ddc|BB/A/AA|GBA/G/F/G/|ADD2|d>de/f/ge|dddg/g/|d/c/B/A/Bc/B/|A>GAD|G>ABc|d2e2|d2gg/g/|f/e/d/d/dd|efgg|g2f2|e2e2|dddd/d/|egf2|e3d/d/|df/f/gf|g3g|]
+
+X:998
+T: 998
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: G clef=treble
+D3/D/|G4D4|GG2<G2AA3/B/|B>AGAB2G2|d4ddd3/c/|B4B3/B/|BABcd2d2|BBBAGGGD|G2G>GG2A3/A/|B2B2B2BB|A2>A2dcBA|G2G2D2DD|B2d4dA|dcB2G2A2|BBcBA4|d2BGG2B2|A4D4|]
+
+X:999
+T: 999
+L: 1/8
+Q: 1/2=60
+M: 2/2
+K: G clef=treble
+G|G2dddddc|BdfdA2d2|G2Gggaag|d2dddGdd|eegddcBc|AGzAEdeddB|e2dcA>FGB|dBGBd2G2|AABddddd|AAAddcBA|G2B2d2|]
+

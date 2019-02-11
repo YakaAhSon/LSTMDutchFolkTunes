@@ -1,0 +1,69 @@
+set(['2/1\n', '<P>_A,', '3/8=116\n', '3/4=66\n', '<P>e', '1/2=60\n', '3/8=240\n', '3/8=69\n', 'A clef=treble\n', '1/2=72\n', '5/8\n', "<P>c'", 'Eb clef=bass\n', '<P>E,', '6/2\n', '3/8=80\n', '<P>^D,', '1/2=100\n', '1/2=52\n', '3/4=69\n', '<P>z', '3/8=138\n', '<P>x', '1/2=63\n', 'D clef=treble\n', '3/8=96\n', '<P>b', '<P>c', '1/8=240\n', '<P>a', '<P>f', '<P>g', '<P>d', '1/4=152\n', '16/2\n', '3/8=88\n', '8/16\n', '3/4=63\n', '3/8=72\n', "<P>g'", '<P>Z', 'F clef=treble\n', '8/4\n', '1/8=120\n', "<P>_g'", '<P>B', '1/4=132\n', '<P>A', '<P>F', '<P>B,', '<P>D', '<P>E', '3/8=60\n', '|\n', '3/4=60\n', '1/4=100\n', '<D>3/', '1/2=92\n', '3/4\n', '4/2\n', '2/4\n', '1/4=112\n', 'K:', '1/4=108\n', '12/8\n', '<P>_G,', 'M:', 'G clef=treble\n', 'F clef=bass\n', '1/4=72\n', '<D>3//', '<P>C', '5/2\n', '1/8=160\n', '1/8=144\n', '<D><', '3/8=144\n', '3/8=168\n', '1/8=176\n', '<P>C,', '3/8=63\n', '3/8=132\n', '3/8=152\n', '<P>G', 'Bb clef=bass\n', '2/2\n', '1/4=84\n', '3/8=160\n', '1/2=88\n', "<P>f'", '6/8\n', '<P>^D', '1/4=96\n', '3/8=126\n', '<D>7//', '1/4=69\n', '1/2=120\n', '9/4\n', 'G clef=bass\n', '1/8\n', "<P>^c'", 'Eb clef=treble\n', '1/4=168\n', '3/8=112\n', 'D clef=bass\n', '3/2\n', '1/4=126\n', '1/2=80\n', '3/8=120\n', '4/4\n', '<P>A,', '12/2\n', '1/2=152\n', '1/4=138\n', '1/4=60\n', '1/2=54\n', '<P>_g', '<P>^C,', '<P>_b', '1/4=56\n', '3/8=184\n', '<P>_a', '7/4\n', '5/4\n', 'L:', '1/2=104\n', '1/4=76\n', '1/2=48\n', "<P>^d'", '8/8\n', '<P>_G', '3/8=92\n', '<P>_B', '<P>_A', 'C clef=bass\n', '<D>//', '3/8=84\n', '1/2=84\n', '2/8\n', 'Db clef=treble\n', '1/4=144\n', '<D>/8', '<D>/>', '<D>/<', '1/2=56\n', '<P>^d', 'C clef=treble\n', '<P>^c', '<D>/', '<P>_B,', '7/8\n', '1/8=152\n', '1/8=168\n', '<D>>', '1/4=120\n', '1/2=96\n', '1/4=104\n', '<D>8', '<D>6', '<P>F,', '<D>4', '<D>5', '<D>2', '<D>3', '<P>^C', '<D>1', '3/8\n', '1/4=176\n', 'Q:', '1/8=112\n', '1/4=160\n', '1/2=66\n', '<P>B,,', "<P>e'", '<D>7/', '1/2=76\n', '1/4=192\n', '10/2\n', '1/4=46\n', '1/4=88\n', '6/4\n', 'E clef=treble\n', '<P>G,', '14/2\n', '<D>7', '<D>4>', '<D>4<', '1/4=92\n', 'B clef=treble\n', '1/4\n', '9/8\n', '3/8=176\n', '1/2=69\n', '1/4=80\n', ']', '1/2=44\n', '3/8=108\n', '1/16\n', '<D>2<', 'Bb clef=treble\n', '4/8\n', '3/8=76\n', '<D>2>', 'Ab clef=treble\n', '<D>//>', "<P>d'", '3/8=100\n', '3/8=66\n', '<P>D,'])
+vocabulary size: 211
+n tunes: 18107
+n train tunes: 17211
+n validation tunes: 896
+min, max length 18 2822
+Building the model
+  number of parameters: 1630140
+  layer output shapes:               #params:   output shape:
+    InputLayer                       0          (32, None)
+    EmbeddingLayer                   44521      (32, None, 211)
+    InputLayer                       0          (32, None)
+    LSTMLayer                        479744     (32, None, 256)
+    DropoutLayer                     0          (32, None, 256)
+    LSTMLayer                        525824     (32, None, 256)
+    DropoutLayer                     0          (32, None, 256)
+    LSTMLayer                        525824     (32, None, 256)
+    DropoutLayer                     0          (32, None, 256)
+    ReshapeLayer                     0          (None, 256)
+    DenseLayer                       54227      (None, 211)
+Train model
+1/53700 (epoch 0.002) train_loss=1088.88793945 time/batch=0.95s
+2/53700 (epoch 0.004) train_loss=1424.71667480 time/batch=0.34s
+3/53700 (epoch 0.006) train_loss=1005.87792969 time/batch=0.71s
+4/53700 (epoch 0.007) train_loss=2286.24121094 time/batch=2.55s
+5/53700 (epoch 0.009) train_loss=171.59042358 time/batch=0.22s
+6/53700 (epoch 0.011) train_loss=737.48095703 time/batch=0.20s
+7/53700 (epoch 0.013) train_loss=1123.97509766 time/batch=0.36s
+8/53700 (epoch 0.015) train_loss=669.51629639 time/batch=0.22s
+9/53700 (epoch 0.017) train_loss=3164.00585938 time/batch=1.48s
+10/53700 (epoch 0.019) train_loss=777.16320801 time/batch=0.30s
+11/53700 (epoch 0.020) train_loss=666.69201660 time/batch=0.20s
+12/53700 (epoch 0.022) train_loss=847.02447510 time/batch=0.27s
+13/53700 (epoch 0.024) train_loss=947.19812012 time/batch=0.31s
+14/53700 (epoch 0.026) train_loss=132.52169800 time/batch=0.07s
+15/53700 (epoch 0.028) train_loss=770.54284668 time/batch=0.86s
+16/53700 (epoch 0.030) train_loss=1115.19702148 time/batch=0.42s
+17/53700 (epoch 0.032) train_loss=1505.54736328 time/batch=0.50s
+Traceback (most recent call last):
+  File "train_rnn.py", line 212, in <module>
+    train_loss = train(x_batch, mask_batch)
+  File "D:\Anaconda\lib\site-packages\theano\compile\function_module.py", line 917, in __call__
+    storage_map=getattr(self.fn, 'storage_map', None))
+  File "D:\Anaconda\lib\site-packages\theano\gof\link.py", line 325, in raise_with_op
+    reraise(exc_type, exc_value, exc_trace)
+  File "D:\Anaconda\lib\site-packages\theano\compile\function_module.py", line 903, in __call__
+    self.fn() if output_subset is None else\
+  File "D:\Anaconda\lib\site-packages\theano\scan_module\scan_op.py", line 963, in rval
+    r = p(n, [x[0] for x in i], o)
+  File "D:\Anaconda\lib\site-packages\theano\scan_module\scan_op.py", line 952, in p
+    self, node)
+  File "scan_perform.pyx", line 522, in theano.scan_module.scan_perform.perform
+  File "D:\Anaconda\lib\site-packages\theano\gpuarray\type.py", line 375, in value_zeros
+    context=self.context)
+  File "pygpu\gpuarray.pyx", line 682, in pygpu.gpuarray.zeros
+  File "pygpu\gpuarray.pyx", line 762, in pygpu.gpuarray.empty
+  File "pygpu\gpuarray.pyx", line 700, in pygpu.gpuarray.pygpu_empty
+  File "pygpu\gpuarray.pyx", line 301, in pygpu.gpuarray.array_empty
+pygpu.gpuarray.GpuArrayException: cuMemAlloc: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+Apply node that caused the error: forall_inplace,gpu,grad_of_scan_fn}(Elemwise{minimum,no_inplace}.0, InplaceGpuDimShuffle{0,2,1}.0, InplaceGpuDimShuffle{0,2,1}.0, GpuAlloc<None>{memset_0=True}.0, GpuSubtensor{int64:int64:int64}.0, GpuSubtensor{int64:int64:int64}.0, GpuSubtensor{int64:int64:int64}.0, GpuSubtensor{int64:int64:int64}.0, GpuAlloc<None>{memset_0=True}.0, GpuSubtensor{::int64}.0, GpuAlloc<None>{memset_0=True}.0, Elemwise{minimum,no_inplace}.0, GpuJoin.0, GpuJoin.0, InplaceGpuDimShuffle{x,0}.0, InplaceGpuDimShuffle{1,0}.0, InplaceGpuDimShuffle{1,0}.0)
+Toposort index: 919
+Inputs types: [TensorType(int64, scalar), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, (False, False, True)), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, (False, False, True)), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, matrix), TensorType(int64, scalar), GpuArrayType<None>(float32, matrix), GpuArrayType<None>(float32, matrix), GpuArrayType<None>(float32, row), GpuArrayType<None>(float32, matrix), GpuArrayType<None>(float32, matrix)]
+Inputs shapes: [(), (2821, 256, 32), (2821, 211, 32), (2821, 32, 1), (2821, 32, 211), (2821, 32, 1), (2821, 32, 256), (2821, 32, 256), (2822, 32, 256), (2822, 32, 256), (2, 1024), (), (256, 1024), (211, 1024), (1, 1024), (1024, 256), (1024, 211)]
+Inputs strides: [(), (-32768, 4, 1024), (-844, 4, 2381768), (128, 4, 4), (-844, 2381768, 4), (-4, 11284, 361088), (-32768, 1024, 4), (-32768, 1024, 4), (32768, 1024, 4), (-32768, 1024, 4), (4096, 4), (), (4096, 4), (4096, 4), (4096, 4), (4, 4096), (4, 4096)]
+Inputs values: [array(2821, dtype=int64), 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', array(2821, dtype=int64), 'not shown', 'not shown', 'not shown', 'not shown', 'not shown']
+Outputs clients: [[GpuSubtensor{int64:int64:int64}(forall_inplace,gpu,grad_of_scan_fn}.0, ScalarFromTensor.0, ScalarFromTensor.0, Constant{-1})], [GpuSubtensor{int64:int64:int64}(forall_inplace,gpu,grad_of_scan_fn}.1, ScalarFromTensor.0, ScalarFromTensor.0, Constant{-1})], [GpuSubtensor{int64}(forall_inplace,gpu,grad_of_scan_fn}.2, ScalarFromTensor.0)], [GpuReshape{2}(forall_inplace,gpu,grad_of_scan_fn}.3, MakeVector{dtype='int64'}.0)]]
+
+HINT: Re-running with most Theano optimization disabled could give you a back-trace of when this node was created. This can be done with by setting the Theano flag 'optimizer=fast_compile'. If that does not work, Theano optimizations can be disabled with 'optimizer=None'.
+HINT: Use the Theano flag 'exception_verbosity=high' for a debugprint and storage map footprint of this apply node.

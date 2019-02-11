@@ -1,0 +1,305 @@
+X:0
+T: 0
+L: 1/8
+Q: 3/8=80
+M: 6/8
+K: G clef=treble
+D|
+G2BG2A|
+B2BB2B|
+B2Bc2c|
+d3g2d/d/|
+d2dedc|
+B2AG2B/B/|
+A2BcAG/A/|
+B3G2|
+]
+
+X:1
+T: 1
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: C clef=treble
+d2d|
+f2f|
+e>fg|
+f>ed|
+^c2d|
+e2f|
+gf2|
+e3|
+a2b|
+c'3|
+g>af|
+e2f|
+f2f|
+f/e/d/c/B/c/|
+d2d|
+c2c|
+d2c|
+B>AB|
+A3|
+G2F|
+F2C|
+A>AB|
+c2c|
+B2B/B/|
+c2d|
+e2e|
+g2e|
+g2a|
+f2e/d/|
+^c2c|
+d2A|
+B2B|
+c3|
+c2c|
+c2B|
+A>BA|
+G2A|
+F2|
+]
+
+X:2
+T: 2
+L: 1/8
+Q: 3/8=80
+M: 3/8
+K: C clef=treble
+G|
+GGG|
+cdc|
+BAG|
+E2E|
+GGG|
+DDD|
+FED|
+C2C|
+G/G/GG|
+cBA|
+G/F/E/D/C/D/|
+C2z|
+cBA|
+GEG|
+ABA|
+AGd|
+c/B/AG|
+GzG|
+cdc|
+BAB|
+cBA|
+G2c|
+ccB|
+c2z/|
+]
+
+X:3
+T: 3
+L: 1/4
+Q: 1/4=120
+M: 3/4
+K: Bb clef=treble
+AGF|
+G3|
+EFG|
+C2C|
+GBA|
+G3|
+c2B|
+AGF|
+G3|
+G3|
+F3|
+BAG|
+F/G/EF|
+G3|
+F3|
+D2F|
+EFE|
+D3|
+G2F|
+E/F/BA|
+G3|
+]
+
+X:4
+T: 4
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+e^de2|
+fg2a|
+gf2g|
+gfee|
+fgg2|
+fed/c/B/A/|
+Bc2d|
+edc2|
+b2c'a|
+bab2|
+abd2|
+g2ec/e/|
+fg/a/dc|
+d2ze/d/|
+cB/A<BA/|
+dAFF|
+B2G2|
+FEDC|
+G,2A,/C/A,/E/|
+B,2g2|
+gfed|
+ggcA|
+B/c/ddd|
+cd/e/c2|
+B/c/dBG|
+A/B/c/d/cf|
+g/f/e/d/cc|
+c2f2|
+]
+
+X:5
+T: 5
+L: 1/4
+Q: 1/2=60
+M: 2/2
+K: C clef=treble
+G|
+EEEE|
+D>EDG|
+GA/G/FE|
+cBAB|
+c2zG|
+AABB/c/|
+dccB/B/|
+G/_G/G/A/BG/A/|
+BAG/A/G|
+ceed/c/|
+BABd/c/|
+BdG3/F/|
+GBA2|
+]
+
+X:6
+T: 6
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+B2|
+B3A/G/A2|
+G2ABcA|
+BG2GGG|
+A4A3/B/|
+cBAGcd|
+B2A2B3/d/|
+cBABcd|
+B2z2c3/c/|
+c2BBAA|
+c2B2d2|
+e2d2cB|
+A2>G2FE|
+D2E2FD|
+G4zedc|
+B2AAG2|
+FG4|
+]
+
+X:7
+T: 7
+L: 1/8
+Q: 1/4=120
+M: 2/4
+K: C clef=treble
+G|
+cdc/d/e/d/|
+ccc3/B/|
+cczd|
+cz/^c/dd2c|
+Bcd/d/f/e/|
+d2d2|
+dded/c/|
+dcBc|
+ccBc/d/|
+zddc|
+B2AG|
+G2z2|
+ddGc|
+AG/A/Gc|
+edeG|
+c/d/e/f/g2|
+gf/e/dc|
+G>Gdd|
+eedc/B/|
+c2|
+]
+
+X:8
+T: 8
+L: 1/8
+Q: 1/4=120
+M: 3/4
+K: G clef=treble
+d2BGA2|
+B4AG|
+c2BABA|
+G2B2A2|
+A2GFED|
+GABcd2|
+a2fga2|
+BABGA2|
+BcdcBA|
+GABGA2|
+D4A2|
+BGcBAB|
+G2>F2GA|
+B6|
+ABc2d2|
+g4e2|
+ABcBcd|
+BAGdef|
+g2B2^c2|
+d4f2|
+e4de|
+fedcBA|
+GAB2AG|
+G6|
+]
+
+X:9
+T: 9
+L: 1/4
+Q: 3/8=80
+M: 6/8
+K: D clef=treble
+D/|
+DE/FG/|
+AA/AB/|
+AA/Ac/|
+B3/AA/|
+Bc/dB/|
+AB/AA/|
+AF/GF/|
+E3/D|
+d|
+G3/FE/|
+FF/FE/|
+FD/DC/|
+C3/DE/|
+BB/AB/|
+GG/GF/|
+EE/EE/|
+F3/FF/|
+GG/GF/|
+E3/D3/|
+DD/EF/|
+G3/A3/|
+BA/GF/|
+E/D/DD3/|
+DD/DD/|
+C3/D3/|
+DD/DE/|
+F3/D3/|
+]
+

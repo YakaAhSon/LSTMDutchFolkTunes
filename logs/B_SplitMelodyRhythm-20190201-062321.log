@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "train_rnn.py", line 43, in <module>
+    tunes = [tune.getTrainingTokens() for tune in tunes]
+  File "E:\Documents\projects\ducth-folk-songs\tune_parser.py", line 144, in getTrainingTokens
+    t.append("<P>"+token.pitch)
+NameError: global name 't' is not defined

@@ -1,0 +1,491 @@
+X:0
+X
+:
+  6 4 4 
+ T :   D u e   d o o r   S i j n   k i j n   H e e r e n   t o e t   s l i j s   w e t e r i n   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 5 
+ % % h u m d r u m - v e r i t a s   1 6 5 6 2 0 3 8 8 9 
+ % % h u m d r u m - v e r i t a s - d a t a   3 5 3 4 2 9 6 2 0 2 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   F   c l e f = t r e b l e 
+ . ( ' z 2 d 2   | 
+ c 2 B 3 / A /   | 
+ d 2 D 2 )   | 
+ . ( ' c 2 A 2   | 
+ G 2 C 2   | 
+ G 4 )   | 
+ . ( ' z 2 E 2   | 
+ E > F ^ F 3 / F /   | 
+ ( E D G A )   | 
+ G 4 )   | 
+ . ( ' F 2 E 2   | 
+ F 4   | 
+ A 2 G 3 / G /   | 
+ A 4 z 2 )   | 
+ . ( ' d 4   | 
+ B A c c   | 
+ d ^ c B ^ A   | 
+ G 3 ) . ( ' A   | 
+ A 2 F 2   | 
+ F 4 -   | 
+ G 2 ) . ( ' E B   | 
+ A 4   | 
+ E 4 )   | ]
+
+X:1
+X
+:
+  4 5 1 
+ T :   I n   G o d t   r i n d e n   s i j n   g h o e n s   d h e f t   i s   z i j n   h i e   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 4 
+ % % h u m d r u m - v e r i t a s   1 7 8 9 3 2 9 6 4 9 
+ % % h u m d r u m - v e r i t a s - d a t a   3 1 1 6 1 2 8 3 4 9 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   C   c l e f = t r e b l e 
+ . ( ' B 4 c 4 d 4 A 2 c 2 B 2 d 2 f 4 d 4 z 4 ) . ( ' g 4 d 2 f 2 e 4 c 4 d 2 d 2 c 4 B 4 z 4 ) . ( ' g 4 f 2 e 2 d 2 B 2 A 4 A 4 z 4 ) . ( ' d 4 e 2 d 2 d 2 d 2 c 4 B 4 z 4 ) . ( ' B 4 c 2 d 2 c 4 d 4 d 2 c 2 B 4 A 4 z 4 ) . ( ' d 4 c 4 B 4 A 2 G 2 A 4 z 4 ) . ( ' c 4 c 4 A 4 A 4 G 4 A 4 )   | ]
+
+X:2
+X
+:
+  9 0 6 
+ T :   D i e   m y n s c h e   w a t   v a n   l e e t   i n   d i t n   m i e n   k r e m u e   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 1 
+ % % h u m d r u m - v e r i t a s   3 8 9 3 5 4 4 0 6 3 
+ % % h u m d r u m - v e r i t a s - d a t a   3 1 8 7 0 0 3 7 6 8 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   3 / 4 
+ Q :   1 / 4 = 1 2 0 
+ K :   G   c l e f = t r e b l e 
+ . ( ' G A   [ I : s e t b a r n b   1 ] | 
+ B A 3 / A /   | 
+ A G 2 ) . ( ' E   | 
+ A G E /   D /   | 
+ G 3 ) . ( ' D   | 
+ E A B c   | 
+ ( B A /   B / d )   | 
+ A ( A / /   F / /   G / )   G /   F /   | 
+ E E ) . ( ' B   | 
+ A G F   | 
+ F E D )   | 
+ . ( ' c G F   | 
+ G A 3 / D /   | 
+ G G G   | 
+ B > A G   | 
+ G D ) . ( ' B   | 
+ A A ( G   | 
+ G )   G /   F /   | 
+ B G F   | 
+ D 3 )   | ]
+
+X:3
+X
+:
+  2 1 
+ T :   W i e   h e b b e n   E o e t ,   n a a t t e   d o r c k   g a n i c h h e r ' y   L i   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 2 9 
+ % % h u m d r u m - v e r i t a s   8 2 7 5 0 7 4 3 1 
+ % % h u m d r u m - v e r i t a s - d a t a   1 2 6 0 0 1 0 0 0 9 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 8 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   F   c l e f = t r e b l e 
+ . ( ' c   c   B   A   [ I : s e t b a r n b   1 ] | 
+ ( A   F ) A 2 G   G   | 
+ G 2 A 2 F 2 )   | 
+ . ( ' c 2   B   A   B   | 
+ c   d   e   f   g   | 
+ ( d   e ) )   . ( ' d   A   | 
+ ( c   d )   G   G   | 
+ A 2 G 2 )   | 
+ . ( ' F 2   F   A   F   | 
+ C   E   G   F   | 
+ ( D 2 D ) F   G   | 
+ B 6   | 
+ z )   . ( ' c 2 ( c   d )   B   | 
+ A 2 ( ^ F   F )   E   | 
+ G 2 z 2 )   | 
+ . ( ' D   A   G   A   | 
+ A 2 ( 3 : 2 : 4 d 2 )   . ( ' B   | 
+ B 2 > A 2   B   c   | 
+ A 4 ^ F 2   | 
+ F 4 )   | ]
+
+X:4
+X
+:
+  8 5 7 
+ T :   V e r b l i n t e s t e n   s i j n   a l d o o r t   V r i e m t   v r e   l i j n   n   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 1 
+ % % h u m d r u m - v e r i t a s   4 0 3 9 6 6 3 6 0 2 
+ % % h u m d r u m - v e r i t a s - d a t a   3 8 1 7 5 5 5 9 7 3 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   C   c l e f = t r e b l e 
+ . ( ' A 4 B 2 c 2 d 4 g 4 e 2 f 2 e 4 d 4 z 4 ) . ( ' e 4 e 2 c 2 d 2 c 2 B 4 A 4 G 4 z 4 ) . ( ' c 4 A 4 A 4 B 2 A 2 c 2 B 2 c 4 z 4 ) . ( ' e 4 e 2 d 2 A 2 G 2 A 4 z 4 ) . ( ' c 4 d 2 d 2 e 4 e 4 d 4 z 4 ) . ( ' c 4 d 2 e 2 A 4 c 4 B 2 ) . ( ' A 2 B 2 A 2 B 4 A 4 )   | ]
+
+X:5
+X
+:
+  8 6 0 
+ T :   D a e r   H a e r   o p   t i e   i s ,   v a n   v l o e s e n 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 3 
+ % % h u m d r u m - v e r i t a s   2 0 6 9 4 5 9 9 9 
+ % % h u m d r u m - v e r i t a s - d a t a   7 0 7 6 4 8 3 9 9 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 8 
+ M :   4 / 4 
+ Q :   1 / 4 = 1 2 0 
+ K :   C   c l e f = t r e b l e 
+ . ( ' d 2 > - 2 2 c 2 ) . ( ' A B 2 d 2 d   B   | 
+ B 6   | 
+ G 2 z 4 ) . ( ' A 2   | 
+ F 2 A   A G 2 G 2 F 2   | 
+ c 4 G 2 ) . ( ' ( F /   G / )   B   G   | 
+ A 2 > G 2   _ B A 2 ) . ( ' A 2   | 
+ B 4 c 4 B 3 /   c /   | 
+ d 4 B >   A   G   A   G   | 
+ D 2 > E 3 C 2 )   | 
+ . ( ' G 4 ^ F 2   | 
+ G 4 ^ F 2   | 
+ G 2 F 2 G 3 ^ F   | 
+ A 6 )   | ]
+
+X:6
+X
+:
+  3 7 9 
+ T :   M o   G o d t   l i e   w i s   v o g e r   t o t   d e n   w o u n t   e n   b e n a     [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 5 
+ % % h u m d r u m - v e r i t a s   3 4 3 3 0 3 7 1 6 1 
+ % % h u m d r u m - v e r i t a s - d a t a   1 6 6 5 2 6 4 7 1 8 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   F   c l e f = t r e b l e 
+ . ( ' D 4 F 2 F 2 A 4 E 4 F 2 F 2 E 2 E 4 z 4 ) . ( ' A 4 d 2 c 2 c 2 G 2 A 4 F 4 G 4 z 4 ) . ( ' C 4 E 2 F 2 E 2 F 2 F 4 F 4 E 4 z 4 ) . ( ' F 4 E 2 D 2 E 4 F 4 E 2 D 2 C 4 z 4 ) . ( ' A 4 A 4 c 4 _ B 2 A 2 G 4 E 4 E 4 z 4 ) . ( ' C 4 F 4 G 2 G 2 E 4 D 4 D 4 )   | ]
+
+X:7
+X
+:
+  4 7 3 
+ T :   Z a r i e l t   u e t   s i j n   g e s t r i c h e   w e n   l e o r   V o o r   e n d a   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 6 
+ % % h u m d r u m - v e r i t a s   1 6 9 5 2 6 9 3 3 0 
+ % % h u m d r u m - v e r i t a s - d a t a   3 0 0 6 7 8 6 8 2 3 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   C   c l e f = t r e b l e 
+ . ( ' c 4 A 4 A 4 A 2 c 2 c 2 B 2 c 4 z 4 ) . ( ' c 4 c 2 B 2 A 2 G 2 G 4 z 4 ) . ( ' G 4 F 2 G 2 F 2 E 2 F 4 D 4 z 4 ) . ( ' D 4 E 2 F 2 D 4 D 4 z 4 ) . ( ' G 4 F 4 A 4 A 2 B 4 A 4 z 4 ) . ( ' c 4 A 4 G 4 G 2 F 2 F 4 D 4 )   | ]
+
+X:8
+X
+:
+  4 0 7 
+ T :   I n   h e g   e e n   h e b b t   u   u y s   b e g a a n   G o d   m i j n   H e o r m   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 5 
+ % % h u m d r u m - v e r i t a s   1 2 1 3 6 7 4 1 2 3 
+ % % h u m d r u m - v e r i t a s - d a t a   2 3 3 4 5 7 3 6 7 6 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   C   c l e f = t r e b l e 
+ . ( ' A 4 _ B 4 A 4 A 2 B 2 A 2 G 2 F 4 D 4 z 4 ) . ( ' d 4 d 2 d 2 c 4 c 4 d 2 d 2 c 4 z 4 ) . ( ' G 4 A 4 A 4 G 4 G 4 G 2 F 2 E 4 E 4 z 4 ) . ( ' G 4 B 4 c 4 d 2 B 2 c 4 G 4 G 4 z 4 ) . ( ' c 4 A 4 A 4 G 2 F 2 G 2 F 2 F 4 A 4 )   | ]
+
+X:9
+X
+:
+  9 4 6 
+ T :   I n s   C i e p   b e l a n d   z o j c k   z i j n   o p   o o n d   w a r   b i o n   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 4 
+ % % h u m d r u m - v e r i t a s   1 0 9 6 6 8 8 9 8 1 
+ % % h u m d r u m - v e r i t a s - d a t a   2 7 7 8 1 2 3 2 9 7 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   6 / 8 
+ Q :   3 / 8 = 8 0 
+ K :   G   c l e f = t r e b l e 
+ . ( ' D   [ I : s e t b a r n b   1 ] | 
+ G > A A B 3 / c /   | 
+ d 2 / > ) . ( ' d /   | 
+ d d e e   | 
+ d A / )   . ( ' G /   | 
+ A A / B   | 
+ F 3 / ) . ( ' D /   | 
+ F 3 / D /   | 
+ E 3 /   | 
+ D 2 )   | ]
+
+X:10
+X
+:
+  2 4 3 
+ T :   A l z   w a t   G o d   m i j n   l e c h ' s   m e n   m i j n   k i j n s   z i n g     [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 0 
+ % % h u m d r u m - v e r i t a s   2 7 7 1 8 3 9 0 7 9 
+ % % h u m d r u m - v e r i t a s - d a t a   8 3 4 9 1 6 8 4 1 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   4 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   F   c l e f = t r e b l e 
+ . ( ' z 4 F 2 ( F E F ) E A 2 A 2 c 2 c 2 B 4 A 4 F 4 z 2 ) . ( ' E 2 F 2 E 2 D 4 D 2 F 4 D 4 E 4 E 4 z 2 ) . ( ' D 2 G 2 G 4 A 4 B 2 B 4 A 4 ) . ( ' B 4 A 2 G 2 E 2 F 2 G 2 D 2 D 4 z ) . ( ' D 2 F 2 G G G 2 E 2 F 2 ( E E D G E F 4 ) z 2 ) . ( ' F 2 G A A 2 B 2 B 2 B A B 4 A 4 z 2 ) . ( ' F 2 A 2 G 2 G 4 F 2 F 2 F 2 D 4 )   | ]
+
+X:11
+X
+:
+  3 9 9 
+ T :   O   H e e r   d e   G o d   g e s g o u t e n   D i e   b o e   e r   h y   l e n t   c   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 7 
+ % % h u m d r u m - v e r i t a s   7 5 5 8 2 4 0 9 5 
+ % % h u m d r u m - v e r i t a s - d a t a   1 6 2 1 6 4 3 4 4 6 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   4 / 4 
+ Q :   1 / 4 = 1 2 0 
+ K :   C   c l e f = t r e b l e 
+ . ( ' z 2 F G   | 
+ F F E D   | 
+ E 2 G ) . ( ' G   | 
+ c B A A   | 
+ G 4 )   | 
+ . ( ' _ B c A G   | 
+ d 4 )   | ]
+
+X:12
+X
+:
+  9 
+ T :   E w   d a a r   g y   o p e e s   d o n b t r e n s   W i l t   u s t   a f e n   n a l     [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 0 
+ % % h u m d r u m - v e r i t a s   2 0 6 8 5 5 9 7 7 1 
+ % % h u m d r u m - v e r i t a s - d a t a   2 4 7 4 6 1 0 7 5 9 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   4 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   F   c l e f = t r e b l e 
+ . ( ' z 2 D 2 D 2 C 4 ( D 2 E 2 ) G 4 G 2 A 4 z 2 ) . ( ' D 2 D 4 F 2 D 2 ( G 4 F D F 4 A 4 B 4 ) d 2 B 4 ) . ( ' F 4 D 2 ( E F F G G F F ) E 2 D 4 )   | ]
+
+X:13
+X
+:
+  9 8 3 
+ T :   O   G o d t   d i e   g h e l y n ,   i n   ' i j n   i n   w i j n   v e r l o o d t     [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 5 
+ % % h u m d r u m - v e r i t a s   2 9 7 0 8 7 4 9 1 8 
+ % % h u m d r u m - v e r i t a s - d a t a   3 9 4 6 3 0 3 8 6 9 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   F   c l e f = t r e b l e 
+ . ( ' F 4 A 2 G 2 G 4 F 4 F 2 F 2 D 4 z 4 ) . ( ' G 4 A 4 c 4 B 2 B 2 G 4 A 4 z 4 ) . ( ' E 4 D 2 C 2 D 4 F 4 B 4 A 4 z 4 ) . ( ' F 4 E 2 D 2 G 2 B 2 A 4 G 4 z 4 ) . ( ' c 4 B 2 A 2 F 2 F 2 G 4 z 4 ) . ( ' c 4 B 2 A 2 G 2 A 2 A 4 = B 4 z 4 ) . ( ' B 4 B 2 A 2 G 2 G 2 F 4 C 4 z 4 ) . ( ' F 4 E 2 F 4 F 4 F 4 )   | ]
+
+X:14
+X
+:
+  5 8 2 
+ T :   E i e   e n   r i e t   o p   I c k   b ' r o u e n   m a t   m h e m o c h t , ,   D u   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 5 
+ % % h u m d r u m - v e r i t a s   3 4 8 4 3 9 6 7 9 0 
+ % % h u m d r u m - v e r i t a s - d a t a   8 8 5 0 1 7 7 0 5 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   F   c l e f = t r e b l e 
+ . ( ' G 4 F 4 A 4 B 2 A 2 c 2 d 2 c 4 d 4 z 4 ) . ( ' d 4 d 2 A 2 B 2 A 2 F 4 F 4 z 4 ) . ( ' C 4 F 2 F 2 E 4 C 4 D 4 z 4 ) . ( ' D 4 F 2 D 2 E 4 D 4 F 4 G 4 z 4 ) . ( ' C 4 E 2 D 2 F 2 G 2 A 4 F 4 z 4 ) . ( ' C 4 A 2 A 2 G 2 G 2 F 2 E 2 D 4 z 4 ) . ( ' A 4 B 2 A 2 G 2 F 2 D 4 C 4 z 4 ) . ( ' B 4 A 4 G 4 F 2 E 2 E 4 D 4 z 4 ) . ( ' F 4 E 2 E 2 D 4 D 4 D 4 z 4 ) . ( ' F 4 A 2 A 2 A 2 G 2 F 4 E 4 z 4 ) . ( ' F 4 F 2 E 2 F 2 E 2 E 4 D 4 )   | ]
+
+X:15
+X
+:
+  6 0 0 
+ T :   N   z '   k a s   q i   s i j t   b e   h e t   w a e r t   d e   m o n d e ,   C i g s   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 4 
+ % % h u m d r u m - v e r i t a s   3 5 0 5 2 7 7 6 0 5 
+ % % h u m d r u m - v e r i t a s - d a t a   8 2 9 7 3 6 9 5 9 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   F   c l e f = t r e b l e 
+ . ( ' B   [ I : s e t b a r n b   1 ] | 
+ d 2 d ( c   B /   A / ) A   | 
+ ( F G ) A 2 ) . ( ' G 3 /   G /   | 
+ G 2 G 3 / F /   | 
+ D 4 )   | ]
+
+X:16
+X
+:
+  6 1 
+ T :   B e w e e r t   V e r h l y k e n   E i e   a l j a n e n   n r o y s t   D o o r   e l   [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 2 9 
+ % % h u m d r u m - v e r i t a s   2 2 6 3 6 0 0 7 2 5 
+ % % h u m d r u m - v e r i t a s - d a t a   3 7 5 7 2 0 0 8 6 4 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   F   c l e f = t r e b l e 
+ . ( ' d 4 d 2 e 2 f 4 d 4 B 2 A 2 B 4 A 4 z 4 ) . ( ' c 4 c 2 B 2 c 4 z 4 ) . ( ' G 4 A 4 G 2 B 2 A 4 G 4 z 4 ) . ( ' d 4 e 2 f 2 g 4 B 4 A 4 )   | ]
+
+X:17
+X
+:
+  7 7 6 
+ T :   W e t   h r o e n e n   i n   w y n s   l e r i e t   a l   w i g   t u a t   z a t ,     [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 5 
+ % % h u m d r u m - v e r i t a s   2 5 7 0 0 2 9 6 0 4 
+ % % h u m d r u m - v e r i t a s - d a t a   1 7 4 1 4 7 0 5 4 9 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   4 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   C   c l e f = t r e b l e 
+ . ( ' z 2 ( G 2 > F 2 F 2 ) D 2 B 4 c 2 d 4 ( c 4 G A B 4 ) z 4 ) . ( ' D 2 F 2 G 2 c 4 B 2 A 4 z 2 ) . ( ' G 2 F 2 > E 2 C 2 E D G 4 F 4 ^ F 2 G 2 ) . ( ' A 4 G 2 E 2 A 4 F 4 C 2 D 4 )   ] | : 
+ . ( ' F 2 G 2 ( F E F 2 ) F 2 G 4 E 2 F 4 z 2 ) . ( ' B 2 A 2 A 4 B 2 A 4 G 2 > A 2 F 2 ) . ( ' c 2 d 2 d 2 c 2 B 4 A 2 ) . ( ' A 2 B 2 A 2 G 4 F 4 F 2 D 4 z 2 ) . ( ' C 2 F 2 A 2 F 2 ( F E A ) B B 4 )   | ]
+
+X:18
+X
+:
+  3 6 5 
+ T :   L u y   H a y d o e   V r i j n ,   D a g s t g r e n   l a v e n   z a t   ' n   s n     [ . . . ] 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 3 
+ % % h u m d r u m - v e r i t a s   9 0 0 5 8 6 3 3 8 
+ % % h u m d r u m - v e r i t a s - d a t a   2 4 4 0 2 6 7 5 5 2 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 8 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   F   c l e f = t r e b l e 
+ . ( ' G   A   [ I : s e t b a r n b   1 ] | 
+ G 2 >   F 2   A 3   | 
+ G   B   c   B   A   G   | 
+ G 6 )   | 
+ . ( ' B   A   A   B   B   G   | 
+ B   c   d   d   e   B   A   | 
+ G 3 F )   . ( ' A   | 
+ A 2 G   G A 2 D   | 
+ E   E   D   F A 2 B   | 
+ A 2 > ) . ( ' D   E   B   B   F   | 
+ G 2 G 2 G   G F   C   | 
+ ^ F 2 G   E D 2 ) . ( ' d   B   | 
+ B 2 B   B c 2 A 2   | 
+ A 4 E 2 G 2 )   | 
+ . ( ' F   G   B   A   F   G   B   B   | 
+ d   e   f   e   B   A G 2 )   | 
+ . ( ' G   G   F   G   G   ^ F   ( E   E   | 
+ E   E ) D 2 ) . ( ' E   F   | 
+ E 2 D 2 ( B   A )   ( F   G )   | 
+ G 2 > G 2 F 2 z 2 )   | ]
+
+X:19
+X
+:
+  9 7 7 
+ T :   L o e t   h i j   s e e r   g h e c l e n d e n   s l o o m e n ,   s i j n   s a g m e n 
+ % % a b c - v e r s i o n   2 . 0 
+ % % a b c x - a b c m 2 p s - t a r g e t - v e r s i o n   5 . 9 . 1   ( 2 9   S e p   2 0 0 8 ) 
+ % % a b c - c r e a t o r   h u m 2 a b c   b e t a 
+ % % a b c x - c o n v e r s i o n - d a t e   2 0 1 8 / 1 1 / 0 1   1 4 : 3 5 : 3 3 
+ % % h u m d r u m - v e r i t a s   1 8 3 5 6 3 6 0 1 
+ % % h u m d r u m - v e r i t a s - d a t a   3 0 3 7 0 3 4 6 7 7 
+ % % c o n t i n u e a l l   1 
+ % % b a r n u m b e r s   0 
+ L :   1 / 4 
+ M :   2 / 2 
+ Q :   1 / 2 = 6 0 
+ K :   C   c l e f = t r e b l e 
+ . ( ' D 4 G 2 A 4 G 4 F 4 D 2 E 2 F 4 A 4 F 4 z 4 ) . ( ' G 4 A 4 d 4 B 2 B 2 A 2 G 2 G 2 A 2 A 4 G 4 z 4 ) . ( ' A 4 c 4 B 4 A 4 G 2 G 2 G 2 F 2 G 4 z 4 ) . ( ' C 4 D 2 F 2 G 4 A 4 c 2 d 2 B 4 c 4 B 4 z 4 ) . ( ' d 4 c 2 d 2 A 4 c 4 c 2 A 2 B 4 A 4 G 4 )   | ]
+

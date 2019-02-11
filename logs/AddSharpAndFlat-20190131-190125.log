@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "train_rnn.py", line 42, in <module>
+    for tune in tunes:
+NameError: name 'tunes' is not defined

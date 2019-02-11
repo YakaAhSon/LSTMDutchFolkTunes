@@ -1,0 +1,25 @@
+X:19
+T: Wat Vader al, Voys sijt stond Rhenen
+L: 1/8 
+M: 6/8 
+Q: 3/8=80 
+K: G 
+clef=treble 
+.('d [I:setbarnb 1]|
+A2A f |
+(A c) |
+(G e) B |
+c2c |
+d2c |
+(c |
+d8z2) c |
+f2e3/e/ |
+(c (A d) c |
+767 |
+[M:9/8]F3/E3/).('EE/ B) A G |
+^G2).('A A/ G |
+[M:6/8](B |
+A2A |
+(B d A) c |
+G3-G2) |]
+

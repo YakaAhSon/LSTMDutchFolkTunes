@@ -1,0 +1,5 @@
+vocabulary size: 13035
+n tunes: 999
+n train tunes: 951
+n validation tunes: 48
+min, max length 39 835

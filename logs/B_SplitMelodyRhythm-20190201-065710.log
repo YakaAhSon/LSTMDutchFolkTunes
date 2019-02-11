@@ -1,0 +1,172 @@
+set(['M: 5/2\n', 'M: 9/4\n', '<P>_A,', '<P>^D,', '<P>e', 'M: 3/4\n', 'M: 8/4\n', "<P>c'", 'Q: 3/4=60\n', 'Q: 1/2=80\n', 'K: B clef=treble\n', 'M: 14/2\n', 'M: 4/4\n', 'M: 6/2\n', '<P>E,', 'Q: 1/4=176\n', 'Q: 1/4=80\n', 'Q: 1/2=76\n', 'Q: 3/8=88\n', '<P>_B,', 'Q: 3/8=132\n', '<P>z', 'Q: 3/8=120\n', '<P>x', 'Q: 3/8=96\n', '<P>b', '<P>c', '<P>a', 'Q: 3/8=80\n', '<P>g', '<P>d', 'Q: 1/2=96\n', 'K: A clef=treble\n', 'Q: 3/8=72\n', 'K: Bb clef=treble\n', 'Q: 3/8=240\n', 'Q: 1/4=76\n', 'Q: 1/4=69\n', '<P>Z', 'M: 1/4\n', 'Q: 1/2=48\n', "<P>_g'", '<P>B', '<P>C', '<P>A', '<P>F', '<P>B,', '<P>D', '<P>E', 'M: 10/2\n', '|\n', '<D>3/', 'Q: 1/4=88\n', 'K: Ab clef=treble\n', '<D>7', 'K: Eb clef=treble\n', 'M: 3/2\n', 'M: 2/4\n', 'Q: 3/8=76\n', 'Q: 3/8=184\n', '<P>_G,', 'Q: 1/8=176\n', 'Q: 1/4=126\n', '<D>3//', 'Q: 1/4=72\n', 'Q: 3/4=66\n', 'Q: 1/4=138\n', '<P>C,', 'Q: 1/2=120\n', 'Q: 1/8=240\n', 'Q: 3/8=116\n', '<P>G', 'Q: 1/8=112\n', 'M: 5/4\n', 'Q: 1/2=88\n', 'Q: 1/4=108\n', 'K: Eb clef=bass\n', '<D>6', "<P>f'", 'Q: 1/2=104\n', '<P>^D', 'Q: 3/8=126\n', 'Q: 1/4=100\n', '<D>7//', 'M: 6/8\n', 'Q: 3/8=63\n', 'Q: 3/8=160\n', "<P>^c'", 'Q: 3/8=176\n', 'Q: 1/8=120\n', 'Q: 1/4=46\n', 'M: 8/8\n', 'Q: 3/8=168\n', 'Q: 1/2=54\n', 'Q: 3/8=144\n', 'L: 1/8\n', '<P>A,', "<P>g'", 'Q: 1/4=120\n', 'M: 7/8\n', 'K: C clef=bass\n', 'M: 9/8\n', 'Q: 1/4=144\n', '<P>_g', '<P>^C,', '<P>_b', 'Q: 1/4=168\n', '<P>_a', 'M: 7/4\n', 'Q: 1/4=152\n', "<P>d'", 'M: 2/2\n', 'K: F clef=bass\n', 'K: D clef=treble\n', 'M: 3/8\n', 'Q: 1/2=56\n', "<P>^d'", 'Q: 1/2=60\n', '<P>_G', '<P>_B', '<P>_A', 'Q: 1/4=160\n', '<D>//', 'Q: 3/8=84\n', 'M: 4/8\n', 'Q: 1/2=92\n', '<P>B,,', '<D>/8', '<D>/>', 'Q: 3/8=69\n', '<D>/<', 'Q: 3/8=92\n', 'Q: 1/4=96\n', '<P>^d', '<P>^c', 'Q: 1/8=160\n', '<D>/', 'M: 5/8\n', 'K: E clef=treble\n', 'K: F clef=treble\n', 'M: 12/8\n', 'Q: 3/8=138\n', 'Q: 1/4=56\n', '<D>>', '<D><', 'M: 12/2\n', '<D>8', 'Q: 1/2=44\n', '<P>F,', '<D>4', '<D>5', '<D>2', '<D>3', '<P>^C', '<D>1', 'Q: 1/2=152\n', 'K: G clef=treble\n', 'Q: 1/2=52\n', 'Q: 3/4=69\n', 'Q: 3/8=60\n', 'Q: 1/4=84\n', 'Q: 1/2=69\n', 'Q: 3/8=66\n', "<P>e'", 'K: Db clef=treble\n', '<D>7/', 'Q: 1/2=72\n', 'M: 16/2\n', 'Q: 1/8=168\n', 'K: C clef=treble\n', 'Q: 1/8=152\n', 'Q: 3/8=112\n', 'Q: 1/2=63\n', 'Q: 1/8=144\n', 'M: 8/16\n', 'Q: 1/4=92\n', 'K: G clef=bass\n', '<P>G,', 'M: 2/8\n', 'Q: 1/2=66\n', 'Q: 3/8=100\n', 'M: 4/2\n', '<D>4>', '<D>4<', 'Q: 1/4=60\n', 'K: Bb clef=bass\n', 'Q: 1/2=100\n', 'L: 1/16\n', 'Q: 3/8=108\n', 'Q: 1/2=84\n', ']', 'Q: 1/4=112\n', 'M: 2/1\n', 'Q: 3/4=63\n', 'Q: 1/4=132\n', '<D>2<', 'L: 1/4\n', 'Q: 1/4=104\n', 'Q: 3/8=152\n', 'M: 6/4\n', '<D>2>', 'K: D clef=bass\n', 'Q: 1/4=192\n', '<D>//>', '<P>f', '<P>D,'])
+vocabulary size: 208
+n tunes: 18107
+n train tunes: 17195
+n validation tunes: 912
+min, max length 14 2818
+Building the model
+  number of parameters: 5828048
+  layer output shapes:               #params:   output shape:
+    InputLayer                       0          (16, None)
+    EmbeddingLayer                   43264      (16, None, 208)
+    InputLayer                       0          (16, None)
+    LSTMLayer                        1477632    (16, None, 512)
+    DropoutLayer                     0          (16, None, 512)
+    LSTMLayer                        2100224    (16, None, 512)
+    DropoutLayer                     0          (16, None, 512)
+    LSTMLayer                        2100224    (16, None, 512)
+    DropoutLayer                     0          (16, None, 512)
+    ReshapeLayer                     0          (None, 512)
+    DenseLayer                       106704     (None, 208)
+Train model
+1/107400 (epoch 0.001) train_loss=2232.57299805 time/batch=1.33s
+2/107400 (epoch 0.002) train_loss=2846.05444336 time/batch=0.77s
+3/107400 (epoch 0.003) train_loss=594.75634766 time/batch=0.26s
+4/107400 (epoch 0.004) train_loss=1353.64379883 time/batch=0.55s
+5/107400 (epoch 0.005) train_loss=940.19531250 time/batch=0.33s
+6/107400 (epoch 0.006) train_loss=346.13128662 time/batch=0.16s
+7/107400 (epoch 0.007) train_loss=724.15087891 time/batch=0.31s
+8/107400 (epoch 0.007) train_loss=1413.86645508 time/batch=0.61s
+9/107400 (epoch 0.008) train_loss=207.84495544 time/batch=0.11s
+10/107400 (epoch 0.009) train_loss=538.77001953 time/batch=0.24s
+11/107400 (epoch 0.010) train_loss=2593.83056641 time/batch=1.20s
+12/107400 (epoch 0.011) train_loss=3075.12939453 time/batch=1.31s
+13/107400 (epoch 0.012) train_loss=2344.05834961 time/batch=3.51s
+14/107400 (epoch 0.013) train_loss=494.16967773 time/batch=0.39s
+15/107400 (epoch 0.014) train_loss=701.04272461 time/batch=0.27s
+16/107400 (epoch 0.015) train_loss=675.99389648 time/batch=0.28s
+17/107400 (epoch 0.016) train_loss=300.97570801 time/batch=0.15s
+18/107400 (epoch 0.017) train_loss=372.62414551 time/batch=0.16s
+19/107400 (epoch 0.018) train_loss=1287.58032227 time/batch=0.60s
+20/107400 (epoch 0.019) train_loss=333.59426880 time/batch=0.17s
+21/107400 (epoch 0.020) train_loss=1617.03698730 time/batch=0.75s
+22/107400 (epoch 0.020) train_loss=782.95886230 time/batch=0.36s
+23/107400 (epoch 0.021) train_loss=789.06512451 time/batch=0.36s
+24/107400 (epoch 0.022) train_loss=924.65856934 time/batch=0.42s
+25/107400 (epoch 0.023) train_loss=1148.80224609 time/batch=0.55s
+26/107400 (epoch 0.024) train_loss=1328.40795898 time/batch=0.65s
+27/107400 (epoch 0.025) train_loss=722.21789551 time/batch=0.34s
+28/107400 (epoch 0.026) train_loss=793.36676025 time/batch=0.38s
+29/107400 (epoch 0.027) train_loss=491.56307983 time/batch=0.22s
+30/107400 (epoch 0.028) train_loss=3297.98828125 time/batch=1.68s
+31/107400 (epoch 0.029) train_loss=1654.25659180 time/batch=1.01s
+32/107400 (epoch 0.030) train_loss=575.97979736 time/batch=0.29s
+33/107400 (epoch 0.031) train_loss=143.73234558 time/batch=0.08s
+34/107400 (epoch 0.032) train_loss=378.03930664 time/batch=0.16s
+35/107400 (epoch 0.033) train_loss=650.86895752 time/batch=0.28s
+36/107400 (epoch 0.034) train_loss=776.10974121 time/batch=0.35s
+37/107400 (epoch 0.034) train_loss=1359.45996094 time/batch=0.64s
+38/107400 (epoch 0.035) train_loss=472.13415527 time/batch=0.25s
+39/107400 (epoch 0.036) train_loss=3363.40307617 time/batch=2.04s
+40/107400 (epoch 0.037) train_loss=1148.48120117 time/batch=0.57s
+41/107400 (epoch 0.038) train_loss=345.71612549 time/batch=0.16s
+42/107400 (epoch 0.039) train_loss=1310.07958984 time/batch=0.56s
+43/107400 (epoch 0.040) train_loss=943.76354980 time/batch=0.45s
+44/107400 (epoch 0.041) train_loss=1476.38281250 time/batch=0.68s
+45/107400 (epoch 0.042) train_loss=537.28674316 time/batch=0.26s
+46/107400 (epoch 0.043) train_loss=822.73840332 time/batch=0.38s
+47/107400 (epoch 0.044) train_loss=534.74658203 time/batch=0.25s
+48/107400 (epoch 0.045) train_loss=396.54266357 time/batch=0.19s
+49/107400 (epoch 0.046) train_loss=1030.81835938 time/batch=0.47s
+50/107400 (epoch 0.047) train_loss=1163.81921387 time/batch=0.55s
+51/107400 (epoch 0.047) train_loss=688.62036133 time/batch=0.32s
+52/107400 (epoch 0.048) train_loss=851.50988770 time/batch=0.42s
+53/107400 (epoch 0.049) train_loss=640.28930664 time/batch=0.29s
+54/107400 (epoch 0.050) train_loss=1009.29162598 time/batch=0.46s
+55/107400 (epoch 0.051) train_loss=598.44506836 time/batch=0.29s
+56/107400 (epoch 0.052) train_loss=851.81091309 time/batch=0.39s
+57/107400 (epoch 0.053) train_loss=573.14263916 time/batch=0.28s
+58/107400 (epoch 0.054) train_loss=596.53283691 time/batch=0.28s
+59/107400 (epoch 0.055) train_loss=858.58007812 time/batch=0.40s
+60/107400 (epoch 0.056) train_loss=367.37957764 time/batch=0.20s
+61/107400 (epoch 0.057) train_loss=422.13275146 time/batch=0.19s
+62/107400 (epoch 0.058) train_loss=792.68011475 time/batch=0.37s
+63/107400 (epoch 0.059) train_loss=89.99823761 time/batch=0.07s
+64/107400 (epoch 0.060) train_loss=710.75585938 time/batch=0.31s
+65/107400 (epoch 0.061) train_loss=832.53942871 time/batch=0.39s
+66/107400 (epoch 0.061) train_loss=921.39288330 time/batch=0.43s
+67/107400 (epoch 0.062) train_loss=403.45849609 time/batch=0.21s
+68/107400 (epoch 0.063) train_loss=1455.97290039 time/batch=0.81s
+69/107400 (epoch 0.064) train_loss=850.79956055 time/batch=0.42s
+70/107400 (epoch 0.065) train_loss=1050.25903320 time/batch=0.50s
+71/107400 (epoch 0.066) train_loss=934.83709717 time/batch=0.48s
+72/107400 (epoch 0.067) train_loss=942.84777832 time/batch=0.47s
+73/107400 (epoch 0.068) train_loss=1255.41259766 time/batch=0.57s
+74/107400 (epoch 0.069) train_loss=1152.62011719 time/batch=0.56s
+75/107400 (epoch 0.070) train_loss=567.66546631 time/batch=0.29s
+76/107400 (epoch 0.071) train_loss=467.27923584 time/batch=0.21s
+77/107400 (epoch 0.072) train_loss=261.42364502 time/batch=0.13s
+78/107400 (epoch 0.073) train_loss=750.90551758 time/batch=2.08s
+79/107400 (epoch 0.074) train_loss=1384.42968750 time/batch=0.76s
+80/107400 (epoch 0.074) train_loss=520.88012695 time/batch=0.26s
+81/107400 (epoch 0.075) train_loss=291.78668213 time/batch=0.15s
+82/107400 (epoch 0.076) train_loss=484.89373779 time/batch=0.23s
+83/107400 (epoch 0.077) train_loss=849.11059570 time/batch=0.40s
+84/107400 (epoch 0.078) train_loss=519.86816406 time/batch=0.25s
+85/107400 (epoch 0.079) train_loss=1072.83666992 time/batch=0.49s
+86/107400 (epoch 0.080) train_loss=928.74981689 time/batch=0.46s
+87/107400 (epoch 0.081) train_loss=176.94613647 time/batch=0.09s
+88/107400 (epoch 0.082) train_loss=914.94470215 time/batch=0.46s
+89/107400 (epoch 0.083) train_loss=761.81103516 time/batch=0.35s
+90/107400 (epoch 0.084) train_loss=470.91210938 time/batch=0.22s
+91/107400 (epoch 0.085) train_loss=786.72717285 time/batch=0.36s
+92/107400 (epoch 0.086) train_loss=78.60697937 time/batch=0.08s
+93/107400 (epoch 0.087) train_loss=149.04957581 time/batch=0.07s
+94/107400 (epoch 0.088) train_loss=374.19226074 time/batch=0.17s
+95/107400 (epoch 0.088) train_loss=433.05728149 time/batch=0.20s
+96/107400 (epoch 0.089) train_loss=784.39208984 time/batch=0.36s
+97/107400 (epoch 0.090) train_loss=395.63354492 time/batch=0.21s
+98/107400 (epoch 0.091) train_loss=946.26281738 time/batch=0.45s
+99/107400 (epoch 0.092) train_loss=1062.11499023 time/batch=0.53s
+100/107400 (epoch 0.093) train_loss=779.66772461 time/batch=0.38s
+101/107400 (epoch 0.094) train_loss=531.48303223 time/batch=0.90s
+102/107400 (epoch 0.095) train_loss=143.17654419 time/batch=0.11s
+103/107400 (epoch 0.096) train_loss=300.79699707 time/batch=0.15s
+104/107400 (epoch 0.097) train_loss=1064.08398438 time/batch=0.51s
+105/107400 (epoch 0.098) train_loss=144.03996277 time/batch=0.09s
+106/107400 (epoch 0.099) train_loss=903.61126709 time/batch=0.41s
+107/107400 (epoch 0.100) train_loss=652.79022217 time/batch=0.33s
+108/107400 (epoch 0.101) train_loss=516.82946777 time/batch=0.24s
+109/107400 (epoch 0.101) train_loss=739.87011719 time/batch=0.34s
+110/107400 (epoch 0.102) train_loss=613.11492920 time/batch=0.30s
+111/107400 (epoch 0.103) train_loss=728.37524414 time/batch=0.34s
+112/107400 (epoch 0.104) train_loss=370.31695557 time/batch=0.19s
+113/107400 (epoch 0.105) train_loss=882.35003662 time/batch=0.39s
+114/107400 (epoch 0.106) train_loss=286.70904541 time/batch=0.16s
+115/107400 (epoch 0.107) train_loss=188.98104858 time/batch=0.11s
+116/107400 (epoch 0.108) train_loss=919.52062988 time/batch=0.43s
+117/107400 (epoch 0.109) train_loss=309.18328857 time/batch=0.16s
+118/107400 (epoch 0.110) train_loss=943.00305176 time/batch=0.44s
+119/107400 (epoch 0.111) train_loss=654.49090576 time/batch=0.32s
+120/107400 (epoch 0.112) train_loss=880.58538818 time/batch=0.42s
+Traceback (most recent call last):
+  File "train_rnn.py", line 212, in <module>
+    train_loss = train(x_batch, mask_batch)
+  File "D:\Anaconda\lib\site-packages\theano\compile\function_module.py", line 917, in __call__
+    storage_map=getattr(self.fn, 'storage_map', None))
+  File "D:\Anaconda\lib\site-packages\theano\gof\link.py", line 325, in raise_with_op
+    reraise(exc_type, exc_value, exc_trace)
+  File "D:\Anaconda\lib\site-packages\theano\compile\function_module.py", line 903, in __call__
+    self.fn() if output_subset is None else\
+  File "D:\Anaconda\lib\site-packages\theano\scan_module\scan_op.py", line 963, in rval
+    r = p(n, [x[0] for x in i], o)
+  File "D:\Anaconda\lib\site-packages\theano\scan_module\scan_op.py", line 952, in p
+    self, node)
+  File "scan_perform.pyx", line 522, in theano.scan_module.scan_perform.perform
+  File "D:\Anaconda\lib\site-packages\theano\gpuarray\type.py", line 375, in value_zeros
+    context=self.context)
+  File "pygpu\gpuarray.pyx", line 682, in pygpu.gpuarray.zeros
+  File "pygpu\gpuarray.pyx", line 762, in pygpu.gpuarray.empty
+  File "pygpu\gpuarray.pyx", line 700, in pygpu.gpuarray.pygpu_empty
+  File "pygpu\gpuarray.pyx", line 301, in pygpu.gpuarray.array_empty
+pygpu.gpuarray.GpuArrayException: cuMemAlloc: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+Apply node that caused the error: forall_inplace,gpu,grad_of_scan_fn}(Elemwise{minimum,no_inplace}.0, InplaceGpuDimShuffle{0,2,1}.0, InplaceGpuDimShuffle{0,2,1}.0, GpuAlloc<None>{memset_0=True}.0, GpuSubtensor{int64:int64:int64}.0, GpuSubtensor{int64:int64:int64}.0, GpuSubtensor{int64:int64:int64}.0, GpuSubtensor{int64:int64:int64}.0, GpuAlloc<None>{memset_0=True}.0, GpuSubtensor{::int64}.0, GpuAlloc<None>{memset_0=True}.0, Elemwise{minimum,no_inplace}.0, GpuJoin.0, GpuJoin.0, InplaceGpuDimShuffle{x,0}.0, InplaceGpuDimShuffle{1,0}.0, InplaceGpuDimShuffle{1,0}.0)
+Toposort index: 919
+Inputs types: [TensorType(int64, scalar), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, (False, False, True)), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, (False, False, True)), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, 3D), GpuArrayType<None>(float32, matrix), TensorType(int64, scalar), GpuArrayType<None>(float32, matrix), GpuArrayType<None>(float32, matrix), GpuArrayType<None>(float32, row), GpuArrayType<None>(float32, matrix), GpuArrayType<None>(float32, matrix)]
+Inputs shapes: [(), (2817, 512, 16), (2817, 208, 16), (2817, 16, 1), (2817, 16, 208), (2817, 16, 1), (2817, 16, 512), (2817, 16, 512), (2818, 16, 512), (2818, 16, 512), (2, 2048), (), (512, 2048), (208, 2048), (1, 2048), (2048, 512), (2048, 208)]
+Inputs strides: [(), (-32768, 4, 2048), (-832, 4, 2344576), (64, 4, 4), (-832, 2344576, 4), (-4, 11268, 180288), (-32768, 2048, 4), (-32768, 2048, 4), (32768, 2048, 4), (-32768, 2048, 4), (8192, 4), (), (8192, 4), (8192, 4), (8192, 4), (4, 8192), (4, 8192)]
+Inputs values: [array(2817, dtype=int64), 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', 'not shown', array(2817, dtype=int64), 'not shown', 'not shown', 'not shown', 'not shown', 'not shown']
+Outputs clients: [[GpuSubtensor{int64:int64:int64}(forall_inplace,gpu,grad_of_scan_fn}.0, ScalarFromTensor.0, ScalarFromTensor.0, Constant{-1})], [GpuSubtensor{int64:int64:int64}(forall_inplace,gpu,grad_of_scan_fn}.1, ScalarFromTensor.0, ScalarFromTensor.0, Constant{-1})], [GpuSubtensor{int64}(forall_inplace,gpu,grad_of_scan_fn}.2, ScalarFromTensor.0)], [GpuReshape{2}(forall_inplace,gpu,grad_of_scan_fn}.3, MakeVector{dtype='int64'}.0)]]
+
+HINT: Re-running with most Theano optimization disabled could give you a back-trace of when this node was created. This can be done with by setting the Theano flag 'optimizer=fast_compile'. If that does not work, Theano optimizations can be disabled with 'optimizer=None'.
+HINT: Use the Theano flag 'exception_verbosity=high' for a debugprint and storage map footprint of this apply node.
